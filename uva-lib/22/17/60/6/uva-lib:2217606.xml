@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2217606</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>WSLS-TV reporter Bill Walker interviews Jack Dame, president of the Salem, Va., Rebels hockey team in Salem, Va.</dcterms:title>
-    <dcterms:description>Jack Dame, manager of the Salem, Va., Rebels hockey team, gives an interview regarding the dissolution of the Knoxville, Tenn., team and its repercussions for the Rebels. Knoxville had been scheduled to play against Salem on Sunday, January 14, 1968, but the dissolution of the team forced a cancelation. Dame remarks that the lost game must be made up and the tickets reimbursed. The Knoxville players will be drafted by the remaining hockey teams.</dcterms:description>
-    <dcterms:created>1968-01-15</dcterms:created>
+    <dcterms:title>WSLS-TV reporter Bill Walker interviews Jack Dame, president of the Salem, Va., Rebels hockey team in Salem, Va.</dcterms:title><dcterms:description>Jack Dame, manager of the Salem, Va., Rebels hockey team, gives an interview regarding the dissolution of the Knoxville, Tenn., team and its repercussions for the Rebels. Knoxville had been scheduled to play against Salem on Sunday, January 14, 1968, but the dissolution of the team forced a cancelation. Dame remarks that the lost game must be made up and the tickets reimbursed. The Knoxville players will be drafted by the remaining hockey teams.</dcterms:description><dcterms:created>1968-01-15</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85061334">Hockey teams</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh93010719">Hockey team owners</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:46</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:46</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2217606</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1691_1/1691_1-thumbnail.jpg</edm:preview>
 </mdRecord>

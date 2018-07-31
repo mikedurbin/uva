@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2221148</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Candidates for Virginia Senate's 19th district seat campaign in southwest Virginia</dcterms:title>
-    <dcterms:description>Virginia Senate candidates seeking to represent the state's 19th senatorial district wrap up their campaigns in southwest Virginia shortly before the election. Democratic incumbent Daniel Woodrow Bird hands out business cards to potential voters, while Republican candidate Richard Oglesby confers with several coworkers inside an office.</dcterms:description>
-    <dcterms:created>1955-10-28</dcterms:created>
+    <dcterms:title>Candidates for Virginia Senate's 19th district seat campaign in southwest Virginia</dcterms:title><dcterms:description>Virginia Senate candidates seeking to represent the state's 19th senatorial district wrap up their campaigns in southwest Virginia shortly before the election. Democratic incumbent Daniel Woodrow Bird hands out business cards to potential voters, while Republican candidate Richard Oglesby confers with several coworkers inside an office.</dcterms:description><dcterms:created>1955-10-28</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85077914">Local elections</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85041555">Political campaigns</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/subjects/sh93009464">Virginia, Southwest</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:42</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:42</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221148</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7114_1/7114_1-thumbnail.jpg</edm:preview>
 </mdRecord>

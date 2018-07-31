@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2280309</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>WSLS-TV reporter Glenn Howell interviews Montana Representative James F. Battin about his crusade to point out the inconsistencies of Democratic candidate's Hubert H. Humphrey's campaign</dcterms:title>
-    <dcterms:description>Representative James F. Battin of Montana tells WSLS-TV reporter Glenn Howell about the disparities in Democratic presidential candidate Hubert H. Humphrey's campaign. According to Representative Battin, there is incongruity between what Humphrey and his vice presidential running mate Edmund S. Muskie say about the Vietnam War.</dcterms:description>
-    <dcterms:created>1968-10-04</dcterms:created>
+    <dcterms:title>WSLS-TV reporter Glenn Howell interviews Montana Representative James F. Battin about his crusade to point out the inconsistencies of Democratic candidate's Hubert H. Humphrey's campaign</dcterms:title><dcterms:description>Representative James F. Battin of Montana tells WSLS-TV reporter Glenn Howell about the disparities in Democratic presidential candidate Hubert H. Humphrey's campaign. According to Representative Battin, there is incongruity between what Humphrey and his vice presidential running mate Edmund S. Muskie say about the Vietnam War.</dcterms:description><dcterms:created>1968-10-04</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85106460">Presidents--Election</dcterms:subject>
     <dcterms:spatial>Unknown</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:12</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:12</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280309</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0891_1/0891_1-thumbnail.jpg</edm:preview>
 </mdRecord>

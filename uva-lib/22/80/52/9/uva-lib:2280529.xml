@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2280529</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Roanoke, Va., a woman supporting the U.S. Democratic Party in the presidential election tells WSLS-TV how the party is working to campaign for Hubert H. Humphrey and Edmund S. Muskie</dcterms:title>
-    <dcterms:description>A woman representing the U.S. Democratic Party explains how they are campaigning for Hubert H. Humphrey and Edward S. Muskie in Roanoke, Va. The woman says that the party is marching throughout Virginia, listing as stops the Towers Shopping Center and Crossroads Mall in Roanoke, Va.; the Roanoke-Salem Plaza Shopping Center in Roanoke County, Va.; Salem, Va.; Christiansburg, Va.; Blacksburg, Va.; and Radford, Va. Sixth district Committee Chairman Victor Thomas and sixth district Campaign Chairman Frank N. Perkinson, Jr., will be speaking at the campaign stops.</dcterms:description>
-    <dcterms:created>1968-10-01</dcterms:created>
+    <dcterms:title>In Roanoke, Va., a woman supporting the U.S. Democratic Party in the presidential election tells WSLS-TV how the party is working to campaign for Hubert H. Humphrey and Edmund S. Muskie</dcterms:title><dcterms:description>A woman representing the U.S. Democratic Party explains how they are campaigning for Hubert H. Humphrey and Edward S. Muskie in Roanoke, Va. The woman says that the party is marching throughout Virginia, listing as stops the Towers Shopping Center and Crossroads Mall in Roanoke, Va.; the Roanoke-Salem Plaza Shopping Center in Roanoke County, Va.; Salem, Va.; Christiansburg, Va.; Blacksburg, Va.; and Radford, Va. Sixth district Committee Chairman Victor Thomas and sixth district Campaign Chairman Frank N. Perkinson, Jr., will be speaking at the campaign stops.</dcterms:description><dcterms:created>1968-10-01</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85106460">Presidents--Election</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:13</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:13</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280529</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6689_2/6689_2-thumbnail.jpg</edm:preview>
 </mdRecord>

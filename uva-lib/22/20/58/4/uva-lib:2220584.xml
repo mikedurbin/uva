@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2220584</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Roanoke, Va., 21st senatorial committee Republicans seek replacement for Virginia State Senator Ted Dalton</dcterms:title>
-    <dcterms:description>In Roanoke, Va., E.D. Hylton, chairman of the Republican Committee of the 21st senatorial district of Virginia, outlines his plan to call a meeting of the committee in order to determine the best course of action in selecting a replacement for Virginia State Senator Ted Dalton, who will not seek reelection. Hylton asserts that the Republican committee will not be handpicking any candidates.</dcterms:description>
-    <dcterms:created>1959-08-12</dcterms:created>
+    <dcterms:title>In Roanoke, Va., 21st senatorial committee Republicans seek replacement for Virginia State Senator Ted Dalton</dcterms:title><dcterms:description>In Roanoke, Va., E.D. Hylton, chairman of the Republican Committee of the 21st senatorial district of Virginia, outlines his plan to call a meeting of the committee in order to determine the best course of action in selecting a replacement for Virginia State Senator Ted Dalton, who will not seek reelection. Hylton asserts that the Republican committee will not be handpicking any candidates.</dcterms:description><dcterms:created>1959-08-12</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85143772">Virginia--Politics and government</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:48</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:48</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220584</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6480_1/6480_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2265745</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Boys compete in the 1954 Soap Box Derby Championships in Akron, Ohio.</dcterms:title>
-    <dcterms:description>Crowds gather in Akron, Ohio, to watch the soap box derby races. Boys, including a competitor from Germany, compete for the championship. Number 87 Richard D. Kemp wins and is presented with a trophy and a four year college scholarship.</dcterms:description>
-    <dcterms:created>1954-08-16</dcterms:created>
+    <dcterms:title>Boys compete in the 1954 Soap Box Derby Championships in Akron, Ohio.</dcterms:title><dcterms:description>Crowds gather in Akron, Ohio, to watch the soap box derby races. Boys, including a competitor from Germany, compete for the championship. Number 87 Richard D. Kemp wins and is presented with a trophy and a four year college scholarship.</dcterms:description><dcterms:created>1954-08-16</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85123821">Soap box derbies</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79144971">Akron (Ohio)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:02</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:02</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2265745</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1499_1/1499_1-thumbnail.jpg</edm:preview>
 </mdRecord>

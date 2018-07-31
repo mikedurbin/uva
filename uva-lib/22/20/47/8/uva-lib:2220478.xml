@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2220478</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Teenagers tried in Roanoke, Va., for assault of federal officer</dcterms:title>
-    <dcterms:description>Teenagers Alex Carnley, Billy Ray Owensby, and Charles Prater, accused of assaulting a counselor at the Natural Bridge Juvenile Correctional Center, a federal detention camp, are escorted to the United States Post Office and Courthouse in Roanoke, Va., to stand  trial, along with several others.</dcterms:description>
-    <dcterms:created>1958-05-09</dcterms:created>
+    <dcterms:title>Teenagers tried in Roanoke, Va., for assault of federal officer</dcterms:title><dcterms:description>Teenagers Alex Carnley, Billy Ray Owensby, and Charles Prater, accused of assaulting a counselor at the Natural Bridge Juvenile Correctional Center, a federal detention camp, are escorted to the United States Post Office and Courthouse in Roanoke, Va., to stand  trial, along with several others.</dcterms:description><dcterms:created>1958-05-09</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85137334">Trials (Assault and battery)</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85071174">Juvenile delinquents</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:23</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:23</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220478</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6356_1/6356_1-thumbnail.jpg</edm:preview>
 </mdRecord>

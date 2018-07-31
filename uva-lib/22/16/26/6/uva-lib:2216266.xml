@@ -11,9 +11,7 @@
     <dcterms:identifier>uva-lib:2216266</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Delegate James M. Thomson discusses changing electoral laws; Senator Henry E. Howell, Jr., comments on labor rights and wages; Dana B. Hamel talks Virginia's community colleges</dcterms:title>
-    <dcterms:description>Member of the Virginia House of Delegates and Chairman of the Election Laws Study Commission James M. Thomson suggests revisions to electoral laws. He says that obtaining the consent of a person before placing him or her on a ballot should be mandatory; he supports an increase in the number of petitioners necessary to place a person on a ballot. Thomson also defends a candidate's right to choose what party he or she represents on a ballot. In other footage, at a press conference during the 13th Constitutional Convention of the Virginia AFL-CIO in Roanoke, Va., State Senator Henry E. Howell, Jr., speaks about labor rights and wages. Another speaker at the conference, Dana B. Hamel, the chancellor of the state's community college system, gives an interview regarding the importance of passing a recent bond issue that funds community colleges in the Commonwealth of Virginia.</dcterms:description>
-    <dcterms:created>1968-07-20</dcterms:created>
+    <dcterms:title>Delegate James M. Thomson discusses changing electoral laws; Senator Henry E. Howell, Jr., comments on labor rights and wages; Dana B. Hamel talks Virginia's community colleges</dcterms:title><dcterms:description>Member of the Virginia House of Delegates and Chairman of the Election Laws Study Commission James M. Thomson suggests revisions to electoral laws. He says that obtaining the consent of a person before placing him or her on a ballot should be mandatory; he supports an increase in the number of petitioners necessary to place a person on a ballot. Thomson also defends a candidate's right to choose what party he or she represents on a ballot. In other footage, at a press conference during the 13th Constitutional Convention of the Virginia AFL-CIO in Roanoke, Va., State Senator Henry E. Howell, Jr., speaks about labor rights and wages. Another speaker at the conference, Dana B. Hamel, the chancellor of the state's community college system, gives an interview regarding the importance of passing a recent bond issue that funds community colleges in the Commonwealth of Virginia.</dcterms:description><dcterms:created>1968-07-20</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85092211">Nominations for office</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85041551">Election law</dcterms:subject>
     <dcterms:subject>Community colleges</dcterms:subject>
@@ -21,10 +19,7 @@
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>3:14</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>3:14</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2216266</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0991_1/0991_1-thumbnail.jpg</edm:preview>
 </mdRecord>

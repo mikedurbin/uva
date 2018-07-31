@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2249804</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Interview with Dr. Perry Kendig on being named president of Roanoke College</dcterms:title>
-    <dcterms:description></dcterms:description>
-    <dcterms:created>1963-06-22</dcterms:created>
+    <dcterms:title>Interview with Dr. Perry Kendig on being named president of Roanoke College</dcterms:title><dcterms:created>1963-06-22</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n80137462">Roanoke College</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85118362">School management and organization</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82098973">Salem (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:48</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:48</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2249804</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6239_2/6239_2-thumbnail.jpg</edm:preview>
 </mdRecord>

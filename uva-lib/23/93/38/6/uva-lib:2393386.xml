@@ -11,9 +11,7 @@
     <dcterms:identifier>uva-lib:2393386</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Lieutenant Colonel John R. Cogburn, an Army Reserve officer, receives a Meritorious Service Medal</dcterms:title>
-    <dcterms:description></dcterms:description>
-    <dcterms:created>1969-12-12</dcterms:created>
+    <dcterms:title>Lieutenant Colonel John R. Cogburn, an Army Reserve officer, receives a Meritorious Service Medal</dcterms:title><dcterms:created>1969-12-12</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85085171">Military ceremonies, honors, and salutes</dcterms:subject>
     <dcterms:subject>Virginia--Social life and customs--20th century</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82098973">Salem (Va.)</dcterms:spatial>
@@ -21,9 +19,6 @@
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
     <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent></dcterms:extent>
-    <dcterms:medium></dcterms:medium>
-    <dcterms:medium></dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2393386</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7409_4/7409_4-thumbnail.jpg</edm:preview>
 </mdRecord>

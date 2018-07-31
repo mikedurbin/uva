@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2285670</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Police investigate attempted robbery at First Federal Bank in Roanoke</dcterms:title>
-    <dcterms:description>Police officers investigate an attempted holdup at the Crossroads Branch of the First Federal Savings and Loan Association in Roanoke; footage includes both interior and exterior of bank, as well as police officers and bank tellers.</dcterms:description>
-    <dcterms:created>1965-03-25</dcterms:created>
+    <dcterms:title>Police investigate attempted robbery at First Federal Bank in Roanoke</dcterms:title><dcterms:description>Police officers investigate an attempted holdup at the Crossroads Branch of the First Federal Savings and Loan Association in Roanoke; footage includes both interior and exterior of bank, as well as police officers and bank tellers.</dcterms:description><dcterms:created>1965-03-25</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85011589">Bank robberies</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:31</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:31</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2285670</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0748_1/0748_1-thumbnail.jpg</edm:preview>
 </mdRecord>

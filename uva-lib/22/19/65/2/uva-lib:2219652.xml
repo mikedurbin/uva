@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2219652</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>WSLS-TV reporter Bob Montgomery interviews NASCAR drivers Bobby and Donnie Allison at the Martinsville Speedway in Ridgeway, Va.</dcterms:title>
-    <dcterms:description>WSLS-TV reporter Bob Montgomery asks brothers Donnie and Bobby Allison about the upcoming Old Dominion 500 race at the Martinsville Speedway in Ridgeway, Va. Bobby Allison says each track is different and both NASCAR drivers are enthusiastic about the competition.</dcterms:description>
-    <dcterms:created>1968-09-13</dcterms:created>
+    <dcterms:title>WSLS-TV reporter Bob Montgomery interviews NASCAR drivers Bobby and Donnie Allison at the Martinsville Speedway in Ridgeway, Va.</dcterms:title><dcterms:description>WSLS-TV reporter Bob Montgomery asks brothers Donnie and Bobby Allison about the upcoming Old Dominion 500 race at the Martinsville Speedway in Ridgeway, Va. Bobby Allison says each track is different and both NASCAR drivers are enthusiastic about the competition.</dcterms:description><dcterms:created>1968-09-13</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85010184">Automobile racing drivers</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85126887">Sports</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82140151">Ridgeway (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:33</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:33</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2219652</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3047_1/3047_1-thumbnail.jpg</edm:preview>
 </mdRecord>

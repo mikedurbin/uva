@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2357811</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>President Dwight Eisenhower and Mamie Eisenhower arrive in Richmond, Va., to campaign</dcterms:title>
-    <dcterms:description>President Dwight Eisenhower and his wife, Mamie Eisenhower, arrive in Richmond, Va., at Byrd Field Airport, on a campaign tour. The two disembark from the plane, and President Eisenhower addresses the assembled audience from a podium atop a platform.</dcterms:description>
-    <dcterms:created>1956-10-31</dcterms:created>
+    <dcterms:title>President Dwight Eisenhower and Mamie Eisenhower arrive in Richmond, Va., to campaign</dcterms:title><dcterms:description>President Dwight Eisenhower and his wife, Mamie Eisenhower, arrive in Richmond, Va., at Byrd Field Airport, on a campaign tour. The two disembark from the plane, and President Eisenhower addresses the assembled audience from a podium atop a platform.</dcterms:description><dcterms:created>1956-10-31</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85143908">Visits of state</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85041555">Political campaigns</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79060700">Richmond (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:44</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:44</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2357811</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7178_1/7178_1-thumbnail.jpg</edm:preview>
 </mdRecord>

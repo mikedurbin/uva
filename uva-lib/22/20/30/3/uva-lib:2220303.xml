@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2220303</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Break-in at Cave Spring High School in Roanoke, Va.</dcterms:title>
-    <dcterms:description>A school official inspects the floor safe robbed during a break-in at Cave Spring High School in Roanoke, Va. Footage shows the broken latch on the door to the supply closet where the safe is housed, as well as an empty cash box on top of the safe.</dcterms:description>
-    <dcterms:created>1959-01-30</dcterms:created>
+    <dcterms:title>Break-in at Cave Spring High School in Roanoke, Va.</dcterms:title><dcterms:description>A school official inspects the floor safe robbed during a break-in at Cave Spring High School in Roanoke, Va. Footage shows the broken latch on the door to the supply closet where the safe is housed, as well as an empty cash box on top of the safe.</dcterms:description><dcterms:created>1959-01-30</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85033993">Crime</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85127634">Theft</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:26</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:26</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220303</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/5885_2/5885_2-thumbnail.jpg</edm:preview>
 </mdRecord>

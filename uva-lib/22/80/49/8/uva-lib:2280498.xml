@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2280498</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>New bank organized in Roanoke, Virginia</dcterms:title>
-    <dcterms:description>An unidentified man speaks on the plans for the organization of a new national bank in Roanoke, Va., chartered by the Security National Corporation. He reports that the bank's charter application has been approved, and expresses optimism for the bank's future, citing the overwhelmingly positive public response with which the initial announcement of the plans was met.</dcterms:description>
-    <dcterms:created>1957-02-04</dcterms:created>
+    <dcterms:title>New bank organized in Roanoke, Virginia</dcterms:title><dcterms:description>An unidentified man speaks on the plans for the organization of a new national bank in Roanoke, Va., chartered by the Security National Corporation. He reports that the bank's charter application has been approved, and expresses optimism for the bank's future, citing the overwhelmingly positive public response with which the initial announcement of the plans was met.</dcterms:description><dcterms:created>1957-02-04</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85011609">Banks and banking</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:55</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:55</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280498</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6225_1/6225_1-thumbnail.jpg</edm:preview>
 </mdRecord>

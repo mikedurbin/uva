@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2237748</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Race car driver Bobby Issac breaks world speed records</dcterms:title>
-    <dcterms:description></dcterms:description>
-    <dcterms:created>1971-09-18</dcterms:created>
+    <dcterms:title>Race car driver Bobby Issac breaks world speed records</dcterms:title><dcterms:created>1971-09-18</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85126492">Speed records</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85126887">Sports</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/subjects/sh92001491">Bonneville Salt Flats (Utah)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:25</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:25</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2237748</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3463_1/3463_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2221293</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>WSLS-TV celebrates 10th birthday</dcterms:title>
-    <dcterms:description>An unknown man addresses attendees at a banquet. Employees of WSLS-TV in Roanoke, Va., celebrate the station's 10th birthday by cutting a cake. Local children born 10 years ago that same day receive gifts from the television station such as FM radios. Pauline Elizabeth White, born closest to the moment WSLS-TV went on air for the first time, receives a television set.</dcterms:description>
-    <dcterms:created>1962-12-10</dcterms:created>
+    <dcterms:title>WSLS-TV celebrates 10th birthday</dcterms:title><dcterms:description>An unknown man addresses attendees at a banquet. Employees of WSLS-TV in Roanoke, Va., celebrate the station's 10th birthday by cutting a cake. Local children born 10 years ago that same day receive gifts from the television station such as FM radios. Pauline Elizabeth White, born closest to the moment WSLS-TV went on air for the first time, receives a television set.</dcterms:description><dcterms:created>1962-12-10</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh2010116013">Television--History</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:10</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:10</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221293</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7857_1/7857_1-thumbnail.jpg</edm:preview>
 </mdRecord>

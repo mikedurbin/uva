@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2221183</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Roanoke, Va., community leaders speak on death of philanthropist Junius Blair Fishburn</dcterms:title>
-    <dcterms:description>Three Roanoke, Va., community members respond to the death of area philanthropist Junius Blair Fishburn, recounting his contributions to the city and citizens of Roanoke, expressing regret at his passing, and offering condolences to those affected by the loss. Roanoke Mayor Robert Woody speaks on Fishburn's generosity  to the city. Benjamin F. Moomaw, former secretary of the Roanoke Chamber of Commerce and area business leader, emphasizes Fishburn's active role in civic affairs and devotion to the city's progress. Reverend J. Edgar Stockman, president of the Roanoke Ministers' Conference, speaks on Fishburn's contributions to churches and religious life in Roanoke.</dcterms:description>
-    <dcterms:created>1955-04-04</dcterms:created>
+    <dcterms:title>Roanoke, Va., community leaders speak on death of philanthropist Junius Blair Fishburn</dcterms:title><dcterms:description>Three Roanoke, Va., community members respond to the death of area philanthropist Junius Blair Fishburn, recounting his contributions to the city and citizens of Roanoke, expressing regret at his passing, and offering condolences to those affected by the loss. Roanoke Mayor Robert Woody speaks on Fishburn's generosity  to the city. Benjamin F. Moomaw, former secretary of the Roanoke Chamber of Commerce and area business leader, emphasizes Fishburn's active role in civic affairs and devotion to the city's progress. Reverend J. Edgar Stockman, president of the Roanoke Ministers' Conference, speaks on Fishburn's contributions to churches and religious life in Roanoke.</dcterms:description><dcterms:created>1955-04-04</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85036085">Death</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85100740">Philanthropists</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>2:47</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>2:47</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221183</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7133_1/7133_1-thumbnail.jpg</edm:preview>
 </mdRecord>

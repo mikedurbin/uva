@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2354852</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Bristow Hardin, Jr., executive director of Total Action Against Poverty, gives an interview defending his organization against the NAACP</dcterms:title>
-    <dcterms:description>Executive Director of Total Action Against Poverty Bristow Hardin, Jr., gives an interview regarding the NAACP's accusations against his program. Hardin had previously used the term "qualified" to refer to African Americans. He now defends his word choice, maintaining that he meant that no African Americans wanted to accept the offered job for the amount of money it paid.</dcterms:description>
-    <dcterms:created>1968-07-10</dcterms:created>
+    <dcterms:title>Bristow Hardin, Jr., executive director of Total Action Against Poverty, gives an interview defending his organization against the NAACP</dcterms:title><dcterms:description>Executive Director of Total Action Against Poverty Bristow Hardin, Jr., gives an interview regarding the NAACP's accusations against his program. Hardin had previously used the term "qualified" to refer to African Americans. He now defends his word choice, maintaining that he meant that no African Americans wanted to accept the offered job for the amount of money it paid.</dcterms:description><dcterms:created>1968-07-10</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85110249">Race relations</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:54</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:54</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2354852</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1024_1/1024_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2220723</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Marion, Va., man reencounters tortoise with engraved shell</dcterms:title>
-    <dcterms:description>A Marion, Va., man holds up a tortoise to show the underside of its shell, on which he carved his and his wife's initials 48 years earlier, in 1911. The man hands the tortoise to the little boy next to him.</dcterms:description>
-    <dcterms:created>1959-09-17</dcterms:created>
+    <dcterms:title>Marion, Va., man reencounters tortoise with engraved shell</dcterms:title><dcterms:description>A Marion, Va., man holds up a tortoise to show the underside of its shell, on which he carved his and his wife's initials 48 years earlier, in 1911. The man hands the tortoise to the little boy next to him.</dcterms:description><dcterms:created>1959-09-17</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85138961">Turtles</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n83052769">Marion (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0.028472222222222</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0.028472222222222</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220723</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6646_1/6646_1-thumbnail.jpg</edm:preview>
 </mdRecord>

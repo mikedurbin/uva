@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2357859</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Easter service at Natural Bridge, Va.</dcterms:title>
-    <dcterms:description>Thousands of people gather at Natural Bridge, Va., for sunrise services on Easter. The Rev. R. Kern Eutsler and Rev. S. Earl Mitchell officiate.</dcterms:description>
-    <dcterms:created>1955-04-11</dcterms:created>
+    <dcterms:title>Easter service at Natural Bridge, Va.</dcterms:title><dcterms:description>Thousands of people gather at Natural Bridge, Va., for sunrise services on Easter. The Rev. R. Kern Eutsler and Rev. S. Earl Mitchell officiate.</dcterms:description><dcterms:created>1955-04-11</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85040599">Easter service</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n88074573">Natural Bridge (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:28</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:28</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2357859</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7264_1/7264_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2217119</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Campbell County, Va., girl remains in serious condition after being hit by a runaway trailer</dcterms:title>
-    <dcterms:description>Onlookers watch as police investigate the trailer that broke loose from a truck belonging to T.P. Chewning and ran into a group of children, injuring 11-year-old Debra Mary Clements.</dcterms:description>
-    <dcterms:created>1959-04-23</dcterms:created>
+    <dcterms:title>Campbell County, Va., girl remains in serious condition after being hit by a runaway trailer</dcterms:title><dcterms:description>Onlookers watch as police investigate the trailer that broke loose from a truck belonging to T.P. Chewning and ran into a group of children, injuring 11-year-old Debra Mary Clements.</dcterms:description><dcterms:created>1959-04-23</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85000368">Accidents</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n94010422">Madison Heights (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:31</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:31</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2217119</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1334_1/1334_1-thumbnail.jpg</edm:preview>
 </mdRecord>

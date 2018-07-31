@@ -12,18 +12,13 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
     <dcterms:title>Police investigate an apparent bank robbery at the Rockingham Bank in Grottoes</dcterms:title>
-    <dcterms:description></dcterms:description>
-    <dcterms:created></dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85011589">Bank robberies</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85033993">Crime</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n99010698">Grottoes (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:49</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:49</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2357481</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/5716_1/5716_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2215805</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Congressman Richard Poff comments on the proposed 25th amendment to the United States Constitution</dcterms:title>
-    <dcterms:description>Congressman Richard Poff of Virginia's sixth district reads a statement about the House of Representatives' approval of the 25th amendment to the U.S. Constitution, which he helped to write.</dcterms:description>
-    <dcterms:created>1965-04-13</dcterms:created>
+    <dcterms:title>Congressman Richard Poff comments on the proposed 25th amendment to the United States Constitution</dcterms:title><dcterms:description>Congressman Richard Poff of Virginia's sixth district reads a statement about the House of Representatives' approval of the 25th amendment to the U.S. Constitution, which he helped to write.</dcterms:description><dcterms:created>1965-04-13</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n97009365">United States. Constitution. 25th Amendment</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n78095330">United States</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:10</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:10</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2215805</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0728_1/0728_1-thumbnail.jpg</edm:preview>
 </mdRecord>

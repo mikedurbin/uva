@@ -11,9 +11,7 @@
     <dcterms:identifier>uva-lib:2398878</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Escaped convicts from state prison camp recaptured</dcterms:title>
-    <dcterms:description></dcterms:description>
-    <dcterms:created>1959-09-24</dcterms:created>
+    <dcterms:title>Escaped convicts from state prison camp recaptured</dcterms:title><dcterms:created>1959-09-24</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85075302">Law enforcement</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85033993">Crime</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n80019531">Carroll County (Va.)</dcterms:spatial>
@@ -21,9 +19,6 @@
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
     <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent></dcterms:extent>
-    <dcterms:medium></dcterms:medium>
-    <dcterms:medium></dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2398878</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6584_2/6584_2-thumbnail.jpg</edm:preview>
 </mdRecord>

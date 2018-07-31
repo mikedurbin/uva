@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2220273</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Car kills pedestrian in Roanoke, Va.</dcterms:title>
-    <dcterms:description>Police officers and onlookers crowd the scene of a traffic accident in Roanoke, Va., in which an elderly woman was hit by a car. The driver of the car stands in front of his vehicle, talking to an unidentified man, while the victim's shoe lies under the car. The driver goes through his wallet, handing cards to a policeman, while several other policemen direct traffic.</dcterms:description>
-    <dcterms:created>1959-04-08</dcterms:created>
+    <dcterms:title>Car kills pedestrian in Roanoke, Va.</dcterms:title><dcterms:description>Police officers and onlookers crowd the scene of a traffic accident in Roanoke, Va., in which an elderly woman was hit by a car. The driver of the car stands in front of his vehicle, talking to an unidentified man, while the victim's shoe lies under the car. The driver goes through his wallet, handing cards to a policeman, while several other policemen direct traffic.</dcterms:description><dcterms:created>1959-04-08</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85136758">Traffic accidents</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85036085">Death</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:36</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:36</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220273</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/5871_1/5871_1-thumbnail.jpg</edm:preview>
 </mdRecord>

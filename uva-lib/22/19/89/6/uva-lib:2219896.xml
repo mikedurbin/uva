@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2219896</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Dave Garroway arrives in Roanoke, Va.</dcterms:title>
-    <dcterms:description>Dave Garroway, host of NBC television's Today Show, disembarks before a large crowd at Woodrum Field Airport in Roanoke, Va., along with fellow Today Show host Jack Lescoulie, television producer Dick McCutcheon, rock-climber Bonnie Prudden, and Kokomo Jr., the chimpanzee. The celebrities arrive in the City of Roanoke in a motorcade, led by a pair of motorcycle escorts, and parade down Main Street with a marching band and a troupe of majorettes, while spectators look on.</dcterms:description>
-    <dcterms:created>1958-05-15</dcterms:created>
+    <dcterms:title>Dave Garroway arrives in Roanoke, Va.</dcterms:title><dcterms:description>Dave Garroway, host of NBC television's Today Show, disembarks before a large crowd at Woodrum Field Airport in Roanoke, Va., along with fellow Today Show host Jack Lescoulie, television producer Dick McCutcheon, rock-climber Bonnie Prudden, and Kokomo Jr., the chimpanzee. The celebrities arrive in the City of Roanoke in a motorcade, led by a pair of motorcycle escorts, and parade down Main Street with a marching band and a troupe of majorettes, while spectators look on.</dcterms:description><dcterms:created>1958-05-15</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85021618">Celebrities</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85097741">Parades</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:55</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:55</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2219896</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3341_1/3341_1-thumbnail.jpg</edm:preview>
 </mdRecord>

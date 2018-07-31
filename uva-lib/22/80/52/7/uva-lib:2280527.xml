@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2280527</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>WSLS-TV reporter Glenn Howell speaks to a Roanoke, Va., city official about the status of construction of the Roanoke Civic Center as footage shows Roanoke City Council members observing construction work at the site</dcterms:title>
-    <dcterms:description>A Roanoke, Va., city official tells WSLS-TV reporter Glenn Howell that construction of the Roanoke Civic Center is running two to three weeks behind due to problems with the bedrock. The delay will not affect the previously scheduled completion date of May 1970. Footage shows members of the Roanoke City Council, including Mayor Roy L. Webber, Vice Mayor James O. Trout, and Councilman David K. Lisk, at the construction site.</dcterms:description>
-    <dcterms:created>1968-08-29</dcterms:created>
+    <dcterms:title>WSLS-TV reporter Glenn Howell speaks to a Roanoke, Va., city official about the status of construction of the Roanoke Civic Center as footage shows Roanoke City Council members observing construction work at the site</dcterms:title><dcterms:description>A Roanoke, Va., city official tells WSLS-TV reporter Glenn Howell that construction of the Roanoke Civic Center is running two to three weeks behind due to problems with the bedrock. The delay will not affect the previously scheduled completion date of May 1970. Footage shows members of the Roanoke City Council, including Mayor Roy L. Webber, Vice Mayor James O. Trout, and Councilman David K. Lisk, at the construction site.</dcterms:description><dcterms:created>1968-08-29</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n88172430">Roanoke Civic Center</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:21</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:21</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280527</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6687_1/6687_1-thumbnail.jpg</edm:preview>
 </mdRecord>

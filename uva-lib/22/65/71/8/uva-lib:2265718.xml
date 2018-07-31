@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2265718</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Former Ringling Brothers circus clown Emmett Kelly tours the professional baseball circuit</dcterms:title>
-    <dcterms:description>Clown Emmett Kelly entertains the players and crowds at the Dodgers training base in Miami Stadium with pantomime routines; Kelly discusses his excitement about joining the baseball circuit.</dcterms:description>
-    <dcterms:created>1957-03-12</dcterms:created>
+    <dcterms:title>Former Ringling Brothers circus clown Emmett Kelly tours the professional baseball circuit</dcterms:title><dcterms:description>Clown Emmett Kelly entertains the players and crowds at the Dodgers training base in Miami Stadium with pantomime routines; Kelly discusses his excitement about joining the baseball circuit.</dcterms:description><dcterms:created>1957-03-12</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/no92028805">Kelly, Emmett, 1898-1979</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85027215">Clowns</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n81059027">Vero Beach (Fla.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:29</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:29</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2265718</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1482_1/1482_1-thumbnail.jpg</edm:preview>
 </mdRecord>

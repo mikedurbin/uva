@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2216082</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Virginia Governor Mills E. Godwin, Jr., delivers a speech on the football field of Virginia Military Institute in Lexington, Va.</dcterms:title>
-    <dcterms:description>Governor of Virginia Mills E. Godwin, Jr., delivers a speech on the football field of Virginia Military Institute in Lexington, Va., praising the qualities that the school instills in its students. Governor Godwin says that if radicals such as the Youth International Party attended the Virginia Military Institute, they would obtain an education and terminate their protesting.</dcterms:description>
-    <dcterms:created>1968-10-05</dcterms:created>
+    <dcterms:title>Virginia Governor Mills E. Godwin, Jr., delivers a speech on the football field of Virginia Military Institute in Lexington, Va.</dcterms:title><dcterms:description>Governor of Virginia Mills E. Godwin, Jr., delivers a speech on the football field of Virginia Military Institute in Lexington, Va., praising the qualities that the school instills in its students. Governor Godwin says that if radicals such as the Youth International Party attended the Virginia Military Institute, they would obtain an education and terminate their protesting.</dcterms:description><dcterms:created>1968-10-05</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n83167386">Youth International Party</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50070616">Virginia Military Institute</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79046216">Lexington (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:43</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:43</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2216082</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0890_2/0890_2-thumbnail.jpg</edm:preview>
 </mdRecord>

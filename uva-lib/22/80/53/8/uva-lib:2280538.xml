@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2280538</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Roanoke County Supervisor A. T. Huddleston speaks at a public meeting concerning consolidating Roanoke County, Va.</dcterms:title>
-    <dcterms:description>Roanoke officials hold a public meeting to elucidate the debate on consolidating Roanoke County, Va. Roanoke County Supervisor A. T. Huddleston predicts that much will unfold in the next three months until the scheduled special session of Congress in March 1969, when Virginia Governor Mills E. Godwin, Jr., will present the issue to the General Assembly. An unidentified man clarifies that the purpose of the upcoming special assembly session is to deal primarily with constitutional revisions. He explains to the audience that Governor Godwin prefers not to negotiate this issue in a general session of Congress. Footage shows Huddleston and two unidentified men speaking at the podium in front of an audience.</dcterms:description>
-    <dcterms:created>1968-12-18</dcterms:created>
+    <dcterms:title>Roanoke County Supervisor A. T. Huddleston speaks at a public meeting concerning consolidating Roanoke County, Va.</dcterms:title><dcterms:description>Roanoke officials hold a public meeting to elucidate the debate on consolidating Roanoke County, Va. Roanoke County Supervisor A. T. Huddleston predicts that much will unfold in the next three months until the scheduled special session of Congress in March 1969, when Virginia Governor Mills E. Godwin, Jr., will present the issue to the General Assembly. An unidentified man clarifies that the purpose of the upcoming special assembly session is to deal primarily with constitutional revisions. He explains to the audience that Governor Godwin prefers not to negotiate this issue in a general session of Congress. Footage shows Huddleston and two unidentified men speaking at the podium in front of an audience.</dcterms:description><dcterms:created>1968-12-18</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85005349">Annexation (County government)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82143167">Roanoke County (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:29</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:29</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280538</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6732_1/6732_1-thumbnail.jpg</edm:preview>
 </mdRecord>

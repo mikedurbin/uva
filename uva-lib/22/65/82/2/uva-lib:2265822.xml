@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2265822</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Annual baseball players golf tournament in Miami Springs, Fla.</dcterms:title>
-    <dcterms:description>A number of Major League baseball players, including Al Dark, Jim Piersall, Yogi Berra, Jimmy Foxx, Junior Gilliam, Don Newcombe, and Jackie Robinson participate in annual golf tournament, as well as Chicago White Sox manager Al Lopez and golf pro Bob Toski.</dcterms:description>
-    <dcterms:created>1957-02-15</dcterms:created>
+    <dcterms:title>Annual baseball players golf tournament in Miami Springs, Fla.</dcterms:title><dcterms:description>A number of Major League baseball players, including Al Dark, Jim Piersall, Yogi Berra, Jimmy Foxx, Junior Gilliam, Don Newcombe, and Jackie Robinson participate in annual golf tournament, as well as Chicago White Sox manager Al Lopez and golf pro Bob Toski.</dcterms:description><dcterms:created>1957-02-15</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85012026">Baseball</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85055808">Golf--Tournaments</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n81108336">Miami Springs (Fla.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:21</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:21</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2265822</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1563_1/1563_1-thumbnail.jpg</edm:preview>
 </mdRecord>

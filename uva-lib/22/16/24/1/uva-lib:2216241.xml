@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2216241</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Municipal treasurers gather for breakfast and garden club members plant flowers at the Mill Mountain Playhouse in Roanoke, Va.</dcterms:title>
-    <dcterms:description>Atop Mill Mountain in Roanoke, Va., cooks wearing aprons fry eggs and meat for a breakfast meeting of the Treasurers' Association of Virginia, whose members eat at picnic tables on the porch of the Mill Mountain Playhouse.  Later in the day, members of the Mill Mountain Garden Club plant flowers in and around a tree stump near the playhouse.</dcterms:description>
-    <dcterms:created>1968-06-14</dcterms:created>
+    <dcterms:title>Municipal treasurers gather for breakfast and garden club members plant flowers at the Mill Mountain Playhouse in Roanoke, Va.</dcterms:title><dcterms:description>Atop Mill Mountain in Roanoke, Va., cooks wearing aprons fry eggs and meat for a breakfast meeting of the Treasurers' Association of Virginia, whose members eat at picnic tables on the porch of the Mill Mountain Playhouse.  Later in the day, members of the Mill Mountain Garden Club plant flowers in and around a tree stump near the playhouse.</dcterms:description><dcterms:created>1968-06-14</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n87816895">Treasurers' Association of Virginia</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85053089">Gardening</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:06</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:06</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2216241</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0980_1/0980_1-thumbnail.jpg</edm:preview>
 </mdRecord>

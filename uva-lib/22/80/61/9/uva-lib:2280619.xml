@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2280619</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Commissioner of Internal Revenue Dana Latham, also head of federal unit that oversees bootlegging, speaks about illegal distilleries</dcterms:title>
-    <dcterms:description></dcterms:description>
-    <dcterms:created>1959-03-25</dcterms:created>
+    <dcterms:title>Commissioner of Internal Revenue Dana Latham, also head of federal unit that oversees bootlegging, speaks about illegal distilleries</dcterms:title><dcterms:created>1959-03-25</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85075302">Law enforcement</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79022909">Virginia</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:46</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:46</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280619</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7989_3/7989_3-thumbnail.jpg</edm:preview>
 </mdRecord>

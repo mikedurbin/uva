@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2238728</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Circuit Judge V.L. Sexton rules in favor of Bland County School Board in school consolidation dispute</dcterms:title>
-    <dcterms:description></dcterms:description>
-    <dcterms:created>1962-08-16</dcterms:created>
+    <dcterms:title>Circuit Judge V.L. Sexton rules in favor of Bland County School Board in school consolidation dispute</dcterms:title><dcterms:created>1962-08-16</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85118362">School management and organization</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82010772">Bland County (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:25</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:25</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2238728</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/4216_2/4216_2-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2220903</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Radford College holds May Day celebrations in Radford, Va.</dcterms:title>
-    <dcterms:description>May Day Queen Mary Jayne Horton and her court of honor sit on a platform before an audience during the annual Radford College May Day celebration in Radford, Va. Costumed Radford students perform an array of dances, including a hula dance and a trampoline routine, while other acts sit in the grass, awaiting their turns. A Virginia Polytechnic Institute student cadet accompanies Horton in a procession across the lawn.</dcterms:description>
-    <dcterms:created>1959-05-03</dcterms:created>
+    <dcterms:title>Radford College holds May Day celebrations in Radford, Va.</dcterms:title><dcterms:description>May Day Queen Mary Jayne Horton and her court of honor sit on a platform before an audience during the annual Radford College May Day celebration in Radford, Va. Costumed Radford students perform an array of dances, including a hula dance and a trampoline routine, while other acts sit in the grass, awaiting their turns. A Virginia Polytechnic Institute student cadet accompanies Horton in a procession across the lawn.</dcterms:description><dcterms:created>1959-05-03</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85012724">Beauty contests</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85082393">May Day</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n50074934">Radford (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:48</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:48</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220903</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6826_1/6826_1-thumbnail.jpg</edm:preview>
 </mdRecord>

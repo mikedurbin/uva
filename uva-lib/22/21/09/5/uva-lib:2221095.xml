@@ -11,9 +11,7 @@
     <dcterms:identifier>uva-lib:2221095</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Richmond, Va., Delegate M. Caldwell Butler tells WSLS-TV about the status of the provision on Roanoke-area consolidation in the Constitution of Virginia</dcterms:title>
-    <dcterms:description>At the State Capitol in Richmond, Va., the Virginia General Assembly is in the process of revising the Constitution of Virginia. One of the most debated topics is the consolidation of the Roanoke, Va., area. Delegate M. Caldwell Butler tells WSLS-TV that in order for the legislation on consolidation to be introduced at the current special session of the Virginia Assembly, the City Council of Salem, Va., must approve it. The response from city council was negative, but Delegate Butler remains hopeful that the proposal will be introduced regardless.</dcterms:description>
-    <dcterms:created>1969-04-09</dcterms:created>
+    <dcterms:title>In Richmond, Va., Delegate M. Caldwell Butler tells WSLS-TV about the status of the provision on Roanoke-area consolidation in the Constitution of Virginia</dcterms:title><dcterms:description>At the State Capitol in Richmond, Va., the Virginia General Assembly is in the process of revising the Constitution of Virginia. One of the most debated topics is the consolidation of the Roanoke, Va., area. Delegate M. Caldwell Butler tells WSLS-TV that in order for the legislation on consolidation to be introduced at the current special session of the Virginia Assembly, the City Council of Salem, Va., must approve it. The response from city council was negative, but Delegate Butler remains hopeful that the proposal will be introduced regardless.</dcterms:description><dcterms:created>1969-04-09</dcterms:created>
     <dcterms:subject>Constitutional amendments--Virginia</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50080038">Virginia. Constitution (1971)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79060700">Richmond (Va.)</dcterms:spatial>
@@ -21,9 +19,6 @@
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
     <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>mag</dcterms:extent>
-    <dcterms:medium></dcterms:medium>
-    <dcterms:medium></dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221095</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7075_1/7075_1-thumbnail.jpg</edm:preview>
 </mdRecord>

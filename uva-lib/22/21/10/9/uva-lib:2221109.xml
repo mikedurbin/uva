@@ -11,9 +11,7 @@
     <dcterms:identifier>uva-lib:2221109</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Richmond, Va., Fred L. Smith, Jr., founder of the Vote 18 Committee, discusses his goals in terms of revising the Constitution of Virginia</dcterms:title>
-    <dcterms:description>At the State Capitol in Richmond, Va., the Virginia General Assembly is in the process of revising the Constitution of Virginia and the voting age is a contested topic. Fred L. Smith, Jr., founder of the Vote 18 Committee, is dedicated to lowering the voting age from 21 to 18 years. Smith tells WSLS-TV that his committee has polled both houses of the Virginia General Assembly and is optimistic that the legislation will pass.</dcterms:description>
-    <dcterms:created>1969-04-09</dcterms:created>
+    <dcterms:title>In Richmond, Va., Fred L. Smith, Jr., founder of the Vote 18 Committee, discusses his goals in terms of revising the Constitution of Virginia</dcterms:title><dcterms:description>At the State Capitol in Richmond, Va., the Virginia General Assembly is in the process of revising the Constitution of Virginia and the voting age is a contested topic. Fred L. Smith, Jr., founder of the Vote 18 Committee, is dedicated to lowering the voting age from 21 to 18 years. Smith tells WSLS-TV that his committee has polled both houses of the Virginia General Assembly and is optimistic that the legislation will pass.</dcterms:description><dcterms:created>1969-04-09</dcterms:created>
     <dcterms:subject>Constitutional amendments--Virginia</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50080038">Virginia. Constitution (1971)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79060700">Richmond (Va.)</dcterms:spatial>
@@ -21,9 +19,6 @@
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
     <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>mag</dcterms:extent>
-    <dcterms:medium></dcterms:medium>
-    <dcterms:medium></dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221109</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7084_1/7084_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2285563</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Father and son survive car crash with train near Roanoke</dcterms:title>
-    <dcterms:description>Members of the Roanoke Life Saving Crew try to free Earl Joseph Jernell from his crumpled car after it collided with a Norfolk and Western Railroad freight train. Jernell's son Jerry is also shown without serious injury. Workers finally extricate Jernell from the twisted metal; he was not seriously injured.</dcterms:description>
-    <dcterms:created>1965-03-16</dcterms:created>
+    <dcterms:title>Father and son survive car crash with train near Roanoke</dcterms:title><dcterms:description>Members of the Roanoke Life Saving Crew try to free Earl Joseph Jernell from his crumpled car after it collided with a Norfolk and Western Railroad freight train. Jernell's son Jerry is also shown without serious injury. Workers finally extricate Jernell from the twisted metal; he was not seriously injured.</dcterms:description><dcterms:created>1965-03-16</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85000368">Accidents</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:18</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:18</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2285563</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0660_2/0660_2-thumbnail.jpg</edm:preview>
 </mdRecord>

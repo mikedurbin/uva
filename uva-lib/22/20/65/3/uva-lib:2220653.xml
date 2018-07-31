@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2220653</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Beverly T. Fitzpatrick tests out driving simulator in Roanoke, Va.</dcterms:title>
-    <dcterms:description>Roanoke, Va., Judge Beverly T. Fitzpatrick, chairman of the Roanoke Valley Citizens Traffic Safety Council operates a new Aetna Drivotester machine, which uses a motion picture to simulate driving while tracking and scoring drivers' reactions to obstacles and changes on the road. After completing the test-drive, Fitzpatrick looks over his results with an unidentified man.</dcterms:description>
-    <dcterms:created>1958-05-28</dcterms:created>
+    <dcterms:title>Beverly T. Fitzpatrick tests out driving simulator in Roanoke, Va.</dcterms:title><dcterms:description>Roanoke, Va., Judge Beverly T. Fitzpatrick, chairman of the Roanoke Valley Citizens Traffic Safety Council operates a new Aetna Drivotester machine, which uses a motion picture to simulate driving while tracking and scoring drivers' reactions to obstacles and changes on the road. After completing the test-drive, Fitzpatrick looks over his results with an unidentified man.</dcterms:description><dcterms:created>1958-05-28</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85010131">Automobile drivers' tests</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85010148">Automobile driving simulators</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82143167">Roanoke County (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:53</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:53</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220653</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6545_1/6545_1-thumbnail.jpg</edm:preview>
 </mdRecord>

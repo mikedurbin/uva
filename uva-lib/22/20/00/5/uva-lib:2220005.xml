@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2220005</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Leaders of Virginia's Republican Party meet in Roanoke, Va., to plan their support for the end of the poll tax</dcterms:title>
-    <dcterms:description>Leaders of Virginia's Republican Party in the Roanoke, Va., region meet informally at the Hotel Roanoke to discuss the possibility of a holding a state convention to support the abolition of the poll tax, which in Virginia is a prerequisite to voting in all elections. Sitting on sofas and armchairs, local delegates and state senators in attendance include: J. Livingston Dillow, James Turk, Floyd Landreth, George Barnes, Robert Burruss, M. Caldwell Butler, D. Henry Almond, John Hagen, Joe Poff, Rupert Kincer, James Moore, Howard Ellifrits, Peter Gieson, and S. Strother Smith.</dcterms:description>
-    <dcterms:created>1963-11-16</dcterms:created>
+    <dcterms:title>Leaders of Virginia's Republican Party meet in Roanoke, Va., to plan their support for the end of the poll tax</dcterms:title><dcterms:description>Leaders of Virginia's Republican Party in the Roanoke, Va., region meet informally at the Hotel Roanoke to discuss the possibility of a holding a state convention to support the abolition of the poll tax, which in Virginia is a prerequisite to voting in all elections. Sitting on sofas and armchairs, local delegates and state senators in attendance include: J. Livingston Dillow, James Turk, Floyd Landreth, George Barnes, Robert Burruss, M. Caldwell Butler, D. Henry Almond, John Hagen, Joe Poff, Rupert Kincer, James Moore, Howard Ellifrits, Peter Gieson, and S. Strother Smith.</dcterms:description><dcterms:created>1963-11-16</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n81078171">Republican Party (Va.)</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85143772">Virginia--Politics and government</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:22</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:22</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220005</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3821_1/3821_1-thumbnail.jpg</edm:preview>
 </mdRecord>

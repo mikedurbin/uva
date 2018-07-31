@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2216035</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>WSLS-TV reporter Glenn Howell interviews man about Virginia's health care</dcterms:title>
-    <dcterms:description>An unidentified man tells WSLS-TV reporter Glenn Howell about Virginia's health care system. He defends the quality of the community hospitals throughout Virginia against allegations made by a doctor in New York.</dcterms:description>
-    <dcterms:created>1968-10-16</dcterms:created>
+    <dcterms:title>WSLS-TV reporter Glenn Howell interviews man about Virginia's health care</dcterms:title><dcterms:description>An unidentified man tells WSLS-TV reporter Glenn Howell about Virginia's health care system. He defends the quality of the community hospitals throughout Virginia against allegations made by a doctor in New York.</dcterms:description><dcterms:created>1968-10-16</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85082871">Medical care</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79022909">Virginia</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:45</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:45</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2216035</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0862_2/0862_2-thumbnail.jpg</edm:preview>
 </mdRecord>

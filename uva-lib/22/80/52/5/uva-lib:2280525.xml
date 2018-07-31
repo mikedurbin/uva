@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2280525</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Roanoke Mayor Benton O. Dillard announces the site of a new government building in Roanoke, Va.</dcterms:title>
-    <dcterms:description>At the construction site of a new municipal building in Roanoke, Va., Mayor Benton O. Dillard speaks to a group of onlookers about his hopes for future growth. Ceremoniously, he shovels the first pile of dirt at the site and accepts a commemorative silver shovel.</dcterms:description>
-    <dcterms:created>1968-08-28</dcterms:created>
+    <dcterms:title>Roanoke Mayor Benton O. Dillard announces the site of a new government building in Roanoke, Va.</dcterms:title><dcterms:description>At the construction site of a new municipal building in Roanoke, Va., Mayor Benton O. Dillard speaks to a group of onlookers about his hopes for future growth. Ceremoniously, he shovels the first pile of dirt at the site and accepts a commemorative silver shovel.</dcterms:description><dcterms:created>1968-08-28</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85017759">Building sites</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:34</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:34</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280525</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6681_1/6681_1-thumbnail.jpg</edm:preview>
 </mdRecord>

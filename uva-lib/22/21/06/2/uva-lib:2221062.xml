@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2221062</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Radford, Va., celebrates centennial</dcterms:title>
-    <dcterms:description>Radford, Va., residents participate in festivities during the town's centennial anniversary celebration. A police officer stages a mock raid on the New River Saloon, dragging two costumed "tipplers" from the building, while saloon employees, also costumed, shake their fists in pretended rage. Three women in old-fashioned dresses look into a "wishing well," while another, in a bonnet, buys a soda from a drink stand with two costumed attendants. Spectators gather around an antique Norfolk and Western Railway freight engine, on display with a sign reading "The Old...N&W Engine No. 475. Come and See!"</dcterms:description>
-    <dcterms:created>1956-08-17</dcterms:created>
+    <dcterms:title>Radford, Va., celebrates centennial</dcterms:title><dcterms:description>Radford, Va., residents participate in festivities during the town's centennial anniversary celebration. A police officer stages a mock raid on the New River Saloon, dragging two costumed "tipplers" from the building, while saloon employees, also costumed, shake their fists in pretended rage. Three women in old-fashioned dresses look into a "wishing well," while another, in a bonnet, buys a soda from a drink stand with two costumed attendants. Spectators gather around an antique Norfolk and Western Railway freight engine, on display with a sign reading "The Old...N&amp;W Engine No. 475. Come and See!"</dcterms:description><dcterms:created>1956-08-17</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85005357">Anniversaries</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85047932">Festivals</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n50074934">Radford (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:00</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:00</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221062</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7060_1/7060_1-thumbnail.jpg</edm:preview>
 </mdRecord>

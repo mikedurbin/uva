@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2220815</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>At the Hotel Roanoke in Roanoke, Va., William J. Branscom, vice president of the First National Exchange Bank, presents Norfolk and Western Railway Company President Herman H. Pevler an award signed by Secretary of the Treasury Henry H. Fowler; Miss Virginia Cherie Suzanne Davis is also present for the ceremony</dcterms:title>
-    <dcterms:description>Norfolk and Western Railway Company President Herman H. Pevler receives an award and certificate from William J. Branscom, vice president of the First National Bank. On the certificate is Secretary of the Treasury Henry H. Fowler's signature, which recognizes that the majority of Norfolk and Western Railway Company employees participated in the savings bond program. Cherie Suzanne Davis, Miss Virginia pageant winner, attends the ceremony at the Hotel Roanoke in Roanoke, Va. Footage shows Pevler, Branscom, Davis, and an unidentified man shaking hands and posing for pictures with the Minuteman flag.</dcterms:description>
-    <dcterms:created>1968-12-18</dcterms:created>
+    <dcterms:title>At the Hotel Roanoke in Roanoke, Va., William J. Branscom, vice president of the First National Exchange Bank, presents Norfolk and Western Railway Company President Herman H. Pevler an award signed by Secretary of the Treasury Henry H. Fowler; Miss Virginia Cherie Suzanne Davis is also present for the ceremony</dcterms:title><dcterms:description>Norfolk and Western Railway Company President Herman H. Pevler receives an award and certificate from William J. Branscom, vice president of the First National Bank. On the certificate is Secretary of the Treasury Henry H. Fowler's signature, which recognizes that the majority of Norfolk and Western Railway Company employees participated in the savings bond program. Cherie Suzanne Davis, Miss Virginia pageant winner, attends the ceremony at the Hotel Roanoke in Roanoke, Va. Footage shows Pevler, Branscom, Davis, and an unidentified man shaking hands and posing for pictures with the Minuteman flag.</dcterms:description><dcterms:created>1968-12-18</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85113526">Awards</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:59</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:59</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220815</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6708_1/6708_1-thumbnail.jpg</edm:preview>
 </mdRecord>

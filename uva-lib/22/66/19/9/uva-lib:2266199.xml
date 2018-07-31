@@ -11,9 +11,7 @@
     <dcterms:identifier>uva-lib:2266199</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Spring training begins for Dodgers and Senators</dcterms:title>
-    <dcterms:description>During the spring training season, the Brooklyn Dodgers practice at Holman Stadium in Vero Beach, Florida, while the Washington Senators practice at Tinker Field in Orlando, Florida. Players perform exercises and drills and practice pitching and batting. Senators Manager Charles Dressen shakes hands and talks with team owner Clark Griffith.</dcterms:description>
-    <dcterms:created>1955-03-08</dcterms:created>
+    <dcterms:title>Spring training begins for Dodgers and Senators</dcterms:title><dcterms:description>During the spring training season, the Brooklyn Dodgers practice at Holman Stadium in Vero Beach, Florida, while the Washington Senators practice at Tinker Field in Orlando, Florida. Players perform exercises and drills and practice pitching and batting. Senators Manager Charles Dressen shakes hands and talks with team owner Clark Griffith.</dcterms:description><dcterms:created>1955-03-08</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85126887">Sports</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85012026">Baseball</dcterms:subject>
     <dcterms:subject>Washington Senators (Baseball team : 1886-1960)</dcterms:subject>
@@ -21,10 +19,7 @@
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>2:00</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>2:00</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2266199</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/4037_1/4037_1-thumbnail.jpg</edm:preview>
 </mdRecord>

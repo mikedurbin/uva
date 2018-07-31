@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2220193</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>James Van Zandt speaks at meeting of sixth district Republicans in Roanoke, Va.</dcterms:title>
-    <dcterms:description>James Van Zandt, member of the U.S. House of Representatives from Pennsylvania, speaks at a meeting of the sixth congressional district Committee of Virginia Republicans at the Patrick Henry Hotel in Roanoke, Va. Former Chairman of the City of Roanoke Republican Committee A. Linwood Holton and Delegate Richard Poff also speak.</dcterms:description>
-    <dcterms:created>1959-02-20</dcterms:created>
+    <dcterms:title>James Van Zandt speaks at meeting of sixth district Republicans in Roanoke, Va.</dcterms:title><dcterms:description>James Van Zandt, member of the U.S. House of Representatives from Pennsylvania, speaks at a meeting of the sixth congressional district Committee of Virginia Republicans at the Patrick Henry Hotel in Roanoke, Va. Former Chairman of the City of Roanoke Republican Committee A. Linwood Holton and Delegate Richard Poff also speak.</dcterms:description><dcterms:created>1959-02-20</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n81078171">Republican Party (Va.)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:51</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:51</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220193</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/5820_1/5820_1-thumbnail.jpg</edm:preview>
 </mdRecord>

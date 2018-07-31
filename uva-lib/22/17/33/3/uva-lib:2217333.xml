@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2217333</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Representatives Gerald Ford and Richard H. Poff discuss their new duties in Congress</dcterms:title>
-    <dcterms:description>Virginia Representative Richard H. Poff congratulates Michigan Representative Gerald Ford on his rise to the position of House Minority Leader in the U.S. Congress. Ford then commends Poff for attaining a seat on the House Republican Conference's policymaking committee.</dcterms:description>
-    <dcterms:created>1965-01-14</dcterms:created>
+    <dcterms:title>Representatives Gerald Ford and Richard H. Poff discuss their new duties in Congress</dcterms:title><dcterms:description>Virginia Representative Richard H. Poff congratulates Michigan Representative Gerald Ford on his rise to the position of House Minority Leader in the U.S. Congress. Ford then commends Poff for attaining a seat on the House Republican Conference's policymaking committee.</dcterms:description><dcterms:created>1965-01-14</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n80067040">Republican Party (U.S. : 1854- )</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:12</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:12</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2217333</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1414_1/1414_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2280537</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Wiley Drive intersects many bridges and offers a scenic tour of Roanoke, Va.</dcterms:title>
-    <dcterms:description>Wiley Drive in Roanoke, Va., offers scenic views of the Blue Ridge Mountains. Footage shows images of bridges along Wiley Drive, including Jefferson Street Bridge.</dcterms:description>
-    <dcterms:created>1968-12-27</dcterms:created>
+    <dcterms:title>Wiley Drive intersects many bridges and offers a scenic tour of Roanoke, Va.</dcterms:title><dcterms:description>Wiley Drive in Roanoke, Va., offers scenic views of the Blue Ridge Mountains. Footage shows images of bridges along Wiley Drive, including Jefferson Street Bridge.</dcterms:description><dcterms:created>1968-12-27</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85016829">Bridges</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85114487">Roads</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:51</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:51</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280537</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6731_2/6731_2-thumbnail.jpg</edm:preview>
 </mdRecord>

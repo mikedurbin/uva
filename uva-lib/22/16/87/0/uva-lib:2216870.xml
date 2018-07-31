@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2216870</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>WSLS-TV reporter Bill Walker interviews NASCAR drivers Donnie Allison and Tiny Lund at Martinsville Speedway in Ridgeway, Va.</dcterms:title>
-    <dcterms:description>A reporter interviews NASCAR competitors Donnie Allison and Tiny Lund at the Martinsville Speedway. Donnie Allison discusses his rivalry with brother Bobby Allison. Tiny Lund lists luck, a good pit crew, and a good driver as the recipe to success at the Martinsville 500-lap race. Lund also describes his sports injuries from extensive racing. Modified cars speed around the track during a 100-lap race. Footage shows the top three finishers among the modified cars: the 1937 Chevrolet driven by Ray Hendrick and the 1936 Chevrolets driven by Ron Harris and Perk Brown.</dcterms:description>
-    <dcterms:created>1968-04-27</dcterms:created>
+    <dcterms:title>WSLS-TV reporter Bill Walker interviews NASCAR drivers Donnie Allison and Tiny Lund at Martinsville Speedway in Ridgeway, Va.</dcterms:title><dcterms:description>A reporter interviews NASCAR competitors Donnie Allison and Tiny Lund at the Martinsville Speedway. Donnie Allison discusses his rivalry with brother Bobby Allison. Tiny Lund lists luck, a good pit crew, and a good driver as the recipe to success at the Martinsville 500-lap race. Lund also describes his sports injuries from extensive racing. Modified cars speed around the track during a 100-lap race. Footage shows the top three finishers among the modified cars: the 1937 Chevrolet driven by Ray Hendrick and the 1936 Chevrolets driven by Ron Harris and Perk Brown.</dcterms:description><dcterms:created>1968-04-27</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85010434">Automobiles, Racing</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85010184">Automobile racing drivers</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82140151">Ridgeway (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>4:15</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>4:15</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2216870</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1222_1/1222_1-thumbnail.jpg</edm:preview>
 </mdRecord>

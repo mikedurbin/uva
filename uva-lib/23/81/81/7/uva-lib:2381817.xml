@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2381817</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Norfolk, Va., Navy frogmen trying to establish new underwater endurance record</dcterms:title>
-    <dcterms:description>Several Navy frogmen relax and prepare for their underwater test; the men go underwater in a pool at Norfolk Naval Base.</dcterms:description>
-    <dcterms:created>1959-04-13</dcterms:created>
+    <dcterms:title>In Norfolk, Va., Navy frogmen trying to establish new underwater endurance record</dcterms:title><dcterms:description>Several Navy frogmen relax and prepare for their underwater test; the men go underwater in a pool at Norfolk Naval Base.</dcterms:description><dcterms:created>1959-04-13</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n79059051">United States. Navy</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85139617">Underwater demolition teams</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79128945">Norfolk (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:36</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:36</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2381817</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1370_2/1370_2-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2217970</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>General Carlos Romulo speaks at annual meeting of the National Association of Hosiery Manufacturers in Roanoke, Va.</dcterms:title>
-    <dcterms:description>Philippine Ambassador to the U.S. General Carlos Romulo is greeted as he gets off a plane in Roanoke; Romulo addresses a meeting of the National Association of Hosiery Manufacturers concerning the importance of democracy, America's relationship with Asia, and the dangers of communism.</dcterms:description>
-    <dcterms:created>1958-04-22</dcterms:created>
+    <dcterms:title>General Carlos Romulo speaks at annual meeting of the National Association of Hosiery Manufacturers in Roanoke, Va.</dcterms:title><dcterms:description>Philippine Ambassador to the U.S. General Carlos Romulo is greeted as he gets off a plane in Roanoke; Romulo addresses a meeting of the National Association of Hosiery Manufacturers concerning the importance of democracy, America's relationship with Asia, and the dangers of communism.</dcterms:description><dcterms:created>1958-04-22</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85148216">World politics</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n83051722">National Association of Hosiery Manufacturers (U.S.)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>2:38</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>2:38</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2217970</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1944_1/1944_1-thumbnail.jpg</edm:preview>
 </mdRecord>

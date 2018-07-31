@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2221217</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>T. Coleman Andrews, States' Rights Party presidential candidate, speaks in Danville, Va.</dcterms:title>
-    <dcterms:description>T. Coleman Andrews, National States' Rights Party presidential candidate, gives a campaign speech in Danville, Va., with several unidentified speakers. A banner on stage advertises the "States' Rights" ticket, reading "Andrews for President" and "[Thomas H.] Werdel for Vice President."</dcterms:description>
-    <dcterms:created>1956-11-06</dcterms:created>
+    <dcterms:title>T. Coleman Andrews, States' Rights Party presidential candidate, speaks in Danville, Va.</dcterms:title><dcterms:description>T. Coleman Andrews, National States' Rights Party presidential candidate, gives a campaign speech in Danville, Va., with several unidentified speakers. A banner on stage advertises the "States' Rights" ticket, reading "Andrews for President" and "[Thomas H.] Werdel for Vice President."</dcterms:description><dcterms:created>1956-11-06</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n82148029">National States Rights Party (U.S.)</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85106460">Presidents--Election</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79054177">Danville (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:44</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:44</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221217</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7182_1/7182_1-thumbnail.jpg</edm:preview>
 </mdRecord>

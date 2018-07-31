@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2357641</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Blacksburg, Va., Dr. Walter S. Newman discusses Virginia Tech athletic direction</dcterms:title>
-    <dcterms:description>In Blacksburg, Va., Virginia Polytechnic Institute President Dr. Walter S. Newman discusses plans to expand the VPI athletic program, asserting that, although the program is exploring the possibility of a change in direction, everyone involved is pleased with the work of head football coach Frank Moseley. Newman confirms that Jerry Claiborne, assistant football coach at the University of Alabama, is currently visiting the campus of VPI but denies that Claiborne is under consideration for Moseley's position at this time.</dcterms:description>
-    <dcterms:created>1961-01-17</dcterms:created>
+    <dcterms:title>In Blacksburg, Va., Dr. Walter S. Newman discusses Virginia Tech athletic direction</dcterms:title><dcterms:description>In Blacksburg, Va., Virginia Polytechnic Institute President Dr. Walter S. Newman discusses plans to expand the VPI athletic program, asserting that, although the program is exploring the possibility of a change in direction, everyone involved is pleased with the work of head football coach Frank Moseley. Newman confirms that Jerry Claiborne, assistant football coach at the University of Alabama, is currently visiting the campus of VPI but denies that Claiborne is under consideration for Moseley's position at this time.</dcterms:description><dcterms:created>1961-01-17</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh2011005029">College sports--Coaching</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79032188">Blacksburg (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:44</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:44</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2357641</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6245_2/6245_2-thumbnail.jpg</edm:preview>
 </mdRecord>

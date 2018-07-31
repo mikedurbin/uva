@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2355313</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>NASA chief James Webb talks about space cameras</dcterms:title>
-    <dcterms:description></dcterms:description>
-    <dcterms:created>1962-10-19</dcterms:created>
+    <dcterms:title>NASA chief James Webb talks about space cameras</dcterms:title><dcterms:created>1962-10-19</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n90662029">Webb, James E. (James Edwin), 1906-1992</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85140410">United States--Politics and government</dcterms:subject>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:34</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:34</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2355313</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/4247_1/4247_1-thumbnail.jpg</edm:preview>
 </mdRecord>

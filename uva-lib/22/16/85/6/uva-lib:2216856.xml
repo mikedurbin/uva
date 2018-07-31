@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2216856</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Successful NASCAR automobile racer Bobby Isaac discusses his preparation for racing at the Martinsville Speedway in Ridgeway, Va.</dcterms:title>
-    <dcterms:description>Bobby Isaac, successful NASCAR automobile racer, discusses his past races and future prospects at the Martinsville Speedway in Ridgeway, Va. The news anchor and Isaac discuss the driver's relationship with the team of mechanics who keep his automobile functioning well.</dcterms:description>
-    <dcterms:created>1968-04-25</dcterms:created>
+    <dcterms:title>Successful NASCAR automobile racer Bobby Isaac discusses his preparation for racing at the Martinsville Speedway in Ridgeway, Va.</dcterms:title><dcterms:description>Bobby Isaac, successful NASCAR automobile racer, discusses his past races and future prospects at the Martinsville Speedway in Ridgeway, Va. The news anchor and Isaac discuss the driver's relationship with the team of mechanics who keep his automobile functioning well.</dcterms:description><dcterms:created>1968-04-25</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85010434">Automobiles, Racing</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85010184">Automobile racing drivers</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82140151">Ridgeway (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:24</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:24</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2216856</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1215_1/1215_1-thumbnail.jpg</edm:preview>
 </mdRecord>

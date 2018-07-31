@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2280325</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Richard Harding Poff, member of the House of Representatives from Virginia's sixth district, delivers an interview on Richard Nixon's chances of being elected president</dcterms:title>
-    <dcterms:description>Representative Richard Harding Poff from Virginia's sixth district predicts that presidential nominee Richard Nixon will win the majority in the electoral college.</dcterms:description>
-    <dcterms:created>1968-06-30</dcterms:created>
+    <dcterms:title>Richard Harding Poff, member of the House of Representatives from Virginia's sixth district, delivers an interview on Richard Nixon's chances of being elected president</dcterms:title><dcterms:description>Representative Richard Harding Poff from Virginia's sixth district predicts that presidential nominee Richard Nixon will win the majority in the electoral college.</dcterms:description><dcterms:created>1968-06-30</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85106475">Presidents--United States--Election</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79022909">Virginia</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:29</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:29</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280325</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0985_1/0985_1-thumbnail.jpg</edm:preview>
 </mdRecord>

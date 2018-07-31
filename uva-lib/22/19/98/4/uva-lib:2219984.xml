@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2219984</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Governor of Virginia Mills E. Godwin, Jr., informs the Virginia Food Dealers Association about his tax on food and nonprescription drugs at the Hotel Roanoke in Roanoke, Va.</dcterms:title>
-    <dcterms:description>Virginia Governor Mills E. Godwin, Jr., defends his tax on food and nonprescription drugs in front of the Virginia Food Dealers Association at the Hotel Roanoke in Roanoke, Va. In order to persuade his audience, Governor Godwin maintains that, without the tax, it would be difficult for store owners to differentiate between taxable and non-taxable items. He concludes that 46 out of the 50 states of America employ a similar retail tax.</dcterms:description>
-    <dcterms:created>1968-10-18</dcterms:created>
+    <dcterms:title>Governor of Virginia Mills E. Godwin, Jr., informs the Virginia Food Dealers Association about his tax on food and nonprescription drugs at the Hotel Roanoke in Roanoke, Va.</dcterms:title><dcterms:description>Virginia Governor Mills E. Godwin, Jr., defends his tax on food and nonprescription drugs in front of the Virginia Food Dealers Association at the Hotel Roanoke in Roanoke, Va. In order to persuade his audience, Governor Godwin maintains that, without the tax, it would be difficult for store owners to differentiate between taxable and non-taxable items. He concludes that 46 out of the 50 states of America employ a similar retail tax.</dcterms:description><dcterms:created>1968-10-18</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh2010115707">Taxation--Virginia</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85143772">Virginia--Politics and government</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:10</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:10</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2219984</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3596_3/3596_3-thumbnail.jpg</edm:preview>
 </mdRecord>

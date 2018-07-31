@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2398859</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Dr. Ernest Van Den Haag of New York University speaks on "Creating Cities for Human Beings"</dcterms:title>
-    <dcterms:description></dcterms:description>
-    <dcterms:created>1960-09-20</dcterms:created>
+    <dcterms:title>Dr. Ernest Van Den Haag of New York University speaks on "Creating Cities for Human Beings"</dcterms:title><dcterms:created>1960-09-20</dcterms:created>
     <dcterms:subject>Virginia--Social life and customs--20th century</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
     <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent></dcterms:extent>
-    <dcterms:medium></dcterms:medium>
-    <dcterms:medium></dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2398859</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/5907_5/5907_5-thumbnail.jpg</edm:preview>
 </mdRecord>

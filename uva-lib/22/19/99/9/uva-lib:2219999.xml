@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2219999</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Public bus crashes into building in Roanoke, Va.</dcterms:title>
-    <dcterms:description>At the scene of a traffic accident in Roanoke, Va., on Shenandoah Avenue, a man uses smelling salts to revive a woman who is then placed on a gurney and loaded into an ambulance by emergency medical technicians. Footage includes several views, both interior and exterior, of the wreckage of a public transportation bus and the building it hit when the bus's brakes failed. There were no serious injuries.</dcterms:description>
-    <dcterms:created>1963-11-15</dcterms:created>
+    <dcterms:title>Public bus crashes into building in Roanoke, Va.</dcterms:title><dcterms:description>At the scene of a traffic accident in Roanoke, Va., on Shenandoah Avenue, a man uses smelling salts to revive a woman who is then placed on a gurney and loaded into an ambulance by emergency medical technicians. Footage includes several views, both interior and exterior, of the wreckage of a public transportation bus and the building it hit when the bus's brakes failed. There were no serious injuries.</dcterms:description><dcterms:created>1963-11-15</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85136758">Traffic accidents</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh93010000">Bus accidents</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:52</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:52</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2219999</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3796_2/3796_2-thumbnail.jpg</edm:preview>
 </mdRecord>

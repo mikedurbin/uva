@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2265959</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>West Coast football teams begin training</dcterms:title>
-    <dcterms:description>The UCLA football team charges the field through signs spelling "1954;" players push bucking gear and UCLA coach Red Sanders stands with player Gerry McDougall; player Bob Long spits into his hands to warm them up for catching passes; player Bob Davenport practices bucking. The USC football team charges the field and coach Jess Hill leads players in warm-up calisthenics; players practice with dummies and Coach Hill talks with player Jon Arnett while the team holds passing drills.</dcterms:description>
-    <dcterms:created>1954-09-02</dcterms:created>
+    <dcterms:title>West Coast football teams begin training</dcterms:title><dcterms:description>The UCLA football team charges the field through signs spelling "1954;" players push bucking gear and UCLA coach Red Sanders stands with player Gerry McDougall; player Bob Long spits into his hands to warm them up for catching passes; player Bob Davenport practices bucking. The USC football team charges the field and coach Jess Hill leads players in warm-up calisthenics; players practice with dummies and Coach Hill talks with player Jon Arnett while the team holds passing drills.</dcterms:description><dcterms:created>1954-09-02</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85050405">Football</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79021240">Los Angeles (Calif.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:02</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:02</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2265959</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1840_1/1840_1-thumbnail.jpg</edm:preview>
 </mdRecord>

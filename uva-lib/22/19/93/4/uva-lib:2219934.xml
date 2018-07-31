@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2219934</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Roanoke Ministers' Conference calls for an end to uncontrolled nuclear weapons testing</dcterms:title>
-    <dcterms:description>Reverend P.G. Cosby announces the resolution of a recent meeting of the Roanoke Ministers' Conference, calling for a postponement of United States nuclear weapons testing in the Pacific and a United Nations ban on further nuclear testing for military purposes by all countries until an adequate system for inspection and supervision can be implemented.</dcterms:description>
-    <dcterms:created>1958-05-04</dcterms:created>
+    <dcterms:title>Roanoke Ministers' Conference calls for an end to uncontrolled nuclear weapons testing</dcterms:title><dcterms:description>Reverend P.G. Cosby announces the resolution of a recent meeting of the Roanoke Ministers' Conference, calling for a postponement of United States nuclear weapons testing in the Pacific and a United Nations ban on further nuclear testing for military purposes by all countries until an adequate system for inspection and supervision can be implemented.</dcterms:description><dcterms:created>1958-05-04</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh2007009994">Nuclear weapons--United States--Testing</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85025219">Christianity</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:33</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:33</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2219934</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3357_1/3357_1-thumbnail.jpg</edm:preview>
 </mdRecord>

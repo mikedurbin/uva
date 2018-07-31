@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2218758</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Roanoke, Va., League of Women Voters presents new book</dcterms:title>
-    <dcterms:description>Chairman of Roanoke's League of Women Voter's publication committee D.D. Greiner presents a copy of their new book, "This is Roanoke: A Voter's Guide to City Government," to Roanoke Superintendent of Schools E.W. Ruston. The pamphlet will be added to the Roanoke city school system libraries.</dcterms:description>
-    <dcterms:created>1958-09-15</dcterms:created>
+    <dcterms:title>Roanoke, Va., League of Women Voters presents new book</dcterms:title><dcterms:description>Chairman of Roanoke's League of Women Voter's publication committee D.D. Greiner presents a copy of their new book, "This is Roanoke: A Voter's Guide to City Government," to Roanoke Superintendent of Schools E.W. Ruston. The pamphlet will be added to the Roanoke city school system libraries.</dcterms:description><dcterms:created>1958-09-15</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n84004903">League of Women Voters of Virginia</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:32</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:32</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2218758</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/2436_1/2436_1-thumbnail.jpg</edm:preview>
 </mdRecord>

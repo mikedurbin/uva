@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2215860</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Hotel Roanoke honors three millionth customer</dcterms:title>
-    <dcterms:description>The Hotel Roanoke honors its three millionth customer, Charles Zoppa, with a plaque in the hotel's lobby and a gift. Hotel manager Carl Thurston, Bill Hill of Downtown Roanoke Inc., and Jack Smith of the Roanoke Chamber of Commerce made the presentations.</dcterms:description>
-    <dcterms:created>1965-02-24</dcterms:created>
+    <dcterms:title>Hotel Roanoke honors three millionth customer</dcterms:title><dcterms:description>The Hotel Roanoke honors its three millionth customer, Charles Zoppa, with a plaque in the hotel's lobby and a gift. Hotel manager Carl Thurston, Bill Hill of Downtown Roanoke Inc., and Jack Smith of the Roanoke Chamber of Commerce made the presentations.</dcterms:description><dcterms:created>1965-02-24</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n94109443">Hotel Roanoke</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:45</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:45</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2215860</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0764_1/0764_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2280301</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Preparations begin for the Republican National Convention in Miami, Fla.</dcterms:title>
-    <dcterms:description>Workers prepare for the Republican National Convention in Miami, Fla. Preparations include posting signs, engineering underground telephone cables, and assembling television cameras.</dcterms:description>
-    <dcterms:created>1968-07-28</dcterms:created>
+    <dcterms:title>Preparations begin for the Republican National Convention in Miami, Fla.</dcterms:title><dcterms:description>Workers prepare for the Republican National Convention in Miami, Fla. Preparations include posting signs, engineering underground telephone cables, and assembling television cameras.</dcterms:description><dcterms:created>1968-07-28</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n80113564">Republican National Convention</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n81063248">Miami (Fla.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:06</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:06</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280301</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0841_2/0841_2-thumbnail.jpg</edm:preview>
 </mdRecord>

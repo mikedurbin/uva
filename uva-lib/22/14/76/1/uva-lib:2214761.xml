@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2214761</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Roanoke, Va., WSLS-TV reporter Bill Mason visits Gilmer School to interview an employee about the school closing down</dcterms:title>
-    <dcterms:description>WSLS-TV reporter Bill Mason interviews an employee of Gilmer School about dismantling the institution. The woman has worked at Gilmer School for 40 years and is sad to see it disbanded. According to the woman, the children currently attending Gilmer School will be relocated to Hurt Park Elementary School, Harrison School, and Melrose Elementary School.</dcterms:description>
-    <dcterms:created>1968-12-12</dcterms:created>
+    <dcterms:title>In Roanoke, Va., WSLS-TV reporter Bill Mason visits Gilmer School to interview an employee about the school closing down</dcterms:title><dcterms:description>WSLS-TV reporter Bill Mason interviews an employee of Gilmer School about dismantling the institution. The woman has worked at Gilmer School for 40 years and is sad to see it disbanded. According to the woman, the children currently attending Gilmer School will be relocated to Hurt Park Elementary School, Harrison School, and Melrose Elementary School.</dcterms:description><dcterms:created>1968-12-12</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85118362">School management and organization</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:26</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:26</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2214761</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0128_1/0128_1-thumbnail.jpg</edm:preview>
 </mdRecord>

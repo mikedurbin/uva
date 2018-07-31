@@ -11,9 +11,7 @@
     <dcterms:identifier>uva-lib:2218637</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Fires destroy a building in Rocky Mount, Va., businesses in Dublin, Va., and a home in Bedford County, Va.; Roanoke city employees hold Christmas party</dcterms:title>
-    <dcterms:description>In Rocky Mount, Va., brick walls crumble after a fire destroys a building that houses several businesses, including Flower Fashions by Elaine. Firefighters attempt to extinguish a fire in Harpers Drug Store, the Deluxe Restaurant, and a third building in Dublin, Va.; footage of the damage done to the interior of the Deluxe Restaurant shows where the fire is believed to have begun. A fire destroys an entire house belonging to the family of Charlie Mitchell in Bedford County. Over 100 Roanoke city employees gather for a buffet luncheon at their annual Christmas party.</dcterms:description>
-    <dcterms:created>1958-12-24</dcterms:created>
+    <dcterms:title>Fires destroy a building in Rocky Mount, Va., businesses in Dublin, Va., and a home in Bedford County, Va.; Roanoke city employees hold Christmas party</dcterms:title><dcterms:description>In Rocky Mount, Va., brick walls crumble after a fire destroys a building that houses several businesses, including Flower Fashions by Elaine. Firefighters attempt to extinguish a fire in Harpers Drug Store, the Deluxe Restaurant, and a third building in Dublin, Va.; footage of the damage done to the interior of the Deluxe Restaurant shows where the fire is believed to have begun. A fire destroys an entire house belonging to the family of Charlie Mitchell in Bedford County. Over 100 Roanoke city employees gather for a buffet luncheon at their annual Christmas party.</dcterms:description><dcterms:created>1958-12-24</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85048572">Fires</dcterms:subject>
     <dcterms:subject>Virginia--Social life and customs--20th century</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82143168">Rocky Mount (Va.)</dcterms:spatial>
@@ -22,10 +20,7 @@
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>3:16</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>3:16</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2218637</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/2386_1/2386_1-thumbnail.jpg</edm:preview>
 </mdRecord>

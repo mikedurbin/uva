@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2254889</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Alleghany man uses raw power to make sorghum syrup</dcterms:title>
-    <dcterms:description></dcterms:description>
-    <dcterms:created>1959-10-09</dcterms:created>
+    <dcterms:title>Alleghany man uses raw power to make sorghum syrup</dcterms:title><dcterms:created>1959-10-09</dcterms:created>
     <dcterms:subject>Virginia--Social life and customs--20th century</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82123546">Alleghany County (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:38</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:38</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2254889</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6607_2/6607_2-thumbnail.jpg</edm:preview>
 </mdRecord>

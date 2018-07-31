@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2221115</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Richmond, Va., Doctor Charles L. Crockett, Jr., director of medical education at Roanoke Memorial Hospital, tells WSLS-TV about a legislative proposal concerning medical education in Roanoke, Va.</dcterms:title>
-    <dcterms:description>At the State Capitol in Richmond, Va., Doctor Charles L. Crockett, Jr., director of medical education at Roanoke Memorial Hospital, tells WSLS-TV about a legislative proposal concerning medical education in Roanoke, Va. Dr. Crockett and Dr. Kenneth R. Crispell, dean of the School of Medicine at the University of Virginia, have been working toward passing a proposal in the Virginia General Assembly that would create a program affiliating the School of Medicine at the University of Virginia with the health facilities in the Roanoke, Va., area. Dr. Crockett says the commission in the General Assembly will conclude its study toward this proposal in the next few months, at which point they will reconvene to discuss further progress.</dcterms:description>
-    <dcterms:created>1969-03-25</dcterms:created>
+    <dcterms:title>In Richmond, Va., Doctor Charles L. Crockett, Jr., director of medical education at Roanoke Memorial Hospital, tells WSLS-TV about a legislative proposal concerning medical education in Roanoke, Va.</dcterms:title><dcterms:description>At the State Capitol in Richmond, Va., Doctor Charles L. Crockett, Jr., director of medical education at Roanoke Memorial Hospital, tells WSLS-TV about a legislative proposal concerning medical education in Roanoke, Va. Dr. Crockett and Dr. Kenneth R. Crispell, dean of the School of Medicine at the University of Virginia, have been working toward passing a proposal in the Virginia General Assembly that would create a program affiliating the School of Medicine at the University of Virginia with the health facilities in the Roanoke, Va., area. Dr. Crockett says the commission in the General Assembly will conclude its study toward this proposal in the next few months, at which point they will reconvene to discuss further progress.</dcterms:description><dcterms:created>1969-03-25</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85082916">Medical education</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n79022913">Virginia. General Assembly</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79060700">Richmond (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:54</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:54</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221115</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7093_1/7093_1-thumbnail.jpg</edm:preview>
 </mdRecord>

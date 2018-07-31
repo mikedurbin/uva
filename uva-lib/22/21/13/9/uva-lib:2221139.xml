@@ -11,9 +11,7 @@
     <dcterms:identifier>uva-lib:2221139</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Richmond, Va., Delegate Albert L. Philpott explains the revision process for the Constitution of Virginia</dcterms:title>
-    <dcterms:description>At the State Capitol in Richmond, Va., the Virginia General Assembly is in the process of revising the Constitution of Virginia. Delegate Albert L. Philpott explains this revision process: specialized standing committees in both the House of Delegates and the Senate of Virginia must meet to negotiate on their respective articles; next, each committee presents its agreed-upon legislation to both houses of the General Assembly. The Senate of Virginia and the House of Delegates must adjust and actualize similarly worded amendments in order for the revision process to continue.</dcterms:description>
-    <dcterms:created>1969-04-09</dcterms:created>
+    <dcterms:title>In Richmond, Va., Delegate Albert L. Philpott explains the revision process for the Constitution of Virginia</dcterms:title><dcterms:description>At the State Capitol in Richmond, Va., the Virginia General Assembly is in the process of revising the Constitution of Virginia. Delegate Albert L. Philpott explains this revision process: specialized standing committees in both the House of Delegates and the Senate of Virginia must meet to negotiate on their respective articles; next, each committee presents its agreed-upon legislation to both houses of the General Assembly. The Senate of Virginia and the House of Delegates must adjust and actualize similarly worded amendments in order for the revision process to continue.</dcterms:description><dcterms:created>1969-04-09</dcterms:created>
     <dcterms:subject>Constitutional amendments--Virginia</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n79018462">Virginia. General Assembly. House of Delegates</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79060700">Richmond (Va.)</dcterms:spatial>
@@ -21,9 +19,6 @@
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
     <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>mag</dcterms:extent>
-    <dcterms:medium></dcterms:medium>
-    <dcterms:medium></dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221139</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7105_1/7105_1-thumbnail.jpg</edm:preview>
 </mdRecord>

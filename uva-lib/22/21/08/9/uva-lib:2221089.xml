@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2221089</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>WSLS-TV newsman Bill Mason reports on housing development projects in Roanoke, Va.</dcterms:title>
-    <dcterms:description>WSLS-TV reporter Bill Mason discusses the new housing development projects in Roanoke, Va. Apartments and detached single-family public housing projects still in the construction phase are already attracting more people than there is space. According to Mason, 900 Roanoke citizens submitted applications for 80 houses and 96 apartments. The purpose of the new homes is to provide those citizens displaced by the Kimball Project with a new home nearby. According to Roy Henley, the director of the Roanoke Redevelopment and Housing Authority, the estimated completion date is May or June.</dcterms:description>
-    <dcterms:created>1969-04-03</dcterms:created>
+    <dcterms:title>WSLS-TV newsman Bill Mason reports on housing development projects in Roanoke, Va.</dcterms:title><dcterms:description>WSLS-TV reporter Bill Mason discusses the new housing development projects in Roanoke, Va. Apartments and detached single-family public housing projects still in the construction phase are already attracting more people than there is space. According to Mason, 900 Roanoke citizens submitted applications for 80 houses and 96 apartments. The purpose of the new homes is to provide those citizens displaced by the Kimball Project with a new home nearby. According to Roy Henley, the director of the Roanoke Redevelopment and Housing Authority, the estimated completion date is May or June.</dcterms:description><dcterms:created>1969-04-03</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85062630">Housing development</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:15</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:15</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221089</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7073_2/7073_2-thumbnail.jpg</edm:preview>
 </mdRecord>

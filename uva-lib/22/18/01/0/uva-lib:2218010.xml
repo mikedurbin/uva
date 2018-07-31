@@ -11,9 +11,7 @@
     <dcterms:identifier>uva-lib:2218010</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Virginia Republican leaders conclude committee meeting in Staunton, Va.; one-story house damaged by fire and overheated stove causes house fire in Roanoke, Va.; house destroyed by oil stove explosion in Martinsville, Va.; grocery store owner donates food and clothes to mining families in Wise County, Va.</dcterms:title>
-    <dcterms:description>Patronage Committee members at the Virginia Republican State Central Committee meeting in Staunton privately discuss recommendations for federal judgeship candidates. Roanoke firefighters try to put out a fire in a one-story house, then they attempt to extinguish a different house fire started in a second-story bedroom by an overheated stove. Martinsville firefighters attempt to put out the flames of a house fire but are unable to stop it from burning down completely. Grocery store owner Ralph Campbell and a young boy pack boxes of canned goods and clothes to deliver to unemployed miners and their families in Derby (Wise County, Va.)</dcterms:description>
-    <dcterms:created>1958-12-13</dcterms:created>
+    <dcterms:title>Virginia Republican leaders conclude committee meeting in Staunton, Va.; one-story house damaged by fire and overheated stove causes house fire in Roanoke, Va.; house destroyed by oil stove explosion in Martinsville, Va.; grocery store owner donates food and clothes to mining families in Wise County, Va.</dcterms:title><dcterms:description>Patronage Committee members at the Virginia Republican State Central Committee meeting in Staunton privately discuss recommendations for federal judgeship candidates. Roanoke firefighters try to put out a fire in a one-story house, then they attempt to extinguish a different house fire started in a second-story bedroom by an overheated stove. Martinsville firefighters attempt to put out the flames of a house fire but are unable to stop it from burning down completely. Grocery store owner Ralph Campbell and a young boy pack boxes of canned goods and clothes to deliver to unemployed miners and their families in Derby (Wise County, Va.)</dcterms:description><dcterms:created>1958-12-13</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85143772">Virginia--Politics and government</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85048572">Fires</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79027112">Staunton (Va.)</dcterms:spatial>
@@ -22,10 +20,7 @@
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>2:49</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>2:49</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2218010</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1954_1/1954_1-thumbnail.jpg</edm:preview>
 </mdRecord>

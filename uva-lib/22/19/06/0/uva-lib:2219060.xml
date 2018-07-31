@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2219060</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Roanoke, Va., Williamson Road Kiwanis Club hosts baseball game</dcterms:title>
-    <dcterms:description>Members of the Williamson Road Kiwanis Club host a neighborhood baseball game for boys from their sponsored Little League team; the boys win 13-10.</dcterms:description>
-    <dcterms:created>1958-08-21</dcterms:created>
+    <dcterms:title>In Roanoke, Va., Williamson Road Kiwanis Club hosts baseball game</dcterms:title><dcterms:description>Members of the Williamson Road Kiwanis Club host a neighborhood baseball game for boys from their sponsored Little League team; the boys win 13-10.</dcterms:description><dcterms:created>1958-08-21</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n83132277">Kiwanis International</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:26</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:26</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2219060</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/2571_1/2571_1-thumbnail.jpg</edm:preview>
 </mdRecord>

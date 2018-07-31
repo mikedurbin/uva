@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2220371</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Small airplane makes an emergency landing on Route 11 near Marion, Va.</dcterms:title>
-    <dcterms:description>"Barricade ahead" reads a sign knocked over by a single engine airplane that made an emergency landing on snow-covered Route 11 near Marion, Va. Footage includes several views of the airplane with damages to a wing and landing gear. The three people on board suffered no injury.</dcterms:description>
-    <dcterms:created>1963-01-27</dcterms:created>
+    <dcterms:title>Small airplane makes an emergency landing on Route 11 near Marion, Va.</dcterms:title><dcterms:description>"Barricade ahead" reads a sign knocked over by a single engine airplane that made an emergency landing on snow-covered Route 11 near Marion, Va. Footage includes several views of the airplane with damages to a wing and landing gear. The three people on board suffered no injury.</dcterms:description><dcterms:created>1963-01-27</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85001323">Aircraft accidents</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n83052769">Marion (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:37</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:37</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220371</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6295_2/6295_2-thumbnail.jpg</edm:preview>
 </mdRecord>

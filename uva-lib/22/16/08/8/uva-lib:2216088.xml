@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2216088</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Crowd of people listen to a radio program about students and education; in Lynchburg, Va., the year 1968 marks the 65th anniversary of Lynchburg College</dcterms:title>
-    <dcterms:description>A crowd of people in formal attire seated at dining tables listen to a radio program about students and higher education. Footage switches to scenes of Lynchburg College and a man holding a sign celebrating the school's 65th anniversary.</dcterms:description>
-    <dcterms:created>1968-10-07</dcterms:created>
+    <dcterms:title>Crowd of people listen to a radio program about students and education; in Lynchburg, Va., the year 1968 marks the 65th anniversary of Lynchburg College</dcterms:title><dcterms:description>A crowd of people in formal attire seated at dining tables listen to a radio program about students and higher education. Footage switches to scenes of Lynchburg College and a man holding a sign celebrating the school's 65th anniversary.</dcterms:description><dcterms:created>1968-10-07</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n80152992">Lynchburg College</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n80017776">Lynchburg (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:25</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:25</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2216088</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0894_1/0894_1-thumbnail.jpg</edm:preview>
 </mdRecord>

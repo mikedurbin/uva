@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2220873</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>C.C. Crockett loses fight to be included on Roanoke County, Va., Board of Supervisors ballot</dcterms:title>
-    <dcterms:description>In an interview with WSLS-TV reporter John Gilbert, C.C. Crockett expresses disappointment at his failure to be included on the ballot as a candidate for the Roanoke County, Va., Board of Supervisors, due to a filing error. Crockett recounts the details of his battle to be included on the ballot, and he shares his plan to seek the support of the people of Roanoke County in running as a write-in candidate.</dcterms:description>
-    <dcterms:created>1959-09-16</dcterms:created>
+    <dcterms:title>C.C. Crockett loses fight to be included on Roanoke County, Va., Board of Supervisors ballot</dcterms:title><dcterms:description>In an interview with WSLS-TV reporter John Gilbert, C.C. Crockett expresses disappointment at his failure to be included on the ballot as a candidate for the Roanoke County, Va., Board of Supervisors, due to a filing error. Crockett recounts the details of his battle to be included on the ballot, and he shares his plan to seek the support of the people of Roanoke County in running as a write-in candidate.</dcterms:description><dcterms:created>1959-09-16</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85077914">Local elections</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82143167">Roanoke County (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:21</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:21</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220873</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6795_1/6795_1-thumbnail.jpg</edm:preview>
 </mdRecord>

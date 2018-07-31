@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2382095</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Scenes from deer season in Craig County, Va., include Virginia Tech students using deer heads in an academic study</dcterms:title>
-    <dcterms:description>A young man in Craig County, Va., sits on a tractor in a field and displays a freshly killed deer. A dead buck lies on a weight scale as a young man cuts into the deer's head. Nine severed deer heads sit in a row as a Virginia Tech student checks for brain worm as part of an ongoing deer study. Two dead deer are tied to the trunk of a car. A Virginia Tech student slices the head off of a dead deer using a machete. Footage continues with dead deer being weighed amid onlookers.</dcterms:description>
-    <dcterms:created>1963-11-18</dcterms:created>
+    <dcterms:title>Scenes from deer season in Craig County, Va., include Virginia Tech students using deer heads in an academic study</dcterms:title><dcterms:description>A young man in Craig County, Va., sits on a tractor in a field and displays a freshly killed deer. A dead buck lies on a weight scale as a young man cuts into the deer's head. Nine severed deer heads sit in a row as a Virginia Tech student checks for brain worm as part of an ongoing deer study. Two dead deer are tied to the trunk of a car. A Virginia Tech student slices the head off of a dead deer using a machete. Footage continues with dead deer being weighed amid onlookers.</dcterms:description><dcterms:created>1963-11-18</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85040989">Education</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85036396">Deer hunting</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n80131131">Craig County (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:14</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:14</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2382095</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3822_2/3822_2-thumbnail.jpg</edm:preview>
 </mdRecord>

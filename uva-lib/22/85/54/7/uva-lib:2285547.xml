@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2285547</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Roanoke secretaries give boss of the year award</dcterms:title>
-    <dcterms:description>Roanoke Chapter of the National Secretaries Association awards ceremony for "Boss of the Year" Roy C. Herrenkohl, president of Colonial American Bank.</dcterms:description>
-    <dcterms:created>1965-04-20</dcterms:created>
+    <dcterms:title>Roanoke secretaries give boss of the year award</dcterms:title><dcterms:description>Roanoke Chapter of the National Secretaries Association awards ceremony for "Boss of the Year" Roy C. Herrenkohl, president of Colonial American Bank.</dcterms:description><dcterms:created>1965-04-20</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n82105179">National Secretaries Association (U.S.)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:34</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:34</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2285547</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0652_2/0652_2-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2216188</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Man announces to WSLS-TV that the Virginia Electric and Power Company is purchasing a lake in Halifax, Va., to build a treatment plant</dcterms:title>
-    <dcterms:description>A man tells WSLS-TV that the Virginia Electric and Power Company is purchasing a lake in order to construct a water sanitation unit in Halifax, Va. The property has ideal qualities for a water sanitation unit: clean and unpolluted water and room for homes to be built in the future.</dcterms:description>
-    <dcterms:created>1968-10-11</dcterms:created>
+    <dcterms:title>Man announces to WSLS-TV that the Virginia Electric and Power Company is purchasing a lake in Halifax, Va., to build a treatment plant</dcterms:title><dcterms:description>A man tells WSLS-TV that the Virginia Electric and Power Company is purchasing a lake in order to construct a water sanitation unit in Halifax, Va. The property has ideal qualities for a water sanitation unit: clean and unpolluted water and room for homes to be built in the future.</dcterms:description><dcterms:created>1968-10-11</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n83227970">Virginia Electric and Power Company</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/no95017358">Halifax (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:22</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:22</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2216188</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0954_1/0954_1-thumbnail.jpg</edm:preview>
 </mdRecord>

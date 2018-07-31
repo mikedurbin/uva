@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2216963</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Calvin O. Gilbert killed in car crash on snowy, icy roads in Roanoke</dcterms:title>
-    <dcterms:description>Snow and ice may have caused the accident in front of the Williamson Road Post Office in Roanoke, Va., that demolished one car. Rescue workers put an injured passenger on a gurney and into an ambulance.</dcterms:description>
-    <dcterms:created>1963-12-26</dcterms:created>
+    <dcterms:title>Calvin O. Gilbert killed in car crash on snowy, icy roads in Roanoke</dcterms:title><dcterms:description>Snow and ice may have caused the accident in front of the Williamson Road Post Office in Roanoke, Va., that demolished one car. Rescue workers put an injured passenger on a gurney and into an ambulance.</dcterms:description><dcterms:created>1963-12-26</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85136758">Traffic accidents</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:38</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:38</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2216963</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1271_3/1271_3-thumbnail.jpg</edm:preview>
 </mdRecord>

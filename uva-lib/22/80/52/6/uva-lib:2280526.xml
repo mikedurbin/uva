@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2280526</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Delegate Vic Thomas speaks in an interview about the violence at the 1968 Democratic National Convention held in Chicago, Ill.</dcterms:title>
-    <dcterms:description>Delegate Vic Thomas describes the violence at the 1968 Democratic National Convention in Chicago, Ill. Thomas recalls about 3000 people agitating guards in the streets near the hotel where the convention was held.</dcterms:description>
-    <dcterms:created>1968-08-14</dcterms:created>
+    <dcterms:title>Delegate Vic Thomas speaks in an interview about the violence at the 1968 Democratic National Convention held in Chicago, Ill.</dcterms:title><dcterms:description>Delegate Vic Thomas describes the violence at the 1968 Democratic National Convention in Chicago, Ill. Thomas recalls about 3000 people agitating guards in the streets near the hotel where the convention was held.</dcterms:description><dcterms:created>1968-08-14</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/nr00008089">Democratic National Convention (1968 : Chicago, Ill.)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:50</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:50</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280526</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6686_1/6686_1-thumbnail.jpg</edm:preview>
 </mdRecord>

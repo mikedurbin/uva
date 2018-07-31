@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2217032</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Norfolk and Western Railway President Stuart T. Saunders dicusses the goals and safety ratings of the company and announces the commission of 1,000 new coal cars at the opening session of the N&W Better Service Conference</dcterms:title>
-    <dcterms:description>Norfolk and Western Railway president Stuart T. Saunders addresses 500 N&W employees at the 34th annual N&W Better Service Conference, along with speeches by various vice presidents and committee chairmen.</dcterms:description>
-    <dcterms:created>1959-03-23</dcterms:created>
+    <dcterms:title>Norfolk and Western Railway President Stuart T. Saunders dicusses the goals and safety ratings of the company and announces the commission of 1,000 new coal cars at the opening session of the N&amp;W Better Service Conference</dcterms:title><dcterms:description>Norfolk and Western Railway president Stuart T. Saunders addresses 500 N&amp;W employees at the 34th annual N&amp;W Better Service Conference, along with speeches by various vice presidents and committee chairmen.</dcterms:description><dcterms:created>1959-03-23</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n83042258">Norfolk and Western Railway Company</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79128945">Norfolk (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:53</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:53</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2217032</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1299_1/1299_1-thumbnail.jpg</edm:preview>
 </mdRecord>

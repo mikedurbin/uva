@@ -11,9 +11,7 @@
     <dcterms:identifier>uva-lib:2396461</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Hoping to regain his heavyweight title back, Floyd Patterson is working with Joe Louis</dcterms:title>
-    <dcterms:description></dcterms:description>
-    <dcterms:created>1960-05-19</dcterms:created>
+    <dcterms:title>Hoping to regain his heavyweight title back, Floyd Patterson is working with Joe Louis</dcterms:title><dcterms:created>1960-05-19</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85016186">Boxing</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85126887">Sports</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n81035811">Newtown (Conn.)</dcterms:spatial>
@@ -21,9 +19,6 @@
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
     <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent></dcterms:extent>
-    <dcterms:medium></dcterms:medium>
-    <dcterms:medium></dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2396461</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/5536_4/5536_4-thumbnail.jpg</edm:preview>
 </mdRecord>

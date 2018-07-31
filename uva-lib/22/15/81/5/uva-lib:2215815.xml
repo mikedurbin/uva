@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2215815</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>At Virginia Tech, Senator J.W. Fulbright comments on Vietnam and the U.S. space program</dcterms:title>
-    <dcterms:description>At a press conference at Virginia Tech, Senator J.W. Fulbright of Arkansas speaks about President L. B. Johnson's policy on Vietnam and the advancement of the U.S. space program.</dcterms:description>
-    <dcterms:created>1965-04-03</dcterms:created>
+    <dcterms:title>At Virginia Tech, Senator J.W. Fulbright comments on Vietnam and the U.S. space program</dcterms:title><dcterms:description>At a press conference at Virginia Tech, Senator J.W. Fulbright of Arkansas speaks about President L. B. Johnson's policy on Vietnam and the advancement of the U.S. space program.</dcterms:description><dcterms:created>1965-04-03</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85143277">Vietnam War, 1961-1975</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85096159">Outer space--Exploration</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79032188">Blacksburg (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>1:33</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:33</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2215815</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0738_2/0738_2-thumbnail.jpg</edm:preview>
 </mdRecord>

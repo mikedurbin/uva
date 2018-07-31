@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2265724</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Annual Miss National Press Photographer competition held at the Steel Pier in Atlantic City, N.J.</dcterms:title>
-    <dcterms:description>Crowds of photographers take pictures and films of the beauty contestants in the Miss National Press Photographer competition; "Miss Washington D.C" Leoma Naughton is named the winner of the competition.</dcterms:description>
-    <dcterms:created>1954-06-14</dcterms:created>
+    <dcterms:title>Annual Miss National Press Photographer competition held at the Steel Pier in Atlantic City, N.J.</dcterms:title><dcterms:description>Crowds of photographers take pictures and films of the beauty contestants in the Miss National Press Photographer competition; "Miss Washington D.C" Leoma Naughton is named the winner of the competition.</dcterms:description><dcterms:created>1954-06-14</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85012724">Beauty contests</dcterms:subject>
     <dcterms:spatial>Atlantic City (N.J.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:45</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:45</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2265724</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1487_1/1487_1-thumbnail.jpg</edm:preview>
 </mdRecord>

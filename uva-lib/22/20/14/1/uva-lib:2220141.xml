@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2220141</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Two state senators speak about plans of the Water Level Route Association in Roanoke, Va.</dcterms:title>
-    <dcterms:description>In Roanoke, Va., a reporter interviews two state senators regarding the formation of the Water Level Route Association, an organization created to respond to a proposal for a new interstate highway and to lobby for the relocation of the proposed route from northern Virginia to southern Virginia. An unidentified senator informs the reporter that southwestern Virginia is in support of the relocation. Senator Mosby Perrow explains that the State Highway Commission has been charged with determining the best possible route for the highway and that the Water Level Route Association intends to argue their case to the commission.</dcterms:description>
-    <dcterms:created>1958-04-10</dcterms:created>
+    <dcterms:title>Two state senators speak about plans of the Water Level Route Association in Roanoke, Va.</dcterms:title><dcterms:description>In Roanoke, Va., a reporter interviews two state senators regarding the formation of the Water Level Route Association, an organization created to respond to a proposal for a new interstate highway and to lobby for the relocation of the proposed route from northern Virginia to southern Virginia. An unidentified senator informs the reporter that southwestern Virginia is in support of the relocation. Senator Mosby Perrow explains that the State Highway Commission has been charged with determining the best possible route for the highway and that the Water Level Route Association intends to argue their case to the commission.</dcterms:description><dcterms:created>1958-04-10</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85067520">Interstate Highway System</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85008810">Associations, institutions, etc.</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>2:16</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>2:16</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220141</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/5586_1/5586_1-thumbnail.jpg</edm:preview>
 </mdRecord>

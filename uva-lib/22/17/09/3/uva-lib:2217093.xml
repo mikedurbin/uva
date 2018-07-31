@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2217093</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Man goes free after arrest for blackmailing a Salem, Va., doctor</dcterms:title>
-    <dcterms:description>Samuel S. Abdella, arrested for blackmail, covers his face as he signs documents and exits a building.</dcterms:description>
-    <dcterms:created>1959-04-10</dcterms:created>
+    <dcterms:title>Man goes free after arrest for blackmailing a Salem, Va., doctor</dcterms:title><dcterms:description>Samuel S. Abdella, arrested for blackmail, covers his face as he signs documents and exits a building.</dcterms:description><dcterms:created>1959-04-10</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85046572">Extortion</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:43</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:43</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2217093</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1323_1/1323_1-thumbnail.jpg</edm:preview>
 </mdRecord>

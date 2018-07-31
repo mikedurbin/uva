@@ -11,18 +11,13 @@
     <dcterms:identifier>uva-lib:2215829</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Rescuers free man trapped on tractor on Windy Gap Mountain</dcterms:title>
-    <dcterms:description>Mount Pleasant Rescue Squad frees a tractor driver's leg from being pinned against the tractor's gears by a large tree stump. The driver is unhurt and continues to work. The rescue was necessary because the accident took place on the side of a steep hill on Windy Gap Mountain.</dcterms:description>
-    <dcterms:created>1965-03-24</dcterms:created>
+    <dcterms:title>Rescuers free man trapped on tractor on Windy Gap Mountain</dcterms:title><dcterms:description>Mount Pleasant Rescue Squad frees a tractor driver's leg from being pinned against the tractor's gears by a large tree stump. The driver is unhurt and continues to work. The rescue was necessary because the accident took place on the side of a steep hill on Windy Gap Mountain.</dcterms:description><dcterms:created>1965-03-24</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85000368">Accidents</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82143167">Roanoke County (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:43</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:43</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2215829</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0752_1/0752_1-thumbnail.jpg</edm:preview>
 </mdRecord>

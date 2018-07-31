@@ -11,19 +11,14 @@
     <dcterms:identifier>uva-lib:2221131</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Richmond, Va., Delegate Jerry H. Geisler comments on discriminatory voting practices that have made their way through the Constitution of Virginia</dcterms:title>
-    <dcterms:description>At the State Capitol in Richmond, Va., the Virginia General Assembly is in the process of revising the Constitution of Virginia. A provision on poll taxes, which were outlawed by the Voting Rights Act of 1965, has been moving along in the legislative process. Delegate Jerry H. Geisler tells WSLS-TV that the study commission on this amendment recommends that it be deleted from the constitution and is certain that it will not have a place in the final revised version.</dcterms:description>
-    <dcterms:created>1969-03-31</dcterms:created>
+    <dcterms:title>In Richmond, Va., Delegate Jerry H. Geisler comments on discriminatory voting practices that have made their way through the Constitution of Virginia</dcterms:title><dcterms:description>At the State Capitol in Richmond, Va., the Virginia General Assembly is in the process of revising the Constitution of Virginia. A provision on poll taxes, which were outlawed by the Voting Rights Act of 1965, has been moving along in the legislative process. Delegate Jerry H. Geisler tells WSLS-TV that the study commission on this amendment recommends that it be deleted from the constitution and is certain that it will not have a place in the final revised version.</dcterms:description><dcterms:created>1969-03-31</dcterms:created>
     <dcterms:subject>Constitutional amendments--Virginia</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50080038">Virginia. Constitution (1971)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79060700">Richmond (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:28</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:28</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221131</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7101_3/7101_3-thumbnail.jpg</edm:preview>
 </mdRecord>

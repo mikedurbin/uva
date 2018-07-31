@@ -12,18 +12,13 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
     <dcterms:title>African American student interviewed on first full day of attendance at Norview High School in Norfolk</dcterms:title>
-    <dcterms:description></dcterms:description>
-    <dcterms:created></dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85118341">School integration</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85026371">Civil rights</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79128945">Norfolk (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
-    <dcterms:extent>0:39</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:39</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2357905</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7675_3/7675_3-thumbnail.jpg</edm:preview>
 </mdRecord>
