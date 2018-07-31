@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2215043</dcterms:identifier>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
+    <dcterms:title>Dick Thompson, public relations specialist at Martinsville Speedway, tells WSLS-TV reporter Bill Walker about the Dogwood 500 Modified Classic race</dcterms:title>
+    <dcterms:description>Dick Thompson, public relations specialist at Martinsville Speedway in Martinsville, Va., tells WSLS-TV reporter Bill Walker the logistics of the Dogwood 500 Modified Classic race. According to Thompson, the race attracted 85 top competitors from nine states and Canada. Thompson lists the dates and times of the qualifying rounds of the race and is enthusiastic about the competitiveness of the race.</dcterms:description>
+    <dcterms:created>1969-03-25</dcterms:created>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85010434">Automobiles, Racing</dcterms:subject>
+    <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82141211">Martinsville (Va.)</dcterms:spatial>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:type>Moving Image</dcterms:type>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:59</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2215043</edm:isShownAt>
+    <edm:preview>http://fedora01.lib.virginia.edu/wsls/0283_1/0283_1-thumbnail.jpg</edm:preview>
+</mdRecord>

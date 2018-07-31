@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2220219</dcterms:identifier>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
+    <dcterms:title>Sealtest milk processing plant opens in Roanoke, Va.; manufacturing expert Donald J. Hardenbrook compares proposed national tax bills</dcterms:title>
+    <dcterms:description>A Sealtest milk tanker truck backs into the new Sealtest milk processing plant at the Blue Ridge Park for Industry in Roanoke, Va. Workers unload the milk via pipes and clean processing machinery. Footage shows a Sealtest tanker driving in front of the Sealtest building. As guest speaker at the annual meeting of Virginia Forests, Incorporated, held in Roanoke, Chairman of the Board of the National Association of Manufacturers Donald J. Hardenbrook says that President John F. Kennedy's new tax bill is bad for businesses. He prefers the tax-reforming Herlong-Baker bill as a stimulant to the U. S. economy.</dcterms:description>
+    <dcterms:created>1963-01-23</dcterms:created>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85035451">Dairy processing</dcterms:subject>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85132846">Taxation</dcterms:subject>
+    <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:type>Moving Image</dcterms:type>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>2:09</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220219</edm:isShownAt>
+    <edm:preview>http://fedora01.lib.virginia.edu/wsls/5834_1/5834_1-thumbnail.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2305812</dcterms:identifier>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
+    <dcterms:title>SS Andrea Doria and MS Stockholm collide near Massachusetts coast</dcterms:title>
+    <dcterms:description>Footage consists of several still photographs of a disaster in which the Italian and Swedish ocean liners the SS Andrea Doria and the MS Stockholm collided in the fog off the coast of Nantucket, Mass., killing and injuring many passengers. Photographs show the Andrea Doria in the process of sinking and the Stockholm with a severely damaged prow, as well as scenes from a rescue mission by the U.S. Coast Guard.</dcterms:description>
+    <dcterms:created>1956-07-21</dcterms:created>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n79054199">Andrea Doria (Steamship)</dcterms:subject>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/names/no2008181464">Stockholm (Ship)</dcterms:subject>
+    <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79097424">Nantucket (Mass.)</dcterms:spatial>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:type>Moving Image</dcterms:type>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>2:01</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2305812</edm:isShownAt>
+    <edm:preview>http://fedora01.lib.virginia.edu/wsls/7175_1/7175_1-thumbnail.jpg</edm:preview>
+</mdRecord>

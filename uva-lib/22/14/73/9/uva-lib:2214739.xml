@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2214739</dcterms:identifier>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
+    <dcterms:title>Roanoke Organization of Communities protests living conditions of poor people in Roanoke, Va., at a Roanoke City Council meeting</dcterms:title>
+    <dcterms:description>Wielding signs lamenting the living conditions of poor people in Roanoke, Va., protesters from the Roanoke Organization of Communities line the hallway outside Roanoke City Council chambers in the Roanoke municipal building. Police guard the city council meeting room door. Representing the demonstrators, Juliet Croson and Juanita Taylor deliver a message to city council members, including Mayor Benton O. Dillard, James E. Jones, and John W. Boswell, in council chambers. Croson and Taylor declare that the council ignores the conditions in which the poor are living. The women warn that the Roanoke Organization of Communities will vote in the upcoming elections according to how they were treated at the present protest, insinuating that the police are unnecessary and a symbol of distrust from the council.</dcterms:description>
+    <dcterms:created>1968-06-10</dcterms:created>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85026383">Civil rights demonstrations</dcterms:subject>
+    <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:type>Moving Image</dcterms:type>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>3:21</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2214739</edm:isShownAt>
+    <edm:preview>http://fedora01.lib.virginia.edu/wsls/0118_1/0118_1-thumbnail.jpg</edm:preview>
+</mdRecord>

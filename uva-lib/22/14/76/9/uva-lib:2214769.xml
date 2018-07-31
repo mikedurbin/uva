@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2214769</dcterms:identifier>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
+    <dcterms:title>WSLS-TV reporter Charles Fishburne interviews two citizens of Botetourt County, Va., who have opposing views on redistricting their county</dcterms:title>
+    <dcterms:description>Botetourt County, Va., is in the midst of a redistricting controversy; the county is to be divided based on a three- or five-district plan. Two citizens of Botetourt County tell WSLS-TV reporter Charles Fishburne their views on the plans to redistrict their county. A man from south Botetourt is opposed to the three-district plan because he believes a close community can be better achieved with five districts. The delegate for Botetourt County in the Virginia state legislature is opposed to the current five-district plan because this plan incorporates a school board, welfare board, and board of supervisors, each composed of five members. According to the man, the county is not yet large enough to provide funding for such expenses.</dcterms:description>
+    <dcterms:created>1968-12-16</dcterms:created>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85077923">Local government</dcterms:subject>
+    <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79150423">Botetourt County (Va.)</dcterms:spatial>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:type>Moving Image</dcterms:type>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>2:29</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2214769</edm:isShownAt>
+    <edm:preview>http://fedora01.lib.virginia.edu/wsls/0135_1/0135_1-thumbnail.jpg</edm:preview>
+</mdRecord>

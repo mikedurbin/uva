@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2214996</dcterms:identifier>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
+    <dcterms:title>WSLS-TV reporter Bill Walker talks to Don Oakes, Boston Patriots football player, about the upcoming Super Bowl game</dcterms:title>
+    <dcterms:description>Don Oakes, Boston Patriots football player, tells WSLS-TV reporter Bill Walker that he is supporting the New York Jets in the upcoming Super Bowl game against the Baltimore Colts. The game is scheduled for January 12, 1969, in Miami, Fla.</dcterms:description>
+    <dcterms:created>1969-01-02</dcterms:created>
+    <dcterms:subject>Super Bowl (3rd : 1969 : Miami, Fla.)</dcterms:subject>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:type>Moving Image</dcterms:type>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:13</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2214996</edm:isShownAt>
+    <edm:preview>http://fedora01.lib.virginia.edu/wsls/0254_1/0254_1-thumbnail.jpg</edm:preview>
+</mdRecord>

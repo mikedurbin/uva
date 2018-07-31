@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2221464</dcterms:identifier>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
+    <dcterms:title>Center city land for sale in Staunton, Va., urban renewal project</dcterms:title>
+    <dcterms:description>Land in the city blocks demolished in the Central Avenue Urban Renewal Project in Staunton, Va., is now for sale. Director of the Staunton Redevelopment and Housing Authority enterprise William E. Ayers surveys part of the leveled site currently used as a parking lot. Footage includes the downtown Staunton Holiday Inn and various views of the project.</dcterms:description>
+    <dcterms:created>1965-01-25</dcterms:created>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85141324">Urban renewal</dcterms:subject>
+    <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79027112">Staunton (Va.)</dcterms:spatial>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:type>Moving Image</dcterms:type>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:32</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221464</edm:isShownAt>
+    <edm:preview>http://fedora01.lib.virginia.edu/wsls/1427_1/1427_1-thumbnail.jpg</edm:preview>
+</mdRecord>

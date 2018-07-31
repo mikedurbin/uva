@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2221095</dcterms:identifier>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
+    <dcterms:title>In Richmond, Va., Delegate M. Caldwell Butler tells WSLS-TV about the status of the provision on Roanoke-area consolidation in the Constitution of Virginia</dcterms:title>
+    <dcterms:description>At the State Capitol in Richmond, Va., the Virginia General Assembly is in the process of revising the Constitution of Virginia. One of the most debated topics is the consolidation of the Roanoke, Va., area. Delegate M. Caldwell Butler tells WSLS-TV that in order for the legislation on consolidation to be introduced at the current special session of the Virginia Assembly, the City Council of Salem, Va., must approve it. The response from city council was negative, but Delegate Butler remains hopeful that the proposal will be introduced regardless.</dcterms:description>
+    <dcterms:created>1969-04-09</dcterms:created>
+    <dcterms:subject>Constitutional amendments--Virginia</dcterms:subject>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50080038">Virginia. Constitution (1971)</dcterms:subject>
+    <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79060700">Richmond (Va.)</dcterms:spatial>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:type>Moving Image</dcterms:type>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>mag</dcterms:extent>
+    <dcterms:medium></dcterms:medium>
+    <dcterms:medium></dcterms:medium>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221095</edm:isShownAt>
+    <edm:preview>http://fedora01.lib.virginia.edu/wsls/7075_1/7075_1-thumbnail.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2221097</dcterms:identifier>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
+    <dcterms:title>In Richmond, Va., Senator H. Clyde Pearson, Jr., expresses his thoughts on the Virginia General Assembly's legitimacy in terms of revising the Constitution of Virginia</dcterms:title>
+    <dcterms:description>At the State Capitol in Richmond, Va., the Virginia General Assembly is in the process of revising the Constitution of Virginia. Senator H. Clyde Pearson, Jr., expresses his opinion on the legitimacy of the revisions, commenting that the composition of the General Assembly of Virginia does not accurately represent the general public, criticizing the legislative body for its factionalism. The revised constitution will be presented to the citizens of Virginia for approval before it is declared law and Senator Pearson believes that a provision on bonds will be unpopular with the public, possibly causing them to vote against it.</dcterms:description>
+    <dcterms:created>1969-04-09</dcterms:created>
+    <dcterms:subject>Constitutional amendments--Virginia</dcterms:subject>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50080038">Virginia. Constitution (1971)</dcterms:subject>
+    <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79060700">Richmond (Va.)</dcterms:spatial>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:type>Moving Image</dcterms:type>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>mag</dcterms:extent>
+    <dcterms:medium></dcterms:medium>
+    <dcterms:medium></dcterms:medium>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221097</edm:isShownAt>
+    <edm:preview>http://fedora01.lib.virginia.edu/wsls/7075_2/7075_2-thumbnail.jpg</edm:preview>
+</mdRecord>

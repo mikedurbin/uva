@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2265931</dcterms:identifier>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
+    <dcterms:title>Milwaukee celebrates World Series victory for Braves</dcterms:title>
+    <dcterms:description>Fans cheer as they watch the Braves win the World Series on television; torn up paper falls from the sky like confetti and people fill the streets in celebration; traffic is directed by police officers and men and women dance across the street; a man is interviewed about his reaction to the Braves' win; crowds gather at Milwaukee's General Mitchell Field to greet the Braves; Lew Burdette and Warren Spahn wave to fans from a car.</dcterms:description>
+    <dcterms:created>1957-10-11</dcterms:created>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/names/no2001014780">World Series (Baseball)</dcterms:subject>
+    <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79119217">Milwaukee (Wis.)</dcterms:spatial>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:type>Moving Image</dcterms:type>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>3:41</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2265931</edm:isShownAt>
+    <edm:preview>http://fedora01.lib.virginia.edu/wsls/1809_1/1809_1-thumbnail.jpg</edm:preview>
+</mdRecord>

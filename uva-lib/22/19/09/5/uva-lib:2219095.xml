@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2219095</dcterms:identifier>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
+    <dcterms:title>Record attendance at the Mill Mountain Children's Zoo in Roanoke, Va.</dcterms:title>
+    <dcterms:description>Visitors crowd the Mill Mountain Children's Zoo in Roanoke, Va., soon before it closes for the season. Footage shows visitors lining up at the zoo entrance, riding a miniature train, and crossing a bridge to a scenic overlook. Children ride a pony-go-round, and a boy pets an animal held by a zoo attendant.</dcterms:description>
+    <dcterms:created>1958-09-01</dcterms:created>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh89003147">Petting zoos</dcterms:subject>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85111945">Recreation</dcterms:subject>
+    <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:type>Moving Image</dcterms:type>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:44</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2219095</edm:isShownAt>
+    <edm:preview>http://fedora01.lib.virginia.edu/wsls/2580_1/2580_1-thumbnail.jpg</edm:preview>
+</mdRecord>

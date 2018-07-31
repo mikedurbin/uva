@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2220135</dcterms:identifier>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
+    <dcterms:title>WSLS-TV reporter Bill Walker interviews Atlanta Hawks basketball star Lou Hudson</dcterms:title>
+    <dcterms:description>WSLS-TV reporter Bill Walker interviews Lou Hudson, Atlanta Hawks basketball rookie and emerging star, about his future career plans within the National Basketball Association. After playing at the University of Minnesota, Hudson signed on with the Atlanta Hawks, humbly admitting that he was lucky to join at an opportune moment when many players were retiring.</dcterms:description>
+    <dcterms:created>1968-12-06</dcterms:created>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50063691">National Basketball Association</dcterms:subject>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n82260258">Atlanta Hawks (Basketball team)</dcterms:subject>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:type>Moving Image</dcterms:type>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:17</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220135</edm:isShownAt>
+    <edm:preview>http://fedora01.lib.virginia.edu/wsls/5521_1/5521_1-thumbnail.jpg</edm:preview>
+</mdRecord>

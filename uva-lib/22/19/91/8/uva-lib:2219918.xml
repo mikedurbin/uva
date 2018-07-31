@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2219918</dcterms:identifier>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
+    <dcterms:title>Sixth congressional district Democratic Committee of Virginia meets to discuss election proceedings</dcterms:title>
+    <dcterms:description>A member of the sixth congressional district Democratic Committee of Virginia reports on the committee's resolution as to whether congressional nominations will take place in a convention or a primary election. The resolution states that a convention will be held only if no new candidacies are announced by April 10, 1958; if any new candidacies are announced, then the committee will reconvene to make a decision at a later date.</dcterms:description>
+    <dcterms:created>1958-03-29</dcterms:created>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n81076963">Democratic Party (Va.)</dcterms:subject>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85041557">Elections</dcterms:subject>
+    <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79022909">Virginia</dcterms:spatial>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:type>Moving Image</dcterms:type>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:04</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2219918</edm:isShownAt>
+    <edm:preview>http://fedora01.lib.virginia.edu/wsls/3351_1/3351_1-thumbnail.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2220839</dcterms:identifier>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
+    <dcterms:title>Reporter Jim Shell stands on the construction site of the Roanoke Civic Center in Roanoke, Va., as he describes controversy surrounding the project</dcterms:title>
+    <dcterms:description>Reporter Jim Shell stands in the middle of a field designated to be the site of the Roanoke Civic Center. He says the construction faces much controversy due to an unexpected increase in costs totaling over three million dollars. Roanoke City Council is set to meet the following week to vote on four possible sources of revenue for the center, all of which already face much opposition.</dcterms:description>
+    <dcterms:created>1968-03-19</dcterms:created>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n88172430">Roanoke Civic Center</dcterms:subject>
+    <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:type>Moving Image</dcterms:type>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:35</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220839</edm:isShownAt>
+    <edm:preview>http://fedora01.lib.virginia.edu/wsls/6765_1/6765_1-thumbnail.jpg</edm:preview>
+</mdRecord>

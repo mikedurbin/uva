@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2220995</dcterms:identifier>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
+    <dcterms:title>WSLS-TV reporter Lee Garrett interviews a maintenance worker in charge of decorating the city's official Christmas tree in Roanoke, Va.; footage shows the crew ornamenting the tree</dcterms:title>
+    <dcterms:description>WSLS-TV reporter Lee Garrett interviews a maintenance worker in charge of mounting decorations on the municipal Christmas tree in Roanoke, Va. According to the maintenance worker, this year's tree is smaller than the previous year, requiring 20 strings of lights to fully embellish it.</dcterms:description>
+    <dcterms:created>1968-11-26</dcterms:created>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85025322">Christmas trees</dcterms:subject>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh00006833">Christmas lights</dcterms:subject>
+    <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:type>Moving Image</dcterms:type>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:45</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220995</edm:isShownAt>
+    <edm:preview>http://fedora01.lib.virginia.edu/wsls/6951_1/6951_1-thumbnail.jpg</edm:preview>
+</mdRecord>

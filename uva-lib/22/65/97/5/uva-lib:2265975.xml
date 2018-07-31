@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2265975</dcterms:identifier>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
+    <dcterms:title>Hickory Smoke wins Hambletonian Stakes</dcterms:title>
+    <dcterms:description>Crowds and lines of cars gather at the Du Quoin State Fair in Illinois; a man on a platform films the event; ten horses complete in a one-mile trotting race, followed by a second group of trotters; Hickory Smoke, the winner of the first group, and Hoot Song, the winner of the second group, compete for the top prize; Hickory Smoke wins and his driver-trainer John Simpson receives the first place trophy.</dcterms:description>
+    <dcterms:created>1957-08-28</dcterms:created>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85062110">Horse racing</dcterms:subject>
+    <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n83220507">Du Quoin (Ill.)</dcterms:spatial>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:type>Moving Image</dcterms:type>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:55</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2265975</edm:isShownAt>
+    <edm:preview>http://fedora01.lib.virginia.edu/wsls/1851_1/1851_1-thumbnail.jpg</edm:preview>
+</mdRecord>

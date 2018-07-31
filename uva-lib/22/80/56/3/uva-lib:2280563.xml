@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>uva-lib:2280563</dcterms:identifier>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
+    <dcterms:title>Thomas M. Hufford, an insurance agent from Salem, Va., tells WSLS-TV reporter John Gilbert about his campaign for Virginia sixth district U. S. Representative</dcterms:title>
+    <dcterms:description>WSLS-TV reporter John Gilbert talks to Thomas M. Hufford, an insurance agent from Salem, Va., about Hufford's race to represent Virginia's sixth district in the House of Representatives. Hufford is campagining against Roy R. White of Roanoke, Va., and the winner will then face Republican Representative Richard Harding Poff. Hufford says that he is confident he can defeat White in the Democratic primary.</dcterms:description>
+    <dcterms:created>1968-11-05</dcterms:created>
+    <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85077914">Local elections</dcterms:subject>
+    <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79022909">Virginia</dcterms:spatial>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:type>Moving Image</dcterms:type>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:48</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280563</edm:isShownAt>
+    <edm:preview>http://fedora01.lib.virginia.edu/wsls/6959_3/6959_3-thumbnail.jpg</edm:preview>
+</mdRecord>
