@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2218617</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Police catch car thief after high-speed chase near Lynchburg, Va.</dcterms:title><dcterms:description>Police officers direct traffic at the intersection of routes 460 and 29 in Lynchburg, Va., after a 17-year-old boy crashed a stolen car into a telephone pole following a high-speed car chase; the boy responsible is shown in the back seat of a police vehicle.</dcterms:description><dcterms:created>1958-10-20</dcterms:created>
+    <dcterms:title>Police catch car thief after high-speed chase near Lynchburg, Va.</dcterms:title>
+    <dcterms:description>Police officers direct traffic at the intersection of routes 460 and 29 in Lynchburg, Va., after a 17-year-old boy crashed a stolen car into a telephone pole following a high-speed car chase; the boy responsible is shown in the back seat of a police vehicle.</dcterms:description>
+    <dcterms:created>1958-10-20</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85075302">Law enforcement</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n80017776">Lynchburg (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:51</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:51</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2218617</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/2380_1/2380_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2265983</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Little League World Series champions from Monterrey, Mexico visit the White House</dcterms:title><dcterms:description>President Eisenhower leads the Little League World Series baseball champions from Monterrey, Mexico into the Rose Garden at the White House; pitcher Angel Macias carries the team's trophy and the press photograph the boys with President Eisenhower.</dcterms:description><dcterms:created>1957-08-27</dcterms:created>
+    <dcterms:title>Little League World Series champions from Monterrey, Mexico visit the White House</dcterms:title>
+    <dcterms:description>President Eisenhower leads the Little League World Series baseball champions from Monterrey, Mexico into the Rose Garden at the White House; pitcher Angel Macias carries the team's trophy and the press photograph the boys with President Eisenhower.</dcterms:description>
+    <dcterms:created>1957-08-27</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/no2004055668">Little League World Series (Baseball)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79018774">Washington (D.C.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:40</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:40</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2265983</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1856_1/1856_1-thumbnail.jpg</edm:preview>
 </mdRecord>

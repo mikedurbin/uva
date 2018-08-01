@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2217966</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Men honored at 40th annual American Legion Department of Virginia convention in Roanoke, Va.</dcterms:title><dcterms:description>Members of the American Legion of Virginia fill the audience of their convention at the Hotel Roanoke. Department of Virginia Commander Reverend John Howard presents Roanoke Mayor Walter L. Young with a key to the city of Chicago, where the national convention will be held. Wilbur C. "Dan" Daniel presents Major General Sheppard Crump with an award; Colonel Allen C. Perkinson receives an award from Howard; Thomas C. Chisman receives an award.</dcterms:description><dcterms:created>1958-08-02</dcterms:created>
+    <dcterms:title>Men honored at 40th annual American Legion Department of Virginia convention in Roanoke, Va.</dcterms:title>
+    <dcterms:description>Members of the American Legion of Virginia fill the audience of their convention at the Hotel Roanoke. Department of Virginia Commander Reverend John Howard presents Roanoke Mayor Walter L. Young with a key to the city of Chicago, where the national convention will be held. Wilbur C. "Dan" Daniel presents Major General Sheppard Crump with an award; Colonel Allen C. Perkinson receives an award from Howard; Thomas C. Chisman receives an award.</dcterms:description>
+    <dcterms:created>1958-08-02</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n79041719">American Legion</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:47</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:47</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2217966</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1942_1/1942_1-thumbnail.jpg</edm:preview>
 </mdRecord>

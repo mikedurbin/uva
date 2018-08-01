@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2357791</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Richmond, Va., Virginia State Senator J. Sargeant Reynolds argues to expand the borders of the cities in the Roanoke Valley</dcterms:title><dcterms:description>The Virginia General Assembly is in the process of revising the Constitution of Virginia and one of the most hotly debated topics is district apportionment. In Richmond, Va., Virginia State Senator J. Sargeant Reynolds tells WSLS-TV about the urgent need to expand the borders of Virginia cities in order to increase the tax base. According to Senator Reynolds, there has been a large migration away from urban cities in Virginia, which reduces the taxable population in those areas and heightens tax rates. Senator Reynolds maintains that by widening the city borders to include the groups of people who moved away, the tax burden will decrease for everyone since there is a larger tax base.</dcterms:description><dcterms:created>1969-03-19</dcterms:created>
+    <dcterms:title>In Richmond, Va., Virginia State Senator J. Sargeant Reynolds argues to expand the borders of the cities in the Roanoke Valley</dcterms:title>
+    <dcterms:description>The Virginia General Assembly is in the process of revising the Constitution of Virginia and one of the most hotly debated topics is district apportionment. In Richmond, Va., Virginia State Senator J. Sargeant Reynolds tells WSLS-TV about the urgent need to expand the borders of Virginia cities in order to increase the tax base. According to Senator Reynolds, there has been a large migration away from urban cities in Virginia, which reduces the taxable population in those areas and heightens tax rates. Senator Reynolds maintains that by widening the city borders to include the groups of people who moved away, the tax burden will decrease for everyone since there is a larger tax base.</dcterms:description>
+    <dcterms:created>1969-03-19</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50080038">Virginia. Constitution (1971)</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85132869">Taxation, State</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79060700">Richmond (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:09</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:09</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2357791</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7080_1/7080_1-thumbnail.jpg</edm:preview>
 </mdRecord>

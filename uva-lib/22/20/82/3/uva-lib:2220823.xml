@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2220823</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Salem District Engineer C. F. Kellam tells WSLS-TV reporter Lee Garrett that the federal fund cutbacks will have both short and long-term effects on Salem, Va.</dcterms:title><dcterms:description>Salem District Engineer C. F. Kellam tells WSLS-TV reporter Lee Garrett about the adverse effects of federal fund cutbacks to the Virginia Department of Highways in Salem, Va. According to Kellam, seven projects will be immediately delayed and the entire program will suffer setbacks.</dcterms:description><dcterms:created>1968-09-12</dcterms:created>
+    <dcterms:title>Salem District Engineer C. F. Kellam tells WSLS-TV reporter Lee Garrett that the federal fund cutbacks will have both short and long-term effects on Salem, Va.</dcterms:title>
+    <dcterms:description>Salem District Engineer C. F. Kellam tells WSLS-TV reporter Lee Garrett about the adverse effects of federal fund cutbacks to the Virginia Department of Highways in Salem, Va. According to Kellam, seven projects will be immediately delayed and the entire program will suffer setbacks.</dcterms:description>
+    <dcterms:created>1968-09-12</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85060779">Highway planning</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82098973">Salem (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:49</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:49</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220823</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6725_2/6725_2-thumbnail.jpg</edm:preview>
 </mdRecord>

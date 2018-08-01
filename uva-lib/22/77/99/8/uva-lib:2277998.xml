@@ -11,12 +11,17 @@
     <dcterms:identifier>uva-lib:2277998</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>WSLS-TV reporter Bill Walker interviews Don Oakes, Boston Patriots football player, on the upcoming Super Bowl game on January 12, 1969</dcterms:title><dcterms:description>WSLS-TV reporter Bill Walker interviews Don Oakes, Boston Patriots football player, about the upcoming Super Bowl on January 12, 1969. Oakes offers his commentary on the game, featuring the New York Jets versus the Baltimore Colts.</dcterms:description><dcterms:created>1969-01-01</dcterms:created>
+    <dcterms:title>WSLS-TV reporter Bill Walker interviews Don Oakes, Boston Patriots football player, on the upcoming Super Bowl game on January 12, 1969</dcterms:title>
+    <dcterms:description>WSLS-TV reporter Bill Walker interviews Don Oakes, Boston Patriots football player, about the upcoming Super Bowl on January 12, 1969. Oakes offers his commentary on the game, featuring the New York Jets versus the Baltimore Colts.</dcterms:description>
+    <dcterms:created>1969-01-01</dcterms:created>
     <dcterms:subject>Super Bowl (3rd : 1969 : Miami, Fla.)</dcterms:subject>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>2:19</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>2:19</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2277998</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0245_1/0245_1-thumbnail.jpg</edm:preview>
 </mdRecord>

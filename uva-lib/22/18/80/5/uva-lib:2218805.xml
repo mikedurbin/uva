@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2218805</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Roanoke, Va., Congressman Richard Poff discusses upcoming campaign</dcterms:title><dcterms:description>Congressman Richard Poff discusses the opening of his campaign headquarters in Roanoke and his plans for the upcoming election.</dcterms:description><dcterms:created>1958-09-05</dcterms:created>
+    <dcterms:title>In Roanoke, Va., Congressman Richard Poff discusses upcoming campaign</dcterms:title>
+    <dcterms:description>Congressman Richard Poff discusses the opening of his campaign headquarters in Roanoke and his plans for the upcoming election.</dcterms:description>
+    <dcterms:created>1958-09-05</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85077914">Local elections</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>3:34</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>3:34</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2218805</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/2455_1/2455_1-thumbnail.jpg</edm:preview>
 </mdRecord>

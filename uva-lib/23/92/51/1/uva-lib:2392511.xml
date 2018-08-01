@@ -11,7 +11,8 @@
     <dcterms:identifier>uva-lib:2392511</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>One man is killed and one man injured in a single car accident on Christiansburg Mountain; the car was traveling at excessive speed</dcterms:title><dcterms:created>1966-03-06</dcterms:created>
+    <dcterms:title>One man is killed and one man injured in a single car accident on Christiansburg Mountain; the car was traveling at excessive speed</dcterms:title>
+    <dcterms:created>1966-03-06</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85136758">Traffic accidents</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85000368">Accidents</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n81110833">Christiansburg (Va.)</dcterms:spatial>

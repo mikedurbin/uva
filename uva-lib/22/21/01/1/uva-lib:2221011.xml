@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2221011</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Mrs. D. E. Bogle, president of the District Two Virginia Nurses' Association in Roanoke County, comments on efforts to retrain inactive nurses</dcterms:title><dcterms:description>President of the District Two Virginia Nurses' Association Mrs. D. E. Bogle explains the organization's efforts to retrain inactive nurses who are interested in returning to work. The program entails a six-week course, and it functions through the city education system, state education system, Community Hospital School of Nursing, and the Manpower Development Training Program. The program's main objective is to return nurses to hospitals, nursing homes, private homes, a doctor's office, or a clicnic.</dcterms:description><dcterms:created>1968-03-13</dcterms:created>
+    <dcterms:title>Mrs. D. E. Bogle, president of the District Two Virginia Nurses' Association in Roanoke County, comments on efforts to retrain inactive nurses</dcterms:title>
+    <dcterms:description>President of the District Two Virginia Nurses' Association Mrs. D. E. Bogle explains the organization's efforts to retrain inactive nurses who are interested in returning to work. The program entails a six-week course, and it functions through the city education system, state education system, Community Hospital School of Nursing, and the Manpower Development Training Program. The program's main objective is to return nurses to hospitals, nursing homes, private homes, a doctor's office, or a clicnic.</dcterms:description>
+    <dcterms:created>1968-03-13</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85093418">Nursing school administrators</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n80107911">Virginia Nurses' Association</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:18</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:18</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221011</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6982_2/6982_2-thumbnail.jpg</edm:preview>
 </mdRecord>

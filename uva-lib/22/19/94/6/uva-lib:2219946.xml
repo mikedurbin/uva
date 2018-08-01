@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2219946</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>WSLS-TV reporter Glenn Howell interviews Virginia Farm Bureau Federation President Robert B. Delano outside of the Hotel Roanoke in Roanoke, Va.</dcterms:title><dcterms:description>WSLS-TV reporter Glenn Howell asks Virginia Farm Bureau Federation President Robert B. Delano what will be discussed at the bureau's 44th annual convention. According to Delano, the convention's agenda includes constitutional revision on lending authority of the state, land tax, and inadequate farm income. The convention is held at the Hotel Roanoke in Roanoke, Va.</dcterms:description><dcterms:created>1969-01-18</dcterms:created>
+    <dcterms:title>WSLS-TV reporter Glenn Howell interviews Virginia Farm Bureau Federation President Robert B. Delano outside of the Hotel Roanoke in Roanoke, Va.</dcterms:title>
+    <dcterms:description>WSLS-TV reporter Glenn Howell asks Virginia Farm Bureau Federation President Robert B. Delano what will be discussed at the bureau's 44th annual convention. According to Delano, the convention's agenda includes constitutional revision on lending authority of the state, land tax, and inadequate farm income. The convention is held at the Hotel Roanoke in Roanoke, Va.</dcterms:description>
+    <dcterms:created>1969-01-18</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/no2004083602">Virginia Farm Bureau Federation</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:20</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:20</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2219946</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3441_1/3441_1-thumbnail.jpg</edm:preview>
 </mdRecord>

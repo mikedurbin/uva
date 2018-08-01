@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2354912</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>John T. Hanna, director of Virginia Highway Safety Division, tells WSLS-TV reporter John Gilbert about the results of alcohol prevention educational programs</dcterms:title><dcterms:description>Director of Virginia Highway Safety Division John T. Hanna tells WSLS-TV reporter John Gilbert how to prevent drunk driving. Hanna blasts driving under the influence of alcohol, advising citizens of Roanoke, Va., to avoid any such situation.</dcterms:description><dcterms:created>1968-08-25</dcterms:created>
+    <dcterms:title>John T. Hanna, director of Virginia Highway Safety Division, tells WSLS-TV reporter John Gilbert about the results of alcohol prevention educational programs</dcterms:title>
+    <dcterms:description>Director of Virginia Highway Safety Division John T. Hanna tells WSLS-TV reporter John Gilbert how to prevent drunk driving. Hanna blasts driving under the influence of alcohol, advising citizens of Roanoke, Va., to avoid any such situation.</dcterms:description>
+    <dcterms:created>1968-08-25</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85003268">Alcohol</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79022909">Virginia</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:39</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:39</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2354912</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1109_1/1109_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2219698</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Don Oakes, professional football player, comments on American Football League players seeking greater compensation</dcterms:title><dcterms:description>Professional football player Don Oakes offers his views on the players in the American Football League seeking greater benefits from their owners. Oakes says that the American Football League Players Association uses the National Football League Players Association as a bargaining agent to achieve their goals.</dcterms:description><dcterms:created>1968-07-22</dcterms:created>
+    <dcterms:title>Don Oakes, professional football player, comments on American Football League players seeking greater compensation</dcterms:title>
+    <dcterms:description>Professional football player Don Oakes offers his views on the players in the American Football League seeking greater benefits from their owners. Oakes says that the American Football League Players Association uses the National Football League Players Association as a bargaining agent to achieve their goals.</dcterms:description>
+    <dcterms:created>1968-07-22</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n2011022952">American Football League. Players Association</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85126887">Sports</dcterms:subject>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:53</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:53</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2219698</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3070_1/3070_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2265885</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Nashville wins Palos Verdes Handicap at Santa Anita Park</dcterms:title><dcterms:description>A crowd of nearly 38,000 people fills the stands at Santa Anita Park; a man smokes a cigar and writes on a newspaper; the horses and jockeys competing in the Palos Verdes Handicap are escorted onto the track; Nashville (number 9) and jockey Willie Shoemaker pull ahead of El Khobar (number 4) and win the handicap.</dcterms:description><dcterms:created>1957-12-27</dcterms:created>
+    <dcterms:title>Nashville wins Palos Verdes Handicap at Santa Anita Park</dcterms:title>
+    <dcterms:description>A crowd of nearly 38,000 people fills the stands at Santa Anita Park; a man smokes a cigar and writes on a newspaper; the horses and jockeys competing in the Palos Verdes Handicap are escorted onto the track; Nashville (number 9) and jockey Willie Shoemaker pull ahead of El Khobar (number 4) and win the handicap.</dcterms:description>
+    <dcterms:created>1957-12-27</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85062110">Horse racing</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n81125773">Arcadia (Calif.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:27</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:27</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2265885</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1782_1/1782_1-thumbnail.jpg</edm:preview>
 </mdRecord>

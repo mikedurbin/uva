@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2220951</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>The Roanoke County Board of Supervisors meets to discuss its agenda in the Roanoke County Courthouse in Salem, Va.</dcterms:title><dcterms:description>The Roanoke County Board of Supervisors meets to discuss its agenda. Chairman Charles H. Osterhoudt, Vice Chairman A. T. Huddleston, Lee B. Eddy, L. Earl Simms, Joseph C. Thomas, Commonwealth's Attorney Raymond R. Robrecht, Jr., and County Engineer and Executive Officer Paul B. Matthews are present. The board votes on and approves a controversial proposal that permits the construction of additional apartments in Roanoke County, Va. Earlier this March, Roanoke County citizens protested this proposal on the grounds that their county will become congested with residents.</dcterms:description><dcterms:created>1969-03-26</dcterms:created>
+    <dcterms:title>The Roanoke County Board of Supervisors meets to discuss its agenda in the Roanoke County Courthouse in Salem, Va.</dcterms:title>
+    <dcterms:description>The Roanoke County Board of Supervisors meets to discuss its agenda. Chairman Charles H. Osterhoudt, Vice Chairman A. T. Huddleston, Lee B. Eddy, L. Earl Simms, Joseph C. Thomas, Commonwealth's Attorney Raymond R. Robrecht, Jr., and County Engineer and Executive Officer Paul B. Matthews are present. The board votes on and approves a controversial proposal that permits the construction of additional apartments in Roanoke County, Va. Earlier this March, Roanoke County citizens protested this proposal on the grounds that their county will become congested with residents.</dcterms:description>
+    <dcterms:created>1969-03-26</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85077923">Local government</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85149959">Zoning</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82098973">Salem (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:49</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:49</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220951</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6912_1/6912_1-thumbnail.jpg</edm:preview>
 </mdRecord>

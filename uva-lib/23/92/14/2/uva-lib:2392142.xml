@@ -11,7 +11,8 @@
     <dcterms:identifier>uva-lib:2392142</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>At a public meeting, an assistant to the president of Louisville Cement Company presents a proposal to build a cement plant in the community; the plant is opposed by Virginia Tech officials</dcterms:title><dcterms:created>1970-03-06</dcterms:created>
+    <dcterms:title>At a public meeting, an assistant to the president of Louisville Cement Company presents a proposal to build a cement plant in the community; the plant is opposed by Virginia Tech officials</dcterms:title>
+    <dcterms:created>1970-03-06</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh2006009037">Construction projects</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n81094803">Montgomery County (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>

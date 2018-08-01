@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2219872</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Virginia Delegate M. Caldwell Butler comments on annual meetings for the Virginia House of Delegates</dcterms:title><dcterms:description>Virginia Delegate M. Caldwell Butler comments on Virginia Delegate Arthur H. Richardson's stance that the Virginia House of Delegates must meet annually as opposed to every two years. This requires an amendment to the Constitution of Virginia, which Butler and his fellow Republicans fully support. Butler urges the governor of Virginia to support this constitutional amendment.</dcterms:description><dcterms:created>1967-12-19</dcterms:created>
+    <dcterms:title>Virginia Delegate M. Caldwell Butler comments on annual meetings for the Virginia House of Delegates</dcterms:title>
+    <dcterms:description>Virginia Delegate M. Caldwell Butler comments on Virginia Delegate Arthur H. Richardson's stance that the Virginia House of Delegates must meet annually as opposed to every two years. This requires an amendment to the Constitution of Virginia, which Butler and his fellow Republicans fully support. Butler urges the governor of Virginia to support this constitutional amendment.</dcterms:description>
+    <dcterms:created>1967-12-19</dcterms:created>
     <dcterms:subject>Constitutional amendments--Virginia</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79022909">Virginia</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:45</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:45</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2219872</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3228_1/3228_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,7 +11,9 @@
     <dcterms:identifier>uva-lib:2221223</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>West Virginia Pulp and Paper Company mill in Covington, Va., opens waste treatment plant</dcterms:title><dcterms:description>In Covington, Va., at the West Virginia Pulp and Paper Company paper mill, operations begin at a new facility for biological treatment of the industrial waste produced by the mill.</dcterms:description><dcterms:created>1955-05-23</dcterms:created>
+    <dcterms:title>West Virginia Pulp and Paper Company mill in Covington, Va., opens waste treatment plant</dcterms:title>
+    <dcterms:description>In Covington, Va., at the West Virginia Pulp and Paper Company paper mill, operations begin at a new facility for biological treatment of the industrial waste produced by the mill.</dcterms:description>
+    <dcterms:created>1955-05-23</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n80144956">West Virginia Pulp and Paper Company</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n80144955">Westvaco Corporation</dcterms:subject>
     <dcterms:subject>Paper mills--Waste disposal.</dcterms:subject>
@@ -19,7 +21,10 @@
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:51</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:51</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221223</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7229_1/7229_1-thumbnail.jpg</edm:preview>
 </mdRecord>

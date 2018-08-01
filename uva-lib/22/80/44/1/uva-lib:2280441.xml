@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2280441</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>WSLS reporter Joe Moffatt interviews Rocky Marciano in Roanoke, Va.</dcterms:title><dcterms:description>In Roanoke, Va., former World Heavyweight Boxing Champion Rocky Marciano answers a series of questions for WSLS-TV reporter Joe Moffatt. Marciano remarks on the talents of fellow boxers Jack Dempsey and Joe Louis, comparing their skill to his own, and responds to rumors of a potential comeback. In response to the reporter's request that he comment on Joe Louis' debt and difficulties with the International Revenue Service, Marciano expresses his sympathy and admiration for Louis, as well as his belief that the government should reduce tax rates on boxing winnings.</dcterms:description><dcterms:created>1958-04-01</dcterms:created>
+    <dcterms:title>WSLS reporter Joe Moffatt interviews Rocky Marciano in Roanoke, Va.</dcterms:title>
+    <dcterms:description>In Roanoke, Va., former World Heavyweight Boxing Champion Rocky Marciano answers a series of questions for WSLS-TV reporter Joe Moffatt. Marciano remarks on the talents of fellow boxers Jack Dempsey and Joe Louis, comparing their skill to his own, and responds to rumors of a potential comeback. In response to the reporter's request that he comment on Joe Louis' debt and difficulties with the International Revenue Service, Marciano expresses his sympathy and admiration for Louis, as well as his belief that the government should reduce tax rates on boxing winnings.</dcterms:description>
+    <dcterms:created>1958-04-01</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85016186">Boxing</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85064772">Income tax</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>4:04</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>4:04</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280441</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/4159_1/4159_1-thumbnail.jpg</edm:preview>
 </mdRecord>

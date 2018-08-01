@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2214759</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Roanoke Chamber of Commerce executive Jack McKendree Goodykoontz tells WSLS-TV reporter Glenn Howell about employment opportunities for college and graduate students in Roanoke, Va.</dcterms:title><dcterms:description>WSLS-TV reporter Glenn Howell interviews Chamber of Commerce executive Jack McKendree Goodykoontz about employment opportunities for college and graduate students in Roanoke, Va. Goodykoontz encourages students who are visiting home for Christmas break to interview with local firms. According to Goodykoontz, students should take advantage of these opportunities while at home because the smaller firms in the Roanoke, Va., area do not have the luxury of conducting on-grounds interviewing at colleges.</dcterms:description><dcterms:created>1968-12-15</dcterms:created>
+    <dcterms:title>Roanoke Chamber of Commerce executive Jack McKendree Goodykoontz tells WSLS-TV reporter Glenn Howell about employment opportunities for college and graduate students in Roanoke, Va.</dcterms:title>
+    <dcterms:description>WSLS-TV reporter Glenn Howell interviews Chamber of Commerce executive Jack McKendree Goodykoontz about employment opportunities for college and graduate students in Roanoke, Va. Goodykoontz encourages students who are visiting home for Christmas break to interview with local firms. According to Goodykoontz, students should take advantage of these opportunities while at home because the smaller firms in the Roanoke, Va., area do not have the luxury of conducting on-grounds interviewing at colleges.</dcterms:description>
+    <dcterms:created>1968-12-15</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85070579">Job hunting</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:49</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:49</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2214759</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0126_1/0126_1-thumbnail.jpg</edm:preview>
 </mdRecord>

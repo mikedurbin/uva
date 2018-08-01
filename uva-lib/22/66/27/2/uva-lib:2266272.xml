@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2266272</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Russian and Italian ice hockey teams hold unofficial game before Winter Olympics</dcterms:title><dcterms:description>Russian and Italian Olympic ice hockey teams play an impromptu game for a crowd of spectators at the Stadio Olimpico del Ghiaccio in Cortina d'Ampezzo, Italy, before the official start of the Olympic Winter Games.</dcterms:description><dcterms:created>1956-01-23</dcterms:created>
+    <dcterms:title>Russian and Italian ice hockey teams hold unofficial game before Winter Olympics</dcterms:title>
+    <dcterms:description>Russian and Italian Olympic ice hockey teams play an impromptu game for a crowd of spectators at the Stadio Olimpico del Ghiaccio in Cortina d'Ampezzo, Italy, before the official start of the Olympic Winter Games.</dcterms:description>
+    <dcterms:created>1956-01-23</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85061326">Hockey</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85147037">Winter Olympics</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82006827">Cortina d'Ampezzo (Italy)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:38</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:38</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2266272</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/4426_1/4426_1-thumbnail.jpg</edm:preview>
 </mdRecord>

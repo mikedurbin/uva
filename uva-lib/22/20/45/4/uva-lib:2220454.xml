@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2220454</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Stuart T. Saunders denounces Bluefield, W. Va., attack ad</dcterms:title><dcterms:description>Norfolk and Western Railway President Stuart T. Saunders responds to an advertisement that appeared in the Bluefield, W. Va., newspaper Bluefield Daily Telegraph condemning the merger of the Norfolk and Western and Virginian railways. Saunders maintains that the statements of the advertisement, which alleged that the merger would "sell southern West Virginia into slavery," are incorrect and misleading, and expresses his confidence that the merger will benefit the area, rather than harming it.</dcterms:description><dcterms:created>1959-06-18</dcterms:created>
+    <dcterms:title>Stuart T. Saunders denounces Bluefield, W. Va., attack ad</dcterms:title>
+    <dcterms:description>Norfolk and Western Railway President Stuart T. Saunders responds to an advertisement that appeared in the Bluefield, W. Va., newspaper Bluefield Daily Telegraph condemning the merger of the Norfolk and Western and Virginian railways. Saunders maintains that the statements of the advertisement, which alleged that the merger would "sell southern West Virginia into slavery," are incorrect and misleading, and expresses his confidence that the merger will benefit the area, rather than harming it.</dcterms:description>
+    <dcterms:created>1959-06-18</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n83042258">Norfolk and Western Railway Company</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n85229805">Virginian Railway</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82029092">Bluefield (W. Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:05</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:05</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220454</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6340_1/6340_1-thumbnail.jpg</edm:preview>
 </mdRecord>

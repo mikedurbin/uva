@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2220083</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Reporter interviews University of Virginia football coach Bill Elias in Charlottesville, Va.</dcterms:title><dcterms:description>A reporter interviews the newly hired University of Virginia head football coach Bill Elias, formerly of George Washington University. Elias says that he looks forward to the challenge of coaching the UVa team but is unable to give an accurate evaluation of the players' abilities at this time. Asked how he plans to attract new athletes to the program, Elias states his belief that the high academic standard of the university will be a major draw, as will the change in coaching.</dcterms:description><dcterms:created>1961-01-18</dcterms:created>
+    <dcterms:title>Reporter interviews University of Virginia football coach Bill Elias in Charlottesville, Va.</dcterms:title>
+    <dcterms:description>A reporter interviews the newly hired University of Virginia head football coach Bill Elias, formerly of George Washington University. Elias says that he looks forward to the challenge of coaching the UVa team but is unable to give an accurate evaluation of the players' abilities at this time. Asked how he plans to attract new athletes to the program, Elias states his belief that the high academic standard of the university will be a major draw, as will the change in coaching.</dcterms:description>
+    <dcterms:created>1961-01-18</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85050405">Football</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85027299">Coaching (Athletics)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79018570">Charlottesville (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>2:47</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>2:47</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220083</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/4155_1/4155_1-thumbnail.jpg</edm:preview>
 </mdRecord>

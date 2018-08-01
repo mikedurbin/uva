@@ -11,11 +11,16 @@
     <dcterms:identifier>uva-lib:2220299</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Congressman Richard H. Poff describes his bill to fund federal aid for state education</dcterms:title><dcterms:description>Congressman for Virginia's sixth district, Richard H. Poff, addresses the camera to describe his proposal to fund federal aid given to states for public education.</dcterms:description><dcterms:created>1963-01-29</dcterms:created>
+    <dcterms:title>Congressman Richard H. Poff describes his bill to fund federal aid for state education</dcterms:title>
+    <dcterms:description>Congressman for Virginia's sixth district, Richard H. Poff, addresses the camera to describe his proposal to fund federal aid given to states for public education.</dcterms:description>
+    <dcterms:created>1963-01-29</dcterms:created>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:03</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:03</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220299</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/5884_1/5884_1-thumbnail.jpg</edm:preview>
 </mdRecord>

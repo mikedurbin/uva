@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2220935</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Salem City Council meets to discuss its agenda in Salem, Va.</dcterms:title><dcterms:description>At City Hall in Salem, Va., Salem City Councilmembers Eddie M. Joyce, A. D. Goodwin, E. P. Hart, William J. Paxton, Jr., and others discuss the agenda. Due to a light winter, the council found $19000 surplus money in snow removal funds, which will be appropriated toward curb and gutter work. Councilmembers authorize construction of sewer lines on Conehurst Boulevard in Salem, Va.</dcterms:description><dcterms:created>1969-03-24</dcterms:created>
+    <dcterms:title>Salem City Council meets to discuss its agenda in Salem, Va.</dcterms:title>
+    <dcterms:description>At City Hall in Salem, Va., Salem City Councilmembers Eddie M. Joyce, A. D. Goodwin, E. P. Hart, William J. Paxton, Jr., and others discuss the agenda. Due to a light winter, the council found $19000 surplus money in snow removal funds, which will be appropriated toward curb and gutter work. Councilmembers authorize construction of sewer lines on Conehurst Boulevard in Salem, Va.</dcterms:description>
+    <dcterms:created>1969-03-24</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh86007798">City councils</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82098973">Salem (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:54</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:54</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220935</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6883_2/6883_2-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2214849</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>A celebration is held in Roanoke, Va., for the annual Shrine Bowl football game, featuring the Virginia Military Institute and Virginia Tech</dcterms:title><dcterms:description>A formal dinner is held in honor of the annual Shrine Bowl football game at Victory Stadium in Roanoke, Va. The game pits Virginia Polytechnic Institute freshmen football players against Virginia Military Institute freshmen players. Footage shows two men speaking at the podium and three children posing with six men in front of a sign for the Shrine Bowl game.</dcterms:description><dcterms:created>1968-10-02</dcterms:created>
+    <dcterms:title>A celebration is held in Roanoke, Va., for the annual Shrine Bowl football game, featuring the Virginia Military Institute and Virginia Tech</dcterms:title>
+    <dcterms:description>A formal dinner is held in honor of the annual Shrine Bowl football game at Victory Stadium in Roanoke, Va. The game pits Virginia Polytechnic Institute freshmen football players against Virginia Military Institute freshmen players. Footage shows two men speaking at the podium and three children posing with six men in front of a sign for the Shrine Bowl game.</dcterms:description>
+    <dcterms:created>1968-10-02</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85050405">Football</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:37</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:37</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2214849</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0180_1/0180_1-thumbnail.jpg</edm:preview>
 </mdRecord>

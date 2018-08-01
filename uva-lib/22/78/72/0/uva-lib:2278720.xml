@@ -11,12 +11,16 @@
     <dcterms:identifier>uva-lib:2278720</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Snow in Southwest and Central Virginia causes accidents and prompts highway advisory</dcterms:title><dcterms:created>1962-12-23</dcterms:created>
+    <dcterms:title>Snow in Southwest and Central Virginia causes accidents and prompts highway advisory</dcterms:title>
+    <dcterms:created>1962-12-23</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85145843">Weather</dcterms:subject>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>2:21</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>2:21</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2278720</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7950_1/7950_1-thumbnail.jpg</edm:preview>
 </mdRecord>

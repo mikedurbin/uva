@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2220961</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Delegate Samuel E. Pope, Delegate William F. Reid, Senator Ray L. Garland, and Delegate Willis M. Anderson comment on revising the state constitution in Richmond, Va.</dcterms:title><dcterms:description>The Virginia General Assembly is in the process of revising the Constitution of Virginia in Richmond, Va. Delegate and Chairman of the Education Commission of Virginia Samuel E. Pope proposed an amendment to an original article drafted by the Harrison Commission regarding tuition grants to nonsectarian private schools, which the General Assembly rejected. According to Pope, his amendment should have been approved because he foresees the future need to fund nonsectarian private educational institutions. Delegate William F. Reid rejects the notion to convert Pope's amendment into a referendum, affirming that the delegates themselves must make some decisions. State Senator Ray L. Garland explains why he voted against Pope's proposed amendment. Garland cites text from the proposed and original articles to illustrate the unsatisfactory revisions. Delegate Willis M. Anderson comments on the Committee on Counties, Cities, and Towns's proposed article, which allows for local government as approved by each locality. Anderson is optimistic that the article will provide maximum flexibility to the General Assembly, counties, cities, and towns of Virginia.</dcterms:description><dcterms:created>1969-03-23</dcterms:created>
+    <dcterms:title>Delegate Samuel E. Pope, Delegate William F. Reid, Senator Ray L. Garland, and Delegate Willis M. Anderson comment on revising the state constitution in Richmond, Va.</dcterms:title>
+    <dcterms:description>The Virginia General Assembly is in the process of revising the Constitution of Virginia in Richmond, Va. Delegate and Chairman of the Education Commission of Virginia Samuel E. Pope proposed an amendment to an original article drafted by the Harrison Commission regarding tuition grants to nonsectarian private schools, which the General Assembly rejected. According to Pope, his amendment should have been approved because he foresees the future need to fund nonsectarian private educational institutions. Delegate William F. Reid rejects the notion to convert Pope's amendment into a referendum, affirming that the delegates themselves must make some decisions. State Senator Ray L. Garland explains why he voted against Pope's proposed amendment. Garland cites text from the proposed and original articles to illustrate the unsatisfactory revisions. Delegate Willis M. Anderson comments on the Committee on Counties, Cities, and Towns's proposed article, which allows for local government as approved by each locality. Anderson is optimistic that the article will provide maximum flexibility to the General Assembly, counties, cities, and towns of Virginia.</dcterms:description>
+    <dcterms:created>1969-03-23</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50080038">Virginia. Constitution (1971)</dcterms:subject>
     <dcterms:subject>Constitutional amendments--Virginia</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79060700">Richmond (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>3:59</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>3:59</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220961</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6931_1/6931_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2216122</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Mildred Norman Ryder, better known as the Peace Pilgrim, advocates for the elimination of the Electoral College and the direct election of delegates</dcterms:title><dcterms:description>Mildred Norman Ryder, also known as the Peace Pilgrim, tells WSLS-TV about her quest to eliminate the Electoral College and promote the direct election of delegates. She adopted the nickname when she embarked on a walking tour to encourage world peace. When asked about Senator Eugene J. McCarthy, who unsuccessfully ran for president in 1968, Ryder says that the country would be closer to her utopian vision because he was a proponent of peace.</dcterms:description><dcterms:created>1968-11-14</dcterms:created>
+    <dcterms:title>Mildred Norman Ryder, better known as the Peace Pilgrim, advocates for the elimination of the Electoral College and the direct election of delegates</dcterms:title>
+    <dcterms:description>Mildred Norman Ryder, also known as the Peace Pilgrim, tells WSLS-TV about her quest to eliminate the Electoral College and promote the direct election of delegates. She adopted the nickname when she embarked on a walking tour to encourage world peace. When asked about Senator Eugene J. McCarthy, who unsuccessfully ran for president in 1968, Ryder says that the country would be closer to her utopian vision because he was a proponent of peace.</dcterms:description>
+    <dcterms:created>1968-11-14</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n82166525">Peace Pilgrim, -1981</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh2008109960">Presidents--United States--Election--1968</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:01</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:01</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2216122</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0912_1/0912_1-thumbnail.jpg</edm:preview>
 </mdRecord>

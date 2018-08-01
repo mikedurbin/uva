@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2280497</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Washington and Lee University holds Mock Democratic Convention</dcterms:title><dcterms:description>Students crowd an auditorium at Washington and Lee University during the 1956 Mock Democratic Convention. At the podium, a student nominates Frank John Lausche for the candidacy; the audience cheers and erupts into song. Footage shows signs proclaiming the names of states, as well as campaign signs reading "Stevenson for President," "Harriman," and "Ohio Looks to Lausche."</dcterms:description><dcterms:created>1956-05-08</dcterms:created>
+    <dcterms:title>Washington and Lee University holds Mock Democratic Convention</dcterms:title>
+    <dcterms:description>Students crowd an auditorium at Washington and Lee University during the 1956 Mock Democratic Convention. At the podium, a student nominates Frank John Lausche for the candidacy; the audience cheers and erupts into song. Footage shows signs proclaiming the names of states, as well as campaign signs reading "Stevenson for President," "Harriman," and "Ohio Looks to Lausche."</dcterms:description>
+    <dcterms:created>1956-05-08</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85104364">Political games</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85041065">Education, Higher</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79046216">Lexington (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>3:05</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>3:05</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280497</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6224_1/6224_1-thumbnail.jpg</edm:preview>
 </mdRecord>

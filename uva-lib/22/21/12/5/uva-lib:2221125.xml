@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2221125</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Former Governor of Maryland Theodore R. McKeldin speaks at the Hotel Roanoke in Roanoke, Va.; Senator H. Clyde Pearson discusses a proposed amendment to the Constitution of Virginia at the State Capitol in Richmond, Va.</dcterms:title><dcterms:description>Former Governor of Maryland Theodore R. McKeldin speaks at a meeting for the Roanoke Merchants Association at the Hotel Roanoke in Roanoke, Va. Governor McKeldin reminisces about gaining the Republican nomination for President Dwight D. Eisenhower in 1952 and discusses the theme of American heritage. Footage switches to Virginia Senator H. Clyde Pearson, Jr., at the State Capitol in Richmond, Va., where the Virginia General Assembly is in the process of revising the Constitution of Virginia. Senator Pearson defends an amendment proposed by Senator William F. Stone that gives the people in each locality the responsibility to create school districts. This conflicts with the present amendment, which grants the Board of Education the power to divvy up school districts within Virginia.</dcterms:description><dcterms:created>1969-03-31</dcterms:created>
+    <dcterms:title>Former Governor of Maryland Theodore R. McKeldin speaks at the Hotel Roanoke in Roanoke, Va.; Senator H. Clyde Pearson discusses a proposed amendment to the Constitution of Virginia at the State Capitol in Richmond, Va.</dcterms:title>
+    <dcterms:description>Former Governor of Maryland Theodore R. McKeldin speaks at a meeting for the Roanoke Merchants Association at the Hotel Roanoke in Roanoke, Va. Governor McKeldin reminisces about gaining the Republican nomination for President Dwight D. Eisenhower in 1952 and discusses the theme of American heritage. Footage switches to Virginia Senator H. Clyde Pearson, Jr., at the State Capitol in Richmond, Va., where the Virginia General Assembly is in the process of revising the Constitution of Virginia. Senator Pearson defends an amendment proposed by Senator William F. Stone that gives the people in each locality the responsibility to create school districts. This conflicts with the present amendment, which grants the Board of Education the power to divvy up school districts within Virginia.</dcterms:description>
+    <dcterms:created>1969-03-31</dcterms:created>
     <dcterms:subject>Constitutional amendments--Virginia</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50080038">Virginia. Constitution (1971)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:32</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:32</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221125</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7100_1/7100_1-thumbnail.jpg</edm:preview>
 </mdRecord>

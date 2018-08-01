@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2219908</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Walter Young announces plans to run for another term as mayor of City of Roanoke, Va.</dcterms:title><dcterms:description>Roanoke, Va., Mayor Walter Young announces his intention to run for another term. Young expresses his interest in completing plans for and beginning construction on a two-year technical institute in Roanoke, citing his belief that high school graduates financially unable to attend a four-year college should have access to a two-year institution at home.</dcterms:description><dcterms:created>1958-03-22</dcterms:created>
+    <dcterms:title>Walter Young announces plans to run for another term as mayor of City of Roanoke, Va.</dcterms:title>
+    <dcterms:description>Roanoke, Va., Mayor Walter Young announces his intention to run for another term. Young expresses his interest in completing plans for and beginning construction on a two-year technical institute in Roanoke, citing his belief that high school graduates financially unable to attend a four-year college should have access to a two-year institution at home.</dcterms:description>
+    <dcterms:created>1958-03-22</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85077914">Local elections</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:39</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:39</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2219908</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3345_1/3345_1-thumbnail.jpg</edm:preview>
 </mdRecord>

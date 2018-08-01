@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2220705</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Roanoke, Va., Mayor Vincent Wheeler discusses population decrease and annexation</dcterms:title><dcterms:description>Roanoke, Va., Mayor Vincent Wheeler discusses Roanoke's declining population numbers, arguing that much of the decrease is due to the American Viscose Corporation transferring its employees out of the city. Wheeler suggests that establishing new industries and businesses in Roanoke could help halt the population decline, and he expresses his confidence in several business prospects. Asked to comment on developments in Roanoke's annexation project, Wheeler describes the property currently under consideration for incorporation into the city.</dcterms:description><dcterms:created>1959-09-18</dcterms:created>
+    <dcterms:title>Roanoke, Va., Mayor Vincent Wheeler discusses population decrease and annexation</dcterms:title>
+    <dcterms:description>Roanoke, Va., Mayor Vincent Wheeler discusses Roanoke's declining population numbers, arguing that much of the decrease is due to the American Viscose Corporation transferring its employees out of the city. Wheeler suggests that establishing new industries and businesses in Roanoke could help halt the population decline, and he expresses his confidence in several business prospects. Asked to comment on developments in Roanoke's annexation project, Wheeler describes the property currently under consideration for incorporation into the city.</dcterms:description>
+    <dcterms:created>1959-09-18</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85026134">Cities and towns--Growth</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85065960">Industries</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:18</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:18</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220705</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6592_1/6592_1-thumbnail.jpg</edm:preview>
 </mdRecord>

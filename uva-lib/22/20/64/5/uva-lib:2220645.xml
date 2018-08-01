@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2220645</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Langley research director John Stack speaks at Blacksburg, Va., engineering conference</dcterms:title><dcterms:description>John Stack, assistant director of the National Aeronautics and Space Administration's Langley Research Center, speaks during the opening convocation of an engineering conference at Virginia Polytechnic Institute in Blacksburg, Va. Several VPI alumni are honored at the convocation, with award presenters and honorees including G.L. Furr, president and general manager of the Appalachian Power Company, Donaldson Brown, General Motors financial executive, and Dr. Edwin Broun Fred, president emeritus of the University of Wisconsin.</dcterms:description><dcterms:created>1959-04-24</dcterms:created>
+    <dcterms:title>Langley research director John Stack speaks at Blacksburg, Va., engineering conference</dcterms:title>
+    <dcterms:description>John Stack, assistant director of the National Aeronautics and Space Administration's Langley Research Center, speaks during the opening convocation of an engineering conference at Virginia Polytechnic Institute in Blacksburg, Va. Several VPI alumni are honored at the convocation, with award presenters and honorees including G.L. Furr, president and general manager of the Appalachian Power Company, Donaldson Brown, General Motors financial executive, and Dr. Edwin Broun Fred, president emeritus of the University of Wisconsin.</dcterms:description>
+    <dcterms:created>1959-04-24</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85043176">Engineering</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79032188">Blacksburg (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:28</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:28</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220645</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6534_1/6534_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2216961</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Democratic Committee of Roanoke dispenses with primary election</dcterms:title><dcterms:description>At a Roanoke Democratic Committee meeting, members decide to forgo a Democratic primary for Roanoke City Council due to lack of interest. At 00:54, footage changes to scenes of post-Christmas bargain shopping.</dcterms:description><dcterms:created>1963-12-26</dcterms:created>
+    <dcterms:title>Democratic Committee of Roanoke dispenses with primary election</dcterms:title>
+    <dcterms:description>At a Roanoke Democratic Committee meeting, members decide to forgo a Democratic primary for Roanoke City Council due to lack of interest. At 00:54, footage changes to scenes of post-Christmas bargain shopping.</dcterms:description>
+    <dcterms:created>1963-12-26</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n79054058">Democratic Party (U.S.)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:27</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:27</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2216961</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1271_2/1271_2-thumbnail.jpg</edm:preview>
 </mdRecord>

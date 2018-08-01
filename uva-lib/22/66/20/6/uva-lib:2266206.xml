@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2266206</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Army Black Knights play Air Force Falcons at Yankee Stadium in the Bronx, New York.</dcterms:title><dcterms:description>At Yankee Stadium, a game between the Army Black Knights and the Air Force Falcons ends in a tie. Cadets from the U.S. Military Academy and U.S. Air Force Academy crowd the stands, along with many other fans. In the audience, U.S. Air Force Secretary James H. Douglas talks with General Thomas Dresser White, U.S. Air Force Chief of Staff.</dcterms:description><dcterms:created>1954-11-02</dcterms:created>
+    <dcterms:title>Army Black Knights play Air Force Falcons at Yankee Stadium in the Bronx, New York.</dcterms:title>
+    <dcterms:description>At Yankee Stadium, a game between the Army Black Knights and the Air Force Falcons ends in a tie. Cadets from the U.S. Military Academy and U.S. Air Force Academy crowd the stands, along with many other fans. In the audience, U.S. Air Force Secretary James H. Douglas talks with General Thomas Dresser White, U.S. Air Force Chief of Staff.</dcterms:description>
+    <dcterms:created>1954-11-02</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85126887">Sports</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85050405">Football</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n81059724">Bronx (New York, N.Y.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>2:59</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>2:59</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2266206</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/4062_1/4062_1-thumbnail.jpg</edm:preview>
 </mdRecord>

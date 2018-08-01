@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2220337</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In New York Sate, Norfolk and Western Railway unveils new single-unit locomotive</dcterms:title><dcterms:description>In New York Sate, men gather around Norfolk and Western Railway's newly-completed single-unit locomotive. Several N&amp;W employees, including C.E. Pond and Bob Pilcher, group together for a discussion. Footage shows the controls on the interior of the locomotive.</dcterms:description><dcterms:created>1954-05-24</dcterms:created>
+    <dcterms:title>In New York Sate, Norfolk and Western Railway unveils new single-unit locomotive</dcterms:title>
+    <dcterms:description>In New York Sate, men gather around Norfolk and Western Railway's newly-completed single-unit locomotive. Several N&amp;W employees, including C.E. Pond and Bob Pilcher, group together for a discussion. Footage shows the controls on the interior of the locomotive.</dcterms:description>
+    <dcterms:created>1954-05-24</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n83042258">Norfolk and Western Railway Company</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85078005">Locomotives--Design and construction</dcterms:subject>
     <dcterms:spatial>New York (State)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:04</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:04</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220337</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6206_1/6206_1-thumbnail.jpg</edm:preview>
 </mdRecord>

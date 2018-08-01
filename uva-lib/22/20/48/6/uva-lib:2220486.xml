@@ -11,12 +11,17 @@
     <dcterms:identifier>uva-lib:2220486</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Camp Easter Seals / United Cerebral Palsy hosts a Christmas square dancing party</dcterms:title><dcterms:description>Camp Easter Seals / United Cerebral Palsy hosts a Christmas square dancing party featuring Gene Jernigan and the Wranglers playing live country music. Adults and children alike dance joyfully to the music.</dcterms:description><dcterms:created>1968-12-29</dcterms:created>
+    <dcterms:title>Camp Easter Seals / United Cerebral Palsy hosts a Christmas square dancing party</dcterms:title>
+    <dcterms:description>Camp Easter Seals / United Cerebral Palsy hosts a Christmas square dancing party featuring Gene Jernigan and the Wranglers playing live country music. Adults and children alike dance joyfully to the music.</dcterms:description>
+    <dcterms:created>1968-12-29</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85019257">Camps for people with disabilities</dcterms:subject>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:59</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:59</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220486</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6388_2/6388_2-thumbnail.jpg</edm:preview>
 </mdRecord>

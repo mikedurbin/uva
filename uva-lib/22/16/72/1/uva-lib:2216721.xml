@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2216721</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Elderly widow Ella Epperson engages in a "squatters war" after being evicted from her home near Norton, Va.</dcterms:title><dcterms:description>Ella Epperson stands at a stove outside of her home along with all of her furniture after being evicted by Wise County, Va., courts to cover her debts.</dcterms:description><dcterms:created>1958-12-13</dcterms:created>
+    <dcterms:title>Elderly widow Ella Epperson engages in a "squatters war" after being evicted from her home near Norton, Va.</dcterms:title>
+    <dcterms:description>Ella Epperson stands at a stove outside of her home along with all of her furniture after being evicted by Wise County, Va., courts to cover her debts.</dcterms:description>
+    <dcterms:created>1958-12-13</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85045993">Eviction</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n80033972">Wise County (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:25</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:25</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2216721</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1161_1/1161_1-thumbnail.jpg</edm:preview>
 </mdRecord>

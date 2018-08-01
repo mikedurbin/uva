@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2220979</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>J. Sargeant Reynolds, Virginia state senator and lieutenant governor-hopeful, criticizes the leadership in the upper house of the Virginia General Assembly in Richmond, Va.</dcterms:title><dcterms:description>At the Virginia State Capitol in Richmond, Va., Senator J. Sargeant Reynolds denounces the "Old Guard" for controlling the Virginia General Assembly. Reynolds, a moderate Democrat, supports an alliance that has coalesced in the Senate of Virginia between moderate Demorats and Republicans in order to combat the Old Guard. Reynolds faults the Old Guard for a breach of faith, commenting that they dominate the Virginia General Assembly through committees, and hopes that the alliance will unite this afternoon to oppose the Old Guard.</dcterms:description><dcterms:created>1969-03-25</dcterms:created>
+    <dcterms:title>J. Sargeant Reynolds, Virginia state senator and lieutenant governor-hopeful, criticizes the leadership in the upper house of the Virginia General Assembly in Richmond, Va.</dcterms:title>
+    <dcterms:description>At the Virginia State Capitol in Richmond, Va., Senator J. Sargeant Reynolds denounces the "Old Guard" for controlling the Virginia General Assembly. Reynolds, a moderate Democrat, supports an alliance that has coalesced in the Senate of Virginia between moderate Demorats and Republicans in order to combat the Old Guard. Reynolds faults the Old Guard for a breach of faith, commenting that they dominate the Virginia General Assembly through committees, and hopes that the alliance will unite this afternoon to oppose the Old Guard.</dcterms:description>
+    <dcterms:created>1969-03-25</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n79091360">Virginia. General Assembly. Senate</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85143772">Virginia--Politics and government</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79060700">Richmond (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:25</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:25</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220979</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6940_1/6940_1-thumbnail.jpg</edm:preview>
 </mdRecord>

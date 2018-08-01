@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2216709</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>William M. Sclater joins the Virginia State Highway Commission as a representative of the Bristol, Va., district</dcterms:title><dcterms:description>In Marion, Va., Smith County Clerk of Courts Lloyd Currin swears in William M. Sclateras the Bristol district representative of the State Highway Commission.</dcterms:description><dcterms:created>1958-08-26</dcterms:created>
+    <dcterms:title>William M. Sclater joins the Virginia State Highway Commission as a representative of the Bristol, Va., district</dcterms:title>
+    <dcterms:description>In Marion, Va., Smith County Clerk of Courts Lloyd Currin swears in William M. Sclateras the Bristol district representative of the State Highway Commission.</dcterms:description>
+    <dcterms:created>1958-08-26</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n85004261">Virginia. State Highway Commission</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n83052769">Marion (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:45</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:45</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2216709</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1156_2/1156_2-thumbnail.jpg</edm:preview>
 </mdRecord>

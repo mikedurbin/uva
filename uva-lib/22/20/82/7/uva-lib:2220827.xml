@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2220827</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In a public statement in Richmond, Va., Delegate George C. Rawlings, Jr., rejects and criticizes the plea of Virginia Governor Mills E. Godwin, Jr., calling for Democratic Party candidates to unite</dcterms:title><dcterms:description>Delegate George C. Rawlings, Jr., issues a public statement in Richmond, Va., castigating Governor Mills E. Godwin, Jr. In the face of the upcoming gubernatorial election, the governor of Virginia called for the Democratic  candidates to accommodate one another and for the party to unite. Delegate Rawlings criticizes Governor Godwin for neglecting to work toward this goal, listing efforts the governor could have made but did not, such as supporting certain candidates or campaigning throughout the state.</dcterms:description><dcterms:created>1968-11-29</dcterms:created>
+    <dcterms:title>In a public statement in Richmond, Va., Delegate George C. Rawlings, Jr., rejects and criticizes the plea of Virginia Governor Mills E. Godwin, Jr., calling for Democratic Party candidates to unite</dcterms:title>
+    <dcterms:description>Delegate George C. Rawlings, Jr., issues a public statement in Richmond, Va., castigating Governor Mills E. Godwin, Jr. In the face of the upcoming gubernatorial election, the governor of Virginia called for the Democratic  candidates to accommodate one another and for the party to unite. Delegate Rawlings criticizes Governor Godwin for neglecting to work toward this goal, listing efforts the governor could have made but did not, such as supporting certain candidates or campaigning throughout the state.</dcterms:description>
+    <dcterms:created>1968-11-29</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n81076963">Democratic Party (Va.)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79060700">Richmond (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:59</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:59</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220827</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6747_2/6747_2-thumbnail.jpg</edm:preview>
 </mdRecord>

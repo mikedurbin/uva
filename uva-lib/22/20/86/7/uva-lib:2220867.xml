@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2220867</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Roanoke Valley Boosters Club meets in White Sulphur Springs, W. Va.</dcterms:title><dcterms:description>Norfolk and Western Railway Company Vice President John P. Fishwick speaks at a meeting of the Roanoke Valley Boosters Club at the Greenbrier Hotel in White Sulphur Springs, W. Va. Footage shows booster club members arriving at the hotel with matching walking canes in hand.</dcterms:description><dcterms:created>1958-06-19</dcterms:created>
+    <dcterms:title>Roanoke Valley Boosters Club meets in White Sulphur Springs, W. Va.</dcterms:title>
+    <dcterms:description>Norfolk and Western Railway Company Vice President John P. Fishwick speaks at a meeting of the Roanoke Valley Boosters Club at the Greenbrier Hotel in White Sulphur Springs, W. Va. Footage shows booster club members arriving at the hotel with matching walking canes in hand.</dcterms:description>
+    <dcterms:created>1958-06-19</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n83131820">Boosters Clubs of America</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n83042258">Norfolk and Western Railway Company</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n85308225">White Sulphur Springs (W. Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:40</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:40</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220867</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6790_1/6790_1-thumbnail.jpg</edm:preview>
 </mdRecord>

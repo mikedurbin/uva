@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2280515</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Preparations begin for a New Year's Eve party, complete with party hats, streamers, and balloons</dcterms:title><dcterms:description>A group of men and women prepare for a New Year's Eve party. Footage features a Christmas carol playing in the background as women arrange party hats on tables, men carry ladders to hang streamers, and women blow up balloons.</dcterms:description><dcterms:created>1968-12-31</dcterms:created>
+    <dcterms:title>Preparations begin for a New Year's Eve party, complete with party hats, streamers, and balloons</dcterms:title>
+    <dcterms:description>A group of men and women prepare for a New Year's Eve party. Footage features a Christmas carol playing in the background as women arrange party hats on tables, men carry ladders to hang streamers, and women blow up balloons.</dcterms:description>
+    <dcterms:created>1968-12-31</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85091408">New Year</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh2001000033">Parties</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:06</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:06</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280515</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6397_2/6397_2-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2355167</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>A dog owner shares his thoughts on passing legislation to make the foxhound the official state dog of Virginia</dcterms:title><dcterms:description>A news anchor interviews a foxhound owner to inquire about his views on the Virginia General Assembly's consideration to name the dog breed the state dog of Virginia. As the dogs frolick about, the owner voices support for the bill.</dcterms:description><dcterms:created>1966-02-20</dcterms:created>
+    <dcterms:title>A dog owner shares his thoughts on passing legislation to make the foxhound the official state dog of Virginia</dcterms:title>
+    <dcterms:description>A news anchor interviews a foxhound owner to inquire about his views on the Virginia General Assembly's consideration to name the dog breed the state dog of Virginia. As the dogs frolick about, the owner voices support for the bill.</dcterms:description>
+    <dcterms:created>1966-02-20</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh98003027">State dogs</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85004328">American foxhound</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79022909">Virginia</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:19</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:19</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2355167</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/2825_2/2825_2-thumbnail.jpg</edm:preview>
 </mdRecord>

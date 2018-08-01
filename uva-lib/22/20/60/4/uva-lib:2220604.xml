@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2220604</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In the Roanoke County Courthouse in Salem, Va., the Roanoke County Board of Supervisors meets to discuss its agenda and vote on chairman and vice chairman for 1969</dcterms:title><dcterms:description>In the Roanoke County Courthouse in Salem, Va., the Roanoke County Board of Supervisors votes and elects Charles H. Osterhoudt as chairman and A. T. Huddleston as vice chairman for 1969. Footage shows the current Chairman Lee B. Eddy shaking hands with Huddleston and Osterhoudt in congratulations.</dcterms:description><dcterms:created>1968-12-26</dcterms:created>
+    <dcterms:title>In the Roanoke County Courthouse in Salem, Va., the Roanoke County Board of Supervisors meets to discuss its agenda and vote on chairman and vice chairman for 1969</dcterms:title>
+    <dcterms:description>In the Roanoke County Courthouse in Salem, Va., the Roanoke County Board of Supervisors votes and elects Charles H. Osterhoudt as chairman and A. T. Huddleston as vice chairman for 1969. Footage shows the current Chairman Lee B. Eddy shaking hands with Huddleston and Osterhoudt in congratulations.</dcterms:description>
+    <dcterms:created>1968-12-26</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85033484">County government</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82098973">Salem (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:40</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:40</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220604</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6503_1/6503_1-thumbnail.jpg</edm:preview>
 </mdRecord>

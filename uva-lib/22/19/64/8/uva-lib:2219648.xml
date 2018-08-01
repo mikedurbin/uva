@@ -11,7 +11,9 @@
     <dcterms:identifier>uva-lib:2219648</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>WSLS-TV reporter Bill Walker interviews Fred H. Burtner, a member of the Blacksburg Jaycees, about sponsoring an NBA game at the Salem Roanoke Valley Civic Center in Salem, Va.</dcterms:title><dcterms:description>Blacksburg Jaycees member Fred H. Burtner tells WSLS-TV reporter Bill Walker that the Blacksburg Chapter of Jaycees International is sponsoring a National Basketball Association game at the Salem Roanoke Valley Civic Center in Salem, Va. The Atlanta Hawks will face the Boston Celtics in an expensive $6000 game. According to Burtner, this is a worthwhile cause because the proceeds from the game will go toward the Blacksburg Jaycees' youth sports projects.</dcterms:description><dcterms:created>1968-09-17</dcterms:created>
+    <dcterms:title>WSLS-TV reporter Bill Walker interviews Fred H. Burtner, a member of the Blacksburg Jaycees, about sponsoring an NBA game at the Salem Roanoke Valley Civic Center in Salem, Va.</dcterms:title>
+    <dcterms:description>Blacksburg Jaycees member Fred H. Burtner tells WSLS-TV reporter Bill Walker that the Blacksburg Chapter of Jaycees International is sponsoring a National Basketball Association game at the Salem Roanoke Valley Civic Center in Salem, Va. The Atlanta Hawks will face the Boston Celtics in an expensive $6000 game. According to Burtner, this is a worthwhile cause because the proceeds from the game will go toward the Blacksburg Jaycees' youth sports projects.</dcterms:description>
+    <dcterms:created>1968-09-17</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n80065959">Boston Celtics (Basketball team)</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n82260258">Atlanta Hawks (Basketball team)</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n84088890">Jaycees International</dcterms:subject>
@@ -19,7 +21,10 @@
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:22</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:22</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2219648</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3045_1/3045_1-thumbnail.jpg</edm:preview>
 </mdRecord>

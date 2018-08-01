@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2219884</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Jagadguru Bharati Krishna Tirthaji arrives in Roanoke, Va.</dcterms:title><dcterms:description>Jagadguru Bharati Krishna Tirthaji, Shankaracharya of Govardhana matha of Puri in Orissa, India, disembarks from a plane at Roanoke's Woodrum Field Airport with the assistance of his traveling companions. Several people help him into a wheelchair, then wheel him to a waiting car.</dcterms:description><dcterms:created>1958-03-24</dcterms:created>
+    <dcterms:title>Jagadguru Bharati Krishna Tirthaji arrives in Roanoke, Va.</dcterms:title>
+    <dcterms:description>Jagadguru Bharati Krishna Tirthaji, Shankaracharya of Govardhana matha of Puri in Orissa, India, disembarks from a plane at Roanoke's Woodrum Field Airport with the assistance of his traveling companions. Several people help him into a wheelchair, then wheel him to a waiting car.</dcterms:description>
+    <dcterms:created>1958-03-24</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85060932">Hinduism</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:46</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:46</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2219884</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3323_1/3323_1-thumbnail.jpg</edm:preview>
 </mdRecord>

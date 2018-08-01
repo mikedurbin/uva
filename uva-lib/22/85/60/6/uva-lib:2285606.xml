@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2285606</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Virginia Tech President T. Marshall Hahn attends Roanoke Lions Club banquet</dcterms:title><dcterms:description>President of Virginia Tech Dr. T. Marshall Hahn addresses the Roanoke Lions Club at the Hotel Roanoke. His remarks concern problems in higher education, like insufficient college facilities.</dcterms:description><dcterms:created>1965-04-15</dcterms:created>
+    <dcterms:title>Virginia Tech President T. Marshall Hahn attends Roanoke Lions Club banquet</dcterms:title>
+    <dcterms:description>President of Virginia Tech Dr. T. Marshall Hahn addresses the Roanoke Lions Club at the Hotel Roanoke. His remarks concern problems in higher education, like insufficient college facilities.</dcterms:description>
+    <dcterms:created>1965-04-15</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/no99059867">Lions Clubs International</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:38</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:38</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2285606</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0725_1/0725_1-thumbnail.jpg</edm:preview>
 </mdRecord>

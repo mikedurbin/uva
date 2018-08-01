@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2280380</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Chamber of Commerce official John P. Fishwick discusses proposal to maintain filatex production plant in Roanoke, Va.</dcterms:title><dcterms:description>President of the Roanoke, Va., Chamber of Commerce John P. Fishwick discusses Roanoke's hope to maintain filatex manufacturing jobs at the American Viscose Corporation plant. He outlines three problems: convincing American Viscose Corporation to grant rights to continue filatex production, raising the money in order to purchase the business, and finding another building or plant site.</dcterms:description><dcterms:created>1958-10-17</dcterms:created>
+    <dcterms:title>Chamber of Commerce official John P. Fishwick discusses proposal to maintain filatex production plant in Roanoke, Va.</dcterms:title>
+    <dcterms:description>President of the Roanoke, Va., Chamber of Commerce John P. Fishwick discusses Roanoke's hope to maintain filatex manufacturing jobs at the American Viscose Corporation plant. He outlines three problems: convincing American Viscose Corporation to grant rights to continue filatex production, raising the money in order to purchase the business, and finding another building or plant site.</dcterms:description>
+    <dcterms:created>1958-10-17</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/nr92020204">American Viscose Corporation</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n92067716">Fishwick, John Palmer, 1916-2010</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:17</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:17</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280380</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/2430_1/2430_1-thumbnail.jpg</edm:preview>
 </mdRecord>

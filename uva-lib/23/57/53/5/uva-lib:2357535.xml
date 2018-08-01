@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2357535</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>A reporter interviews Civil War veteran John Salling at his home in Slant, Va.</dcterms:title><dcterms:description>A reporter interviews reputed Civil War veteran John Salling at his home in Slant, Scott County, Va., about life after the war. Salling wears a Confederate Army uniform. Footage includes a view of Salling's house from across a road and Salling sitting in a wheelchair at an unknown gathering.</dcterms:description><dcterms:created>1959-03-16</dcterms:created>
+    <dcterms:title>A reporter interviews Civil War veteran John Salling at his home in Slant, Va.</dcterms:title>
+    <dcterms:description>A reporter interviews reputed Civil War veteran John Salling at his home in Slant, Scott County, Va., about life after the war. Salling wears a Confederate Army uniform. Footage includes a view of Salling's house from across a road and Salling sitting in a wheelchair at an unknown gathering.</dcterms:description>
+    <dcterms:created>1959-03-16</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh2008113201">Veterans--United States--Biography</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85140262">United States--History--Civil War, 1861-1865--Personal narratives, Confederate</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n80043312">Scott County (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>3:10</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>3:10</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2357535</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/5870_2/5870_2-thumbnail.jpg</edm:preview>
 </mdRecord>

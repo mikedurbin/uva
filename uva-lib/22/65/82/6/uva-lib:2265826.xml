@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2265826</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Harry Easterly defeats George Fulton, Jr., in the Virginia State Golf Association Amateur Championship tournament</dcterms:title><dcterms:description>Harry Easterly and George Fulton, Jr., tee off and compete in the VSGA Amateur Championship tournament; Easterly wins the competition and is congratulated by Fulton and his fans.</dcterms:description><dcterms:created>1956-07-01</dcterms:created>
+    <dcterms:title>Harry Easterly defeats George Fulton, Jr., in the Virginia State Golf Association Amateur Championship tournament</dcterms:title>
+    <dcterms:description>Harry Easterly and George Fulton, Jr., tee off and compete in the VSGA Amateur Championship tournament; Easterly wins the competition and is congratulated by Fulton and his fans.</dcterms:description>
+    <dcterms:created>1956-07-01</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85055808">Golf--Tournaments</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n81026461">Hot Springs (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:25</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:25</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2265826</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1565_1/1565_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2265747</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Lumberjacks compete in the annual Paul Bunyan Celebration at Fort Bragg, Calif.</dcterms:title><dcterms:description>At the Paul Bunyan Celebration at Fort Bragg, Calif., men compete in an axe-throwing competition, and Mike Luzzi is named the winner. Loggers compete in a tree-climbing event; Don Sailor wins the competition and performs a dance after reaching the top of the tree.</dcterms:description><dcterms:created>1954-09-10</dcterms:created>
+    <dcterms:title>Lumberjacks compete in the annual Paul Bunyan Celebration at Fort Bragg, Calif.</dcterms:title>
+    <dcterms:description>At the Paul Bunyan Celebration at Fort Bragg, Calif., men compete in an axe-throwing competition, and Mike Luzzi is named the winner. Loggers compete in a tree-climbing event; Don Sailor wins the competition and performs a dance after reaching the top of the tree.</dcterms:description>
+    <dcterms:created>1954-09-10</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85078830">Lumbermen</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85031543">Contests</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n83220610">Fort Bragg (Calif.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:22</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:22</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2265747</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1500_1/1500_1-thumbnail.jpg</edm:preview>
 </mdRecord>

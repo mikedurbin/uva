@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2265901</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Yankees defeat Braves in game three of 1957 World Series in Milwaukee, Wis.</dcterms:title><dcterms:description>In Milwaukee, Wis., fans enter County Stadium to see their Braves play in game three of the 1957 World Series. Footage offers highlights of hitting, fielding, and pitching in match won by the New York Yankees 12 to 3. Players seen in footage include Bob Buhl, Tony Kubek, Mickey Mantle, Yogi Berra, Bob Turley, Del Rice, Fred "Red" Schoendienst, Gene Conley, Hank Aaron, and Don Larsen.</dcterms:description><dcterms:created>1957-10-05</dcterms:created>
+    <dcterms:title>Yankees defeat Braves in game three of 1957 World Series in Milwaukee, Wis.</dcterms:title>
+    <dcterms:description>In Milwaukee, Wis., fans enter County Stadium to see their Braves play in game three of the 1957 World Series. Footage offers highlights of hitting, fielding, and pitching in match won by the New York Yankees 12 to 3. Players seen in footage include Bob Buhl, Tony Kubek, Mickey Mantle, Yogi Berra, Bob Turley, Del Rice, Fred "Red" Schoendienst, Gene Conley, Hank Aaron, and Don Larsen.</dcterms:description>
+    <dcterms:created>1957-10-05</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85012026">Baseball</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n81118918">New York Yankees (Baseball team)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79119217">Milwaukee (Wis.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>2:32</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>2:32</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2265901</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1791_1/1791_1-thumbnail.jpg</edm:preview>
 </mdRecord>

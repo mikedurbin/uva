@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2216260</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Councilman Frank M. Perkinson, Jr. gives an interview about the newly formed gun control committee</dcterms:title><dcterms:description>Councilman Frank M. Perkinson, Jr., discusses the goals of the newly formed committee for gun control in Roanoke, Va., advocating gun registration. Councilman Perkinson asserts that, compared to hunting rifles, pistols are the cause of a large number of homicides and suicides.</dcterms:description><dcterms:created>1968-06-18</dcterms:created>
+    <dcterms:title>Councilman Frank M. Perkinson, Jr. gives an interview about the newly formed gun control committee</dcterms:title>
+    <dcterms:description>Councilman Frank M. Perkinson, Jr., discusses the goals of the newly formed committee for gun control in Roanoke, Va., advocating gun registration. Councilman Perkinson asserts that, compared to hunting rifles, pistols are the cause of a large number of homicides and suicides.</dcterms:description>
+    <dcterms:created>1968-06-18</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85057921">Gun control</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>2:13</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>2:13</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2216260</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0989_1/0989_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2219964</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Students compete at the Virginia State Oratorical Contest in Charlottesville, Va.</dcterms:title><dcterms:description>Three high school students speak before an audience in the final stages of the Virginia State Oratorical Contest, sponsored by the American Legion Department of Virginia, in Charlottesville, Va. All three are congratulated by American Legion volunteers and others at the close of the competition; the winner receives a check.</dcterms:description><dcterms:created>1958-03-19</dcterms:created>
+    <dcterms:title>Students compete at the Virginia State Oratorical Contest in Charlottesville, Va.</dcterms:title>
+    <dcterms:description>Three high school students speak before an audience in the final stages of the Virginia State Oratorical Contest, sponsored by the American Legion Department of Virginia, in Charlottesville, Va. All three are congratulated by American Legion volunteers and others at the close of the competition; the winner receives a check.</dcterms:description>
+    <dcterms:created>1958-03-19</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n83166945">American Legion. Department of Virginia</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85095299">Oratory</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79018570">Charlottesville (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:47</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:47</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2219964</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3557_2/3557_2-thumbnail.jpg</edm:preview>
 </mdRecord>

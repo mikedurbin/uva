@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2266009</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Roosevelt Raceway opens in Westbury, N.Y.</dcterms:title><dcterms:description>Nearly 43,000 people enter the newly-opened Roosevelt Raceway, which features new escalators; trotting horses parade around the track to celebrate the opening of the new racing season; men and women line up outside windows to place their bets; the race begins and the horses trot around the track; shot of the Roosevelt Raceway at night time.</dcterms:description><dcterms:created>1957-08-02</dcterms:created>
+    <dcterms:title>Roosevelt Raceway opens in Westbury, N.Y.</dcterms:title>
+    <dcterms:description>Nearly 43,000 people enter the newly-opened Roosevelt Raceway, which features new escalators; trotting horses parade around the track to celebrate the opening of the new racing season; men and women line up outside windows to place their bets; the race begins and the horses trot around the track; shot of the Roosevelt Raceway at night time.</dcterms:description>
+    <dcterms:created>1957-08-02</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85062110">Horse racing</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n84064728">Westbury (Nassau County, N.Y.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:47</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:47</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2266009</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1982_1/1982_1-thumbnail.jpg</edm:preview>
 </mdRecord>

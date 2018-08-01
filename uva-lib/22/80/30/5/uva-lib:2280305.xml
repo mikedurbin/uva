@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2280305</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Hollins College in Roanoke County, Va., holds a rally for presidential candidates Hubert H. Humphrey, Richard M. Nixon, and George C. Wallace</dcterms:title><dcterms:description>Students at Hollins College in Roanoke County, Va., rally for each of the three presidential candidates, Democrat Hubert H. Humphrey, Republican Richard M. Nixon, and Independent George C. Wallace. A man speaks on behalf of Wallace in front of a crowd of cheering students. Footage shows students standing in the streets and riding on cars holding posters and banners of their candidates.</dcterms:description><dcterms:created>1968-11-01</dcterms:created>
+    <dcterms:title>Hollins College in Roanoke County, Va., holds a rally for presidential candidates Hubert H. Humphrey, Richard M. Nixon, and George C. Wallace</dcterms:title>
+    <dcterms:description>Students at Hollins College in Roanoke County, Va., rally for each of the three presidential candidates, Democrat Hubert H. Humphrey, Republican Richard M. Nixon, and Independent George C. Wallace. A man speaks on behalf of Wallace in front of a crowd of cheering students. Footage shows students standing in the streets and riding on cars holding posters and banners of their candidates.</dcterms:description>
+    <dcterms:created>1968-11-01</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh2008109960">Presidents--United States--Election--1968</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82143167">Roanoke County (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:47</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:47</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280305</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0856_1/0856_1-thumbnail.jpg</edm:preview>
 </mdRecord>

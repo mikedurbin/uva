@@ -11,13 +11,17 @@
     <dcterms:identifier>uva-lib:2278012</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>During public hearing, Roanoke business leaders make case for retaining American Airlines service to Woodrum Field Airport</dcterms:title><dcterms:created>1962-06-19</dcterms:created>
+    <dcterms:title>During public hearing, Roanoke business leaders make case for retaining American Airlines service to Woodrum Field Airport</dcterms:title>
+    <dcterms:created>1962-06-19</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85137027">Transportation</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:42</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:42</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2278012</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0678_1/0678_1-thumbnail.jpg</edm:preview>
 </mdRecord>

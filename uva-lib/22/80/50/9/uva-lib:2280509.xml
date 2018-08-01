@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2280509</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>The United States Air Force holds a Christmas celebration for children</dcterms:title><dcterms:description>The United States Air Force throws a Christmas party for children, complete with Santa Claus, sweet treats, and decorations. Footage shows an Air Force Senior Airman handing out cookies, a film screening, and children sitting on Santa Claus's lap.</dcterms:description><dcterms:created>1968-12-25</dcterms:created>
+    <dcterms:title>The United States Air Force holds a Christmas celebration for children</dcterms:title>
+    <dcterms:description>The United States Air Force throws a Christmas party for children, complete with Santa Claus, sweet treats, and decorations. Footage shows an Air Force Senior Airman handing out cookies, a film screening, and children sitting on Santa Claus's lap.</dcterms:description>
+    <dcterms:created>1968-12-25</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85025303">Christmas</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85140563">United States. Air Force</dcterms:subject>
     <dcterms:spatial>Unknown</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:55</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:55</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280509</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6386_1/6386_1-thumbnail.jpg</edm:preview>
 </mdRecord>

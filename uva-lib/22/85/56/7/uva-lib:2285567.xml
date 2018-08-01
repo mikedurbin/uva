@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2285567</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Interview with Dr. Henry Cobb</dcterms:title><dcterms:description>Dr. Henry Cobb, president of the National Association for Retarded Children, discusses the search for the many causes of mental disability. He visited Virginia to address the Southeastern Regional Conference of NARC at Natural Bridge.</dcterms:description><dcterms:created>1965-05-01</dcterms:created>
+    <dcterms:title>Interview with Dr. Henry Cobb</dcterms:title>
+    <dcterms:description>Dr. Henry Cobb, president of the National Association for Retarded Children, discusses the search for the many causes of mental disability. He visited Virginia to address the Southeastern Regional Conference of NARC at Natural Bridge.</dcterms:description>
+    <dcterms:created>1965-05-01</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n79148023">National Association for Retarded Children</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n88074573">Natural Bridge (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:33</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:33</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2285567</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0664_3/0664_3-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,7 +11,8 @@
     <dcterms:identifier>uva-lib:2396459</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Ingemar Johansson, the world's heavyweight boxing champion, is working out in New York in preparation for his match with Floyd Patterson</dcterms:title><dcterms:created>1960-05-19</dcterms:created>
+    <dcterms:title>Ingemar Johansson, the world's heavyweight boxing champion, is working out in New York in preparation for his match with Floyd Patterson</dcterms:title>
+    <dcterms:created>1960-05-19</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85016186">Boxing</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85126887">Sports</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n84800961">Grossinger (N.Y.)</dcterms:spatial>

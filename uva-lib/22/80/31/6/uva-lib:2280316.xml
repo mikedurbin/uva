@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2280316</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Passenger is served an alcoholic drink aboard a train</dcterms:title><dcterms:description>A train pulls into a station and passengers board. Footage shows a waiter pouring a passenger an alcoholic drink while sorrounded by a crowd of photographers and onlookers. The train pulls out of the station and continues on its route.</dcterms:description><dcterms:created>1968-10-21</dcterms:created>
+    <dcterms:title>Passenger is served an alcoholic drink aboard a train</dcterms:title>
+    <dcterms:description>A train pulls into a station and passengers board. Footage shows a waiter pouring a passenger an alcoholic drink while sorrounded by a crowd of photographers and onlookers. The train pulls out of the station and continues on its route.</dcterms:description>
+    <dcterms:created>1968-10-21</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85003283">Alcoholic beverages</dcterms:subject>
     <dcterms:spatial>Unknown</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:40</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:40</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280316</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0924_2/0924_2-thumbnail.jpg</edm:preview>
 </mdRecord>

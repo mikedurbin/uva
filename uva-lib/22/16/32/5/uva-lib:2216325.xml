@@ -11,12 +11,17 @@
     <dcterms:identifier>uva-lib:2216325</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>American Cheerleader Academy holds week-long training session at Roanoke College</dcterms:title><dcterms:description>Adolescent girls in a rectangular formation practice cheerleading, clapping their hands in unison. Six women stand before them, demonstrating the movements.</dcterms:description><dcterms:created>1968-06-13</dcterms:created>
+    <dcterms:title>American Cheerleader Academy holds week-long training session at Roanoke College</dcterms:title>
+    <dcterms:description>Adolescent girls in a rectangular formation practice cheerleading, clapping their hands in unison. Six women stand before them, demonstrating the movements.</dcterms:description>
+    <dcterms:created>1968-06-13</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85022843">Cheerleading</dcterms:subject>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:08</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:08</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2216325</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1011_1/1011_1-thumbnail.jpg</edm:preview>
 </mdRecord>

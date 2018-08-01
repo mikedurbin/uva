@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2217984</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Two children killed in trailer fire in Floyd, Va.</dcterms:title><dcterms:description>Footage of the wreckage from a gas stove explosion that burned the trailer belonging to Reverend Wareman T. Slaughter and his wife, killing two of their children who were trapped inside.</dcterms:description><dcterms:created>1958-12-20</dcterms:created>
+    <dcterms:title>Two children killed in trailer fire in Floyd, Va.</dcterms:title>
+    <dcterms:description>Footage of the wreckage from a gas stove explosion that burned the trailer belonging to Reverend Wareman T. Slaughter and his wife, killing two of their children who were trapped inside.</dcterms:description>
+    <dcterms:created>1958-12-20</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85048572">Fires</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85036085">Death</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n92077017">Floyd (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:37</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:37</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2217984</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1947_2/1947_2-thumbnail.jpg</edm:preview>
 </mdRecord>

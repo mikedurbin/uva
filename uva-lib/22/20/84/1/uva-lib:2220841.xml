@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2220841</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Construction of a new wing of Virginia Western Community College begins as President Harold Hopper tells WSLS-TV reporter Charles Fishburne about his goals for the school in Roanoke, Va.</dcterms:title><dcterms:description>Footage shows construction of a new library, classroom, and science facilities for Virginia Western Community College in Roanoke, Va. College President Harold Hopper tells WSLS-TV reporter Charles Fishburne that his goal is to provide a top-notch educational experience for his students and faculty.</dcterms:description><dcterms:created>1968-09-03</dcterms:created>
+    <dcterms:title>Construction of a new wing of Virginia Western Community College begins as President Harold Hopper tells WSLS-TV reporter Charles Fishburne about his goals for the school in Roanoke, Va.</dcterms:title>
+    <dcterms:description>Footage shows construction of a new library, classroom, and science facilities for Virginia Western Community College in Roanoke, Va. College President Harold Hopper tells WSLS-TV reporter Charles Fishburne that his goal is to provide a top-notch educational experience for his students and faculty.</dcterms:description>
+    <dcterms:created>1968-09-03</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n85258344">Virginia Western Community College</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:33</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:33</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220841</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6767_1/6767_1-thumbnail.jpg</edm:preview>
 </mdRecord>

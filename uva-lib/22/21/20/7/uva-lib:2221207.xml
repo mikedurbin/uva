@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2221207</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Roanoke, Va., WSLS-TV reporter Jim Walsh interviews Walter Gambill, Chairman of the Republican Party of Virginia's third congressional district, on election issues</dcterms:title><dcterms:description>In a Roanoke, Va., interview with WSLS-TV reporter Jim Walsh, Chairman of the Republican Party of Virginia's third congressional district Walter Gambill argues that integration should not be a leading issue in political campaigns for the upcoming election, faulting both political parties with having appealed to minorities on civil rights matters in order to gain votes. Gambill explains the Republican Party of Virginia's position that the controlling issue of the election should be the question of state sovereignty, which he defines as the ability of states to protect the civil rights of individual citizens.</dcterms:description><dcterms:created>1956-07-20</dcterms:created>
+    <dcterms:title>In Roanoke, Va., WSLS-TV reporter Jim Walsh interviews Walter Gambill, Chairman of the Republican Party of Virginia's third congressional district, on election issues</dcterms:title>
+    <dcterms:description>In a Roanoke, Va., interview with WSLS-TV reporter Jim Walsh, Chairman of the Republican Party of Virginia's third congressional district Walter Gambill argues that integration should not be a leading issue in political campaigns for the upcoming election, faulting both political parties with having appealed to minorities on civil rights matters in order to gain votes. Gambill explains the Republican Party of Virginia's position that the controlling issue of the election should be the question of state sovereignty, which he defines as the ability of states to protect the civil rights of individual citizens.</dcterms:description>
+    <dcterms:created>1956-07-20</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n81078171">Republican Party (Va.)</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh2005002748">School integration--Massive resistance movement</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:51</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:51</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221207</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7173_1/7173_1-thumbnail.jpg</edm:preview>
 </mdRecord>

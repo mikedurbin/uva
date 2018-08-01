@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2218027</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Dinner meeting of the Roanoke Fraternal Order of Police Associates</dcterms:title><dcterms:description>Roanoke Councilwoman Mary C. Pickett addresses the Fraternal Order of Police Associates at a dinner meeting; Patrolman C.O. Perdue, Jr., is named officer of the month and receives a .38 caliber revolver; FOPA President Paul S. Johnson discusses the dedication of a new FOPA camp and the need for more men in the Roanoke Detective Bureau.</dcterms:description><dcterms:created>1958-06-13</dcterms:created>
+    <dcterms:title>Dinner meeting of the Roanoke Fraternal Order of Police Associates</dcterms:title>
+    <dcterms:description>Roanoke Councilwoman Mary C. Pickett addresses the Fraternal Order of Police Associates at a dinner meeting; Patrolman C.O. Perdue, Jr., is named officer of the month and receives a .38 caliber revolver; FOPA President Paul S. Johnson discusses the dedication of a new FOPA camp and the need for more men in the Roanoke Detective Bureau.</dcterms:description>
+    <dcterms:created>1958-06-13</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50076834">Fraternal Order of Police (U.S.)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:41</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:41</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2218027</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1960_2/1960_2-thumbnail.jpg</edm:preview>
 </mdRecord>

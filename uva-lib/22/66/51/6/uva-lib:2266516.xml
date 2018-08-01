@@ -11,11 +11,15 @@
     <dcterms:identifier>uva-lib:2266516</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Roger Bannister visits New York</dcterms:title><dcterms:created>1954-05-12</dcterms:created>
+    <dcterms:title>Roger Bannister visits New York</dcterms:title>
+    <dcterms:created>1954-05-12</dcterms:created>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:30</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:30</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2266516</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/4787_1/4787_1-thumbnail.jpg</edm:preview>
 </mdRecord>

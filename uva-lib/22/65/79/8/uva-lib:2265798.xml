@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2265798</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Patricia McCormick wins finals in the women's diving Olympic qualifications in Detroit, Mich.</dcterms:title><dcterms:description>Paula Jean Myers, Juno Irwin, and Patricia McCormick compete in the Olympic eliminations for women's diving; Patricia McCormick wins the finals and all three women stand together after being chosen for the American Olympic team.</dcterms:description><dcterms:created>1956-08-13</dcterms:created>
+    <dcterms:title>Patricia McCormick wins finals in the women's diving Olympic qualifications in Detroit, Mich.</dcterms:title>
+    <dcterms:description>Paula Jean Myers, Juno Irwin, and Patricia McCormick compete in the Olympic eliminations for women's diving; Patricia McCormick wins the finals and all three women stand together after being chosen for the American Olympic team.</dcterms:description>
+    <dcterms:created>1956-08-13</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85038594">Diving</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79045539">Detroit (Mich.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:48</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:48</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2265798</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1539_1/1539_1-thumbnail.jpg</edm:preview>
 </mdRecord>

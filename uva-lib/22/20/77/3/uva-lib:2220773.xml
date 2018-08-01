@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2220773</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Drivers perform stunts at Starkey Speedway in Roanoke, Va.</dcterms:title><dcterms:description>Daredevils perform car and motorcycle stunts at the Starkey Speedway in Roanoke, Va., while spectators look on from the stands. Three cars speed along the track, linked together. A motorcycle and several cars, one with a man clinging to the hood, drive through a wall of fire. A line of cars drives up a one-sided ramp, each balancing on two wheels.</dcterms:description><dcterms:created>1959-07-09</dcterms:created>
+    <dcterms:title>Drivers perform stunts at Starkey Speedway in Roanoke, Va.</dcterms:title>
+    <dcterms:description>Daredevils perform car and motorcycle stunts at the Starkey Speedway in Roanoke, Va., while spectators look on from the stands. Three cars speed along the track, linked together. A motorcycle and several cars, one with a man clinging to the hood, drive through a wall of fire. A line of cars drives up a one-sided ramp, each balancing on two wheels.</dcterms:description>
+    <dcterms:created>1959-07-09</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh94009552">Daredevils</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85129342">Stunt cycling</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:51</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:51</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220773</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6666_1/6666_1-thumbnail.jpg</edm:preview>
 </mdRecord>

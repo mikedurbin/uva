@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2396006</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>State Pupil Placement Board meeting in Pulaski County</dcterms:title><dcterms:description>Citizens attend a Virginia Pupil Placement Board meeting in Pulaski to hear NAACP lawyer Reuben Lawson appeal for the admittance of black students to Independence High School in Grayson County.</dcterms:description><dcterms:created>1958-02-04</dcterms:created>
+    <dcterms:title>State Pupil Placement Board meeting in Pulaski County</dcterms:title>
+    <dcterms:description>Citizens attend a Virginia Pupil Placement Board meeting in Pulaski to hear NAACP lawyer Reuben Lawson appeal for the admittance of black students to Independence High School in Grayson County.</dcterms:description>
+    <dcterms:created>1958-02-04</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85118341">School integration</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82010777">Pulaski County (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:31</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:31</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2396006</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0084_3/0084_3-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2267253</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Children play underwater in Hollywood, Los Angeles, Calif.</dcterms:title><dcterms:description>Young children play at an "underwater playground" in Hollywood, Los Angeles, Calif., riding toy scooters, cars, and tractors. A man pushes two boys on a swing, and a baby swims through a hula hoop.</dcterms:description><dcterms:created>1955-03-28</dcterms:created>
+    <dcterms:title>Children play underwater in Hollywood, Los Angeles, Calif.</dcterms:title>
+    <dcterms:description>Young children play at an "underwater playground" in Hollywood, Los Angeles, Calif., riding toy scooters, cars, and tractors. A man pushes two boys on a swing, and a baby swims through a hula hoop.</dcterms:description>
+    <dcterms:created>1955-03-28</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85131230">Swimming pools</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85023418">Children</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n50038252">Hollywood (Los Angeles, Calif.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:38</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:38</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2267253</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7160_1/7160_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2354992</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Former Ambassador William C. Battle addresses Roanoke, Va., Jaycees at banquet</dcterms:title><dcterms:description>As the featured speaker at the Roanoke, Va., Jaycees distinguished service awards banquet at the Patrick Henry Hotel, William C. Battle, former U.S. ambassador to Australia, offers his opinions on the ongoing military conflict in Vietnam. Honorees of the evening include attorney Charles D. Fox III and Shenandoah Life Insurance Company President G. Frank Clement.</dcterms:description><dcterms:created>1965-01-26</dcterms:created>
+    <dcterms:title>Former Ambassador William C. Battle addresses Roanoke, Va., Jaycees at banquet</dcterms:title>
+    <dcterms:description>As the featured speaker at the Roanoke, Va., Jaycees distinguished service awards banquet at the Patrick Henry Hotel, William C. Battle, former U.S. ambassador to Australia, offers his opinions on the ongoing military conflict in Vietnam. Honorees of the evening include attorney Charles D. Fox III and Shenandoah Life Insurance Company President G. Frank Clement.</dcterms:description>
+    <dcterms:created>1965-01-26</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n84088890">Jaycees International</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:02</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:02</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2354992</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1428_2/1428_2-thumbnail.jpg</edm:preview>
 </mdRecord>

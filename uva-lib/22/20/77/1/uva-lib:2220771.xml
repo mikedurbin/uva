@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2220771</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Accused murderer Alfred E. Alley waives right to preliminary trial in Pulaski, Va.</dcterms:title><dcterms:description>A police officer escorts Alfred E. Alley, accused of murdering his girlfriend, into a courtroom in Pulaski, Va. After Alley waives his right to a preliminary hearing, two officers escort him out of the courthouse and into a police car.</dcterms:description><dcterms:created>1959-07-31</dcterms:created>
+    <dcterms:title>Accused murderer Alfred E. Alley waives right to preliminary trial in Pulaski, Va.</dcterms:title>
+    <dcterms:description>A police officer escorts Alfred E. Alley, accused of murdering his girlfriend, into a courtroom in Pulaski, Va. After Alley waives his right to a preliminary hearing, two officers escort him out of the courthouse and into a police car.</dcterms:description>
+    <dcterms:created>1959-07-31</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85137328">Trials</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85137358">Trials (Homicide)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82143166">Pulaski (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:28</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:28</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220771</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6665_1/6665_1-thumbnail.jpg</edm:preview>
 </mdRecord>

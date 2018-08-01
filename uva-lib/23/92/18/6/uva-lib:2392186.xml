@@ -11,7 +11,8 @@
     <dcterms:identifier>uva-lib:2392186</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Interview with Delegate James Thompson</dcterms:title><dcterms:created>1968-06-20</dcterms:created>
+    <dcterms:title>Interview with Delegate James Thompson</dcterms:title>
+    <dcterms:created>1968-06-20</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50080064">Virginia. General Assembly. Election Laws Study Commission</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85143772">Virginia--Politics and government</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79060700">Richmond (Va.)</dcterms:spatial>

@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2218712</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Democratic rally in Lynchburg, Va.</dcterms:title><dcterms:description>President of the Campbell County Young Democrats Club Harry L. Robertson introduces guest speaker Lieutenant Governor A.E.S. Stephens at a rally in Lynchburg; Stephens discusses the differences between the Democratic and Republican parties; sixth district nominee Richard Pence discusses the purposes of the Young Democrats Club and discusses his upcoming election against Republican Richard Poff.</dcterms:description><dcterms:created>1958-07-20</dcterms:created>
+    <dcterms:title>Democratic rally in Lynchburg, Va.</dcterms:title>
+    <dcterms:description>President of the Campbell County Young Democrats Club Harry L. Robertson introduces guest speaker Lieutenant Governor A.E.S. Stephens at a rally in Lynchburg; Stephens discusses the differences between the Democratic and Republican parties; sixth district nominee Richard Pence discusses the purposes of the Young Democrats Club and discusses his upcoming election against Republican Richard Poff.</dcterms:description>
+    <dcterms:created>1958-07-20</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n79054058">Democratic Party (U.S.)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n80017776">Lynchburg (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:08</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:08</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2218712</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/2417_3/2417_3-thumbnail.jpg</edm:preview>
 </mdRecord>

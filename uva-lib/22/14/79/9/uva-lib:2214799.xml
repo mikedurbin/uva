@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2214799</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Steelwork of the Roanoke Memorial Hospital is complete in Roanoke, Va.</dcterms:title><dcterms:description>A construction worker tells WSLS-TV reporter Lee Garrett that the steelwork for the Roanoke Memorial Hospital is complete. Footage shows a crane lifting a red steel beam with an American flag into place. The construction worker explains that the flag is hoisted because there were no injuries during this phase of the construction. Upon completion, Roanoke Memorial Hospital will be the tallest building in Roanoke, Va.</dcterms:description><dcterms:created>1968-09-27</dcterms:created>
+    <dcterms:title>Steelwork of the Roanoke Memorial Hospital is complete in Roanoke, Va.</dcterms:title>
+    <dcterms:description>A construction worker tells WSLS-TV reporter Lee Garrett that the steelwork for the Roanoke Memorial Hospital is complete. Footage shows a crane lifting a red steel beam with an American flag into place. The construction worker explains that the flag is hoisted because there were no injuries during this phase of the construction. Upon completion, Roanoke Memorial Hospital will be the tallest building in Roanoke, Va.</dcterms:description>
+    <dcterms:created>1968-09-27</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85127867">Steelwork</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:41</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:41</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2214799</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0156_1/0156_1-thumbnail.jpg</edm:preview>
 </mdRecord>

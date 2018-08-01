@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2313270</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Roanoke, Va., school board meets but does not discuss desegregation</dcterms:title><dcterms:description>Roanoke, Va., Superintendent Dr. E. W. Rushton advises the City of Roanoke School Board about a new long-range study of city school buildings at a school board meeting originally called to approve the state's desegregation and student assignment plan. School board members seen here include Clarence M. Hawkins, Lawrence Hamler, Roy L. Webber, and J. P. Cruickshank.</dcterms:description><dcterms:created>1963-03-11</dcterms:created>
+    <dcterms:title>Roanoke, Va., school board meets but does not discuss desegregation</dcterms:title>
+    <dcterms:description>Roanoke, Va., Superintendent Dr. E. W. Rushton advises the City of Roanoke School Board about a new long-range study of city school buildings at a school board meeting originally called to approve the state's desegregation and student assignment plan. School board members seen here include Clarence M. Hawkins, Lawrence Hamler, Roy L. Webber, and J. P. Cruickshank.</dcterms:description>
+    <dcterms:created>1963-03-11</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85118362">School management and organization</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:06</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:06</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2313270</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/5444_3/5444_3-thumbnail.jpg</edm:preview>
 </mdRecord>

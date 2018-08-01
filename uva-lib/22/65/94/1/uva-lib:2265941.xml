@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2265941</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Parade celebrates Milwaukee Braves' trip to World Series</dcterms:title><dcterms:description>Over 150,000 people gather in downtown Milwaukee for a parade for the Braves; marching bands and dancers parade down the street; convertibles carrying Braves players Hank Aaron, Wes Covington, Bob Buhl, Eddie Mathews, Juan Pizarro, Felix Mantilla, Warren Spahn, and Lew Burdette drive down the crowded streets; the car carrying manager Fred Haney is stopped and surrounded by dancing Native Americans; the cars arrive at the airport and the Braves board a plane while fans dressed as Native Americans dance in celebration.</dcterms:description><dcterms:created>1957-10-01</dcterms:created>
+    <dcterms:title>Parade celebrates Milwaukee Braves' trip to World Series</dcterms:title>
+    <dcterms:description>Over 150,000 people gather in downtown Milwaukee for a parade for the Braves; marching bands and dancers parade down the street; convertibles carrying Braves players Hank Aaron, Wes Covington, Bob Buhl, Eddie Mathews, Juan Pizarro, Felix Mantilla, Warren Spahn, and Lew Burdette drive down the crowded streets; the car carrying manager Fred Haney is stopped and surrounded by dancing Native Americans; the cars arrive at the airport and the Braves board a plane while fans dressed as Native Americans dance in celebration.</dcterms:description>
+    <dcterms:created>1957-10-01</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n81047062">Milwaukee Braves (Baseball team)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79119217">Milwaukee (Wis.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:55</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:55</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2265941</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1824_1/1824_1-thumbnail.jpg</edm:preview>
 </mdRecord>

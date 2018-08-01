@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2280335</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Public speeches and marching band shown on Main Street in Boones Mill, Va.</dcterms:title><dcterms:description>Brief footage of Boones Mill, Va., Post Office; three men make speeches from a podium and a group of people sit on the stage surrounding the speakers; a marching band parades in the street.</dcterms:description><dcterms:created>1959-05-17</dcterms:created>
+    <dcterms:title>Public speeches and marching band shown on Main Street in Boones Mill, Va.</dcterms:title>
+    <dcterms:description>Brief footage of Boones Mill, Va., Post Office; three men make speeches from a podium and a group of people sit on the stage surrounding the speakers; a marching band parades in the street.</dcterms:description>
+    <dcterms:created>1959-05-17</dcterms:created>
     <dcterms:subject>Virginia--Social life and customs--20th century</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82148425">Boones Mill (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:42</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:42</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280335</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1344_1/1344_1-thumbnail.jpg</edm:preview>
 </mdRecord>

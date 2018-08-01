@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2220969</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Richmond, Va., Virginia Delegate Archibald "Archie" A. Campbell announces his stance on consolidating Virginia schools</dcterms:title><dcterms:description>The Virginia Board of Education currently has jurisdiction over school consolidation. In Richmond, Va., Virginia Delegate Archibald "Archie" A. Campbell does not think that the Virginia Board of Education should have complete authority over this subject matter. He recommends that jurisdiction falls to each affected county school board.</dcterms:description><dcterms:created>1969-03-18</dcterms:created>
+    <dcterms:title>In Richmond, Va., Virginia Delegate Archibald "Archie" A. Campbell announces his stance on consolidating Virginia schools</dcterms:title>
+    <dcterms:description>The Virginia Board of Education currently has jurisdiction over school consolidation. In Richmond, Va., Virginia Delegate Archibald "Archie" A. Campbell does not think that the Virginia Board of Education should have complete authority over this subject matter. He recommends that jurisdiction falls to each affected county school board.</dcterms:description>
+    <dcterms:created>1969-03-18</dcterms:created>
     <dcterms:subject>Constitutional amendments--Virginia</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85143772">Virginia--Politics and government</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79060700">Richmond (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:02</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:02</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220969</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6934_2/6934_2-thumbnail.jpg</edm:preview>
 </mdRecord>

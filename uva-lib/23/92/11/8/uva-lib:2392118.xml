@@ -11,7 +11,8 @@
     <dcterms:identifier>uva-lib:2392118</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Brush fire destroys eight to ten acres of woodland near Vinton, Va.</dcterms:title><dcterms:created>1967-11-12</dcterms:created>
+    <dcterms:title>Brush fire destroys eight to ten acres of woodland near Vinton, Va.</dcterms:title>
+    <dcterms:created>1967-11-12</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85048572">Fires</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82143170">Vinton (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>

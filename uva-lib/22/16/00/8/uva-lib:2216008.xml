@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2216008</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Firefighters put out a fire; a professional light installer interviews with WSLS-TV</dcterms:title><dcterms:description>A crowd of evacuated men and women watch firefighters wielding hoses put out a fire. Footage from the second story shows water being poured on the blazing building as smoke envelops it. Meanwhile, the video features a voice over of a professional light installer telling WSLS-TV about funding his organization. According to the man, he established this company last summer because he felt the city was lacking in Christmas lights.</dcterms:description><dcterms:created>1968-11-21</dcterms:created>
+    <dcterms:title>Firefighters put out a fire; a professional light installer interviews with WSLS-TV</dcterms:title>
+    <dcterms:description>A crowd of evacuated men and women watch firefighters wielding hoses put out a fire. Footage from the second story shows water being poured on the blazing building as smoke envelops it. Meanwhile, the video features a voice over of a professional light installer telling WSLS-TV about funding his organization. According to the man, he established this company last summer because he felt the city was lacking in Christmas lights.</dcterms:description>
+    <dcterms:created>1968-11-21</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85048572">Fires</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh00006833">Christmas lights</dcterms:subject>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:09</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:09</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2216008</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0845_1/0845_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,14 +11,18 @@
     <dcterms:identifier>uva-lib:2382391</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>John D. Carr comments on his endorsement by the Roanoke Bar Association for the vacancy on the Virginia Supreme Court</dcterms:title><dcterms:created>1961-04-28</dcterms:created>
+    <dcterms:title>John D. Carr comments on his endorsement by the Roanoke Bar Association for the vacancy on the Virginia Supreme Court</dcterms:title>
+    <dcterms:created>1961-04-28</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n78049102">Virginia. Supreme Court</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85143772">Virginia--Politics and government</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:17</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:17</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2382391</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6251_2/6251_2-thumbnail.jpg</edm:preview>
 </mdRecord>

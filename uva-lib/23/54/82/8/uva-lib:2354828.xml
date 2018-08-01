@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2354828</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Founder of the American Independent Party William Kennedy Shearer informs WSLS-TV about his party's stance on presidential candidate George C. Wallace</dcterms:title><dcterms:description>William Kennedy Shearer, founder of the American Independent Party, comes to Virginia from California to talk about presidential candidate George C. Wallace. Former Alabama Governor Wallace is running for president under the auspices of the American Independent Party. However, Shearer says that the National Wallace Campaign rejects the American Independent Party's existence separate from that of the campaign. Shearer wants his party to be a permanent political actor, not merely a vehicle for Wallace's campaign. Wallace's choice of Curtis Emerson LeMay for Vice President troubles the American Independent Party because LeMay is registered under the U.S. Republican Party in California. Shearer says that the American Independent Party did not democratically vote on and elect George C. Wallace to represent them in the 1968 presidential election and is speaking out for their right to do so.</dcterms:description><dcterms:created>1968-10-17</dcterms:created>
+    <dcterms:title>Founder of the American Independent Party William Kennedy Shearer informs WSLS-TV about his party's stance on presidential candidate George C. Wallace</dcterms:title>
+    <dcterms:description>William Kennedy Shearer, founder of the American Independent Party, comes to Virginia from California to talk about presidential candidate George C. Wallace. Former Alabama Governor Wallace is running for president under the auspices of the American Independent Party. However, Shearer says that the National Wallace Campaign rejects the American Independent Party's existence separate from that of the campaign. Shearer wants his party to be a permanent political actor, not merely a vehicle for Wallace's campaign. Wallace's choice of Curtis Emerson LeMay for Vice President troubles the American Independent Party because LeMay is registered under the U.S. Republican Party in California. Shearer says that the American Independent Party did not democratically vote on and elect George C. Wallace to represent them in the 1968 presidential election and is speaking out for their right to do so.</dcterms:description>
+    <dcterms:created>1968-10-17</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh2008109960">Presidents--United States--Election--1968</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79022909">Virginia</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:01</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:01</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2354828</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0860_2/0860_2-thumbnail.jpg</edm:preview>
 </mdRecord>

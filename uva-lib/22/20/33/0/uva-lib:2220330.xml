@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2220330</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Roanoke, Virginia officials, doctors, and lawyers discuss Drunk-O-Meter</dcterms:title><dcterms:description>In Roanoke, Va., doctors and lawyers meet with city and state officials to recommend that the city purchase a Drunk-O-Meter, a device used to estimate blood alcohol level. Meeting attendees watch a demonstration of the device in which a volunteer drinks whiskey and blows up a balloon.</dcterms:description><dcterms:created>1954-01-14</dcterms:created>
+    <dcterms:title>Roanoke, Virginia officials, doctors, and lawyers discuss Drunk-O-Meter</dcterms:title>
+    <dcterms:description>In Roanoke, Va., doctors and lawyers meet with city and state officials to recommend that the city purchase a Drunk-O-Meter, a device used to estimate blood alcohol level. Meeting attendees watch a demonstration of the device in which a volunteer drinks whiskey and blows up a balloon.</dcterms:description>
+    <dcterms:created>1954-01-14</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85075302">Law enforcement</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>2:22</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>2:22</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220330</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6204_1/6204_1-thumbnail.jpg</edm:preview>
 </mdRecord>

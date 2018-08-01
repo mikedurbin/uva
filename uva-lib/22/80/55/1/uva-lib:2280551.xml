@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2280551</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Richmond, Va., Virginia Delegate Ray L. Garland comments on the whereabouts of fellow Delegate James B. Fugate</dcterms:title><dcterms:description>Virginia Delegate Ray L. Garland remarks on the absence of fellow Delegate James B. Fugate. Fugate has been eschewing his office at the Virginia State Capitol but has been going to his home office daily in Gate City, Va. According to Garland, the Virginia House of Delegates finds Fugate's vacancy disconcerting, though he maintains that it is only appropriate for the Speaker of the House to raise questions regarding Fugate's whereabouts.</dcterms:description><dcterms:created>1969-03-21</dcterms:created>
+    <dcterms:title>In Richmond, Va., Virginia Delegate Ray L. Garland comments on the whereabouts of fellow Delegate James B. Fugate</dcterms:title>
+    <dcterms:description>Virginia Delegate Ray L. Garland remarks on the absence of fellow Delegate James B. Fugate. Fugate has been eschewing his office at the Virginia State Capitol but has been going to his home office daily in Gate City, Va. According to Garland, the Virginia House of Delegates finds Fugate's vacancy disconcerting, though he maintains that it is only appropriate for the Speaker of the House to raise questions regarding Fugate's whereabouts.</dcterms:description>
+    <dcterms:created>1969-03-21</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85000235">Absenteeism (Labor)</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n79018462">Virginia. General Assembly. House of Delegates</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79060700">Richmond (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:48</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:48</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2280551</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6895_1/6895_1-thumbnail.jpg</edm:preview>
 </mdRecord>

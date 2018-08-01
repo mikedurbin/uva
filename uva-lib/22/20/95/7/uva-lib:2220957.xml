@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2220957</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>The American Society of Tool and Manufacturing Engineers holds its first annual tool exhibition at the Salem Roanoke Valley Civic Center in Salem, Va.</dcterms:title><dcterms:description>The American Society of Tool and Manufacturing Engineers celebrates its first annual tool exhibition at the Salem Roanoke Valley Civic Center in Salem, Va. J. Frank Alspaugh, director of industrial development in Virginia, says this exhibition is set in Virginia because the state is industrializing and thereby new markets are available for machine tools. Cherie Suzanne Davis, Miss Virginia pageant winner, ceremoniously cuts the ribbon to the exhibition and tours the various booths.</dcterms:description><dcterms:created>1969-03-27</dcterms:created>
+    <dcterms:title>The American Society of Tool and Manufacturing Engineers holds its first annual tool exhibition at the Salem Roanoke Valley Civic Center in Salem, Va.</dcterms:title>
+    <dcterms:description>The American Society of Tool and Manufacturing Engineers celebrates its first annual tool exhibition at the Salem Roanoke Valley Civic Center in Salem, Va. J. Frank Alspaugh, director of industrial development in Virginia, says this exhibition is set in Virginia because the state is industrializing and thereby new markets are available for machine tools. Cherie Suzanne Davis, Miss Virginia pageant winner, ceremoniously cuts the ribbon to the exhibition and tours the various booths.</dcterms:description>
+    <dcterms:created>1969-03-27</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n79066374">American Society of Tool and Manufacturing Engineers</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85046354">Exhibitions</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n82098973">Salem (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:54</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:54</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220957</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6930_1/6930_1-thumbnail.jpg</edm:preview>
 </mdRecord>

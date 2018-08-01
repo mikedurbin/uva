@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2221127</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Richmond, Va., Delegate Howard P. Anderson briefs WSLS-TV on his proposed amendment to Article 10, concerning finance</dcterms:title><dcterms:description>At the State Capitol in Richmond, Va., the Virginia General Assembly is in the process of revising the Constitution of Virginia. Delegate Howard P. Anderson, part of the House of Delegates Committee on Finance, tells WSLS-TV about his proposed revisions regarding Article 10 of the current constitution. According to Delegate Anderson, his revisions increase the amount of indebtedness from one to two percent of the assessed value of real estate in Virginia and provide for a popular referendum when deciding on revenue bonds. Delegate Anderson is a stark supporter of pay-as-you-go fiscal policy.</dcterms:description><dcterms:created>1969-03-31</dcterms:created>
+    <dcterms:title>In Richmond, Va., Delegate Howard P. Anderson briefs WSLS-TV on his proposed amendment to Article 10, concerning finance</dcterms:title>
+    <dcterms:description>At the State Capitol in Richmond, Va., the Virginia General Assembly is in the process of revising the Constitution of Virginia. Delegate Howard P. Anderson, part of the House of Delegates Committee on Finance, tells WSLS-TV about his proposed revisions regarding Article 10 of the current constitution. According to Delegate Anderson, his revisions increase the amount of indebtedness from one to two percent of the assessed value of real estate in Virginia and provide for a popular referendum when deciding on revenue bonds. Delegate Anderson is a stark supporter of pay-as-you-go fiscal policy.</dcterms:description>
+    <dcterms:created>1969-03-31</dcterms:created>
     <dcterms:subject>Constitutional amendments--Virginia</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50080038">Virginia. Constitution (1971)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79060700">Richmond (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:38</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:38</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221127</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7101_1/7101_1-thumbnail.jpg</edm:preview>
 </mdRecord>

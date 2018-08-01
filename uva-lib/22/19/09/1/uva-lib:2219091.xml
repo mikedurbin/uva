@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2219091</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Roanoke, Va., Mayor Vincent Wheeler and City Councilman Willis Anderson discuss upcoming meeting on annexation</dcterms:title><dcterms:description>Reporter interviews Roanoke Mayor Vincent Wheeler about an upcoming city council meeting at which a special committee will report on annexation. Citing several objections to the original plan for a closed meeting, the mayor reports that council will vote on whether or not the meeting will be open to the public and that this will likely set the precedent for future meetings on annexation. City Councilman Willis Anderson expresses his intention to leave the meeting if it not is conducted openly.</dcterms:description><dcterms:created>1958-09-03</dcterms:created>
+    <dcterms:title>Roanoke, Va., Mayor Vincent Wheeler and City Councilman Willis Anderson discuss upcoming meeting on annexation</dcterms:title>
+    <dcterms:description>Reporter interviews Roanoke Mayor Vincent Wheeler about an upcoming city council meeting at which a special committee will report on annexation. Citing several objections to the original plan for a closed meeting, the mayor reports that council will vote on whether or not the meeting will be open to the public and that this will likely set the precedent for future meetings on annexation. City Councilman Willis Anderson expresses his intention to leave the meeting if it not is conducted openly.</dcterms:description>
+    <dcterms:created>1958-09-03</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85005351">Annexation (Municipal government)</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85083267">Meetings</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>2:01</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>2:01</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2219091</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/2578_1/2578_1-thumbnail.jpg</edm:preview>
 </mdRecord>

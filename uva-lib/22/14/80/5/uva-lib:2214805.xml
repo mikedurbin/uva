@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2214805</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Virginia Tech celebrates Governor's Day in Lane Stadium in Blacksburg, Va.</dcterms:title><dcterms:description>Virginia Tech celebrates Governor's Day in Lane Stadium in Blacksburg, Va. Footage shows Governor Mills E. Godwin, Jr., speaking into a microphone on the field, people cheering in the stands, and the marching band standing in formation.</dcterms:description><dcterms:created>1968-10-26</dcterms:created>
+    <dcterms:title>Virginia Tech celebrates Governor's Day in Lane Stadium in Blacksburg, Va.</dcterms:title>
+    <dcterms:description>Virginia Tech celebrates Governor's Day in Lane Stadium in Blacksburg, Va. Footage shows Governor Mills E. Godwin, Jr., speaking into a microphone on the field, people cheering in the stands, and the marching band standing in formation.</dcterms:description>
+    <dcterms:created>1968-10-26</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n80125910">Virginia Polytechnic Institute</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79032188">Blacksburg (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:40</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:40</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2214805</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0158_1/0158_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2214796</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Roanoke City Council meets to discuss their agenda; the interior of a college in the Roanoke, Va., region</dcterms:title><dcterms:description>Roanoke City Council, which includes John W. Boswell, James E. Jones, David K. Lisk, Mayor Benton O. Dillard, Frank M. Perkinson, Jr., Roy R. Pollard, Vincent S. Wheeler, and City Manager Julian F. Hirst, meet to discuss their agenda. Footage then cuts to the interior of a college in the Roanoke, Va., region, showing student lounges and dorm rooms.</dcterms:description><dcterms:created>1968-08-15</dcterms:created>
+    <dcterms:title>Roanoke City Council meets to discuss their agenda; the interior of a college in the Roanoke, Va., region</dcterms:title>
+    <dcterms:description>Roanoke City Council, which includes John W. Boswell, James E. Jones, David K. Lisk, Mayor Benton O. Dillard, Frank M. Perkinson, Jr., Roy R. Pollard, Vincent S. Wheeler, and City Manager Julian F. Hirst, meet to discuss their agenda. Footage then cuts to the interior of a college in the Roanoke, Va., region, showing student lounges and dorm rooms.</dcterms:description>
+    <dcterms:created>1968-08-15</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85088468">Municipal government</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh95010482">Dormitory life</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>2:11</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>2:11</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2214796</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0155_1/0155_1-thumbnail.jpg</edm:preview>
 </mdRecord>

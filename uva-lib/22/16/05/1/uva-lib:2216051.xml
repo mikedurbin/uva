@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2216051</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>At night in Virginia, the Cave Spring Rescue Squad and Virginia State Police examine an automobile accident that left two vehicles shattered</dcterms:title><dcterms:description>The Cave Spring Rescue Squad and Virginia State Police examine an automobile crash at night in Virginia. The traffic accident left two vehicles shattered, with rear and front end damage.</dcterms:description><dcterms:created>1968-10-11</dcterms:created>
+    <dcterms:title>At night in Virginia, the Cave Spring Rescue Squad and Virginia State Police examine an automobile accident that left two vehicles shattered</dcterms:title>
+    <dcterms:description>The Cave Spring Rescue Squad and Virginia State Police examine an automobile crash at night in Virginia. The traffic accident left two vehicles shattered, with rear and front end damage.</dcterms:description>
+    <dcterms:created>1968-10-11</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85010228">Automobiles--Collision damage</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79022909">Virginia</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:37</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:37</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2216051</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/0868_1/0868_1-thumbnail.jpg</edm:preview>
 </mdRecord>

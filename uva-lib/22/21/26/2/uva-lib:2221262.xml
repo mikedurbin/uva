@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2221262</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Galax High School opens but refuses to integrate</dcterms:title><dcterms:description>Galax city schools had long admitted hundreds of students from neighboring Grayson County, but when eight black students living in the county applied to attend Galax High School, the Galax city school board, in order to avoid integrating, ruled that their schools would no longer admit any students from Grayson County. After protests and petitions, the school board relented and Grayson County students, including the eight black students, were allowed to attend Galax High School. This clip includes a white parent supporting the ouster of Grayson County students, and a white student commenting on how far black students have to go to attend high school in Wytheville, 90 miles away.</dcterms:description><dcterms:created>1959-08-27</dcterms:created>
+    <dcterms:title>Galax High School opens but refuses to integrate</dcterms:title>
+    <dcterms:description>Galax city schools had long admitted hundreds of students from neighboring Grayson County, but when eight black students living in the county applied to attend Galax High School, the Galax city school board, in order to avoid integrating, ruled that their schools would no longer admit any students from Grayson County. After protests and petitions, the school board relented and Grayson County students, including the eight black students, were allowed to attend Galax High School. This clip includes a white parent supporting the ouster of Grayson County students, and a white student commenting on how far black students have to go to attend high school in Wytheville, 90 miles away.</dcterms:description>
+    <dcterms:created>1959-08-27</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85118341">School integration</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n83052761">Galax (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:35</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:35</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2221262</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7622_1/7622_1-thumbnail.jpg</edm:preview>
 </mdRecord>

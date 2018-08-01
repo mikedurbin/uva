@@ -11,13 +11,18 @@
     <dcterms:identifier>uva-lib:2220043</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>WSLS-TV reporter Bill Walker interviews Barry Keadle, Virginia Military Institute assistant basketball coach, about his recruiting trips throughout the country</dcterms:title><dcterms:description>Virginia Military Institute's assistant basketball coach Barry Keadle tells WSLS-TV reporter Bill Walker about his recruiting trips throughout the country. Keadle says he looks to Indiana, Ohio, Kentucky, New York, New Jersey, and Virginia for potential basketball players because he is familiar with those areas. Keadle advocates a stronger coaching crew to improve the quality of college-level basketball.</dcterms:description><dcterms:created>1968-12-25</dcterms:created>
+    <dcterms:title>WSLS-TV reporter Bill Walker interviews Barry Keadle, Virginia Military Institute assistant basketball coach, about his recruiting trips throughout the country</dcterms:title>
+    <dcterms:description>Virginia Military Institute's assistant basketball coach Barry Keadle tells WSLS-TV reporter Bill Walker about his recruiting trips throughout the country. Keadle says he looks to Indiana, Ohio, Kentucky, New York, New Jersey, and Virginia for potential basketball players because he is familiar with those areas. Keadle advocates a stronger coaching crew to improve the quality of college-level basketball.</dcterms:description>
+    <dcterms:created>1968-12-25</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85012111">Basketball</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85126887">Sports</dcterms:subject>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>2:51</dcterms:extent><dcterms:medium>color film (film)</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>2:51</dcterms:extent>
+    <dcterms:medium>color film (film)</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220043</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3986_1/3986_1-thumbnail.jpg</edm:preview>
 </mdRecord>

@@ -11,7 +11,8 @@
     <dcterms:identifier>uva-lib:2396249</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Fred T. Millehan is sent to a Hustings Court grand jury on a murder charge</dcterms:title><dcterms:created>1962-11-07</dcterms:created>
+    <dcterms:title>Fred T. Millehan is sent to a Hustings Court grand jury on a murder charge</dcterms:title>
+    <dcterms:created>1962-11-07</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85088613">Murder</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85033993">Crime</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79116470">Roanoke (Va.)</dcterms:spatial>

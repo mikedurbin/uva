@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2265961</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Detroit Lions defeat Cleveland Browns in NFL championship game</dcterms:title><dcterms:description>Over 55,000 fans fill Briggs Stadium in Detroit to watch the Lions take on the Cleveland Browns for the NFL championship; the Lions beat the Browns 59-14 and fans charge the field after the final touchdown of the game.</dcterms:description><dcterms:created>1957-12-30</dcterms:created>
+    <dcterms:title>Detroit Lions defeat Cleveland Browns in NFL championship game</dcterms:title>
+    <dcterms:description>Over 55,000 fans fill Briggs Stadium in Detroit to watch the Lions take on the Cleveland Browns for the NFL championship; the Lions beat the Browns 59-14 and fans charge the field after the final touchdown of the game.</dcterms:description>
+    <dcterms:created>1957-12-30</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85050405">Football</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n82047788">Detroit Lions (Football team)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79045539">Detroit (Mich.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>2:40</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>2:40</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2265961</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1841_1/1841_1-thumbnail.jpg</edm:preview>
 </mdRecord>

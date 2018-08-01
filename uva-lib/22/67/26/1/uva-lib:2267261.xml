@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2267261</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>In Washington, D.C., President Dwight D. Eisenhower holds White House luncheon for athletes</dcterms:title><dcterms:description>Athletes assemble on the White House steps in Washington, D.C., with president Dwight D. Eisenhower and Vice President Richard Nixon, before a luncheon to discuss plans for a Sports program aimed at combating juvenile delinquency. Attendees include golfers Jack Fleck, Bobby Jones, Lloyd Mangrum, and Barbara Romack, baseball players Willie Mays and Hank Greenberg, and boxers Gene Tunney and Archie Moore.</dcterms:description><dcterms:created>1955-07-12</dcterms:created>
+    <dcterms:title>In Washington, D.C., President Dwight D. Eisenhower holds White House luncheon for athletes</dcterms:title>
+    <dcterms:description>Athletes assemble on the White House steps in Washington, D.C., with president Dwight D. Eisenhower and Vice President Richard Nixon, before a luncheon to discuss plans for a Sports program aimed at combating juvenile delinquency. Attendees include golfers Jack Fleck, Bobby Jones, Lloyd Mangrum, and Barbara Romack, baseball players Willie Mays and Hank Greenberg, and boxers Gene Tunney and Archie Moore.</dcterms:description>
+    <dcterms:created>1955-07-12</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85009135">Athletes</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n83191212">United States. White House Office</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79018774">Washington (D.C.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>0:32</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>0:32</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2267261</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/7166_1/7166_1-thumbnail.jpg</edm:preview>
 </mdRecord>

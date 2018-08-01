@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2220045</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Cincinnati Reds and Chicago White Sox play an exhibition game in Lynchburg, Va.</dcterms:title><dcterms:description>Spectators crowd City Stadium in Lynchburg, Va., as the Cincinnati Reds play the Chicago White Sox in a pre-season exhibition baseball game.  White Sox catcher J. C. Martin warms up alongside other Chicago players. A little boy and a Reds team member play in the dugout. Reds catcher Hank Foiles gets ready for the game. Boys in the stands keep score attentively.</dcterms:description><dcterms:created>1963-04-05</dcterms:created>
+    <dcterms:title>Cincinnati Reds and Chicago White Sox play an exhibition game in Lynchburg, Va.</dcterms:title>
+    <dcterms:description>Spectators crowd City Stadium in Lynchburg, Va., as the Cincinnati Reds play the Chicago White Sox in a pre-season exhibition baseball game.  White Sox catcher J. C. Martin warms up alongside other Chicago players. A little boy and a Reds team member play in the dugout. Reds catcher Hank Foiles gets ready for the game. Boys in the stands keep score attentively.</dcterms:description>
+    <dcterms:created>1963-04-05</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50045366">Chicago White Sox (Baseball team)</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50051136">Cincinnati Reds (Baseball team)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n80017776">Lynchburg (Va.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:00</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>silent films</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:00</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>silent films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2220045</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3999_1/3999_1-thumbnail.jpg</edm:preview>
 </mdRecord>

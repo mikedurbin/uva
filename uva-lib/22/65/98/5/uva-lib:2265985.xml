@@ -11,14 +11,19 @@
     <dcterms:identifier>uva-lib:2265985</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Horace Stoneham discusses New York Giants' move to San Francisco</dcterms:title><dcterms:description>President of the New York Giants Horace Stoneham discusses the board of directors' 8-1 decision to approve the baseball team's forthcoming move to San Francisco; he addresses issues concerning their new stadium and the conditions that determined this move.</dcterms:description><dcterms:created>1957-08-20</dcterms:created>
+    <dcterms:title>Horace Stoneham discusses New York Giants' move to San Francisco</dcterms:title>
+    <dcterms:description>President of the New York Giants Horace Stoneham discusses the board of directors' 8-1 decision to approve the baseball team's forthcoming move to San Francisco; he addresses issues concerning their new stadium and the conditions that determined this move.</dcterms:description>
+    <dcterms:created>1957-08-20</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n50006269">New York Giants (Baseball team)</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/names/n79147845">San Francisco Giants (Baseball team)</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79007751">New York (N.Y.)</dcterms:spatial>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <dcterms:language>English</dcterms:language>
     <dcterms:type>Moving Image</dcterms:type>
-    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType><dcterms:extent>1:30</dcterms:extent><dcterms:medium>black-and-white film</dcterms:medium><dcterms:medium>sound</dcterms:medium>
+    <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
+    <dcterms:extent>1:30</dcterms:extent>
+    <dcterms:medium>black-and-white film</dcterms:medium>
+    <dcterms:medium>sound</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2265985</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/1857_1/1857_1-thumbnail.jpg</edm:preview>
 </mdRecord>

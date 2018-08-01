@@ -11,7 +11,8 @@
     <dcterms:identifier>uva-lib:2392245</dcterms:identifier>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:isPartOf>WSLS-TV (Roanoke, Va.) news film collection</dcterms:isPartOf>
-    <dcterms:title>Privileges and Elections Committee of the House of Delegates holds a public hearing on the proposed plan for redistricting</dcterms:title><dcterms:created>1971-01-21</dcterms:created>
+    <dcterms:title>Privileges and Elections Committee of the House of Delegates holds a public hearing on the proposed plan for redistricting</dcterms:title>
+    <dcterms:created>1971-01-21</dcterms:created>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85006175">Apportionment (Election law)</dcterms:subject>
     <dcterms:subject valueURI="http://id.loc.gov/authorities/subjects/sh85143772">Virginia--Politics and government</dcterms:subject>
     <dcterms:spatial valueURI="http://id.loc.gov/authorities/names/n79060700">Richmond (Va.)</dcterms:spatial>
