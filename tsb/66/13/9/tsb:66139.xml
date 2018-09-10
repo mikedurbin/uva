@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66139</dcterms:identifier>
+    <dcterms:title>Narrationes modernae, or Modern reports begun in the now Upper Bench Court at Westminster, in the beginning of Hillary term 21 Caroli [1646] and continued to the end of Michaelmas term 1655. as well on the criminall, as on the pleas side. Most of which time the late Lord Chief Justice Roll gave the rule there. With necessary tables for the ready finding out and making use of the matters contained in the whole book. And an addition of the number rolls to most of the remarkable cases.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Style, William, 1603-1679</dcterms:creator>
+    <dcterms:creator>Rolle, Henry, 1589?-1656</dcterms:creator>
+    <dcterms:created>1658</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>10 p. l., 483, [36] p. 29 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by F. L. for W. Lee, D. Pakeman, G. Bedel, and C. Adams</dcterms:publisher>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66139/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66139</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2549502/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>
