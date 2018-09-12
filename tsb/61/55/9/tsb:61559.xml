@@ -11,20 +11,20 @@
     <dcterms:identifier>tsb:61559</dcterms:identifier>
     <dcterms:title>The centennial of the University of Virginia, 1819-1921 : the proceedings of the Centenary celebration, May 31 to June 3, 1921</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Metcalf, John Calvin, 1865-1949</dcterms:creator>
     <dcterms:created>1922</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xi, 235 p. plates, ports., facsims. ; 28 cm.</dcterms:extent>
     <dcterms:publisher>G. P. Putnam's Sons, The Knickerbocker Press</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Library</dcterms:subject>
+    <dcterms:subject>Newcomb, John Lloyd, 1881-1954</dcterms:subject>
+    <dcterms:subject>Vaughan, Joseph Lee</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
     <dcterms:subject>Centennial celebrations, etc</dcterms:subject>
-    <dcterms:subject>Newcomb, John Lloyd/</dcterms:subject>
-    <dcterms:subject>Vaughan, Joseph Lee/</dcterms:subject>
-    <dcterms:subject>University of Virginia/</dcterms:subject>
-    <dcterms:subject>University of Virginia/</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Drama</dcterms:subject>
+    <dcterms:subject>Poetry</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61559/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61559</edm:isShownAt>

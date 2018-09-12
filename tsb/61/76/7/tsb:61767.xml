@@ -16,8 +16,8 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>255 p. 17 cm.</dcterms:extent>
     <dcterms:publisher>Soc. for promoting Christian knowledge</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61767/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61767</edm:isShownAt>

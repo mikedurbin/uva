@@ -17,10 +17,10 @@
     <dcterms:medium>cloth</dcterms:medium>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>7 x 6 x 5.5 cm</dcterms:extent>
-    <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medical instruments and apparatus--Containers</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2564387/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2564387</edm:isShownAt>

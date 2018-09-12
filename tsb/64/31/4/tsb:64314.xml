@@ -12,16 +12,17 @@
     <dcterms:title>Disciples of Aesculapius</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Richardson, Benjamin Ward, 1828-1896</dcterms:creator>
+    <dcterms:creator>Martin, George, Mrs</dcterms:creator>
     <dcterms:created>1901</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. (viii, 827 p.) : ill., ports., facsims. ; 22 cm.</dcterms:extent>
     <dcterms:publisher>Dutton</dcterms:publisher>
-    <dcterms:subject>Physicians</dcterms:subject>
-    <dcterms:subject>Physicians</dcterms:subject>
-    <dcterms:subject>Medicine</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Physicians--Biography</dcterms:subject>
+    <dcterms:subject>Physicians--Biography</dcterms:subject>
+    <dcterms:subject>Medicine--Biography</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64314/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64314</edm:isShownAt>

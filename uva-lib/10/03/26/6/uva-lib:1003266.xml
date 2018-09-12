@@ -17,9 +17,10 @@
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : b&amp;w ; 20 x 26 cm.</dcterms:extent>
     <dcterms:publisher>T.W. Ormond</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Louisa County (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003266/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003266</edm:isShownAt>

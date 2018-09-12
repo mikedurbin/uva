@@ -17,19 +17,19 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Huts</dcterms:subject>
-    <dcterms:subject>Interiors</dcterms:subject>
-    <dcterms:subject>Windows</dcterms:subject>
-    <dcterms:subject>Desks</dcterms:subject>
-    <dcterms:subject>Wicker</dcterms:subject>
-    <dcterms:subject>Chairs</dcterms:subject>
-    <dcterms:subject>Paintings (visual works)</dcterms:subject>
-    <dcterms:subject>Flowers (plants)</dcterms:subject>
-    <dcterms:subject>Rugs</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Huts--Single built works by function</dcterms:subject>
+    <dcterms:subject>Interiors--Rooms and spaces</dcterms:subject>
+    <dcterms:subject>Windows--Architectural elements</dcterms:subject>
+    <dcterms:subject>Desks--Furniture</dcterms:subject>
+    <dcterms:subject>Wicker--Materials by composition</dcterms:subject>
+    <dcterms:subject>Chairs--Furniture</dcterms:subject>
+    <dcterms:subject>Paintings (visual works)--Visual works by medium or technique</dcterms:subject>
+    <dcterms:subject>Flowers (plants)--Herbaceous plants</dcterms:subject>
+    <dcterms:subject>Rugs--Coverings and hangings</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332347/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332347</edm:isShownAt>

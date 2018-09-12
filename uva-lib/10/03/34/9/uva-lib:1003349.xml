@@ -14,9 +14,10 @@
     <dcterms:created>1902</dcterms:created>
     <dcterms:extent>1 map : col. ; 27 x 38 cm on sheet 30 x 41 cm.</dcterms:extent>
     <dcterms:publisher>Encyclopaedia Britannica, inc.</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Kentucky--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003349/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003349</edm:isShownAt>

@@ -11,6 +11,9 @@
     <dcterms:identifier>uva-lib:1145532</dcterms:identifier>
     <dcterms:title>Darkies' jubilee schottische : introducing the popular songs of "Oleander blossom," "Dat big pound cake," "I'se left the old plantation," and "Walk around"</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Raymond, Clarence J.</dcterms:creator>
+    <dcterms:creator>Maddern, Richard H.</dcterms:creator>
+    <dcterms:creator>Kelly, John T., 1855-1922</dcterms:creator>
     <dcterms:created>1882</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 p. of music.</dcterms:extent>
@@ -18,10 +21,8 @@
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
     <dcterms:subject>Potpourris (Piano)</dcterms:subject>
     <dcterms:subject>Schottisches</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1145532/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1145532</edm:isShownAt>

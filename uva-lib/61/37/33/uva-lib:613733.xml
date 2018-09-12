@@ -12,15 +12,16 @@
     <dcterms:title>Les azolains de monseigneur Bembo, de la nature d'amour</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bembo, Pietro, 1470-1547</dcterms:creator>
+    <dcterms:creator>Martin, Ian, -approximately 1553</dcterms:creator>
     <dcterms:created>1552</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>566 (i.e. 366), [2] p. ; 13 cm.</dcterms:extent>
     <dcterms:publisher>Chez Guil. Rouille à l'escu de Venise</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:language>ita</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:613733/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:613733</edm:isShownAt>

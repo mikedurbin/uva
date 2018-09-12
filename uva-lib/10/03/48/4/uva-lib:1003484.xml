@@ -12,14 +12,17 @@
     <dcterms:title>The Manassas Journal supplement of the Maneuver grounds, Prince Willliam and Fairfax counties, Va</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Burr, Edward, 1859-1952</dcterms:creator>
+    <dcterms:creator>Spalding, George R.</dcterms:creator>
     <dcterms:created>1904</dcterms:created>
     <dcterms:extent>1 map : col. ; 81 x 107 cm. on sheet 88 x 109 cm.</dcterms:extent>
     <dcterms:publisher>The Manassas Journal</dcterms:publisher>
-    <dcterms:subject>Military camps</dcterms:subject>
-    <dcterms:subject>Military camps</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Military camps--Virginia--Prince William County--Maps</dcterms:subject>
+    <dcterms:subject>Military camps--Virginia--Fairfax County--Maps</dcterms:subject>
+    <dcterms:subject>Fairfax County (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Prince William County (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003484/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003484</edm:isShownAt>

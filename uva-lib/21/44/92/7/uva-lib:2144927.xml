@@ -15,13 +15,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 broadside. 32 x 20 cm.</dcterms:extent>
     <dcterms:publisher>Printed by Francis Childs</dcterms:publisher>
-    <dcterms:subject>Indians of North America</dcterms:subject>
-    <dcterms:subject>Indians of North America</dcterms:subject>
-    <dcterms:subject>Indians of North America</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Indians of North America--Georgia</dcterms:subject>
+    <dcterms:subject>Indians of North America--Land tenure</dcterms:subject>
+    <dcterms:subject>Indians of North America--Government relations</dcterms:subject>
+    <dcterms:subject>Georgia--History--1775-1865</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1775-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2144927/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2144927</edm:isShownAt>

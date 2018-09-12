@@ -16,8 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xii, 574 p. : maps ; 18 cm.</dcterms:extent>
     <dcterms:publisher>J. Murray</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Germany--Guidebooks</dcterms:subject>
+    <dcterms:subject>Austria--Guidebooks</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64655/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64655</edm:isShownAt>

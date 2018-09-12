@@ -16,8 +16,9 @@
     <dcterms:extent>iv, [5]-186 p., [4] l. incl. col. maps, tables, diagrs. 45 cm.</dcterms:extent>
     <dcterms:publisher>O.W. Gray &amp; Son</dcterms:publisher>
     <dcterms:subject>Atlases</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1032277/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1032277</edm:isShownAt>

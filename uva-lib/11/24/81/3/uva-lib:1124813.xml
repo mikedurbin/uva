@@ -12,15 +12,16 @@
     <dcterms:title>By gone hours, or, 'Tis sad to think of the joyous days of old</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Dufferin and Clandeboye, Helen Selina Blackwood, Baroness, 1807-1867</dcterms:creator>
+    <dcterms:creator>Norton, Caroline Sheridan, 1808-1877</dcterms:creator>
+    <dcterms:creator>Webb, L. W.</dcterms:creator>
     <dcterms:created>1850</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score ([2] leaves).</dcterms:extent>
     <dcterms:publisher>Peters, Webb &amp; Co.</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1124813/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1124813</edm:isShownAt>

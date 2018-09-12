@@ -16,13 +16,14 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 p.l., lxxxvi, [2], 463 p. 23 cm.</dcterms:extent>
     <dcterms:publisher>Firmin Didot frères</dcterms:publisher>
-    <dcterms:subject>French language</dcterms:subject>
-    <dcterms:subject>French language</dcterms:subject>
-    <dcterms:subject>Molière</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Molière, 1622-1673</dcterms:subject>
+    <dcterms:subject>Dictionaries</dcterms:subject>
+    <dcterms:subject>French language--Dictionaries</dcterms:subject>
+    <dcterms:subject>French language--History</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>dictionary</edm:hasType>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>dictionary</dcterms:medium>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65006/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65006</edm:isShownAt>

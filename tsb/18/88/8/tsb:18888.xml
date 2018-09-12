@@ -17,11 +17,12 @@
     <dcterms:extent>136 pages, [8] leaves of plates (2 folded) : 2 color maps ; 22 cm</dcterms:extent>
     <dcterms:publisher>Phillips, Sampson &amp; Company</dcterms:publisher>
     <dcterms:subject>Geology</dcterms:subject>
+    <dcterms:subject>Geology--United States</dcterms:subject>
     <dcterms:subject>Geology</dcterms:subject>
-    <dcterms:subject>Geology</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18888/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18888</edm:isShownAt>

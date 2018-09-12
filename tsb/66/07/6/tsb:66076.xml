@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66076</dcterms:identifier>
+    <dcterms:title>Reports of adjudged cases in the courts of Chancery, King's Bench, Common Pleas, and Exchequer, from Trinity term in the second year of King George I. to Trinity term in the twenty-first year of King George II.  [1716-1747]</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Strange, John, 1696-1754</dcterms:creator>
+    <dcterms:creator>Strange, John, 1732-1799</dcterms:creator>
+    <dcterms:created>1782</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>2 v. 25 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by the King's law-printers for Messrs. Payne, J. Rivington and Sons [etc.]</dcterms:publisher>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66076/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66076</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2511414/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

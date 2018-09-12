@@ -16,13 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>237 p. tables. 19 cm.</dcterms:extent>
     <dcterms:publisher>Stratford</dcterms:publisher>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:subject>Women</dcterms:subject>
+    <dcterms:subject>Women--Biography</dcterms:subject>
+    <dcterms:subject>Women--History--Modern period, 1600-</dcterms:subject>
     <dcterms:subject>Sex differences</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
-    <dcterms:temporal>Modern period, 1600-</dcterms:temporal>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61577/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61577</edm:isShownAt>

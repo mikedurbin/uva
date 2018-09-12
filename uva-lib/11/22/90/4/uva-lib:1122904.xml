@@ -12,14 +12,16 @@
     <dcterms:title>Ours-galop / introducing Edw. Mollenhauer's popular song, Secret love</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Lander, J. M. (Jean Margaret), 1829-1903</dcterms:creator>
+    <dcterms:creator>Gandy, Marie, 1897-1981</dcterms:creator>
+    <dcterms:creator>Mollenhauer, Edward, 1827-1914</dcterms:creator>
+    <dcterms:creator>Stackpole, Patrick M.</dcterms:creator>
     <dcterms:created>1867</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 p. of music.</dcterms:extent>
     <dcterms:publisher>J. Schuberth and Co.</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
     <dcterms:subject>Galops</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1122904/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1122904</edm:isShownAt>

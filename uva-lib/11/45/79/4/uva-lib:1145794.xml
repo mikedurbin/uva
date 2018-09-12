@@ -12,15 +12,16 @@
     <dcterms:title>Without your love ah! let me die</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Harris, Chas. K. (Charles Kassell), 1867-1930</dcterms:creator>
+    <dcterms:creator>Gettlemann, Ben</dcterms:creator>
+    <dcterms:creator>Clauder, Jos. (Joseph), 1853-1913</dcterms:creator>
     <dcterms:created>1898</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (6 p.) : ill., port.</dcterms:extent>
     <dcterms:publisher>Charles K. Harris</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1145794/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1145794</edm:isShownAt>

@@ -17,17 +17,17 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>2 x 4 in.</dcterms:extent>
-    <dcterms:subject>Portraits</dcterms:subject>
-    <dcterms:subject>Straw Hats</dcterms:subject>
-    <dcterms:subject>African Americans</dcterms:subject>
-    <dcterms:subject>Buildings</dcterms:subject>
-    <dcterms:subject>Shrubs</dcterms:subject>
-    <dcterms:subject>Flowers (plants)</dcterms:subject>
-    <dcterms:subject>Trees</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Portraits--Visual works by subject types</dcterms:subject>
+    <dcterms:subject>Straw Hats--Accessories worn on the head</dcterms:subject>
+    <dcterms:subject>African Americans--People by ethnic group</dcterms:subject>
+    <dcterms:subject>Buildings--Single built works</dcterms:subject>
+    <dcterms:subject>Shrubs--Trees and shrubs</dcterms:subject>
+    <dcterms:subject>Flowers (plants)--Herbaceous plants</dcterms:subject>
+    <dcterms:subject>Trees--Trees and shrubs</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Photographs</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:333639/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333639</edm:isShownAt>

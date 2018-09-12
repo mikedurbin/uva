@@ -17,17 +17,17 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Jackson (Tenn.)</dcterms:subject>
-    <dcterms:subject>Madison County (Tenn.)</dcterms:subject>
-    <dcterms:subject>Tennessee</dcterms:subject>
-    <dcterms:subject>Colleges</dcterms:subject>
-    <dcterms:subject>South (U.S.)</dcterms:subject>
-    <dcterms:subject>African Americans</dcterms:subject>
-    <dcterms:subject>Teachers</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Jackson (Tenn.)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Madison County (Tenn.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Tennessee--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Colleges--Single built works by function</dcterms:subject>
+    <dcterms:subject>South (U.S.)--Regions and states</dcterms:subject>
+    <dcterms:subject>African Americans--People by ethnic group</dcterms:subject>
+    <dcterms:subject>Teachers--People by occupation</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:330739/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:330739</edm:isShownAt>

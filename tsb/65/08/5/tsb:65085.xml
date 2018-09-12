@@ -12,14 +12,15 @@
     <dcterms:title>Constantinople, from the French of Théophile Gautier</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Gautier, Théophile, 1811-1872</dcterms:creator>
+    <dcterms:creator>Gould, Robert Howe</dcterms:creator>
     <dcterms:created>1875</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>363 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>Holt</dcterms:publisher>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Istanbul (Turkey)--Description and travel</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65085/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65085</edm:isShownAt>

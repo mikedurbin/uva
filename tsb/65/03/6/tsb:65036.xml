@@ -16,8 +16,8 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxiv p., 2 l., [3]-505 p. front. (diagrs.) illus., 2 pl., map. 21 cm.</dcterms:extent>
     <dcterms:publisher>Houghton, Mifflin and company</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65036/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65036</edm:isShownAt>

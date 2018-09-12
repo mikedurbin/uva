@@ -17,15 +17,15 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>2 x 4 in.</dcterms:extent>
-    <dcterms:subject>Men</dcterms:subject>
-    <dcterms:subject>Reading</dcterms:subject>
-    <dcterms:subject>Boats</dcterms:subject>
-    <dcterms:subject>Decks (watercraft components)</dcterms:subject>
-    <dcterms:subject>Rocking chairs</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Men--People by gender</dcterms:subject>
+    <dcterms:subject>Reading--Physical activities by general context</dcterms:subject>
+    <dcterms:subject>Boats--Watercraft</dcterms:subject>
+    <dcterms:subject>Decks (watercraft components)--Components by specific context</dcterms:subject>
+    <dcterms:subject>Rocking chairs--Furniture</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Photographs</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:333844/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333844</edm:isShownAt>

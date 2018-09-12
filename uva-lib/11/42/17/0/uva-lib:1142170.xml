@@ -12,6 +12,9 @@
     <dcterms:title>Come where the violets bloom : waltz song</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Persley, George W.</dcterms:creator>
+    <dcterms:creator>Harley, Edwin</dcterms:creator>
+    <dcterms:creator>Westendorf, Thomas P. (Thomas Payne), 1848-1923</dcterms:creator>
+    <dcterms:creator>Haskell, Zadah A.</dcterms:creator>
     <dcterms:created>1883</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score ([7?] p.)</dcterms:extent>
@@ -19,11 +22,9 @@
     <dcterms:subject>Songs with piano</dcterms:subject>
     <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano</dcterms:subject>
     <dcterms:subject>Waltzes</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>Minstrel music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
+    <dcterms:subject>Minstrel music--United States</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1142170/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1142170</edm:isShownAt>

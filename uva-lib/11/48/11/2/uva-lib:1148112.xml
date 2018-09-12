@@ -12,16 +12,16 @@
     <dcterms:title>Bashful bumpkin : schottische and barn dance</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Rolfe, Walter, 1880-1944</dcterms:creator>
+    <dcterms:creator>Jacobs, Walter</dcterms:creator>
     <dcterms:created>1894/1899</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 parts : ill.</dcterms:extent>
     <dcterms:publisher>Walter Jacobs</dcterms:publisher>
     <dcterms:subject>Schottisches</dcterms:subject>
-    <dcterms:subject>Plucked instrument trios (Guitar, mandolins (2))</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Plucked instrument trios (Guitar, mandolins (2))--Parts</dcterms:subject>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1148112/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1148112</edm:isShownAt>

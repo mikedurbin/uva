@@ -15,13 +15,14 @@
     <dcterms:created>1872</dcterms:created>
     <dcterms:extent>1 map : col. ; 33 x 57 cm., on sheet 48 x 62 cm.</dcterms:extent>
     <dcterms:publisher>Published by E. Mendenhall</dcterms:publisher>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Railroads--Kentucky--Maps</dcterms:subject>
+    <dcterms:subject>Kentucky--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Ohio</dcterms:spatial>
     <dcterms:spatial>Cincinnati</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003328/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003328</edm:isShownAt>

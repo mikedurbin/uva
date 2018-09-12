@@ -12,15 +12,15 @@
     <dcterms:title>Faust : valse, op. 129</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Berlioz, Hector, 1803-1869</dcterms:creator>
+    <dcterms:creator>Jaëll, Alfred, 1832-1882</dcterms:creator>
     <dcterms:created>18uu</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>13 p. of music.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
+    <dcterms:subject>Operas--Excerpts--Piano scores</dcterms:subject>
     <dcterms:subject>Waltzes</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1121033/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1121033</edm:isShownAt>

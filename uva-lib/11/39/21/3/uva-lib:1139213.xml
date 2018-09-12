@@ -12,15 +12,18 @@
     <dcterms:title>Tell me where content to find : duetto, sung by Mrs. Seguin &amp; Mr. Manvers at the theatres &amp; public concerts</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bishop, Henry R. (Henry Rowley), 1786-1855</dcterms:creator>
+    <dcterms:creator>Seguin, Anne, 1814-1888</dcterms:creator>
+    <dcterms:creator>Manvers, Charles W., -1874</dcterms:creator>
+    <dcterms:creator>Virtue, M.</dcterms:creator>
+    <dcterms:creator>Quidor, George W., approximately 1817-</dcterms:creator>
     <dcterms:created>1837/1841</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.).</dcterms:extent>
     <dcterms:publisher>Hewitt &amp; Jacques</dcterms:publisher>
     <dcterms:subject>Vocal duets with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1139213/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1139213</edm:isShownAt>

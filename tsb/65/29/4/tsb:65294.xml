@@ -12,14 +12,15 @@
     <dcterms:title>Sermons, doctrinal and practical</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Butler, William Archer, 1814?-1848</dcterms:creator>
+    <dcterms:creator>Jeremie, James Amiraux, 1802-1872</dcterms:creator>
     <dcterms:created>1857</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>v-viii,9-386p. 23cm</dcterms:extent>
     <dcterms:publisher>Macmillan and co.</dcterms:publisher>
+    <dcterms:subject>Sermons</dcterms:subject>
     <dcterms:subject>Sermons, English</dcterms:subject>
-    <dcterms:subject>Church of Ireland</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65294/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65294</edm:isShownAt>

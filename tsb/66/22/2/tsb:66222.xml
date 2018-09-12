@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66222</dcterms:identifier>
+    <dcterms:title>Plusieurs tres-bons cases : come ils estoyent adjudgees es trois premiers ans [1624-1627] au raign du feu Roy Charles le Premier en la Court de bank le Roy, non encore publiees per aucun autre</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Latch, John, 1588 or 1589-1655</dcterms:creator>
+    <dcterms:creator>Walpole, Edward, (Of Gray's Inn)</dcterms:creator>
+    <dcterms:created>1662</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[12], 275, [18] p. ; 29 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by T.R. for H. Twyford, T. Dring, and J. Place</dcterms:publisher>
+    <dcterms:subject>Law reports, digests, etc--England</dcterms:subject>
+    <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66222/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66222</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2589116/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

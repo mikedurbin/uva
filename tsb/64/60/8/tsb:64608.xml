@@ -12,15 +12,16 @@
     <dcterms:title>Lee's dispatches</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:creator>
+    <dcterms:creator>Freeman, Douglas Southall, 1886-1953</dcterms:creator>
+    <dcterms:creator>De Renne, Wymberley Jones, 1853-1916</dcterms:creator>
     <dcterms:created>1915</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>lxiii, 400 p. front. (port.) fold. map. 24 cm.</dcterms:extent>
     <dcterms:publisher>G. P. Putnam;s sons</dcterms:publisher>
-    <dcterms:subject>History, Military</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Confederate States of America--History, Military</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Campaigns</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64608/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64608</edm:isShownAt>

@@ -17,17 +17,17 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Africa</dcterms:subject>
-    <dcterms:subject>South Africa</dcterms:subject>
-    <dcterms:subject>Rocks</dcterms:subject>
-    <dcterms:subject>Stone</dcterms:subject>
-    <dcterms:subject>Hills</dcterms:subject>
-    <dcterms:subject>Views</dcterms:subject>
-    <dcterms:subject>Agricultural land</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Africa--Continents</dcterms:subject>
+    <dcterms:subject>South Africa--Countries by name</dcterms:subject>
+    <dcterms:subject>Rocks--Materials by composition</dcterms:subject>
+    <dcterms:subject>Stone--Materials by composition</dcterms:subject>
+    <dcterms:subject>Hills--Landforms</dcterms:subject>
+    <dcterms:subject>Views--Visual works by form</dcterms:subject>
+    <dcterms:subject>Agricultural land--Cultural landscapes</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332267/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332267</edm:isShownAt>

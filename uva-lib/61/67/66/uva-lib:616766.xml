@@ -12,15 +12,18 @@
     <dcterms:title>A new map of South Carolina : with its canals, roads &amp; distances from place to place along the stage &amp; steam boat routes.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Mitchell, S. Augustus (Samuel Augustus), 1792-1868</dcterms:creator>
+    <dcterms:creator>Burroughs, H. N.</dcterms:creator>
     <dcterms:created>1846</dcterms:created>
     <dcterms:extent>1 map : hand col. ; 29 x 36 cm.</dcterms:extent>
     <dcterms:publisher>Published by S. Augustus Mitchell, 1846.</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>South Carolina--Maps</dcterms:subject>
+    <dcterms:subject>Southern States--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Pennsylvania</dcterms:spatial>
     <dcterms:spatial>Philadelphia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616766/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616766</edm:isShownAt>

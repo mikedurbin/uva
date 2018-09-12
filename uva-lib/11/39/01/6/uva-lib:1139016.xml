@@ -12,13 +12,14 @@
     <dcterms:title>I'm saddest when I sing, or, You think I have a merry heart : ballad, as sung by Mr. Dempster</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bishop, Henry R. (Henry Rowley), 1786-1855</dcterms:creator>
+    <dcterms:creator>Dempster, William R. (William Richardson), 1809-1871</dcterms:creator>
     <dcterms:created>1872/1875</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (3 p.)</dcterms:extent>
     <dcterms:publisher>Lee &amp; Walker</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1139016/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1139016</edm:isShownAt>

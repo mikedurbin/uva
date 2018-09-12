@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66075</dcterms:identifier>
+    <dcterms:title>Les plees del corone, diuisees in plusors titles &amp; common lieux : per queux home pluis redement &amp; plenairement trouera quelq[ue] chose que il quira, touchant les dits plees</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Staunford, William, Sir, 1509-1558</dcterms:creator>
+    <dcterms:creator>Rastell, William, 1508?-1565</dcterms:creator>
+    <dcterms:created>1607</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[12], 198 leaves ; 19 cm. (4to)</dcterms:extent>
+    <dcterms:publisher>Ex typographia Societatis Stationariorum [by Adam Islip]</dcterms:publisher>
+    <dcterms:subject>Pleas of the crown</dcterms:subject>
+    <dcterms:subject>Capital punishment--Great Britain</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:language>fre</dcterms:language>
+    <dcterms:language>lat</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66075/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66075</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2510810/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

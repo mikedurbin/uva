@@ -17,21 +17,21 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Africa</dcterms:subject>
-    <dcterms:subject>Middle East</dcterms:subject>
-    <dcterms:subject>Men</dcterms:subject>
-    <dcterms:subject>Children (people by age group)</dcterms:subject>
-    <dcterms:subject>Buildings</dcterms:subject>
-    <dcterms:subject>Courtyards</dcterms:subject>
-    <dcterms:subject>Entrances</dcterms:subject>
-    <dcterms:subject>Arches</dcterms:subject>
-    <dcterms:subject>Columns (architectural elements)</dcterms:subject>
-    <dcterms:subject>Balconies</dcterms:subject>
-    <dcterms:subject>Balustrades</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Africa--Continents</dcterms:subject>
+    <dcterms:subject>Middle East--Regions (geographic areas)</dcterms:subject>
+    <dcterms:subject>Men--People by gender</dcterms:subject>
+    <dcterms:subject>Children (people by age group)--People by age group</dcterms:subject>
+    <dcterms:subject>Buildings--Single built works</dcterms:subject>
+    <dcterms:subject>Courtyards--Rooms and spaces</dcterms:subject>
+    <dcterms:subject>Entrances--Architectural elements</dcterms:subject>
+    <dcterms:subject>Arches--Structural elements</dcterms:subject>
+    <dcterms:subject>Columns (architectural elements)--Structural elements</dcterms:subject>
+    <dcterms:subject>Balconies--Rooms and spaces</dcterms:subject>
+    <dcterms:subject>Balustrades--Architectural elements</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332375/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332375</edm:isShownAt>

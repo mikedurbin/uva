@@ -12,14 +12,16 @@
     <dcterms:title>Smyth County, Va</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Boyd, Charles Rufus, 1841-1903</dcterms:creator>
+    <dcterms:creator>Barns, John D.</dcterms:creator>
     <dcterms:created>1899</dcterms:created>
     <dcterms:extent>1 map : col. ; 78 x 74 cm. on sheet 80 x 81 cm.</dcterms:extent>
     <dcterms:publisher>Smyth County Board of Supervisors</dcterms:publisher>
-    <dcterms:subject>Geology</dcterms:subject>
-    <dcterms:subject>Landowners</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Geology--Virginia--Smyth County--Maps</dcterms:subject>
+    <dcterms:subject>Landowners--Virginia--Smyth County--Maps</dcterms:subject>
+    <dcterms:subject>Smyth County (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003619/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003619</edm:isShownAt>

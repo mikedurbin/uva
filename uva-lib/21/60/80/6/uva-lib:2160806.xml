@@ -11,17 +11,15 @@
     <dcterms:identifier>uva-lib:2160806</dcterms:identifier>
     <dcterms:title>UVa School of Nursing Finals</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Thompson, Ralph R.</dcterms:creator>
     <dcterms:created>1947-09</dcterms:created>
     <dcterms:description>School of Nursing graduation and Final Exercises in Old Cabell Hall. From excerpt on photo:  University of Virginia- Graduation of the School of Nursing in Cabell Hall.  The University of Virginia is co-educational only in its graduate and professional schools -- with less than 200 coeds registered.  The 350 student nurses are much in demand for social events.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2160806/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2160806</edm:isShownAt>

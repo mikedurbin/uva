@@ -12,15 +12,16 @@
     <dcterms:title>Historical collections of the state of New York; containing a general collection of the most interesting facts, traditions, biographical sketches, anecdotes, &amp;c. relating to its history and antiquities, with geographical descriptions of every township in the state. Illustrated by 230 engravings.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Barber, John Warner, 1798-1885</dcterms:creator>
+    <dcterms:creator>Howe, Henry, 1816-1893</dcterms:creator>
     <dcterms:created>1841</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>608 p. incl. pl. front. (ports.) illus., plates, fold. map. 24 cm.</dcterms:extent>
     <dcterms:publisher>Pub. for the authors by S. Tuttle</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>History, Local</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>New York (State)--History</dcterms:subject>
+    <dcterms:subject>New York (State)--Description and travel</dcterms:subject>
+    <dcterms:subject>New York (State)--History, Local</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63993/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63993</edm:isShownAt>

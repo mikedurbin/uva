@@ -12,13 +12,16 @@
     <dcterms:title>Song of heaven</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Phillips, Philip, 1834-1895</dcterms:creator>
+    <dcterms:creator>Gates, Ellen M. H. (Ellen Maria Huntington), 1835-1920</dcterms:creator>
+    <dcterms:creator>Ernst, Thomas J., approximately 1829-</dcterms:creator>
+    <dcterms:creator>Simpson, Matthew, 1811-1884</dcterms:creator>
     <dcterms:created>1866</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.).</dcterms:extent>
     <dcterms:publisher>John Church Jr.</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1119168/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1119168</edm:isShownAt>

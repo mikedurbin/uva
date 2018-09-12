@@ -12,6 +12,7 @@
     <dcterms:title>Swedish wedding march = Norwegischer Hochzeits-Marsch</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Söderman, August, 1832-1876</dcterms:creator>
+    <dcterms:creator>Schereck, Benno</dcterms:creator>
     <dcterms:created>1875</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 p. of music.</dcterms:extent>
@@ -19,9 +20,8 @@
     <dcterms:subject>Piano music (4 hands), Arranged</dcterms:subject>
     <dcterms:subject>Marches (Piano, 4 hands), Arranged</dcterms:subject>
     <dcterms:subject>Wedding music</dcterms:subject>
-    <dcterms:subject>Incidental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:subject>Incidental music--Excerpts, Arranged</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1125932/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125932</edm:isShownAt>

@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>108, [3], 56 leaves : ill. ; 14 cm. (12mo)</dcterms:extent>
     <dcterms:publisher>Par Mamert Patisson Imprimeur du Roy, chez Rob. Estienne</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1017967/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1017967</edm:isShownAt>

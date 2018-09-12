@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[7], 196, [3] p. ; 16 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Par Iean de Tournes, 1544.</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1017296/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1017296</edm:isShownAt>

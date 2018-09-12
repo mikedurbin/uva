@@ -12,15 +12,18 @@
     <dcterms:title>The dominant sex; a study in the sociology of sex differentiation,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Vaerting, Mathilde, 1884-</dcterms:creator>
+    <dcterms:creator>Vaerting, Mathias</dcterms:creator>
+    <dcterms:creator>Paul, Eden, 1865-1944</dcterms:creator>
+    <dcterms:creator>Paul, Cedar</dcterms:creator>
     <dcterms:created>1923</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xviii, 289 p. 23 cm.</dcterms:extent>
     <dcterms:publisher>George H. Doran</dcterms:publisher>
     <dcterms:subject>Sex</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>ger</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61467/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61467</edm:isShownAt>

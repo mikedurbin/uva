@@ -15,12 +15,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : ill. (hand-colored) ; 44 x 36 cm.</dcterms:extent>
     <dcterms:publisher>Gedruckt und zu haben bei Blumer, Busch and Ce.</dcterms:publisher>
-    <dcterms:subject>Birth certificates</dcterms:subject>
-    <dcterms:subject>Baptismal certificates</dcterms:subject>
-    <dcterms:subject>Hymns, German</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Birth certificates--Pennsylvania</dcterms:subject>
+    <dcterms:subject>Baptismal certificates--Pennsylvania</dcterms:subject>
+    <dcterms:subject>Hymns, German--Pennsylvania</dcterms:subject>
     <dcterms:language>ger</dcterms:language>
-    <edm:hasType>Broadsides-Pennsylvania-1849.</edm:hasType>
+    <dcterms:medium>Broadsides-Pennsylvania-1849.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18664/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18664</edm:isShownAt>

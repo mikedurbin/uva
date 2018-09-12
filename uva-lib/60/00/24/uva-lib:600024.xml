@@ -15,9 +15,10 @@
     <dcterms:created>1919</dcterms:created>
     <dcterms:extent>1 map : col. ; 67 x 66 cm. on sheet 69 x 71 cm.</dcterms:extent>
     <dcterms:publisher>Dressée et gravée par Ed. Blondel La Rougery, Éditeur Géographe ,. Rue St. Lazare</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>France--Maps</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:600024/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:600024</edm:isShownAt>

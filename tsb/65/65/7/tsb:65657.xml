@@ -12,15 +12,17 @@
     <dcterms:title>The Shakespeare apocrypha, being a collection of fourteen plays which have been ascribed to Shakespeare</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Shakespeare, William, 1564-1616</dcterms:creator>
+    <dcterms:creator>Brooke, Tucker, 1883-1946</dcterms:creator>
     <dcterms:created>1908</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>lvi, 455, [1] p. 20 cm.</dcterms:extent>
     <dcterms:publisher>Clarendon Press</dcterms:publisher>
-    <dcterms:subject>Shakespeare, William</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Shakespeare, William, 1564-1616</dcterms:subject>
+    <dcterms:subject>Bibliography--Spurious and doubtful works</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65657/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65657</edm:isShownAt>

@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>x, [11]-842 p. front. (port.) plates. 22 cm.</dcterms:extent>
     <dcterms:publisher>Loomis national library association</dcterms:publisher>
-    <dcterms:subject>Lincoln, Abraham</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Lincoln, Abraham, 1809-1865</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64589/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64589</edm:isShownAt>

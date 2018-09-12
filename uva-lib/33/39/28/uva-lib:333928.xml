@@ -16,14 +16,14 @@
     <dcterms:description>Full view</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:subject>Mothers</dcterms:subject>
-    <dcterms:subject>Snow</dcterms:subject>
-    <dcterms:subject>Portraits</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Women--People by gender</dcterms:subject>
+    <dcterms:subject>Mothers--People by family relationship</dcterms:subject>
+    <dcterms:subject>Snow--Earth sciences concepts</dcterms:subject>
+    <dcterms:subject>Portraits--Visual works by subject types</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Photographs</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:333928/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333928</edm:isShownAt>

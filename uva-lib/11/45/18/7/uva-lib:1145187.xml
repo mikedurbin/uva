@@ -12,14 +12,16 @@
     <dcterms:title>Galilee : song for mezzo-soprano or baritone in B♭</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Coombs, C. Whitney (Charles Whitney), 1859-1940</dcterms:creator>
+    <dcterms:creator>Weatherly, F. E. (Frederic Edward), 1848-1929</dcterms:creator>
+    <dcterms:creator>Funcke, von, Frau</dcterms:creator>
     <dcterms:created>1890</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.).</dcterms:extent>
     <dcterms:publisher>G. Schirmer</dcterms:publisher>
     <dcterms:subject>Sacred songs (Medium voice) with piano</dcterms:subject>
-    <dcterms:subject>In the New Testament</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Galilee (Israel)--In the New Testament--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1145187/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1145187</edm:isShownAt>

@@ -15,11 +15,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : .ill. ; 25 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Firebrick</dcterms:subject>
-    <dcterms:subject>Merchants</dcterms:subject>
-    <dcterms:subject>E. Pratt &amp; Brother (Firm : Baltimore, Md.)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Firebrick--Maryland</dcterms:subject>
+    <dcterms:subject>Merchants--Maryland--Baltimore</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18732/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18732</edm:isShownAt>

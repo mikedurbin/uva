@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 v. ; 23 cm.</dcterms:extent>
     <dcterms:publisher>Sorin &amp; Ball</dcterms:publisher>
+    <dcterms:subject>Sermons</dcterms:subject>
     <dcterms:subject>Sermons, English</dcterms:subject>
-    <dcterms:subject>Church of England</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64435/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64435</edm:isShownAt>

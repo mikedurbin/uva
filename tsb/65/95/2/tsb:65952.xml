@@ -11,17 +11,17 @@
     <dcterms:identifier>tsb:65952</dcterms:identifier>
     <dcterms:title>The statutes at large; being a collection of all the laws of Virginia, from the first session of the legislature, in the year 1619. Published pursuant to an act of the General assembly of Virginia, passed on the fifth day of February one thousand eight hundred and eight ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Virginia</dcterms:creator>
+    <dcterms:creator>Hening, William Waller, 1768-1828</dcterms:creator>
     <dcterms:created>1809</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>13 v. 21-23 cm.</dcterms:extent>
     <dcterms:publisher>Printed by and for Samuel Pleasants, junior, printer to the commonwealth</dcterms:publisher>
-    <dcterms:subject>Law</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law--Virginia</dcterms:subject>
+    <dcterms:subject>Virginia--History--Sources</dcterms:subject>
+    <dcterms:subject>Virginia--History--Colonial period, ca. 1600-1775--Sources</dcterms:subject>
+    <dcterms:subject>Virginia--Genealogy</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Colonial period, ca. 1600-1775</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65952/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65952</edm:isShownAt>

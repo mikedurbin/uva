@@ -16,11 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 p. l., 120 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>Longmans, Green andco.</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Cromwell, Oliver</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Cromwell, Oliver, 1599-1658</dcterms:subject>
+    <dcterms:subject>Great Britain--History--Commonwealth and Protectorate, 1649-1660</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Commonwealth and Protectorate, 1649-1660</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64197/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64197</edm:isShownAt>

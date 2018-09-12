@@ -12,16 +12,20 @@
     <dcterms:title>Ben Bolt, [or,] Oh! don't you remember : sung by Miss Clara Bruce</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Kneass, Nelson, 1823-1868 or 1869</dcterms:creator>
+    <dcterms:creator>English, Thomas Dunn, 1819-1902</dcterms:creator>
+    <dcterms:creator>Bruce, Clara</dcterms:creator>
+    <dcterms:creator>McCann, J. H.</dcterms:creator>
+    <dcterms:creator>Andrews, E. H.</dcterms:creator>
     <dcterms:created>1848</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (6 p.) : ill.</dcterms:extent>
     <dcterms:publisher>W. C. Peters</dcterms:publisher>
+    <dcterms:subject>English, Thomas Dunn, 1819-1902</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>English, Thomas Dunn</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1121968/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1121968</edm:isShownAt>

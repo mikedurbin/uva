@@ -16,15 +16,15 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. fronts., illus., plates, 3 maps (2 fold.) 21 cm.</dcterms:extent>
     <dcterms:publisher>The Macmillan company</dcterms:publisher>
-    <dcterms:subject>Goths</dcterms:subject>
-    <dcterms:subject>Arabs</dcterms:subject>
-    <dcterms:subject>Normans</dcterms:subject>
-    <dcterms:subject>Greeks</dcterms:subject>
+    <dcterms:subject>Goths--Italy</dcterms:subject>
+    <dcterms:subject>Arabs--Italy</dcterms:subject>
+    <dcterms:subject>Normans--Italy</dcterms:subject>
+    <dcterms:subject>Greeks--Italy</dcterms:subject>
     <dcterms:subject>Mafia</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Italy--History</dcterms:subject>
+    <dcterms:subject>Sicily (Italy)--History</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64422/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64422</edm:isShownAt>

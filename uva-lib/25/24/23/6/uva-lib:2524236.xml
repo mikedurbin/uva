@@ -11,15 +11,14 @@
     <dcterms:identifier>uva-lib:2524236</dcterms:identifier>
     <dcterms:title>Mortar</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Coors Porcelain Company</dcterms:creator>
     <dcterms:created>1920/1969</dcterms:created>
     <dcterms:description>Mortar marked "COORS USA 520-1."</dcterms:description>
     <dcterms:medium>porcelain (material)</dcterms:medium>
     <dcterms:extent>6.7 x 9 x 9.3 cm</dcterms:extent>
     <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2524236/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524236</edm:isShownAt>

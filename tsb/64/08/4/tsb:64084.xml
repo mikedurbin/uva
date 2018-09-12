@@ -16,14 +16,13 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>v, 7-254 p. ; 18 cm.</dcterms:extent>
     <dcterms:publisher>Henry Holt and Company</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
+    <dcterms:subject>Spencer, Anne, 1882-1975</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
     <dcterms:subject>Liberalism</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Spencer, Anne</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Great Britain--Politics and government--1837-1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <dcterms:temporal>1837-1901</dcterms:temporal>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64084/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64084</edm:isShownAt>

@@ -11,14 +11,17 @@
     <dcterms:identifier>uva-lib:1003989</dcterms:identifier>
     <dcterms:title>Europe</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Langley, Edward.</dcterms:creator>
+    <dcterms:creator>Belch, William.</dcterms:creator>
     <dcterms:created>1806</dcterms:created>
     <dcterms:extent>1 map : col. ; 27 x 22 cm. on sheet 39 x 24 cm.</dcterms:extent>
     <dcterms:publisher>Printed &amp; published by Ed. Langley &amp; Wm. Belch 173 High Street, Borough London</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Europe--Maps</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003989/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003989</edm:isShownAt>

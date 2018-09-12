@@ -17,9 +17,9 @@
     <dcterms:medium>ivory (tooth component)</dcterms:medium>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:subject>Drawing</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>drafting, drawing, and writing equipment</edm:hasType>
+    <dcterms:medium>drafting, drawing, and writing equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440461/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440461</edm:isShownAt>

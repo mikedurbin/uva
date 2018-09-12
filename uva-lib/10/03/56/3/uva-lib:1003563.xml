@@ -12,14 +12,20 @@
     <dcterms:title>To Her most Sacred Majesty Carolina Queen of Great Britain, France &amp; Ireland, this map of Europe, according to the newest and most exact observations, is most humbly dedicated</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+    <dcterms:creator>Bowles, John, 1701-1779</dcterms:creator>
+    <dcterms:creator>Bowles, Thomas, -1767</dcterms:creator>
+    <dcterms:creator>Overton, Philip, -1751</dcterms:creator>
+    <dcterms:creator>King, John.</dcterms:creator>
     <dcterms:created>1730</dcterms:created>
     <dcterms:extent>1 map : col. ; 59 x 96 cm. on sheet 64 x 108 cm.</dcterms:extent>
     <dcterms:publisher>Printed for I. Bowles Print and Map seller at the Black Horse in Cornhill and T. Bowles Print &amp; Mapseller next to the Chapter house in St. Pauls Church yard, 1708; Sold by H. Moll over against Devereux Court without Temple Bar and P. Overton Map &amp; Printseller near St. Dunstans Church Fleetstreet and by I. King Map &amp; Printseller at ye Globe in the Poultry</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Europe--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Europe, Western--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003563/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003563</edm:isShownAt>

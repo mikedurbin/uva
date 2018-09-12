@@ -12,15 +12,16 @@
     <dcterms:title>Mignon waltz : (opera by A. Thomas)</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Freeman, Jas. J. (James J.)</dcterms:creator>
+    <dcterms:creator>Quinn, Henry Maddock, Jr</dcterms:creator>
+    <dcterms:creator>Thomas, Ambroise, 1811-1896</dcterms:creator>
     <dcterms:created>1874</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[3] p. of music.</dcterms:extent>
     <dcterms:publisher>E.H. Harding</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
+    <dcterms:subject>Operas--Excerpts, Arranged</dcterms:subject>
     <dcterms:subject>Waltzes</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1138658/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1138658</edm:isShownAt>

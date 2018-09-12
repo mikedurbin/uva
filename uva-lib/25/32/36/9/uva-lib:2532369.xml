@@ -19,9 +19,9 @@
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>9 x 12 x 2 cm</dcterms:extent>
     <dcterms:subject>Handbags</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>handbags</edm:hasType>
+    <dcterms:medium>handbags</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2532369/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2532369</edm:isShownAt>

@@ -16,9 +16,9 @@
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>5.3 x 21.3 x 16.8 cm</dcterms:extent>
     <dcterms:subject>Mess kits</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>mess kits</edm:hasType>
+    <dcterms:medium>mess kits</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2551486/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2551486</edm:isShownAt>

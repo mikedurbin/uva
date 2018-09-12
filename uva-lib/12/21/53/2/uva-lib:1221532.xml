@@ -12,16 +12,17 @@
     <dcterms:title>The awful tragedy lately performed in Harbaugh's Valley, Maryland, or, An account of the life and trial of John Markley, who was executed in Frederick City, Md., June 29, 1831. for the murder perpetrated either by him alone, or with the aid of one or more accomplices : on the bodies of his uncle John Newey &amp; wife, two children, and infant in its mother's wonb, her father, and an apprentice boy; &lt;in Harbaugh's Valley, 29th Dec. 1830&gt; Also, an indirect confession, made in prison to Joseph Reese, as to his knowledge of the murder</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Nourse, Gabriel, 1770-1839</dcterms:creator>
+    <dcterms:creator>Markley, John, 1794-1831</dcterms:creator>
     <dcterms:created>1831</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>48 p. ; 21 cm.</dcterms:extent>
     <dcterms:publisher>Printed by James G. Brooks</dcterms:publisher>
-    <dcterms:subject>Murder</dcterms:subject>
-    <dcterms:subject>Markley, John/</dcterms:subject>
-    <dcterms:subject>Newey, John/</dcterms:subject>
+    <dcterms:subject>Markley, John, 1794-1831</dcterms:subject>
+    <dcterms:subject>Newey, John, d. 1830</dcterms:subject>
     <dcterms:subject>Newey family</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Murder--Maryland</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1221532/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1221532</edm:isShownAt>

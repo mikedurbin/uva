@@ -19,9 +19,9 @@
     <dcterms:medium>plastic (organic material)</dcterms:medium>
     <dcterms:extent>2.8 x 6.5 x 6.5 cm</dcterms:extent>
     <dcterms:subject>Medals</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medallions (medals)</edm:hasType>
+    <dcterms:medium>medallions (medals)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2569224/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2569224</edm:isShownAt>

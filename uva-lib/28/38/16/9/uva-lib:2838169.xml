@@ -15,11 +15,11 @@
     <dcterms:description>Perforated plate and base, used for making tablets or pills. A compounded mixture would be spread across the perforated plate, filling the holes. After any excess material was removed, the perforated plate would be slid onto the base, removing the newly-formed tablets.</dcterms:description>
     <dcterms:medium>wood (plant material)</dcterms:medium>
     <dcterms:extent>3 x 15.5 x 7 cm</dcterms:extent>
-    <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medical instruments or apparatus--Pharmaceutical technology</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
-    <edm:hasType>pharmacy</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:medium>pharmacy</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2838169/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2838169</edm:isShownAt>

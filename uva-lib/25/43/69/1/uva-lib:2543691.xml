@@ -17,11 +17,11 @@
     <dcterms:medium>wire</dcterms:medium>
     <dcterms:medium>string (fiber product)</dcterms:medium>
     <dcterms:extent>23 x 25 x 3 cm</dcterms:extent>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>World War, 1914-1918--Beadwork</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>grave markers</edm:hasType>
-    <edm:hasType>beadwork (visual works)</edm:hasType>
+    <dcterms:medium>grave markers</dcterms:medium>
+    <dcterms:medium>beadwork (visual works)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2543691/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2543691</edm:isShownAt>

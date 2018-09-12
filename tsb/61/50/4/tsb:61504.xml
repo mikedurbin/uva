@@ -12,14 +12,17 @@
     <dcterms:title>Plato</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Plato.</dcterms:creator>
+    <dcterms:creator>Fowler, Harold North, 1859-1955</dcterms:creator>
+    <dcterms:creator>Lamb, W. R. M. (Walter Rangeley Maitland), 1882-1961</dcterms:creator>
+    <dcterms:creator>Bury, Robert Gregg, 1869-1951</dcterms:creator>
     <dcterms:created>1914</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>v. ; 17 cm.</dcterms:extent>
     <dcterms:publisher>Heinemann</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>grc</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61504/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61504</edm:isShownAt>

@@ -16,15 +16,15 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xi, 342p. 17cm.</dcterms:extent>
     <dcterms:publisher>The Modern Library</dcterms:publisher>
-    <dcterms:subject>Manning, Henry Edward/</dcterms:subject>
-    <dcterms:subject>Nightingale, Florence/</dcterms:subject>
-    <dcterms:subject>Arnold, Thomas/</dcterms:subject>
-    <dcterms:subject>Gordon, Charles George</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Manning, Henry Edward, 1808-1892</dcterms:subject>
+    <dcterms:subject>Nightingale, Florence, 1820-1910</dcterms:subject>
+    <dcterms:subject>Arnold, Thomas, 1795-1842</dcterms:subject>
+    <dcterms:subject>Gordon, Charles George, 1833-1885</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <edm:hasType>biography</edm:hasType>
-    <edm:hasType>Marginalia (Provenance)</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:medium>Marginalia (Provenance)</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65500/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65500</edm:isShownAt>

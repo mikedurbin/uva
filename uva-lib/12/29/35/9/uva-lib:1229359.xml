@@ -17,16 +17,15 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 print : lithograph, col. ; 31 x 41 cm.</dcterms:extent>
     <dcterms:publisher>Currier &amp; Ives]</dcterms:publisher>
-    <dcterms:subject>United States.</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>New York (State)</dcterms:spatial>
     <dcterms:spatial>New York</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>graphic</edm:hasType>
-    <edm:hasType>Group portraits-1870-1880.</edm:hasType>
-    <edm:hasType>Portrait prints-1870-1880.</edm:hasType>
-    <edm:hasType>Lithographs-1870-1880.</edm:hasType>
+    <dcterms:medium>graphic</dcterms:medium>
+    <dcterms:medium>Group portraits-1870-1880.</dcterms:medium>
+    <dcterms:medium>Portrait prints-1870-1880.</dcterms:medium>
+    <dcterms:medium>Lithographs-1870-1880.</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1229359/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1229359</edm:isShownAt>

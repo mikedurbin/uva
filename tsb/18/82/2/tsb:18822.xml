@@ -17,9 +17,10 @@
     <dcterms:extent>1 broadside ; 25 x 19 cm.</dcterms:extent>
     <dcterms:publisher>Printed at the Virginian Office</dcterms:publisher>
     <dcterms:subject>Ryburn, Beatie</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Abingdon (Va.)</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18822/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18822</edm:isShownAt>

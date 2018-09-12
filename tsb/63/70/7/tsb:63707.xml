@@ -12,17 +12,19 @@
     <dcterms:title>Memoirs of a Huguenot family</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Fontaine, James, 1658-</dcterms:creator>
+    <dcterms:creator>Maury, Ann, 1803-1876</dcterms:creator>
+    <dcterms:creator>Fontaine, John, 1693-</dcterms:creator>
+    <dcterms:creator>Maury, James, 1718-1769</dcterms:creator>
     <dcterms:created>1853</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>512 p. incl. front. port. 19 cm.</dcterms:extent>
     <dcterms:publisher>G.P. Putnam &amp; Co.</dcterms:publisher>
-    <dcterms:subject>Huguenots</dcterms:subject>
-    <dcterms:subject>Fontaine family/</dcterms:subject>
-    <dcterms:subject>Morey family/</dcterms:subject>
-    <dcterms:subject>France.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Fontaine family</dcterms:subject>
+    <dcterms:subject>Morey family</dcterms:subject>
+    <dcterms:subject>Huguenots--Virginia</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63707/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63707</edm:isShownAt>

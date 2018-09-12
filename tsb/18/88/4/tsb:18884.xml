@@ -17,11 +17,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 print : lithograph, hand-colored ; image 12 x 18 cm. on sheet 22 x 30 cm.</dcterms:extent>
     <dcterms:publisher>Published by Charles Magnus &amp; Co.</dcterms:publisher>
-    <dcterms:subject>Western Lunatic Asylum (Va.)</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Pictorial works</dcterms:subject>
+    <dcterms:subject>Staunton (Va.)--Pictorial works</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>graphic</edm:hasType>
-    <edm:hasType>Lithographs-United States-1850-1870.</edm:hasType>
+    <dcterms:medium>graphic</dcterms:medium>
+    <dcterms:medium>Lithographs-United States-1850-1870.</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18884/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18884</edm:isShownAt>

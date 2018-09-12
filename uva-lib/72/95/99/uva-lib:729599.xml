@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[8], 216 p. : ill. ; 24 cm. (4to)</dcterms:extent>
     <dcterms:publisher>Chez Abel Langellier au premier pillier de la grand Salle du Palais</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:729599/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:729599</edm:isShownAt>

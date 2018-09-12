@@ -11,12 +11,13 @@
     <dcterms:identifier>tsb:65365</dcterms:identifier>
     <dcterms:title>The celebration of the one hundred and fiftieth anniversary of its founding as Queens College, 1766-l9l6</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Lewis, J. Volney (Joseph Volney), 1869-1969</dcterms:creator>
     <dcterms:created>1917</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vii, 386 p. front., plates, ports., facisims. 24 cm.</dcterms:extent>
     <dcterms:publisher>The College</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65365/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65365</edm:isShownAt>

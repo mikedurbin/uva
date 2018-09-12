@@ -12,14 +12,15 @@
     <dcterms:title>The book of the foundations</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Teresa, of Avila, Saint, 1515-1582</dcterms:creator>
+    <dcterms:creator>Dalton, John.</dcterms:creator>
     <dcterms:created>1853</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xi, 260 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>T. Jones</dcterms:publisher>
+    <dcterms:subject>Spain</dcterms:subject>
     <dcterms:subject>Convents</dcterms:subject>
-    <dcterms:subject>Carmelites</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65323/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65323</edm:isShownAt>

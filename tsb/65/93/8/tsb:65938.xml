@@ -11,13 +11,15 @@
     <dcterms:identifier>tsb:65938</dcterms:identifier>
     <dcterms:title>Term reports in the Court of King's Bench</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Durnford, Charles</dcterms:creator>
+    <dcterms:creator>East, Edward Hyde, 1764-1847</dcterms:creator>
     <dcterms:created>1817</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>8 v. 24 cm.</dcterms:extent>
     <dcterms:publisher>J. Butterworth and Son</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65938/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65938</edm:isShownAt>

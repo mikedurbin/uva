@@ -15,9 +15,9 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xiv, 423 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>C. Scribner's sons</dcterms:publisher>
-    <dcterms:subject>Music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Music--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64302/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64302</edm:isShownAt>

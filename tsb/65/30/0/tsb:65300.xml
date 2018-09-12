@@ -12,12 +12,13 @@
     <dcterms:title>M. Tulli Ciceronis De officiis libri tres</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Cicero, Marcus Tullius.</dcterms:creator>
+    <dcterms:creator>Crowell, E. P. (Edward Payson), 1830-1911</dcterms:creator>
     <dcterms:created>1882</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vi, 347 p. ; 18 cm.</dcterms:extent>
     <dcterms:publisher>Eldredge &amp; brother</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>lat</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65300/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65300</edm:isShownAt>

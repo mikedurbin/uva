@@ -12,15 +12,17 @@
     <dcterms:title>Washington and suburbs, District of Columbia, showing permanent system of highways</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Weller, F. R.</dcterms:creator>
+    <dcterms:creator>Perley, F. A.</dcterms:creator>
     <dcterms:created>1902</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map ; 80 x 81 cm.</dcterms:extent>
     <dcterms:publisher>Wm. A. Flamm &amp; Co.</dcterms:publisher>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Real property--Washington (D.C.)--Maps</dcterms:subject>
+    <dcterms:subject>Washington (D.C.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003423/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003423</edm:isShownAt>

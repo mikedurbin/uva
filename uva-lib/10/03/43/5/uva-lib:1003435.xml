@@ -17,10 +17,14 @@
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : col. ; 96 x 71 cm. folded to 20 x 12 cm.</dcterms:extent>
     <dcterms:publisher>Published by "Geographia" Ltd.</dcterms:publisher>
-    <dcterms:subject>Distances, etc</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Great Britain--Maps</dcterms:subject>
+    <dcterms:subject>Great Britain--Distances, etc</dcterms:subject>
+    <dcterms:subject>England--Maps</dcterms:subject>
+    <dcterms:subject>Scotland--Maps</dcterms:subject>
+    <dcterms:subject>Wales--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003435/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003435</edm:isShownAt>

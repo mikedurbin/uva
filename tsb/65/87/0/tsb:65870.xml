@@ -11,12 +11,14 @@
     <dcterms:identifier>tsb:65870</dcterms:identifier>
     <dcterms:title>The reports of Richard Brownlow and John Goldesborough, Esquires; the first and second part.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Brownlow, Richard, 1553-1638</dcterms:creator>
+    <dcterms:creator>Goldesborough, John, 1568-1618</dcterms:creator>
     <dcterms:created>1675</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>241, 341 p. 22 cm.</dcterms:extent>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65870/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65870</edm:isShownAt>

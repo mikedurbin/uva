@@ -15,11 +15,14 @@
     <dcterms:created>1842</dcterms:created>
     <dcterms:extent>1 map : col.; 45 x 45 cm. on sheet 56 x 48 cm.</dcterms:extent>
     <dcterms:publisher>Published by W. H. Lizars</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Western Hemisphere--Maps</dcterms:subject>
+    <dcterms:subject>South America--Maps</dcterms:subject>
+    <dcterms:subject>North America--Maps</dcterms:subject>
     <dcterms:spatial>Scotland</dcterms:spatial>
     <dcterms:spatial>Edinburgh</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003576/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003576</edm:isShownAt>

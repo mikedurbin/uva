@@ -15,11 +15,12 @@
     <dcterms:created>1800</dcterms:created>
     <dcterms:extent>1 map ; 18 x 23 cm. on sheet 22 x 26 cm.</dcterms:extent>
     <dcterms:publisher>Printed for G.G. and J. Robinson, and J. Mawman (successor to Mr. Dilly), by S. Hamilton</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Canada--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004185/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004185</edm:isShownAt>

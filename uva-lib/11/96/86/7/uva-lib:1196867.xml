@@ -15,12 +15,14 @@
     <dcterms:created>1915/1918</dcterms:created>
     <dcterms:extent>1 map : col. ; 65  x 50 cm., folded in envelope 19 x 14 cm.</dcterms:extent>
     <dcterms:publisher>A. Taride, éditeur.</dcterms:publisher>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>World War, 1914-1918--France--Maps</dcterms:subject>
+    <dcterms:subject>World War, 1914-1918--France--Champagne-Ardenne--Maps</dcterms:subject>
+    <dcterms:subject>World War, 1914-1918--France--Argonne--Maps</dcterms:subject>
+    <dcterms:subject>Champagne-Ardenne (France)--Maps</dcterms:subject>
+    <dcterms:subject>Argonne (France)--Maps</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1196867/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1196867</edm:isShownAt>

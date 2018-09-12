@@ -12,24 +12,24 @@
     <dcterms:title>Our battle-flag</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Willett, Edward, 1830-1889</dcterms:creator>
+    <dcterms:creator>Magnus, Charles.</dcterms:creator>
     <dcterms:created>1863/1864</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : ill. ; 21 x 13 cm.</dcterms:extent>
     <dcterms:publisher>Published by Chas. Magnus, 12 Frankfort St N.Y.</dcterms:publisher>
-    <dcterms:subject>Flags</dcterms:subject>
-    <dcterms:subject>War songs</dcterms:subject>
-    <dcterms:subject>Soldiers</dcterms:subject>
-    <dcterms:subject>Death songs</dcterms:subject>
-    <dcterms:subject>Patriotic music</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Flags--United States--Songs and music--Texts</dcterms:subject>
+    <dcterms:subject>War songs--United States--Songs and music--Texts</dcterms:subject>
+    <dcterms:subject>Soldiers--United States--Songs and music--Texts</dcterms:subject>
+    <dcterms:subject>Death songs--United States--Texts</dcterms:subject>
+    <dcterms:subject>Patriotic music--United States--Texts</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Songs and music--Texts</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>New York (State)</dcterms:spatial>
     <dcterms:spatial>New York (City)</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-New York (State)-New York-1860-1870.</edm:hasType>
-    <edm:hasType>Song sheets-New York (State)-New York-1860-1870.</edm:hasType>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:medium>Broadsides-New York (State)-New York-1860-1870.</dcterms:medium>
+    <dcterms:medium>Song sheets-New York (State)-New York-1860-1870.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1219597/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1219597</edm:isShownAt>

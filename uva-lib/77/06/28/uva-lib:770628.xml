@@ -14,11 +14,10 @@
     <dcterms:created>1921</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 pieces. port. 15-28 x 9-22 cm.</dcterms:extent>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Trinkle, E. Lee (Elbert Lee)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Trinkle, E. Lee (Elbert Lee), 1876-1939</dcterms:subject>
+    <dcterms:subject>Virginia--Politics and government--1865-1950</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1865-1950</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:770628/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770628</edm:isShownAt>

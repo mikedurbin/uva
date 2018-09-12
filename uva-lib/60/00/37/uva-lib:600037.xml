@@ -14,12 +14,14 @@
     <dcterms:created>1918</dcterms:created>
     <dcterms:extent>1 map : col. ; 69 x 102 cm. on sheet 74 x 108 cm.</dcterms:extent>
     <dcterms:publisher>Groupe de canevas de tir]</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:subject>Ast, Joseph Phillip</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Ast, Joseph Phillip, 1882-1975</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>World War, 1914-1918--France--Maps</dcterms:subject>
+    <dcterms:subject>Haut-Rhin (France)--Maps</dcterms:subject>
+    <dcterms:subject>Dannemarie (France)--Maps</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:600037/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:600037</edm:isShownAt>

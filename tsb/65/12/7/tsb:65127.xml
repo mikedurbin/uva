@@ -12,12 +12,16 @@
     <dcterms:title>Essays, civil and moral : and The new Atlantis</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bacon, Francis, 1561-1626</dcterms:creator>
+    <dcterms:creator>Milton, John, 1608-1674</dcterms:creator>
+    <dcterms:creator>Milton, John, 1608-1674</dcterms:creator>
+    <dcterms:creator>Browne, Thomas, Sir, 1605-1682</dcterms:creator>
+    <dcterms:creator>Bacon, Francis, 1561-1626</dcterms:creator>
     <dcterms:created>1909</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>347 p., [1] leaf of plates : port. ; 20 cm.</dcterms:extent>
     <dcterms:publisher>P. F. Collier</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65127/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65127</edm:isShownAt>

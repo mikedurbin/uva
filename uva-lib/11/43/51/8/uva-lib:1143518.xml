@@ -12,15 +12,15 @@
     <dcterms:title>Adagio from Beethoven's Sextet, op. 81</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Beethoven, Ludwig van, 1770-1827</dcterms:creator>
+    <dcterms:creator>Thomas, Theodore, 1835-1905</dcterms:creator>
+    <dcterms:creator>Lawson</dcterms:creator>
     <dcterms:created>1866</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 parts.</dcterms:extent>
     <dcterms:publisher>S. Brainard's Sons</dcterms:publisher>
     <dcterms:subject>Organ and piano music, Arranged</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1143518/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1143518</edm:isShownAt>

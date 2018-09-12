@@ -11,7 +11,6 @@
     <dcterms:identifier>uva-lib:2826775</dcterms:identifier>
     <dcterms:title>Medicine chest</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>J. Terry &amp; Company</dcterms:creator>
     <dcterms:created>1850</dcterms:created>
     <dcterms:description>J. Terry &amp; Co. Pattern 1849. Contains 15 glass medicine bottles with stoppers, some from Todd, Hinton &amp; Taylor, Apothecaries and Druggists, Petersburg, VA; apothecary scales and weights; spatulas; and additional glass stoppers.</dcterms:description>
     <dcterms:medium>wood (plant material)</dcterms:medium>
@@ -20,10 +19,10 @@
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>21.5 x 24 x 17.5 cm</dcterms:extent>
     <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
-    <edm:hasType>medicine chests</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:medium>medicine chests</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2826775/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2826775</edm:isShownAt>

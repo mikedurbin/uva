@@ -12,18 +12,18 @@
     <dcterms:title>Mother is the battle over</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Roefs, B. E. (Benedict E.)</dcterms:creator>
+    <dcterms:creator>Hermann, I. (Isaac), 1838-1917</dcterms:creator>
     <dcterms:created>1863</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.).</dcterms:extent>
     <dcterms:publisher>S. T. Gordon</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>War songs</dcterms:subject>
-    <dcterms:subject>Soldiers</dcterms:subject>
-    <dcterms:subject>Children and death</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>War songs--United States</dcterms:subject>
+    <dcterms:subject>Soldiers--Death--Songs and music</dcterms:subject>
+    <dcterms:subject>Children and death--Songs and music</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1148634/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1148634</edm:isShownAt>

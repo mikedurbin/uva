@@ -15,16 +15,13 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>v. : ill. ; 21-30 cm.</dcterms:extent>
     <dcterms:publisher>University of Virginia</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Students</dcterms:subject>
-    <dcterms:subject>Duke, R. T. W. (Richard Thomas Walker)/</dcterms:subject>
-    <dcterms:subject>University of Virginia/</dcterms:subject>
-    <dcterms:subject>University of Virginia/</dcterms:subject>
-    <dcterms:subject>Sabine Hall (Richmond County, Va.)./</dcterms:subject>
-    <dcterms:subject>Library.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Duke, R. T. W. (Richard Thomas Walker), 1853-1926</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>Periodicals</dcterms:subject>
+    <dcterms:subject>Students--Periodicals</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>periodical</edm:hasType>
+    <dcterms:medium>periodical</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440926/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440926</edm:isShownAt>

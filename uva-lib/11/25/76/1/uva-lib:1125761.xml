@@ -12,14 +12,16 @@
     <dcterms:title>Postillion polka</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>De Much.</dcterms:creator>
+    <dcterms:creator>Beyer, Ferdinand, 1803-1863</dcterms:creator>
+    <dcterms:creator>Webb, L. W.</dcterms:creator>
+    <dcterms:creator>Gillimgham</dcterms:creator>
     <dcterms:created>1853/1864</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 p. of music.</dcterms:extent>
     <dcterms:publisher>Miller &amp; Beacham, successors to F.D. Benteen</dcterms:publisher>
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
     <dcterms:subject>Polkas</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1125761/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125761</edm:isShownAt>

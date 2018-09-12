@@ -16,12 +16,9 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>75, 184 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>Printed for F. Smith [etc]</dcterms:publisher>
-    <dcterms:subject>Constitutional history</dcterms:subject>
-    <dcterms:subject>Great Britain./</dcterms:subject>
-    <dcterms:subject>Parliament./</dcterms:subject>
-    <dcterms:subject>House of Commons.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Constitutional history--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66001/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66001</edm:isShownAt>

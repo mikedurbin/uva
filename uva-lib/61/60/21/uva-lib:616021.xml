@@ -16,10 +16,9 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 parts ; 31 cm.</dcterms:extent>
     <dcterms:publisher>I.I. Hummel</dcterms:publisher>
-    <dcterms:subject>Trio sonatas</dcterms:subject>
-    <dcterms:subject>Quartets (Harpsichord, flutes (2), cello)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:subject>Trio sonatas--Parts</dcterms:subject>
+    <dcterms:subject>Quartets (Harpsichord, flutes (2), cello)--Parts</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616021/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616021</edm:isShownAt>

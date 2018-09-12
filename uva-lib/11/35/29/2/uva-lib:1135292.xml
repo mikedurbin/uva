@@ -12,13 +12,14 @@
     <dcterms:title>The Kerry dance</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Molloy, J. L. (James L.), 1837-1909</dcterms:creator>
+    <dcterms:creator>Sherrington, Lemmens</dcterms:creator>
     <dcterms:created>1877/1889</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.).</dcterms:extent>
     <dcterms:publisher>Oliver Ditson &amp; Co.</dcterms:publisher>
     <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1135292/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1135292</edm:isShownAt>

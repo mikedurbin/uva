@@ -17,20 +17,20 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>2 x 3 in.</dcterms:extent>
-    <dcterms:subject>Palm Beach County (Fla.)</dcterms:subject>
-    <dcterms:subject>Florida</dcterms:subject>
-    <dcterms:subject>Palm Beach County Training School (Fla.)</dcterms:subject>
-    <dcterms:subject>South (U.S.)</dcterms:subject>
-    <dcterms:subject>African Americans</dcterms:subject>
-    <dcterms:subject>Vocational schools</dcterms:subject>
-    <dcterms:subject>Schools</dcterms:subject>
-    <dcterms:subject>Institutional buildings</dcterms:subject>
-    <dcterms:subject>Pines</dcterms:subject>
-    <dcterms:subject>Turrets (towers)</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Palm Beach County (Fla.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Florida--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Palm Beach County Training School (Fla.)--Single built works by name</dcterms:subject>
+    <dcterms:subject>South (U.S.)--Regions and states</dcterms:subject>
+    <dcterms:subject>African Americans--People by ethnic group</dcterms:subject>
+    <dcterms:subject>Vocational schools--Single built works by function</dcterms:subject>
+    <dcterms:subject>Schools--Single built works by function</dcterms:subject>
+    <dcterms:subject>Institutional buildings--Single built works by function</dcterms:subject>
+    <dcterms:subject>Pines--Trees and shrubs</dcterms:subject>
+    <dcterms:subject>Turrets (towers)--Components by specific context</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Lantern slides</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Lantern slides</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:328653/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:328653</edm:isShownAt>

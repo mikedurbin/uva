@@ -11,19 +11,20 @@
     <dcterms:identifier>tsb:18846</dcterms:identifier>
     <dcterms:title>"Topsy." Or the slave girl's appeal to the visitors and patrons of the Anti-Slavery Bazaar, held in Boston, Dec. 1852</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Stowe, Harriet Beecher, 1811-1896</dcterms:creator>
     <dcterms:created>1852</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 29 x 18 cm.</dcterms:extent>
     <dcterms:publisher>Anti-Slavery Bazaar</dcterms:publisher>
-    <dcterms:subject>Characters</dcterms:subject>
-    <dcterms:subject>African Americans</dcterms:subject>
-    <dcterms:subject>Slavery</dcterms:subject>
-    <dcterms:subject>Stowe, Harriet Beecher/</dcterms:subject>
-    <dcterms:subject>Stowe, Harriet Beecher</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Stowe, Harriet Beecher, 1811-1896</dcterms:subject>
+    <dcterms:subject>Stowe, Harriet Beecher, 1811-1896</dcterms:subject>
+    <dcterms:subject>Characters--Topsy</dcterms:subject>
+    <dcterms:subject>African Americans--Poetry</dcterms:subject>
+    <dcterms:subject>Slavery--United States--Poetry</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Massachusetts-Boston-1852.</edm:hasType>
-    <edm:hasType>Broadside poems-Massachusetts-Boston-1852.</edm:hasType>
+    <dcterms:medium>Broadsides-Massachusetts-Boston-1852.</dcterms:medium>
+    <dcterms:medium>Broadside poems-Massachusetts-Boston-1852.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18846/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18846</edm:isShownAt>

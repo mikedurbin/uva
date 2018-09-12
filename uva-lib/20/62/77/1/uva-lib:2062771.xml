@@ -14,12 +14,13 @@
     <dcterms:created>1892</dcterms:created>
     <dcterms:extent>1 map ; 28 x 36 cm. on sheet 31 x 48 cm.</dcterms:extent>
     <dcterms:publisher>M.F. Dunn &amp; Bro., Litho's.</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>New Orleans (La.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Louisiana</dcterms:spatial>
     <dcterms:spatial>New Orleans</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2062771/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2062771</edm:isShownAt>

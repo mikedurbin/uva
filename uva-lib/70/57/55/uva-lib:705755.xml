@@ -12,16 +12,20 @@
     <dcterms:title>Geological map and sections of the Pound quadrangle, Virginia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Butts, Charles, 1863-1946</dcterms:creator>
+    <dcterms:creator>Condit, D. Dale (Daniel Dale), 1886-</dcterms:creator>
+    <dcterms:creator>Nelson, Wilbur A. (Wilbur Armistead), 1889-</dcterms:creator>
     <dcterms:created>1914</dcterms:created>
     <dcterms:extent>1 map ; 53 x 43 cm. on sheet 59 x 47 cm.</dcterms:extent>
     <dcterms:publisher>Virginia Geological Survey</dcterms:publisher>
-    <dcterms:subject>Coal mines and mining</dcterms:subject>
-    <dcterms:subject>Coal mines and mining</dcterms:subject>
-    <dcterms:subject>Geology</dcterms:subject>
-    <dcterms:subject>Geology</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Coal mines and mining--Virginia--Wise County--Maps</dcterms:subject>
+    <dcterms:subject>Coal mines and mining--Virginia--Dickenson County--Maps</dcterms:subject>
+    <dcterms:subject>Geology--Virginia--Wise County--Maps</dcterms:subject>
+    <dcterms:subject>Geology--Virginia--Dickenson County--Maps</dcterms:subject>
+    <dcterms:subject>Wise County (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Dickenson County (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:705755/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:705755</edm:isShownAt>

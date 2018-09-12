@@ -12,15 +12,16 @@
     <dcterms:title>The vocation of man</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Fichte, Johann Gottlieb, 1762-1814</dcterms:creator>
+    <dcterms:creator>Smith, William, 1816-1896</dcterms:creator>
     <dcterms:created>1931</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xii, 178 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>Open Court pub. co.</dcterms:publisher>
     <dcterms:subject>Human beings</dcterms:subject>
     <dcterms:subject>Faith</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61606/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61606</edm:isShownAt>

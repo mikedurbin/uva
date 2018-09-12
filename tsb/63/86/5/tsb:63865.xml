@@ -12,15 +12,18 @@
     <dcterms:title>History of Kentucky</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Kerr, Charles, 1863-1950</dcterms:creator>
+    <dcterms:creator>Connelley, William Elsey, 1855-1930</dcterms:creator>
+    <dcterms:creator>Coulter, E. Merton (Ellis Merton), 1890-1981</dcterms:creator>
     <dcterms:created>1922</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 v. front., illus., plates, ports. 27 cm.</dcterms:extent>
     <dcterms:publisher>American Historical Society</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Kentucky--History</dcterms:subject>
+    <dcterms:subject>Kentucky--Biography</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63865/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63865</edm:isShownAt>

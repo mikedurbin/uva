@@ -12,17 +12,16 @@
     <dcterms:title>Golondrina (Swallow fantasia) : fantasia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Heckle, A. F.</dcterms:creator>
+    <dcterms:creator>Serradell, Narciso, 1843-1910</dcterms:creator>
     <dcterms:created>1891</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>8 p. of music : 1-color ill.</dcterms:extent>
     <dcterms:publisher>Thomas Goggan &amp; Bro.</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Swallows</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <edm:hasType>ft-vr-wz</edm:hasType>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Swallows--Songs and music</dcterms:subject>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:medium>ft-vr-wz</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1148802/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1148802</edm:isShownAt>

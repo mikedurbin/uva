@@ -12,6 +12,7 @@
     <dcterms:title>Anglo-Saxon superiority: to what it is due. ("A quoi tient la supériorité des Anglo-Saxons.")</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Demolins, Edmond, 1852-1907</dcterms:creator>
+    <dcterms:creator>Lavigne, Louis Bertram</dcterms:creator>
     <dcterms:created>1899</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[iii]-xxx, 343 p. illus. 20 cm.</dcterms:extent>
@@ -19,8 +20,8 @@
     <dcterms:subject>Anglo-Saxon race</dcterms:subject>
     <dcterms:subject>Latin peoples</dcterms:subject>
     <dcterms:subject>Competition, International</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63880/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63880</edm:isShownAt>

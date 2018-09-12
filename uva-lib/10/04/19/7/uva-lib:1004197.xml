@@ -15,11 +15,15 @@
     <dcterms:created>1792</dcterms:created>
     <dcterms:extent>1 map : col. ; 41 x 53 cm. on sheet 43 x 56 cm.</dcterms:extent>
     <dcterms:publisher>Published as the Act directs Novr. 29 1792 by Jno. Stockdale Picadilly</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Zeeland (Netherlands : Province)--Early works to 1800--Maps</dcterms:subject>
+    <dcterms:subject>Scheldt River--Maps</dcterms:subject>
+    <dcterms:subject>Brabant (Duchy)--Early works to 1800--Maps</dcterms:subject>
+    <dcterms:subject>Flanders--Early works to 1800--Maps</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004197/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004197</edm:isShownAt>

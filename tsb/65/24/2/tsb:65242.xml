@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>ix, 344 p., [8] leaves of plates : ill., ports. ; 24 cm.</dcterms:extent>
     <dcterms:publisher>Houghton Mifflin Co.</dcterms:publisher>
-    <dcterms:subject>Elisabeth</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Elisabeth, Empress, consort of Franz Joseph I, Emperor of Austria, 1837-1898</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65242/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65242</edm:isShownAt>

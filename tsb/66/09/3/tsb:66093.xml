@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66093</dcterms:identifier>
+    <dcterms:title>Reports of cases argued and determined in the High Court of Chancery, and of some special cases adjudged in the Court of King's Bench [1695-1735]:</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Williams, William Peere, 1664-1736</dcterms:creator>
+    <dcterms:creator>Williams, William Peere, Jr, 1664-1736</dcterms:creator>
+    <dcterms:creator>Cox, Samuel Compton.</dcterms:creator>
+    <dcterms:created>1793</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>3 v. 25 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by A. Strahan and W. Woodfall, for E. and R. Brooke</dcterms:publisher>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+    <dcterms:subject>Equity--Great Britain</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66093/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66093</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2522895/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

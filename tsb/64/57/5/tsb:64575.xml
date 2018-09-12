@@ -12,14 +12,16 @@
     <dcterms:title>Neumanns Orts-Lexikon des Deutschen Reichs : ein geographisch-statistisches Nachschlagebuch für Landeskunde.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Neumann, Gustav.</dcterms:creator>
+    <dcterms:creator>Keil, Wilhelm, 1870-1968</dcterms:creator>
     <dcterms:created>1894</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[57], 1034 p., [60] leaves of plates (part fold.) : ill., maps ; 26 cm.</dcterms:extent>
     <dcterms:publisher>Bibliographisches Institut</dcterms:publisher>
-    <dcterms:subject>Transportation</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Transportation--Germany</dcterms:subject>
+    <dcterms:subject>Germany--Gazetteers</dcterms:subject>
+    <dcterms:subject>Germany--Description and travel</dcterms:subject>
     <dcterms:language>ger</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64575/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64575</edm:isShownAt>

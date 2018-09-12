@@ -11,17 +11,29 @@
     <dcterms:identifier>uva-lib:1003452</dcterms:identifier>
     <dcterms:title>York River Virginia, from King's Creek to West Point</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Mathiot, G.</dcterms:creator>
+    <dcterms:creator>Langran, W.</dcterms:creator>
+    <dcterms:creator>Witzel, P.</dcterms:creator>
+    <dcterms:creator>Bache, A. D. (Alexander Dallas), 1806-1867</dcterms:creator>
+    <dcterms:creator>Benner, F. W.</dcterms:creator>
+    <dcterms:creator>Seib, John.</dcterms:creator>
+    <dcterms:creator>Almy, John Jay, 1815-1895</dcterms:creator>
+    <dcterms:creator>Roy, J. P.</dcterms:creator>
+    <dcterms:creator>Minor, Robert Dabney, 1827-1871</dcterms:creator>
+    <dcterms:creator>Patterson, C. P. (Carlile Pollock), 1816-1881</dcterms:creator>
+    <dcterms:creator>Hilgard, J. E. (Julius Erasmus), 1825-1891</dcterms:creator>
     <dcterms:created>1877</dcterms:created>
     <dcterms:extent>1 map ; 41 x 56 cm. on sheet 55 x 71 cm.</dcterms:extent>
     <dcterms:publisher>United States Coast Survey</dcterms:publisher>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:subject>Navigation</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Nautical charts--Virginia--York River</dcterms:subject>
+    <dcterms:subject>York River (Va.)--Navigation</dcterms:subject>
+    <dcterms:subject>York River (Va.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>District of Columbia</dcterms:spatial>
     <dcterms:spatial>Washington</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003452/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003452</edm:isShownAt>

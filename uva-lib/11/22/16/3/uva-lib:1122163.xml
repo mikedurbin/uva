@@ -12,17 +12,19 @@
     <dcterms:title>The voice of the old bell</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Thompson, John Samuel, 1787-</dcterms:creator>
+    <dcterms:creator>Bradshaw, Wesley, 1837-1927</dcterms:creator>
+    <dcterms:creator>Armstrong, J. M. (John M.), -1878</dcterms:creator>
+    <dcterms:creator>Childs, George William, 1829-1894</dcterms:creator>
     <dcterms:created>1876</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (6 p.) : col. ill.</dcterms:extent>
     <dcterms:publisher>C. W. Alexander</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
     <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano</dcterms:subject>
-    <dcterms:subject>Liberty Bell</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Liberty Bell--Songs and music</dcterms:subject>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1122163/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1122163</edm:isShownAt>

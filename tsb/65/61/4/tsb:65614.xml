@@ -11,13 +11,14 @@
     <dcterms:identifier>tsb:65614</dcterms:identifier>
     <dcterms:title>Report of the Committee of twelve of the Modern Language Association of America</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Thomas, Calvin, 1854-1919</dcterms:creator>
     <dcterms:created>1901</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vi, 99 p. 17 cm.</dcterms:extent>
     <dcterms:publisher>D.C. Heath &amp; Co.</dcterms:publisher>
-    <dcterms:subject>Languages, Modern</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Languages, Modern--Study and teaching</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65614/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65614</edm:isShownAt>

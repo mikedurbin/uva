@@ -16,11 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vi, p., 3 l., 3-301 p. front., plates, ports. 21 cm.</dcterms:extent>
     <dcterms:publisher>Doubleday, Page &amp; company</dcterms:publisher>
-    <dcterms:subject>Armstrong, S. C. (Samuel Chapman)/</dcterms:subject>
-    <dcterms:subject>Hampton Normal and Agricultural Institute (Va.)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Armstrong, S. C. (Samuel Chapman), 1839-1893</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63950/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63950</edm:isShownAt>

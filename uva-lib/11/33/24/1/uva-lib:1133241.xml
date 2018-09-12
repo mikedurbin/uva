@@ -12,13 +12,14 @@
     <dcterms:title>Where are the friends of my youth : ballad</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Barker, George, 1812-1876</dcterms:creator>
+    <dcterms:creator>Addison, H. R. (Henry Robert), 1805?-1876</dcterms:creator>
     <dcterms:created>1875/1882</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.)</dcterms:extent>
     <dcterms:publisher>John F. Ellis &amp; Co.</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1133241/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1133241</edm:isShownAt>

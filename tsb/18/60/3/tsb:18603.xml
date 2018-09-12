@@ -19,10 +19,10 @@
     <dcterms:subject>Schottisches</dcterms:subject>
     <dcterms:subject>Dance music</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Maryland</dcterms:spatial>
     <dcterms:spatial>Baltimore</dcterms:spatial>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18603/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18603</edm:isShownAt>

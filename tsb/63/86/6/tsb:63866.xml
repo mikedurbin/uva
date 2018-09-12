@@ -11,15 +11,15 @@
     <dcterms:identifier>tsb:63866</dcterms:identifier>
     <dcterms:title>The Virginia text-book containing the landmarks of masonry as recognized by the Grand Lodge of Virginia : a digest of the laws of the Grand Lodge of Virginia with illustrations of the work</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Dove, John, 1792-1876</dcterms:creator>
     <dcterms:created>1920</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>262 p. : ill. ; 19 cm.</dcterms:extent>
     <dcterms:publisher>Everett Waddey</dcterms:publisher>
     <dcterms:subject>Laws, decisions, etc</dcterms:subject>
-    <dcterms:subject>Freemasonry</dcterms:subject>
-    <dcterms:subject>Freemasons</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Freemasonry--Rituals</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63866/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63866</edm:isShownAt>

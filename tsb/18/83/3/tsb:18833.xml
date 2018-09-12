@@ -11,17 +11,16 @@
     <dcterms:identifier>tsb:18833</dcterms:identifier>
     <dcterms:title>Rules and regulations of practice in the County Court of Augusta</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Kinney, Jefferson.</dcterms:creator>
     <dcterms:created>1852</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 34 x 21 cm.</dcterms:extent>
     <dcterms:publisher>Augusta County Court</dcterms:publisher>
-    <dcterms:subject>County courts</dcterms:subject>
-    <dcterms:subject>Conduct of court proceedings</dcterms:subject>
-    <dcterms:subject>Augusta County (Va.)/</dcterms:subject>
-    <dcterms:subject>County Court.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>County courts--Administration--Virginia--Augusta County</dcterms:subject>
+    <dcterms:subject>Conduct of court proceedings--Virginia--Augusta County</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Virginia-19th century.</edm:hasType>
+    <dcterms:medium>Broadsides-Virginia-19th century.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18833/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18833</edm:isShownAt>

@@ -12,14 +12,15 @@
     <dcterms:title>When thy father and mother forsake thee : from "Placida, the Christian martyr"</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Carter, William, fl. 1870</dcterms:creator>
+    <dcterms:creator>Deigh, M.</dcterms:creator>
     <dcterms:created>1875/1883</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 vocal score (3 p.)</dcterms:extent>
     <dcterms:publisher>E. H. Harding</dcterms:publisher>
     <dcterms:subject>Sacred songs with piano</dcterms:subject>
-    <dcterms:subject>Cantatas, Sacred</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Cantatas, Sacred--Excerpts--Vocal scores with piano</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1143316/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1143316</edm:isShownAt>

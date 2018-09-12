@@ -17,16 +17,16 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Tea</dcterms:subject>
-    <dcterms:subject>Tables</dcterms:subject>
-    <dcterms:subject>Chairs</dcterms:subject>
-    <dcterms:subject>Teapots</dcterms:subject>
-    <dcterms:subject>Creamers</dcterms:subject>
-    <dcterms:subject>Sitting rooms</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Tea--Beverages</dcterms:subject>
+    <dcterms:subject>Tables--Furniture</dcterms:subject>
+    <dcterms:subject>Chairs--Furniture</dcterms:subject>
+    <dcterms:subject>Teapots--Culinary containers</dcterms:subject>
+    <dcterms:subject>Creamers--Containers by function or context</dcterms:subject>
+    <dcterms:subject>Sitting rooms--Rooms and spaces</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332568/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332568</edm:isShownAt>

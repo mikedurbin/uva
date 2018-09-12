@@ -15,11 +15,11 @@
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:medium>wood (plant material)</dcterms:medium>
     <dcterms:extent>3.5 x 9 x 13 cm</dcterms:extent>
-    <dcterms:subject>Tools</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Tools--Augers</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>drilling tools</edm:hasType>
-    <edm:hasType>augers</edm:hasType>
+    <dcterms:medium>drilling tools</dcterms:medium>
+    <dcterms:medium>augers</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58922/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58922</edm:isShownAt>

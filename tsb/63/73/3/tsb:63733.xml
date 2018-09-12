@@ -16,11 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vii, 200 p. 21 cm.</dcterms:extent>
     <dcterms:publisher>Houghton, Mifflin</dcterms:publisher>
+    <dcterms:subject>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:subject>
     <dcterms:subject>Education, Higher</dcterms:subject>
-    <dcterms:subject>Lee, Robert E. (Robert Edward)/</dcterms:subject>
-    <dcterms:subject>Harvard University.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63733/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63733</edm:isShownAt>

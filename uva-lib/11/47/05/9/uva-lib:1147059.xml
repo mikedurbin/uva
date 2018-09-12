@@ -12,14 +12,16 @@
     <dcterms:title>Fidelio</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Beethoven, Ludwig van, 1770-1827</dcterms:creator>
+    <dcterms:creator>Getze, J. A.</dcterms:creator>
+    <dcterms:creator>Winner, Septimus, 1827-1902</dcterms:creator>
+    <dcterms:creator>Kerk, E. M.</dcterms:creator>
     <dcterms:created>1867</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 parts.</dcterms:extent>
     <dcterms:publisher>Lee &amp; Walker</dcterms:publisher>
-    <dcterms:subject>Violin and piano music, Arranged</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:subject>Violin and piano music, Arranged--Parts</dcterms:subject>
+    <dcterms:subject>Operas--Excerpts, Arranged--Parts</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1147059/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1147059</edm:isShownAt>

@@ -12,13 +12,14 @@
     <dcterms:title>Commentaries on the laws of England, in four books.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Blackstone, William, 1723-1780</dcterms:creator>
+    <dcterms:creator>Christian, Edward, -1823</dcterms:creator>
     <dcterms:created>1793/1795</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 v. 13 port. (incl. fronts.) 2 tab. (1 fold.) 22 cm.</dcterms:extent>
     <dcterms:publisher>Printed by A. Strahan and W. Woodfall, for T. Cadell</dcterms:publisher>
-    <dcterms:subject>Law</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65863/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65863</edm:isShownAt>

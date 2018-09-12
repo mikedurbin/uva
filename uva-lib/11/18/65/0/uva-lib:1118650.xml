@@ -12,14 +12,15 @@
     <dcterms:title>Put a nickle [sic] in the slot : song, Benzina</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Maddern, Richard H.</dcterms:creator>
+    <dcterms:creator>Greene, Clay Meredith, 1850-1933</dcterms:creator>
     <dcterms:created>1889</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 vocal score (3 p.)</dcterms:extent>
     <dcterms:publisher>Richard A. Saalfield</dcterms:publisher>
-    <dcterms:subject>Musicals</dcterms:subject>
-    <dcterms:subject>Revues</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Musicals--Excerpts--Vocal scores with piano</dcterms:subject>
+    <dcterms:subject>Revues--Excerpts--Vocal scores with piano</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1118650/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1118650</edm:isShownAt>

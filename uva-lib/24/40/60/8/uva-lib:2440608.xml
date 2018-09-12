@@ -11,15 +11,14 @@
     <dcterms:identifier>uva-lib:2440608</dcterms:identifier>
     <dcterms:title>Electrotherapy apparatus</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Galvano-faradic manufacturing company, New York</dcterms:creator>
     <dcterms:created>1872</dcterms:created>
     <dcterms:description>Galvano Faradic Manufacturing Company, New York, Patented February 1 1870, May 30 1871, March 26 1872; Primary Secondary, battery fluid formula Rx Acid Sulphuric (Commercial) [symbol] Pulv Bichromate-Potash [symbol] Water [symbol]; instructions: dissolve the Bisulphate of Mercury in the water then add the Bichromate of Potash. When dissolved pour in the Sulphuric Acid and allow the liquid to cool before filling the battery, and disk electrodes.</dcterms:description>
     <dcterms:medium>wood (plant material)</dcterms:medium>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:subject>Electrotherapeutics Instruments</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440608/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440608</edm:isShownAt>

@@ -11,13 +11,13 @@
     <dcterms:identifier>tsb:65601</dcterms:identifier>
     <dcterms:title>University of Michigan: its origin, growth and principles of government,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hubbard, Lucius L. (Lucius Lee), 1849-1933</dcterms:creator>
     <dcterms:created>1923</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>49, xviii, 94 p.</dcterms:extent>
-    <dcterms:subject>Educational law and legislation</dcterms:subject>
-    <dcterms:subject>University of Michigan.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Educational law and legislation--Michigan</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65601/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65601</edm:isShownAt>

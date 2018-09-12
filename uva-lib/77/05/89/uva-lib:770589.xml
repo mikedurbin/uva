@@ -17,12 +17,13 @@
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : hand col. ; 38 x 49 cm.</dcterms:extent>
     <dcterms:publisher>Ex officina Henrici Hondii</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
     <dcterms:subject>Mellon, Paul</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>Virginia--Maps--Early works to 1800</dcterms:subject>
     <dcterms:language>lat</dcterms:language>
     <dcterms:language>dut</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:770589/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770589</edm:isShownAt>

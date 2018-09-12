@@ -12,17 +12,17 @@
     <dcterms:title>R. E. Lee camp : grand march</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Dennée, Charles, 1863-1946</dcterms:creator>
+    <dcterms:creator>H., W. H.</dcterms:creator>
     <dcterms:created>1884</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>6 p. of music : port.</dcterms:extent>
     <dcterms:publisher>Lee &amp; Walker</dcterms:publisher>
+    <dcterms:subject>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:subject>
+    <dcterms:subject>Portraits</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
     <dcterms:subject>Marches (Piano)</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Lee, Robert E. (Robert Edward)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Songs and music</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1139637/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1139637</edm:isShownAt>

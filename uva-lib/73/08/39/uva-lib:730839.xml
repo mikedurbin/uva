@@ -12,15 +12,16 @@
     <dcterms:title>Mespris de court, Louange du village</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Guevara, Antonio de, -1545?</dcterms:creator>
+    <dcterms:creator>Allègre, Antoine.</dcterms:creator>
     <dcterms:created>1543</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>75 leaves ; 11 cm. (16mo)</dcterms:extent>
     <dcterms:publisher>par François Juste et Pierre de Tours</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:language>spa</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730839/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730839</edm:isShownAt>

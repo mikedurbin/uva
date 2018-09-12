@@ -12,17 +12,18 @@
     <dcterms:title>Serenade : The star of love</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wallace, William Vincent, 1812-1865</dcterms:creator>
+    <dcterms:creator>Morris, George Pope, 1802-1864</dcterms:creator>
     <dcterms:created>1851</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score ([2], 3-9, [1] p.) ; 34 cm.</dcterms:extent>
     <dcterms:publisher>William Hall &amp; Son</dcterms:publisher>
+    <dcterms:subject>Morris, George Pope, 1802-1864</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Love songs</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>Morris, George Pope</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Love songs--United States</dcterms:subject>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58853/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58853</edm:isShownAt>

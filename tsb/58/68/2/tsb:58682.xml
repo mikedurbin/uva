@@ -15,9 +15,9 @@
     <dcterms:medium>Stainless steel</dcterms:medium>
     <dcterms:extent>1 x 23.5 x 2.3 cm</dcterms:extent>
     <dcterms:subject>Surgical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>surgical instruments</edm:hasType>
+    <dcterms:medium>surgical instruments</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58682/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58682</edm:isShownAt>

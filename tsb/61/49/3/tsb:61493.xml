@@ -17,9 +17,11 @@
     <dcterms:extent>354 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>Scribner</dcterms:publisher>
     <dcterms:subject>Black race</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Liberia</dcterms:subject>
+    <dcterms:subject>Africa</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61493/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61493</edm:isShownAt>

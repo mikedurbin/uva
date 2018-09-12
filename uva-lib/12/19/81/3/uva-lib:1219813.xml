@@ -12,16 +12,16 @@
     <dcterms:title>The manner in which the American Colonies declared themselves independant of the King of England, throughout the different provinces, on July 4, 1776</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hamilton, William, 1751-1801</dcterms:creator>
+    <dcterms:creator>Noble, George</dcterms:creator>
     <dcterms:created>1783</dcterms:created>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 print : engraving, b&amp;w ; 39 x 23 cm.</dcterms:extent>
     <dcterms:publisher>Alexander Hogg</dcterms:publisher>
-    <dcterms:subject>United States.</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>graphic</edm:hasType>
-    <edm:hasType>Engravings-1780-1790.</edm:hasType>
+    <dcterms:medium>graphic</dcterms:medium>
+    <dcterms:medium>Engravings-1780-1790.</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1219813/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1219813</edm:isShownAt>

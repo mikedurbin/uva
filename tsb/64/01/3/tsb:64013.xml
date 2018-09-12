@@ -12,18 +12,19 @@
     <dcterms:title>Histoire des Francs, textes de manuscrits de Corbie et de Bruxelles,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Gregory, Bishop of Tours, Saint, 538-594</dcterms:creator>
+    <dcterms:creator>Omont, Henri Auguste, 1857-1940</dcterms:creator>
+    <dcterms:creator>Collon, Gaston Jules Stéphane, 1869-</dcterms:creator>
+    <dcterms:creator>Poupardin, René, 1874-1927</dcterms:creator>
     <dcterms:created>1913</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxx, 501 p. 23 cm.</dcterms:extent>
     <dcterms:publisher>A. Picard</dcterms:publisher>
-    <dcterms:subject>Franks</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Church history</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Franks--History--To 768</dcterms:subject>
+    <dcterms:subject>France--History--To 987</dcterms:subject>
+    <dcterms:subject>France--Church history</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
     <dcterms:language>lat</dcterms:language>
-    <dcterms:temporal>To 768</dcterms:temporal>
-    <dcterms:temporal>To 987</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64013/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64013</edm:isShownAt>

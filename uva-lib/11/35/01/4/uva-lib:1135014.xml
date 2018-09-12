@@ -12,15 +12,17 @@
     <dcterms:title>The child of the regiment</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Donizetti, Gaetano, 1797-1848</dcterms:creator>
+    <dcterms:creator>Jefferys, Charles, 1807-1865</dcterms:creator>
+    <dcterms:creator>Glover, Charles William, 1806-1863</dcterms:creator>
     <dcterms:created>1850</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.) : ill.</dcterms:extent>
     <dcterms:publisher>William Hall &amp; Son</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
     <dcterms:language>ita</dcterms:language>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1135014/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1135014</edm:isShownAt>

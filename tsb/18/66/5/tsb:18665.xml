@@ -15,12 +15,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([2] p.) ; 25 x 39 cm. folded to 25 x 19 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Students</dcterms:subject>
-    <dcterms:subject>College students' writings, American</dcterms:subject>
-    <dcterms:subject>University of Virginia/</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Periodicals</dcterms:subject>
+    <dcterms:subject>Students--Periodicals</dcterms:subject>
+    <dcterms:subject>College students' writings, American--Virginia--Charlottesville</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18665/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18665</edm:isShownAt>

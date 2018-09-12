@@ -12,16 +12,18 @@
     <dcterms:title>I'm saddest at heart when I'm singing</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hart, George G.</dcterms:creator>
+    <dcterms:creator>Casser, C.</dcterms:creator>
+    <dcterms:creator>Dezendorf, Josie</dcterms:creator>
     <dcterms:created>1874</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (3 p.)</dcterms:extent>
     <dcterms:publisher>E.H. Harding</dcterms:publisher>
-    <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
     <dcterms:subject>Hart, George G</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Portraits</dcterms:subject>
+    <dcterms:subject>Songs with piano</dcterms:subject>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1145870/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1145870</edm:isShownAt>

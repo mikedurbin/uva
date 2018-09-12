@@ -12,15 +12,15 @@
     <dcterms:title>Rock me to sleep, Mother : ballad</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hewitt, John Hill, 1801-1890</dcterms:creator>
+    <dcterms:creator>Allan, Elizabeth Akers, 1832-1911</dcterms:creator>
     <dcterms:created>1860/1869</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score ([3] p.) ; 29 cm.</dcterms:extent>
     <dcterms:publisher>Julian A. Selby</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--Confederate States of America--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1132297/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1132297</edm:isShownAt>

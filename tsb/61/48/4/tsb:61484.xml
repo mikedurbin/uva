@@ -12,15 +12,16 @@
     <dcterms:title>The quest of the colonial</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Shackleton, Robert, 1860-1923</dcterms:creator>
+    <dcterms:creator>Shackleton, Elizabeth, 1871-1936</dcterms:creator>
     <dcterms:created>1907</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>ix, 425 p. incl. illus., 44 pl. col. front. 22 cm.</dcterms:extent>
     <dcterms:publisher>The Century Company</dcterms:publisher>
-    <dcterms:subject>Furniture</dcterms:subject>
+    <dcterms:subject>Furniture--United States</dcterms:subject>
     <dcterms:subject>Interior decoration</dcterms:subject>
     <dcterms:subject>Collectors and collecting</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61484/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61484</edm:isShownAt>

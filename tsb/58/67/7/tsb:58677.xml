@@ -11,18 +11,17 @@
     <dcterms:identifier>tsb:58677</dcterms:identifier>
     <dcterms:title>Tin pillbox</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Laboratoire Nativelle</dcterms:creator>
     <dcterms:created>1900/1950</dcterms:created>
     <dcterms:description>The top if the red tin reads: "Academie de Medecine de Paris Prix orfila - Prix desportes, Granules au 1/10 de Milligr. 
       Digitaline crist. Nativelle, Principe actif. pur defini et invariable de la Digitale, Laboratoire Nativelle, 49 Bd de Port-Royal, Paris."</dcterms:description>
     <dcterms:medium>tins (containers)</dcterms:medium>
     <dcterms:medium>paint (coating)</dcterms:medium>
     <dcterms:extent>1.9 x 5.9 x 4.1 cm</dcterms:extent>
-    <dcterms:subject>Medicine</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medicine--Drugs-Packaging</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
-    <edm:hasType>pillboxes (containers)</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:medium>pillboxes (containers)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58677/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58677</edm:isShownAt>

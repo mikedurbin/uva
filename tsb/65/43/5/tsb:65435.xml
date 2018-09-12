@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1279, xvi p. ; 24 cm.</dcterms:extent>
     <dcterms:publisher>B. Kočí</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Bohemia (Czech Republic)--History</dcterms:subject>
+    <dcterms:subject>Moravia (Czech Republic)--History</dcterms:subject>
     <dcterms:language>cze</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65435/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65435</edm:isShownAt>

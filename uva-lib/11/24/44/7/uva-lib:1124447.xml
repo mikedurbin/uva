@@ -12,17 +12,19 @@
     <dcterms:title>Where the little feet are waiting, or, The golden stair</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Webster, Joseph Philbrick, 1819-1875</dcterms:creator>
+    <dcterms:creator>Smith, Dexter, 1842?-1909</dcterms:creator>
+    <dcterms:creator>Kidder, Andrew Bradshaw, 1810-1881</dcterms:creator>
+    <dcterms:creator>Utley, William L.</dcterms:creator>
     <dcterms:created>1866</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.).</dcterms:extent>
     <dcterms:publisher>Oliver Ditson &amp; Co.</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
     <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano</dcterms:subject>
-    <dcterms:subject>Children</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Children--Death--Songs and music</dcterms:subject>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1124447/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1124447</edm:isShownAt>

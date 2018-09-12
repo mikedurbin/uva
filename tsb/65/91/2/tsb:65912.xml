@@ -11,14 +11,18 @@
     <dcterms:identifier>tsb:65912</dcterms:identifier>
     <dcterms:title>Reports of cases argued and determined in the High Court of Chancery, during the time of Lord Chancellor Thurlow, and of the several lords commissioners of the great seal, and Lord Chancellor Loughborough, from 1778 to 1794.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Brown, William, -1794</dcterms:creator>
+    <dcterms:creator>Thurlow, Edward Thurlow, Baron, 1731-1806</dcterms:creator>
+    <dcterms:creator>Rosslyn, Alexander Wedderburn, Earl of, 1733-1805</dcterms:creator>
+    <dcterms:creator>Belt, Robert, active 1800</dcterms:creator>
     <dcterms:created>1820</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 v. 25 cm.</dcterms:extent>
     <dcterms:publisher>H. Butterworth</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:subject>Equity</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+    <dcterms:subject>Equity--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65912/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65912</edm:isShownAt>

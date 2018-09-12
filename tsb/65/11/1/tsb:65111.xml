@@ -16,10 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>603 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>P. Zsolnay</dcterms:publisher>
+    <dcterms:subject>Verdi, Giuseppe, 1813-1901</dcterms:subject>
+    <dcterms:subject>Fiction</dcterms:subject>
     <dcterms:subject>Musical fiction</dcterms:subject>
-    <dcterms:subject>Verdi, Giuseppe</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>ger</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65111/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65111</edm:isShownAt>

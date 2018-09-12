@@ -16,15 +16,14 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>105 p. 17 cm.</dcterms:extent>
     <dcterms:publisher>University Press</dcterms:publisher>
-    <dcterms:subject>Church and state</dcterms:subject>
-    <dcterms:subject>Church and state</dcterms:subject>
+    <dcterms:subject>Cromwell, Oliver, 1599-1658</dcterms:subject>
+    <dcterms:subject>Church and state--Great Britain</dcterms:subject>
+    <dcterms:subject>Church and state--Germany--1933-1945</dcterms:subject>
     <dcterms:subject>Freedom of religion</dcterms:subject>
-    <dcterms:subject>Cromwell, Oliver</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <edm:hasType>biography</edm:hasType>
-    <dcterms:temporal>1933-1945</dcterms:temporal>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64108/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64108</edm:isShownAt>

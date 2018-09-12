@@ -11,16 +11,18 @@
     <dcterms:identifier>uva-lib:1003509</dcterms:identifier>
     <dcterms:title>Map of Norfolk, Va. and vicinity</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Bowman, Sam. W.</dcterms:creator>
     <dcterms:created>1891</dcterms:created>
     <dcterms:extent>1 map : col. ; 56 x 45 cm. on sheet 61 x 48 cm.</dcterms:extent>
     <dcterms:publisher>Published by Sam. W. Bowman,  Manufacturing Stationer</dcterms:publisher>
-    <dcterms:subject>Real estate development</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Real estate development--Virginia--Norfolk--Maps</dcterms:subject>
+    <dcterms:subject>Norfolk (Va.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Norfolk</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003509/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003509</edm:isShownAt>

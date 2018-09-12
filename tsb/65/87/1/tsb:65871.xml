@@ -11,13 +11,14 @@
     <dcterms:identifier>tsb:65871</dcterms:identifier>
     <dcterms:title>The reports of Edward Bulstrode ... Of divers resolutions and judgements, given ... by the grave, reverend, and learned judges, and sages of the law. Of cases and matters in law: with the reasons and causes of their said resolutions and judgements, given in the Court of King's Bench in the time of the late reign of King James [and the beginning of King Charls. 1609-1626]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Bulstrode, Edward, 1588-1659</dcterms:creator>
     <dcterms:created>1657/1659</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. in 1. 28 cm.</dcterms:extent>
     <dcterms:publisher>Printed for W. Lee, D. Pakeman, and G. Bedell</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65871/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65871</edm:isShownAt>

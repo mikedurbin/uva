@@ -12,12 +12,13 @@
     <dcterms:title>The life of Charles Dickens</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Forster, John, 1812-1876</dcterms:creator>
+    <dcterms:created>1890</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. : fronts. (ports.), ill., ports., facsims., plates. ; 18 cm.</dcterms:extent>
     <dcterms:publisher>Chapman and Hall</dcterms:publisher>
-    <dcterms:subject>Dickens, Charles</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Dickens, Charles, 1812-1870</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63798/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63798</edm:isShownAt>

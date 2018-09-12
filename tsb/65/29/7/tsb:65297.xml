@@ -12,16 +12,16 @@
     <dcterms:title>A source book for mediæval history; selected documents illustrating the history of Europe in the Middle Age,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Thatcher, Oliver J. (Oliver Joseph), 1857-1937</dcterms:creator>
+    <dcterms:creator>McNeal, Edgar Holmes, 1874-1955</dcterms:creator>
     <dcterms:created>1907</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xix, 619 p. 21 cm.</dcterms:extent>
     <dcterms:publisher>C. Scribner's Sons</dcterms:publisher>
-    <dcterms:subject>Middle Ages</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Middle Ages--Sources</dcterms:subject>
+    <dcterms:subject>Europe--History--476-1492--Sources</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <dcterms:temporal>476-1492</dcterms:temporal>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65297/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65297</edm:isShownAt>

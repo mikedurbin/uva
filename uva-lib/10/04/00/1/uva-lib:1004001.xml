@@ -12,14 +12,18 @@
     <dcterms:title>Devonshire : with Excester described, and the armes of such Nobles as have borne the titles of them.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Speed, John, 1552?-1629</dcterms:creator>
+    <dcterms:creator>Sudbury, John.</dcterms:creator>
+    <dcterms:creator>Humble, George, -1640</dcterms:creator>
     <dcterms:created>1616</dcterms:created>
     <dcterms:extent>1 map ; 38 x 51 cm on sheet 42 x 56 cm.</dcterms:extent>
     <dcterms:publisher>Performed by Ihon Speede and are to be sold in popes-head Alleye by Iohn Sudburi &amp; George Humble. Cum privilegio</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Devon (England)--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Exeter (England)--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004001/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004001</edm:isShownAt>

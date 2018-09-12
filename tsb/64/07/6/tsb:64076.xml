@@ -12,15 +12,16 @@
     <dcterms:title>Education for citizenship</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Kerchensteiner, Georg Michael Anton, 1854-</dcterms:creator>
+    <dcterms:creator>Pressland, Arthur John</dcterms:creator>
     <dcterms:created>1911</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xx, 133 p. 21 cm.</dcterms:extent>
     <dcterms:publisher>Rand, McNally &amp; company</dcterms:publisher>
-    <dcterms:subject>Education</dcterms:subject>
+    <dcterms:subject>Education--Germany</dcterms:subject>
     <dcterms:subject>Education, Secondary</dcterms:subject>
     <dcterms:subject>Citizenship</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64076/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64076</edm:isShownAt>

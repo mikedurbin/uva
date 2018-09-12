@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66099</dcterms:identifier>
+    <dcterms:title>The reports of Sir Henry Yelverton, knight and baronet ... of divers special cases in the Court of King's Bench, as well in the latter end of the reign of Q. Elizabeth, as in the first ten years of K. James. [1602-1613]</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Yelverton, Henry, Sir, 1566-1629</dcterms:creator>
+    <dcterms:creator>Wilde, William, Sir, 1611?-1679</dcterms:creator>
+    <dcterms:created>1735</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>7 p. l., 228, [23] p. 32 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by E. and R. Nutt, and R. Gosling (assigns of E. Sayer) for W. Feales [etc.]</dcterms:publisher>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66099/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66099</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2526177/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

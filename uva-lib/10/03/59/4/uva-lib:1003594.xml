@@ -14,12 +14,13 @@
     <dcterms:created>1891</dcterms:created>
     <dcterms:extent>1 map ; 40 x 52 cm. on sheet 44 x 56 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Real estate development</dcterms:subject>
-    <dcterms:subject>City planning</dcterms:subject>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Real estate development--Virginia--Waynesboro--Maps</dcterms:subject>
+    <dcterms:subject>City planning--Virginia--Waynesboro--Maps</dcterms:subject>
+    <dcterms:subject>Real property--Virginia--Waynesboro--Maps</dcterms:subject>
+    <dcterms:subject>Waynesboro (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003594/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003594</edm:isShownAt>

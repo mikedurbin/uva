@@ -14,12 +14,13 @@
     <dcterms:created>1900</dcterms:created>
     <dcterms:extent>1 map : col.; 34 x 51 cm.</dcterms:extent>
     <dcterms:publisher>Published by Geo. F. Cram</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>North Carolina--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Illinois</dcterms:spatial>
     <dcterms:spatial>Chicago</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003344/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003344</edm:isShownAt>

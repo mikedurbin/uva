@@ -16,8 +16,8 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>318 p. ports., plates. 20 cm.</dcterms:extent>
     <dcterms:publisher>Charles L. Webster</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1226461/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1226461</edm:isShownAt>

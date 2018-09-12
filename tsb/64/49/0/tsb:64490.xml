@@ -12,15 +12,15 @@
     <dcterms:title>Memoirs of the reign of King George the Second</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Walpole, Horace, 1717-1797</dcterms:creator>
+    <dcterms:creator>Holland, Henry Richard Vassall, Baron, 1773-1840</dcterms:creator>
     <dcterms:created>1847</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. front. (port., v. 3) 23 cm.</dcterms:extent>
     <dcterms:publisher>H. Colburn</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Great Britain--History--George II, 1727-1760</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
-    <dcterms:temporal>George II, 1727-1760</dcterms:temporal>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64490/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64490</edm:isShownAt>

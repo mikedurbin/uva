@@ -15,10 +15,9 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 p.l., lxxiv pp., 1 l., 457 pp. front., facsim. 23 cm.</dcterms:extent>
     <dcterms:publisher>Clarendon press</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Great Britain--History--Anglo-Saxon period, 449-1066--Sources</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Anglo-Saxon period, 449-1066</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64159/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64159</edm:isShownAt>

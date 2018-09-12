@@ -12,16 +12,17 @@
     <dcterms:title>Withered leaves : ballad</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Laurence, G. F. H.</dcterms:creator>
+    <dcterms:creator>Gillingham, Edwin</dcterms:creator>
+    <dcterms:creator>Tillinghast, N. P. (Nicholas Power), 1817-1869</dcterms:creator>
     <dcterms:created>1861</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.).</dcterms:extent>
     <dcterms:publisher>Henry McCaffrey</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>Autumn</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
+    <dcterms:subject>Autumn--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1122046/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1122046</edm:isShownAt>

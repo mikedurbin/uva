@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66160</dcterms:identifier>
+    <dcterms:title>The law of charitable uses, as laid down and digested by George Duke, Esq., in 1676, together with the learned readings of Sir Francis Moore, printed from his own manuscript. To which is now added, the law of mortmain, as established by the statute of 9 George II. c. 36; the whole continued to the present time.  Enlightened by an abridgment of all the adjudged cases, particularly adapted to the use of every professor of the law, as well as all bishops, cathedrals, colleges, parishes, and all corporations, ecclesiastical as well as civil; and all eleemosynary foundations,</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Duke, George, Esq</dcterms:creator>
+    <dcterms:creator>Moore, Francis, 1558-1621</dcterms:creator>
+    <dcterms:creator>Bridgman, Richard Whalley, 1761?-1820</dcterms:creator>
+    <dcterms:created>1805</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>xxxii, 4, 689, [52] p. 25 cm.</dcterms:extent>
+    <dcterms:publisher>W. Clarke and Sons</dcterms:publisher>
+    <dcterms:subject>Charitable uses, trusts, and foundations--Great Britain</dcterms:subject>
+    <dcterms:subject>Mortmain--Great Britain</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66160/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66160</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2558881/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

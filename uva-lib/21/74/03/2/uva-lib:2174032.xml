@@ -12,13 +12,14 @@
     <dcterms:title>Richmond eclectic magazine. : Religious and literary. : At the instance of gentlemen residing in different parts of the country, whose judgment and wishes are entitled to the highest consideration, the undersigned have agreed to undertake the publication of a monthly eclectic magazine, in the city of Richmond, the first number of which will be issued on the 15th of next October ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hoge, Moses D. (Moses Drury), 1818-1899</dcterms:creator>
+    <dcterms:creator>Brown, William.</dcterms:creator>
     <dcterms:created>1866</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([2] p.) ; 25 x 15 cm.</dcterms:extent>
     <dcterms:publisher>Hoge and Brown</dcterms:publisher>
-    <dcterms:subject>Periodicals</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Periodicals--Virginia--Richmond</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2174032/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174032</edm:isShownAt>

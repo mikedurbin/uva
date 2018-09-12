@@ -11,27 +11,23 @@
     <dcterms:identifier>uva-lib:1004216</dcterms:identifier>
     <dcterms:title>A Proclamation by the President of the United States. : New-Orleans Argus and Louisiana Advertiser supplement, Tuesday morning, December 25, 1832.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Jackson, Andrew, 1767-1845</dcterms:creator>
     <dcterms:created>1832</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 58 x 42 cm.</dcterms:extent>
     <dcterms:publisher>New-Orleans Argus and Louisiana Advertiser</dcterms:publisher>
     <dcterms:subject>Nullification (States' rights)</dcterms:subject>
-    <dcterms:subject>Protectionism</dcterms:subject>
+    <dcterms:subject>Protectionism--United States</dcterms:subject>
     <dcterms:subject>States' rights (American politics)</dcterms:subject>
-    <dcterms:subject>Tariff</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>South Carolina./</dcterms:subject>
-    <dcterms:subject>Convention/</dcterms:subject>
-    <dcterms:subject>(1832-1833)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Tariff--United States</dcterms:subject>
+    <dcterms:subject>South Carolina--Politics and government--1775-1865</dcterms:subject>
+    <dcterms:subject>United States--Politics and government--1829-1837</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Louisiand</dcterms:spatial>
     <dcterms:spatial>New Orleans</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Louisiana-New Orleans.</edm:hasType>
-    <dcterms:temporal>1775-1865</dcterms:temporal>
-    <dcterms:temporal>1829-1837</dcterms:temporal>
+    <dcterms:medium>Broadsides-Louisiana-New Orleans.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004216/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004216</edm:isShownAt>

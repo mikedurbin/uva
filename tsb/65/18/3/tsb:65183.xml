@@ -16,12 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxxix, 530 p. : port. ; 22cm.</dcterms:extent>
     <dcterms:publisher>Little, Brown</dcterms:publisher>
-    <dcterms:subject>Indian mythology</dcterms:subject>
-    <dcterms:subject>Indians of North America</dcterms:subject>
-    <dcterms:subject>Indians</dcterms:subject>
-    <dcterms:subject>Indians of North America</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Indian mythology--North America</dcterms:subject>
+    <dcterms:subject>Indians of North America--Folklore</dcterms:subject>
+    <dcterms:subject>Indians--Folklore</dcterms:subject>
+    <dcterms:subject>Indians of North America--Religion</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65183/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65183</edm:isShownAt>

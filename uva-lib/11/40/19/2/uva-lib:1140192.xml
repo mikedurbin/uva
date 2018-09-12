@@ -17,14 +17,13 @@
     <dcterms:extent>1 score (7 p.) ; 35 cm.</dcterms:extent>
     <dcterms:publisher>G. Schirmer</dcterms:publisher>
     <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
-    <dcterms:subject>Spring</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Spring--Songs and music</dcterms:subject>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>ger</dcterms:language>
     <dcterms:language>fre</dcterms:language>
     <dcterms:language>ger</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1140192/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1140192</edm:isShownAt>

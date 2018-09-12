@@ -12,6 +12,7 @@
     <dcterms:title>Wedding march : violin &amp; piano</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Mendelssohn-Bartholdy, Felix, 1809-1847</dcterms:creator>
+    <dcterms:creator>Winner, Septimus, 1827-1902</dcterms:creator>
     <dcterms:created>1872</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 p. of music.</dcterms:extent>
@@ -19,8 +20,7 @@
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
     <dcterms:subject>Marches (Violin with piano), Arranged</dcterms:subject>
     <dcterms:subject>Wedding music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1135998/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1135998</edm:isShownAt>

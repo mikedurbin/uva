@@ -17,15 +17,15 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Fences</dcterms:subject>
-    <dcterms:subject>Brick</dcterms:subject>
-    <dcterms:subject>Crowds</dcterms:subject>
-    <dcterms:subject>Group Portraits</dcterms:subject>
-    <dcterms:subject>Buildings</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Fences--Open spaces and site elements</dcterms:subject>
+    <dcterms:subject>Brick--Materials by form</dcterms:subject>
+    <dcterms:subject>Crowds--Groups of people</dcterms:subject>
+    <dcterms:subject>Group Portraits--Visual works by subject types</dcterms:subject>
+    <dcterms:subject>Buildings--Single built works</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Photographs</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:333591/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333591</edm:isShownAt>

@@ -15,14 +15,16 @@
     <dcterms:created>1877</dcterms:created>
     <dcterms:extent>1 map : col. ; 118 x 48 cm.</dcterms:extent>
     <dcterms:publisher>M.A. Miller?</dcterms:publisher>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Real property--Virginia--Bath County--Maps</dcterms:subject>
+    <dcterms:subject>Real property--Virginia--Alleghany County--Maps</dcterms:subject>
+    <dcterms:subject>Bath County (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Alleghany County (Va.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Staunton</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003392/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003392</edm:isShownAt>

@@ -15,16 +15,15 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[44] leaves : ill. ; 22 cm. (4to)</dcterms:extent>
     <dcterms:publisher>Chés Guillaume Rouille à l'Escu de Venise</dcterms:publisher>
-    <dcterms:subject>Architecture</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Henry/</dcterms:subject>
-    <dcterms:subject>Catherine de Médicis</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Henry, II, King of France, 1519-1559</dcterms:subject>
+    <dcterms:subject>Catherine de Médicis, Queen, consort of Henry II, King of France, 1519-1589</dcterms:subject>
+    <dcterms:subject>Architecture--France--Lyons--Sources</dcterms:subject>
+    <dcterms:subject>Lyon (France)--History--Sources</dcterms:subject>
+    <dcterms:subject>France--History--Henry II, 1547-1559</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
-    <dcterms:temporal>Henry II, 1547-1559</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1038387/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1038387</edm:isShownAt>

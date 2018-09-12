@@ -15,10 +15,10 @@
     <dcterms:description>The filter is 2mm thick. This item was given in honor of Theodore E. Keats, M.D., F.A.C.R., Chair of the UVa Department of Radiology from 1963-1991.</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>0.7 x 16.4 x 9.7 cm</dcterms:extent>
-    <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medical instruments or apparatus--X-rays--Equipment and supplies</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2569222/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2569222</edm:isShownAt>

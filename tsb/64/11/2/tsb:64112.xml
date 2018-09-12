@@ -12,14 +12,14 @@
     <dcterms:title>A history of Rome to the death of Caesar</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>How, W. W. (Walter Wybergh), 1861-1932</dcterms:creator>
+    <dcterms:creator>Leigh, Henry Devenish, 1863-</dcterms:creator>
     <dcterms:created>1896</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xv, 575 p. incl. front., illus., ports., maps, plans, 20 cm.</dcterms:extent>
     <dcterms:publisher>Longmans, Green, and co.</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Rome--History--Republic, 510-30 B.C</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Republic, 510-30 B.C</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64112/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64112</edm:isShownAt>

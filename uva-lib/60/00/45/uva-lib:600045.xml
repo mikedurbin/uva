@@ -12,14 +12,16 @@
     <dcterms:title>Karte von Europa : in vier blätten</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Weiland, C. F. (Carl Ferdinand), 1782-1847</dcterms:creator>
+    <dcterms:creator>Kiepert, Heinrich, 1818-1899</dcterms:creator>
     <dcterms:created>1851</dcterms:created>
     <dcterms:extent>1 map on 4 sheets : col. ; 106  x 120 cm.</dcterms:extent>
     <dcterms:publisher>im Verlage des Geograph. Instituts</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Europe--Maps</dcterms:subject>
     <dcterms:spatial>Germany</dcterms:spatial>
     <dcterms:spatial>Weimar</dcterms:spatial>
     <dcterms:language>ger</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:600045/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:600045</edm:isShownAt>

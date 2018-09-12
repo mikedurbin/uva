@@ -11,19 +11,17 @@
     <dcterms:identifier>uva-lib:2155054</dcterms:identifier>
     <dcterms:title>Jackson Monument unveiling</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
     <dcterms:created>1921-10</dcterms:created>
     <dcterms:description>Jackson Monument, gift of Virginia Quarterly Review on June 1, 1939.  Notation on back, "This monument is one of three presented by Paul Goodloe McIntire to the city of Charlottesville along with many other splendid gifts such as Public Library, Municipal Parks, and educational foundation for the public schools.  These gifts do not include his handsome and intelligent gifts to the University of Virginia, The Architectural School foundation, The Cancer Research, The 'Borderline' foundation, the art collection in the museum, as well as the fine George Rogers Clark monument on the C &amp; O tracks."</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2155054/iiif/manifest.json</dcterms:isReferencedBy>
-    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2155054</edm:isShownAt>
     <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2155054/full/!300,300/0/default.jpg</edm:preview>
 </mdRecord>

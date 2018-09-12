@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>487 p. : front. (fold. map) ; 21 cm.</dcterms:extent>
     <dcterms:publisher>Lippincott</dcterms:publisher>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Switzerland</dcterms:subject>
+    <dcterms:subject>Switzerland--Politics and government--1815-</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Authors' inscriptions (Provenance)</edm:hasType>
-    <dcterms:temporal>1815-</dcterms:temporal>
+    <dcterms:medium>Authors' inscriptions (Provenance)</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61514/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61514</edm:isShownAt>

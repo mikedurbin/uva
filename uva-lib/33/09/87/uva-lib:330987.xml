@@ -17,16 +17,16 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Mount Berry (Ga.)</dcterms:subject>
-    <dcterms:subject>Floyd County (Ga.)</dcterms:subject>
-    <dcterms:subject>Georgia</dcterms:subject>
-    <dcterms:subject>Schools</dcterms:subject>
-    <dcterms:subject>South (U.S.)</dcterms:subject>
-    <dcterms:subject>Parades</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Mount Berry (Ga.)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Floyd County (Ga.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Georgia--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Schools--Single built works by function</dcterms:subject>
+    <dcterms:subject>South (U.S.)--Regions and states</dcterms:subject>
+    <dcterms:subject>Parades--People by ethnic group</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:330987/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:330987</edm:isShownAt>

@@ -17,18 +17,18 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>2 x 3 in.</dcterms:extent>
-    <dcterms:subject>Conway (S.C.)</dcterms:subject>
-    <dcterms:subject>Horry County (S.C.)</dcterms:subject>
-    <dcterms:subject>South Carolina</dcterms:subject>
-    <dcterms:subject>Horry County Training School (Conway (S.C.))</dcterms:subject>
-    <dcterms:subject>South (U.S.)</dcterms:subject>
-    <dcterms:subject>African Americans</dcterms:subject>
-    <dcterms:subject>Vocational schools</dcterms:subject>
-    <dcterms:subject>Cupolas</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Conway (S.C.)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Horry County (S.C.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>South Carolina--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Horry County Training School (Conway (S.C.))--Single built works by name</dcterms:subject>
+    <dcterms:subject>South (U.S.)--Regions and states</dcterms:subject>
+    <dcterms:subject>African Americans--People by ethnic group</dcterms:subject>
+    <dcterms:subject>Vocational schools--Single built works by function</dcterms:subject>
+    <dcterms:subject>Cupolas--Structural elements</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Lantern slides</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Lantern slides</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:328666/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:328666</edm:isShownAt>

@@ -12,20 +12,17 @@
     <dcterms:title>Rotunda ruins</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Holsinger, Rufus W., 1866-1930</dcterms:creator>
-    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
     <dcterms:created>1895</dcterms:created>
     <dcterms:description>Ruins of Rotunda and colonnade, from the west, with workmen. 1 b&amp;w photograph.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:subject>Holsinger's Studio (Charlottesville, Va.)</dcterms:subject>
     <dcterms:subject>Holsinger, Rufus W., 1866-1930</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2153997/iiif/manifest.json</dcterms:isReferencedBy>
-    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2153997</edm:isShownAt>
     <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2153997/full/!300,300/0/default.jpg</edm:preview>
 </mdRecord>

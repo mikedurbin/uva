@@ -12,16 +12,18 @@
     <dcterms:title>Lady Palmerston and her times</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Airlie, Mabell, Countess of, 1866-1956</dcterms:creator>
+    <dcterms:creator>Palmerston, Emily Lamb, Viscountess, 1787-1869</dcterms:creator>
+    <dcterms:creator>Melbourne, Frederick James Lamb, Viscount, 1782-1853</dcterms:creator>
     <dcterms:created>1922</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. 4 port. (incl. fronts.) 23 cm.</dcterms:extent>
     <dcterms:publisher>Hodder and Stoughton</dcterms:publisher>
-    <dcterms:subject>Court and courtiers</dcterms:subject>
-    <dcterms:subject>Social life and customs</dcterms:subject>
-    <dcterms:subject>Palmerston, Henry John Temple</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Palmerston, Henry John Temple, Viscount, 1784-1865</dcterms:subject>
+    <dcterms:subject>Great Britain--Court and courtiers</dcterms:subject>
+    <dcterms:subject>Great Britain--Social life and customs</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64072/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64072</edm:isShownAt>

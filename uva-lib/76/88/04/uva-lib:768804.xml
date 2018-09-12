@@ -14,11 +14,12 @@
     <dcterms:created>1897</dcterms:created>
     <dcterms:extent>1 map : col. ; 65 x 47 cm.</dcterms:extent>
     <dcterms:publisher>Rand, McNally &amp; Co., Map Publishers and Engravers</dcterms:publisher>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Transportation</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Railroads--Georgia--Maps</dcterms:subject>
+    <dcterms:subject>Transportation--Georgia--Maps</dcterms:subject>
+    <dcterms:subject>Georgia--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:768804/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:768804</edm:isShownAt>

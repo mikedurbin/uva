@@ -17,15 +17,15 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 5 in.</dcterms:extent>
-    <dcterms:subject>Africa</dcterms:subject>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:subject>Postcards</dcterms:subject>
-    <dcterms:subject>Ethnic costume</dcterms:subject>
-    <dcterms:subject>Group portraits</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Africa--Continents</dcterms:subject>
+    <dcterms:subject>Women--People by gender</dcterms:subject>
+    <dcterms:subject>Postcards--Information artifacts</dcterms:subject>
+    <dcterms:subject>Ethnic costume--Costume by location or context</dcterms:subject>
+    <dcterms:subject>Group portraits--Visual works by subject types</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Photographs</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:333850/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333850</edm:isShownAt>

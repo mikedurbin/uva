@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xi, 227 p. front. (mounted phot.) 20 cm.</dcterms:extent>
     <dcterms:publisher>Clemmitt &amp; Jones</dcterms:publisher>
-    <dcterms:subject>Abell, George Washington</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Abell, George Washington, 1818-1874</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65191/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65191</edm:isShownAt>

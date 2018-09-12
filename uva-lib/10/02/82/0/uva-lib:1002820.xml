@@ -18,10 +18,10 @@
     <dcterms:publisher>Par Iean &amp; François de Gourmont freres, demeurants ruë Sainct Iean de Latran</dcterms:publisher>
     <dcterms:subject>Classification</dcterms:subject>
     <dcterms:subject>Arts</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1002820/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002820</edm:isShownAt>

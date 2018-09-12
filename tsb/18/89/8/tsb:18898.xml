@@ -12,16 +12,20 @@
     <dcterms:title>United States of America, southern part</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hebert, L., (Geographer)</dcterms:creator>
+    <dcterms:creator>Pinkerton, John, 1758-1826</dcterms:creator>
+    <dcterms:creator>Neele, Samuel John, 1758-1824</dcterms:creator>
     <dcterms:created>1815</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : hand col. ; 51 x 69 cm.</dcterms:extent>
     <dcterms:publisher>Published ... by Cadell &amp; Davies</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Southern States--Maps</dcterms:subject>
+    <dcterms:subject>South Atlantic States--Maps</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18898/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18898</edm:isShownAt>

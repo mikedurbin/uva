@@ -11,11 +11,14 @@
     <dcterms:identifier>tsb:18856</dcterms:identifier>
     <dcterms:title>State of California, Mariposa County. Received of [B.V. Fox] the sum of [48] dollar and [00] cents, it beiny [sic] the full amount of his State and County tax for the present year, this the [8] of [Nov.] A.D., 1853[5] J. Boling Sherff [sic]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Boling, J.</dcterms:creator>
+    <dcterms:creator>Sterling, S.</dcterms:creator>
+    <dcterms:creator>Fox, B. V.</dcterms:creator>
     <dcterms:created>1853</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 broadside. 9 x 20 cm.</dcterms:extent>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18856/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18856</edm:isShownAt>

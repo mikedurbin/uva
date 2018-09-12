@@ -17,15 +17,15 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Cities</dcterms:subject>
-    <dcterms:subject>Cityscapes</dcterms:subject>
-    <dcterms:subject>Views</dcterms:subject>
-    <dcterms:subject>Buildings</dcterms:subject>
-    <dcterms:subject>Streets</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Cities--Settlements by form</dcterms:subject>
+    <dcterms:subject>Cityscapes--Visual works by subject types</dcterms:subject>
+    <dcterms:subject>Views--Visual works by form</dcterms:subject>
+    <dcterms:subject>Buildings--Single built works</dcterms:subject>
+    <dcterms:subject>Streets--Open spaces and site elements</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Photographs</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:333681/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333681</edm:isShownAt>

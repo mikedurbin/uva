@@ -11,7 +11,6 @@
     <dcterms:identifier>uva-lib:2524250</dcterms:identifier>
     <dcterms:title>Magneto-electric machine</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Bullock &amp; Crenshaw</dcterms:creator>
     <dcterms:created>1879</dcterms:created>
     <dcterms:description>The inside of the wooden lid reads "Magneto-Electric Machine For Medical Puroposes; Sold by Bullock &amp; Crenshaw, Druggists &amp; Chemists, N. Sixth St. 2nd door above Arch." 
    Hook on outer right side of box.</dcterms:description>
@@ -21,9 +20,9 @@
     <dcterms:medium>string (fiber product)</dcterms:medium>
     <dcterms:extent>11 x 25 x 15 cm</dcterms:extent>
     <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2524250/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524250</edm:isShownAt>

@@ -15,11 +15,12 @@
     <dcterms:created>1806</dcterms:created>
     <dcterms:extent>1 map : b&amp;w ; 22 x 30 cm.</dcterms:extent>
     <dcterms:publisher>im Verlage der geographischen Instituts</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>South Carolina--Maps</dcterms:subject>
     <dcterms:spatial>Germany</dcterms:spatial>
     <dcterms:spatial>Weimar</dcterms:spatial>
     <dcterms:language>ger</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616765/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616765</edm:isShownAt>

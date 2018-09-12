@@ -16,8 +16,8 @@
     <dcterms:extent>[571] p. illus. (incl. ports.) diagrs. 23 cm.</dcterms:extent>
     <dcterms:publisher>Baldwin and Cradock</dcterms:publisher>
     <dcterms:subject>Biography</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61765/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61765</edm:isShownAt>

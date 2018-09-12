@@ -11,13 +11,14 @@
     <dcterms:identifier>tsb:65180</dcterms:identifier>
     <dcterms:title>Report on the copper deposits of the eastern townships of the province of Quebec</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Bancroft, J. Austen (Joseph Austen), 1882-1957</dcterms:creator>
     <dcterms:created>1915</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>295 p. illus., plates, fold. map, diagrs. 24 cm.</dcterms:extent>
     <dcterms:publisher>Printed by E. E. Clinq-Mars</dcterms:publisher>
-    <dcterms:subject>Copper mines and mining</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Copper mines and mining--Québec (Province)</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65180/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65180</edm:isShownAt>

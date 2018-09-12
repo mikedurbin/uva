@@ -22,10 +22,9 @@
     <dcterms:subject>Bridegrooms</dcterms:subject>
     <dcterms:subject>Brides</dcterms:subject>
     <dcterms:subject>Weddings</dcterms:subject>
-    <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:isPartOf>Holsinger Studio Collection</dcterms:isPartOf>
-    <edm:hasType>Film negatives</edm:hasType>
+    <dcterms:medium>Film negatives</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1051973/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1051973</edm:isShownAt>

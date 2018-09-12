@@ -11,13 +11,15 @@
     <dcterms:identifier>tsb:65097</dcterms:identifier>
     <dcterms:title>Hē palaia diathēkē kata tous hebdomēkonta. Vetus Testamentum graecum juxta Septuaginta interpretes, ex auctoritate sixti quinti pontificis maximi, editum.  Juxta exemplar originale vaticanum; nunc denuo recognitum, accuratissime expressum, ad normam vulgatae versiculis distinctum, cum latina translatione, animadversionibus, et complementis ex aliis manuscriptis</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Jager, J. N. (Jean-Nicolas), 1790-1868</dcterms:creator>
+    <dcterms:creator>Quelen, Hyacinthe Louis de, abp, 1778-1839</dcterms:creator>
     <dcterms:created>1855</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. 26 cm.</dcterms:extent>
     <dcterms:publisher>F. Didot</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>grc</dcterms:language>
     <dcterms:language>lat</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65097/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65097</edm:isShownAt>

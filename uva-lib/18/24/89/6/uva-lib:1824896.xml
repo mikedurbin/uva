@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[5]-364 p. ; 19 cm.</dcterms:extent>
     <dcterms:publisher>Redfield</dcterms:publisher>
-    <dcterms:subject>Country life</dcterms:subject>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Country life--United States</dcterms:subject>
+    <dcterms:subject>Women--United States--Personal narratives</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>American literature-19th century.</edm:hasType>
+    <dcterms:medium>American literature-19th century.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1824896/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1824896</edm:isShownAt>

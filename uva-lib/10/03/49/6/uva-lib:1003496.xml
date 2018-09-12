@@ -12,14 +12,20 @@
     <dcterms:title>A survey of the Northern Neck of Virginia, : being the lands belonging to the Rt. Honourable Thomas Lord Fairfax Baron Cameron, bounded by &amp; within the Bay of Chesapoyocke and between the Rivers Rappahannock and Potowmack : with the courses of the Rivers Rappahannock and Potowmack, in Virginia, as surveyed according to order in the years 1736 &amp; 1737.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Warner, John, fl. 1727-1741</dcterms:creator>
+    <dcterms:creator>Fairfax, Thomas Fairfax, Lord, 1693-1781</dcterms:creator>
     <dcterms:created>1852</dcterms:created>
     <dcterms:extent>1 map : b&amp;w ; 22 x26 cm.</dcterms:extent>
     <dcterms:publisher>Litho. Photographic Inst. 492, New Oxford Street</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Northern Neck (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Chesapeake Bay (Md. and Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Potomac River--Maps</dcterms:subject>
+    <dcterms:subject>Rappahannock River (Va.)--Maps</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003496/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003496</edm:isShownAt>

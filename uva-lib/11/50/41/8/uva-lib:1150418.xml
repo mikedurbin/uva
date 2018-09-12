@@ -12,13 +12,13 @@
     <dcterms:title>Andante cantabile e presto agitato</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Mendelssohn-Bartholdy, Felix, 1809-1847</dcterms:creator>
+    <dcterms:creator>Epstein, Julius, 1832-1926</dcterms:creator>
     <dcterms:created>1884/1892</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>11 p. of music.</dcterms:extent>
     <dcterms:publisher>Arthur P. Schmidt &amp; Co.</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1150418/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1150418</edm:isShownAt>

@@ -11,13 +11,22 @@
     <dcterms:identifier>tsb:65522</dcterms:identifier>
     <dcterms:title>Woman: in all ages and in all countries .</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Carroll, Mitchell, 1870-1925</dcterms:creator>
+    <dcterms:creator>Brittain, Alfred.</dcterms:creator>
+    <dcterms:creator>Pollard, Edward B., 1864-1927</dcterms:creator>
+    <dcterms:creator>Butler, Pierce, 1873-1955</dcterms:creator>
+    <dcterms:creator>Effinger, John Robert, 1869-</dcterms:creator>
+    <dcterms:creator>Thieme, Hugo P. (Hugo Paul), 1870-1940</dcterms:creator>
+    <dcterms:creator>Schoenfield, Hermann, 1861-1926</dcterms:creator>
+    <dcterms:creator>James, Bartlett Burleigh, 1866-</dcterms:creator>
+    <dcterms:creator>Larus, John Ruse, 1858-</dcterms:creator>
     <dcterms:created>1907</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>10 v. fronts. (2 col.) plates (part col.) 23 cm.</dcterms:extent>
     <dcterms:publisher>Printed for subscribers only, G. Barrie &amp; sons</dcterms:publisher>
     <dcterms:subject>Women</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65522/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65522</edm:isShownAt>

@@ -16,12 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 pts. in 1 v. (v p., [1] l., [5]-208 p.) ; 24 cm.</dcterms:extent>
     <dcterms:publisher>Hilliard, Gray &amp; Co.</dcterms:publisher>
-    <dcterms:subject>American literature</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>American literature--1783-1850</dcterms:subject>
+    <dcterms:subject>Europe--Description and travel--19th century</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1783-1850</dcterms:temporal>
-    <dcterms:temporal>19th century</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1824838/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1824838</edm:isShownAt>

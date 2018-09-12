@@ -11,17 +11,15 @@
     <dcterms:identifier>uva-lib:2158832</dcterms:identifier>
     <dcterms:title>Paul M. Hammaker and Louis T. Rader</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator valueURI="http://id.loc.gov/authorities/names/no2017034882">Skinner, David M., 1921-2009</dcterms:creator>
     <dcterms:created>1979-04-11</dcterms:created>
     <dcterms:description>Darden School</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>black-and-white negatives</edm:hasType>
+    <dcterms:medium>black-and-white negatives</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2158832/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2158832</edm:isShownAt>

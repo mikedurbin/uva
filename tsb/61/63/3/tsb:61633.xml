@@ -12,13 +12,14 @@
     <dcterms:title>The students' Marx, an introduction to the study of Karl Marx' Capital.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Aveling, Edward B., 1849-1898</dcterms:creator>
+    <dcterms:creator>Marx, Karl, 1818-1883</dcterms:creator>
     <dcterms:created>1902</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 p. l., [viii]-xvi, 180 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>S. Sonnenschein &amp; co., lim.</dcterms:publisher>
     <dcterms:subject>Economics</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61633/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61633</edm:isShownAt>

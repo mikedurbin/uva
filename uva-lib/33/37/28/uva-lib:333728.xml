@@ -17,18 +17,18 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Houston (Va.)</dcterms:subject>
-    <dcterms:subject>Halifax County (Va.)</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Cans</dcterms:subject>
-    <dcterms:subject>South (U.S.)</dcterms:subject>
-    <dcterms:subject>African Americans</dcterms:subject>
-    <dcterms:subject>Kitchens</dcterms:subject>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Houston (Va.)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Halifax County (Va.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Virginia--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Cans--Containers by form</dcterms:subject>
+    <dcterms:subject>South (U.S.)--Regions and states</dcterms:subject>
+    <dcterms:subject>African Americans--People by ethnic group</dcterms:subject>
+    <dcterms:subject>Kitchens--Rooms and spaces</dcterms:subject>
+    <dcterms:subject>Women--People by gender</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Photographs</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:333728/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333728</edm:isShownAt>

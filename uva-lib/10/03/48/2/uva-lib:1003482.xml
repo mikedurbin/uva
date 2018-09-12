@@ -11,16 +11,20 @@
     <dcterms:identifier>uva-lib:1003482</dcterms:identifier>
     <dcterms:title>James River, Virginia (in five sheets)</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hilgard, J. E. (Julius Erasmus), 1825-1891</dcterms:creator>
+    <dcterms:creator>Cutts, R. D. (Richard Dominicus), 1817-1883</dcterms:creator>
+    <dcterms:creator>Lindenkohl, A.</dcterms:creator>
     <dcterms:created>1882</dcterms:created>
     <dcterms:extent>1 map ; 60 x 90 cm. on sheet 76 x 98 cm..</dcterms:extent>
     <dcterms:publisher>U.S. Coast and Geodetic Survey</dcterms:publisher>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Nautical charts--Virginia--James River</dcterms:subject>
+    <dcterms:subject>James River (Va.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>District of Columbia</dcterms:spatial>
     <dcterms:spatial>Washington</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003482/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003482</edm:isShownAt>

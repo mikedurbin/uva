@@ -16,11 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>89 p. music. 23 cm.</dcterms:extent>
     <dcterms:publisher>Druck: W. Flagel]</dcterms:publisher>
-    <dcterms:subject>Music</dcterms:subject>
-    <dcterms:subject>Music</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Music--Philosophy and aesthetics</dcterms:subject>
+    <dcterms:subject>Music--17th century</dcterms:subject>
     <dcterms:language>ger</dcterms:language>
-    <dcterms:temporal>17th century</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65691/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65691</edm:isShownAt>

@@ -11,15 +11,14 @@
     <dcterms:identifier>tsb:58664</dcterms:identifier>
     <dcterms:title>Bone forceps</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>A.A. Mellier (Firm)</dcterms:creator>
     <dcterms:created>1890/1930</dcterms:created>
     <dcterms:medium>stainless steel</dcterms:medium>
     <dcterms:extent>1.6 x 19.1 x 3.8 cm</dcterms:extent>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
-    <edm:hasType>forceps</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:medium>forceps</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58664/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58664</edm:isShownAt>

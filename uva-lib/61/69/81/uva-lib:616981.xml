@@ -15,12 +15,14 @@
     <dcterms:created>1833</dcterms:created>
     <dcterms:extent>1 map (chart) ; 44 x 58 cm. on sheet 48 x 64 cm.</dcterms:extent>
     <dcterms:publisher>Published according to Act of Parliament at the Hydrographical Office of the Admiralty</dcterms:publisher>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Nautical charts--Gibraltar, Strait of</dcterms:subject>
+    <dcterms:subject>Gibraltar, Strait of--Maps</dcterms:subject>
+    <dcterms:subject>Gibraltar--Maps</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616981/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616981</edm:isShownAt>

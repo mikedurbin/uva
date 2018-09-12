@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>63 p. ; 18 cm.</dcterms:extent>
     <dcterms:publisher>Printed by J. Seymour</dcterms:publisher>
-    <dcterms:subject>Fairfield, Lucy Lincoln/</dcterms:subject>
-    <dcterms:subject>Fairfield, Sumner Lincoln</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Fairfield, Lucy Lincoln, 1782-</dcterms:subject>
+    <dcterms:subject>Fairfield, Sumner Lincoln, 1803-1844</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1052576/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1052576</edm:isShownAt>

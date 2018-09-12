@@ -12,12 +12,14 @@
     <dcterms:title>The mountains of life , or, My soul shall know thine in that beautiful land : Song and chorus</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Maryatt, Pendleton.</dcterms:creator>
+    <dcterms:creator>Sherwood, Andrew</dcterms:creator>
+    <dcterms:creator>Bradbury, William B. (William Batchelder), 1816-1868</dcterms:creator>
     <dcterms:created>1868</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.).</dcterms:extent>
     <dcterms:publisher>Root &amp; Cady</dcterms:publisher>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1118879/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1118879</edm:isShownAt>

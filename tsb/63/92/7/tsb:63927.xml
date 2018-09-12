@@ -12,12 +12,13 @@
     <dcterms:title>Poems and tales of Edgar Allan Poe</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Poe, Edgar Allan, 1809-1849</dcterms:creator>
+    <dcterms:creator>Stewart, Robert Armistead, 1877-1950</dcterms:creator>
     <dcterms:created>1911</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>249 p. : port. ; 17 cm.</dcterms:extent>
     <dcterms:publisher>B. F. Johnson Pub. Co.</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63927/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63927</edm:isShownAt>

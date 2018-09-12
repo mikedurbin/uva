@@ -12,17 +12,18 @@
     <dcterms:title>Greece</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Cone, Joseph, (Engraver)</dcterms:creator>
+    <dcterms:creator>Coale, Edward Johnson, 1776-1832</dcterms:creator>
     <dcterms:created>1824</dcterms:created>
     <dcterms:extent>1 map : hand col. ; 36 x 39 cm. on sheet 49 x 68 cm.</dcterms:extent>
     <dcterms:publisher>Published by E. J. Coale</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Greece--Maps</dcterms:subject>
+    <dcterms:subject>Greece--History--War of Independence, 1821-1829</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Maryland</dcterms:spatial>
     <dcterms:spatial>Baltimore</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>War of Independence, 1821-1829</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616980/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616980</edm:isShownAt>

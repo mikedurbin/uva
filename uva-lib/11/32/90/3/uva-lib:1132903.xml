@@ -12,23 +12,22 @@
     <dcterms:title>The battles of Palo Alto &amp; Resaca de la Palma : a musical delineation : op. 72</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Grobe, Charles, 1817-1880</dcterms:creator>
+    <dcterms:creator>Webb, L. W.</dcterms:creator>
     <dcterms:created>1846</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (9 pages) ; 34 cm</dcterms:extent>
     <dcterms:publisher>F.D. Benteen</dcterms:publisher>
+    <dcterms:subject>1846</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Palo Alto, Battle of, Tex., 1846</dcterms:subject>
-    <dcterms:subject>Resaca de la Palma, Battle of, Tex., 1846</dcterms:subject>
-    <dcterms:subject>Mexican War, 1846-1848</dcterms:subject>
+    <dcterms:subject>Palo Alto, Battle of, Tex., 1846--Songs and music</dcterms:subject>
+    <dcterms:subject>Resaca de la Palma, Battle of, Tex., 1846--Songs and music</dcterms:subject>
+    <dcterms:subject>Mexican War, 1846-1848--Songs and music</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Mexican War (1846-1848)/</dcterms:subject>
-    <dcterms:subject>Palo Alto, Battle of (Texas : 1846)/</dcterms:subject>
-    <dcterms:subject>Resaca de la Palma, Battle of (Texas : 1846)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <edm:hasType>History</edm:hasType>
-    <edm:hasType>Music.</edm:hasType>
-    <dcterms:temporal>1846</dcterms:temporal>
+    <dcterms:subject>Texas</dcterms:subject>
+    <dcterms:subject>United States</dcterms:subject>
+    <dcterms:medium>History</dcterms:medium>
+    <dcterms:medium>Music.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1132903/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1132903</edm:isShownAt>

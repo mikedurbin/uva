@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xi, 122 pages 25 cm.</dcterms:extent>
     <dcterms:publisher>Pub. for the American Folk-lore Society, by Houghton, Mifflin and Co.</dcterms:publisher>
-    <dcterms:subject>Folklore</dcterms:subject>
-    <dcterms:subject>Creole dialects</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Folklore--Louisiana</dcterms:subject>
+    <dcterms:subject>Creole dialects--Louisiana</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61795/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61795</edm:isShownAt>

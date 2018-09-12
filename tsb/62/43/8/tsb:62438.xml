@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:62438</dcterms:identifier>
+    <dcterms:title>The Tragedy of Tancred and Gismund; reputed date of earliest known edition, 1591; date of this edition, 1592 (B.M. C34. e. 43 &amp; C34. e. 44 &amp; Dyce copy at S.K.) reproduced in facsimile, 1912.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>R. W. (Robert Wilmot), active 1568-1608</dcterms:creator>
+    <dcterms:creator>Noel, Henry, -1597</dcterms:creator>
+    <dcterms:created>1912</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[70] p. 27 cm.</dcterms:extent>
+    <dcterms:publisher>Issued for subscribers by the editor of the Tudor facsimile texts</dcterms:publisher>
+    <dcterms:subject>Hatton, Christopher, Sir, 1540-1591</dcterms:subject>
+    <dcterms:subject>Facsimiles</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:62438/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:62438</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2607612/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

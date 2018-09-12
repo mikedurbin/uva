@@ -14,9 +14,10 @@
     <dcterms:creator>Andriveau-Goujon, J.</dcterms:creator>
     <dcterms:created>1865</dcterms:created>
     <dcterms:extent>col. map. 62 x 91 cm. fold. to 23 x 14 cm.</dcterms:extent>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Algeria--Maps</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1824540/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1824540</edm:isShownAt>

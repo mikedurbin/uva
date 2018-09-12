@@ -12,14 +12,14 @@
     <dcterms:title>Forest musings</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Phelps, E. B.</dcterms:creator>
+    <dcterms:creator>Hounslow</dcterms:creator>
     <dcterms:created>1880</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 p. of music.</dcterms:extent>
     <dcterms:publisher>Spear &amp; Dehnhoff</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Forests and forestry</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:subject>Forests and forestry--Songs and music</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1145151/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1145151</edm:isShownAt>

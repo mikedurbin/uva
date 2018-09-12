@@ -12,14 +12,23 @@
     <dcterms:title>A new map of Denmark and Sweden : according to ye newest and most exact observations.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+    <dcterms:creator>Overton, Philip, -1751</dcterms:creator>
+    <dcterms:creator>Bowles, John, 1701-1779</dcterms:creator>
+    <dcterms:creator>Bowles, Thomas, -1767</dcterms:creator>
+    <dcterms:creator>Robinson, John, 1650-1723</dcterms:creator>
     <dcterms:created>1730</dcterms:created>
     <dcterms:extent>1 map : col. ; 60 x 100 cm. on sheet 63 x 107 cm.</dcterms:extent>
     <dcterms:publisher>Printed for H. Moll over against Devereux Court without Temple Bar in the Strand, Iohn Bowles at the Black Horse in Cornhill, Thomas Bowles Print &amp; Mapseller next to the Chapter house in St. Pauls Church yard and by Philip Overton Map &amp; Printseller near S. Dunstans Church Fleetstreet</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Scandinavia--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Denmark--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Norway--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Sweden--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Finland--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003633/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003633</edm:isShownAt>

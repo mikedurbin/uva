@@ -15,11 +15,15 @@
     <dcterms:created>1755</dcterms:created>
     <dcterms:extent>1 map : col. ; 21 x 20 cm. on sheet24 x 36 cm.</dcterms:extent>
     <dcterms:publisher>J.B. Nolin</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>America--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Western Hemisphere--Maps</dcterms:subject>
+    <dcterms:subject>North America--Maps</dcterms:subject>
+    <dcterms:subject>South America--Maps</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003578/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003578</edm:isShownAt>

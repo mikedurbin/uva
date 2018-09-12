@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>92 p. : port., (front.) ; 15 cm.</dcterms:extent>
     <dcterms:publisher>Willard Tract Repository</dcterms:publisher>
-    <dcterms:subject>Blumhardt, Johann Christoph</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Blumhardt, Johann Christoph, 1805-1880</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64061/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64061</edm:isShownAt>

@@ -11,16 +11,16 @@
     <dcterms:identifier>tsb:18827</dcterms:identifier>
     <dcterms:title>Mrs. Mead's School, Grace Street, Richmond  : Terms.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Mead, Ann Maria, fl.1831-1852</dcterms:creator>
     <dcterms:created>1851</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 folded sheet ([4] p.) ; 25 cm.</dcterms:extent>
     <dcterms:publisher>Mrs. Mead's School</dcterms:publisher>
-    <dcterms:subject>Girls' schools</dcterms:subject>
-    <dcterms:subject>Private schools</dcterms:subject>
-    <dcterms:subject>Schools</dcterms:subject>
-    <dcterms:subject>Mrs. Mead's School.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Girls' schools--Virginia--Richmond</dcterms:subject>
+    <dcterms:subject>Private schools--Virginia--Richmond</dcterms:subject>
+    <dcterms:subject>Schools--Virginia--Richmond</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18827/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18827</edm:isShownAt>

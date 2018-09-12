@@ -14,10 +14,8 @@
     <dcterms:created>1850</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 broadside. 17 x 11 cm.</dcterms:extent>
-    <dcterms:subject>University of Virginia./</dcterms:subject>
-    <dcterms:subject>Philomathean Society.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18756/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18756</edm:isShownAt>

@@ -12,16 +12,15 @@
     <dcterms:title>La chatelaine</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Leduc, A. (Alphonse), 1804-1868</dcterms:creator>
+    <dcterms:creator>Everest, C. (Cornelius)</dcterms:creator>
     <dcterms:created>1863</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 p. of music.</dcterms:extent>
     <dcterms:publisher>Lee &amp; Walker</dcterms:publisher>
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
     <dcterms:subject>Waltzes</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1142628/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1142628</edm:isShownAt>

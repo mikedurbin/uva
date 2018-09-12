@@ -12,16 +12,17 @@
     <dcterms:title>The sword of Robert Lee</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Blackmar, A. E. (Armand Edward), 1826-1888</dcterms:creator>
+    <dcterms:creator>Ryan, Abram Joseph, 1839-1886</dcterms:creator>
+    <dcterms:creator>Wehrmann, Henri, 1827-1905</dcterms:creator>
     <dcterms:created>1869</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.) : ill.</dcterms:extent>
     <dcterms:publisher>J.L. Peters</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--Confederate States of America</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1133214/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1133214</edm:isShownAt>

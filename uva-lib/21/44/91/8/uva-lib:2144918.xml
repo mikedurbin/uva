@@ -14,11 +14,10 @@
     <dcterms:created>1785</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 p. 34 x 21 cm.</dcterms:extent>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Stewart, Robert</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Stewart, Robert, Lieutenant Colonel</dcterms:subject>
+    <dcterms:subject>Virginia--History--Colonial period, ca. 1600-1775</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Colonial period, ca. 1600-1775</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2144918/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2144918</edm:isShownAt>

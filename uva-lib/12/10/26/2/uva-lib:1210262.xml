@@ -12,12 +12,17 @@
     <dcterms:title>A map of the state of Virginia, constructed in conformity to law, from the late surveys authorized by the Legislature and other original and authentic documents, by Herman Böÿe, 1825</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Böÿe, Herman.</dcterms:creator>
+    <dcterms:creator>Buckholtz, L. v. (Louis von)</dcterms:creator>
+    <dcterms:creator>Tanner, Henry Schenck, 1786-1858</dcterms:creator>
+    <dcterms:creator>Tanner, Benjamin, 1775-1848</dcterms:creator>
+    <dcterms:creator>Steel, James W., 1799-1879</dcterms:creator>
     <dcterms:created>1859</dcterms:created>
     <dcterms:extent>1 map. ; ill. 156 x 240 cm.</dcterms:extent>
     <dcterms:publisher>State of Virginia</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1210262/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1210262</edm:isShownAt>

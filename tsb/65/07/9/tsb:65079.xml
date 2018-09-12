@@ -12,14 +12,15 @@
     <dcterms:title>The Chaldean account of Genesis : containing the description of the creation, the deluge, the tower of Babel, the destruction of Sodom, the times of the Patriarchs, and Nimrod, Babylonian fables, and legends of the Gods , from the cuneiform inscriptions</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Smith, George, 1840-1876</dcterms:creator>
+    <dcterms:creator>Sayce, A. H. (Archibald Henry), 1845-1933</dcterms:creator>
     <dcterms:created>1881</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxiv, 337 p., [6] leaves of plates : ill. ; 22 cm.</dcterms:extent>
     <dcterms:subject>Criticism, interpretation, etc</dcterms:subject>
     <dcterms:subject>Mythology, Assyro-Babylonian</dcterms:subject>
     <dcterms:subject>Cosmogony, Babylonian</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65079/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65079</edm:isShownAt>

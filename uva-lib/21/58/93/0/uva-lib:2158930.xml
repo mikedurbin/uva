@@ -11,18 +11,16 @@
     <dcterms:identifier>uva-lib:2158930</dcterms:identifier>
     <dcterms:title>UVa Pageants</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
     <dcterms:description>Written on picture from left to right:  Dave Boone, Cameron Trolley, Charity Pitto, James Carroll Flippin, Betty Booker, Professor Fitzhugh, Dr. Lambeth, Dr. Kepner, Mrs. Lambeth, Mrs. Qlynn, Mrs. Kepner, Mrs. Bradford, Elizabeth Randolph, Jule [?] Sawtrotter, Sue Dabney, Albert Bolling, Mr. Bradford, Salie Farrish, and Anna Barringer</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>gelatin silver prints</edm:hasType>
+    <dcterms:medium>gelatin silver prints</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2158930/iiif/manifest.json</dcterms:isReferencedBy>
-    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2158930</edm:isShownAt>
     <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2158930/full/!300,300/0/default.jpg</edm:preview>
 </mdRecord>

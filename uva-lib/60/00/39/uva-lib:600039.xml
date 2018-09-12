@@ -14,12 +14,15 @@
     <dcterms:created>1918</dcterms:created>
     <dcterms:extent>1 map : col. ; 90 x 83 cm. folded into covers 26 x 18 cm.</dcterms:extent>
     <dcterms:publisher>Imprimerie Berger-Levrault</dcterms:publisher>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:subject>Brown, Frederick Lyons</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Brown, Frederick Lyons, 1890-</dcterms:subject>
+    <dcterms:subject>World War, 1914-1918--France--Maps</dcterms:subject>
+    <dcterms:subject>World War, 1914-1918--Belgium--Maps</dcterms:subject>
+    <dcterms:subject>France--Maps</dcterms:subject>
+    <dcterms:subject>Alsace (France)--Maps</dcterms:subject>
+    <dcterms:subject>Belgium--Maps</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:600039/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:600039</edm:isShownAt>

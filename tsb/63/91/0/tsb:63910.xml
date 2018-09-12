@@ -11,14 +11,17 @@
     <dcterms:identifier>tsb:63910</dcterms:identifier>
     <dcterms:title>Saint Paul's Epistles to the Colossians and to Philemon</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Lightfoot, J. B. (Joseph Barber), 1828-1889</dcterms:creator>
     <dcterms:created>1886</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>424 p., 23 cm.</dcterms:extent>
     <dcterms:publisher>Macmillan and co.</dcterms:publisher>
-    <dcterms:subject>N.T</dcterms:subject>
-    <dcterms:subject>N.T</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Commentaries</dcterms:subject>
+    <dcterms:subject>Commentaries</dcterms:subject>
+    <dcterms:subject>Commentaries--N.T--Colossians</dcterms:subject>
+    <dcterms:subject>Commentaries--N.T--Philemon</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63910/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63910</edm:isShownAt>

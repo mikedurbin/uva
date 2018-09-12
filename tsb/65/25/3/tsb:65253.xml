@@ -16,13 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xi, 362 p. incl. illus., pl., port., facsim.  front. 23 1/2 cm.</dcterms:extent>
     <dcterms:publisher>T.F.Unwin</dcterms:publisher>
-    <dcterms:subject>Crime</dcterms:subject>
-    <dcterms:subject>Criminals</dcterms:subject>
-    <dcterms:subject>Great Britain./</dcterms:subject>
-    <dcterms:subject>Central Criminal Court./</dcterms:subject>
-    <dcterms:subject>Newgate (Prison : London, England)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Crime--England--London</dcterms:subject>
+    <dcterms:subject>Criminals--England--London</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65253/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65253</edm:isShownAt>

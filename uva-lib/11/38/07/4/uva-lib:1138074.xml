@@ -12,14 +12,15 @@
     <dcterms:title>Daddy</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Behrend, A. H. (Arthur Henry), 1853-1935</dcterms:creator>
+    <dcterms:creator>Lemon, Mary Mark</dcterms:creator>
     <dcterms:created>1889/1890</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.) : ill.</dcterms:extent>
     <dcterms:publisher>Hitchcock's Music Stores</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Fathers</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Fathers--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1138074/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1138074</edm:isShownAt>

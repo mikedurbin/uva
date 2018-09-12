@@ -16,11 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>91, 10 p., [4] leaves of plates : ill. ; 15 cm.</dcterms:extent>
     <dcterms:publisher>Hazard and Mitchell</dcterms:publisher>
-    <dcterms:subject>City and town life</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>City and town life--United States--19th century--Fiction</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>American literature-1783-1850.</edm:hasType>
-    <dcterms:temporal>19th century</dcterms:temporal>
+    <dcterms:medium>American literature-1783-1850.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1824865/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1824865</edm:isShownAt>

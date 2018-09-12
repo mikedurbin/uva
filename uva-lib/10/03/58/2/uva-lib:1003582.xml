@@ -12,14 +12,17 @@
     <dcterms:title>Tauola dell' isole nuoue, le quali son nominate occidentali, &amp; indiane per diuersi rispetti</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Münster, Sebastian, 1489-1552</dcterms:creator>
+    <dcterms:creator>Münster, Sebastian, 1489-1552</dcterms:creator>
     <dcterms:created>1575</dcterms:created>
     <dcterms:extent>1 map : ill. ; 26 x 34 cm. on sheet 29 x 39 cm.</dcterms:extent>
     <dcterms:publisher>Appresso gli heredi d'Arnoldo Byrckmanno</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>America--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Western Hemisphere--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>Germany</dcterms:spatial>
     <dcterms:spatial>Cologne</dcterms:spatial>
     <dcterms:language>ita</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003582/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003582</edm:isShownAt>

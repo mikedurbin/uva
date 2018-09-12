@@ -11,14 +11,16 @@
     <dcterms:identifier>uva-lib:743723</dcterms:identifier>
     <dcterms:title>Map of the iron ore bearing portion of Virginia : showing the location of the principal mines and the kinds of ore.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Watson, Thomas L. (Thomas Leonard), 1871-1924</dcterms:creator>
     <dcterms:created>1907</dcterms:created>
     <dcterms:extent>1 map ; 38 x 108 cm.</dcterms:extent>
     <dcterms:publisher>J.P. Bell Co.</dcterms:publisher>
-    <dcterms:subject>Iron ores</dcterms:subject>
-    <dcterms:subject>Mines and mineral resources</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Iron ores--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Mines and mineral resources--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:743723/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:743723</edm:isShownAt>

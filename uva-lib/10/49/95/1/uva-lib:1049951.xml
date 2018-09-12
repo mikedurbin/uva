@@ -16,10 +16,9 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:extent>5 x 7 in.</dcterms:extent>
     <dcterms:subject>Portraits</dcterms:subject>
-    <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:isPartOf>Holsinger Studio Collection</dcterms:isPartOf>
-    <edm:hasType>Glass negatives</edm:hasType>
+    <dcterms:medium>Glass negatives</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1049951/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1049951</edm:isShownAt>

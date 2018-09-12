@@ -18,11 +18,9 @@
     <dcterms:publisher>Livourne</dcterms:publisher>
     <dcterms:subject>Treaties</dcterms:subject>
     <dcterms:subject>Polish question</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Congress of Vienna (1814-1815)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Europe--Politics and government--1789-1815</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
-    <dcterms:temporal>1789-1815</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61737/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61737</edm:isShownAt>

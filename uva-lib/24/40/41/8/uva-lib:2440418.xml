@@ -11,14 +11,13 @@
     <dcterms:identifier>uva-lib:2440418</dcterms:identifier>
     <dcterms:title>Juglandin bottle</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Parke, Davis &amp; Company</dcterms:creator>
     <dcterms:created>1910</dcterms:created>
     <dcterms:description>Corked bottle with paper label on outside, empty besides residue; Label information: Juglandin prepared from Butternut by Parke, Davis, and Co., Manufacturing Chemists; Detriot, Mich.; dose, 1 to 5 grains; properties and other instructions on back of label</dcterms:description>
     <dcterms:medium>glass</dcterms:medium>
     <dcterms:subject>Drugs</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>drugs</edm:hasType>
+    <dcterms:medium>drugs</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440418/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440418</edm:isShownAt>

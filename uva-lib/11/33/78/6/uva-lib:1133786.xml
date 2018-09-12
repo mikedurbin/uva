@@ -12,15 +12,16 @@
     <dcterms:title>Southern belle polka</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Geil, Frederick.</dcterms:creator>
+    <dcterms:creator>Slinglandt, Jacob</dcterms:creator>
+    <dcterms:creator>Coles, Will</dcterms:creator>
     <dcterms:created>1855/1860</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 p. of music.</dcterms:extent>
     <dcterms:publisher>James A. McClure</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
     <dcterms:subject>Polkas</dcterms:subject>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:subject>Women--Southern States--Songs and music</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1133786/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1133786</edm:isShownAt>

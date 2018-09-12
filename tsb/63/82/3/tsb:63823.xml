@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vi p., 1 l., 232 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>Dodd, Mead and company</dcterms:publisher>
-    <dcterms:subject>Arnold, Matthew</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Arnold, Matthew, 1822-1888</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63823/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63823</edm:isShownAt>

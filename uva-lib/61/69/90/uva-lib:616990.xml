@@ -12,14 +12,18 @@
     <dcterms:title>A new and compendious map of England and Wales, : wherein all the great, direct and cross roads are carefully inserted</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Dunn, Samuel, -1794</dcterms:creator>
+    <dcterms:creator>Jefferys, Thomas, -1771</dcterms:creator>
+    <dcterms:creator>Sayer, Robert, 1725-1794</dcterms:creator>
     <dcterms:created>1788</dcterms:created>
     <dcterms:extent>1 map : col. ; 55 x 45 cm. on sheet 70 x 55 cm.</dcterms:extent>
     <dcterms:publisher>Printed for Robert Sayer, No. 53 Fleet Street, as the Act directs</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>England--Early works to 1800--Maps</dcterms:subject>
+    <dcterms:subject>Wales--Early works to 1800--Maps</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616990/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616990</edm:isShownAt>

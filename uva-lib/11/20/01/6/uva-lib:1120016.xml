@@ -12,14 +12,17 @@
     <dcterms:title>Maying : duet for contralto &amp; baritone voices</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Smith, Alice Mary, 1839-1884</dcterms:creator>
+    <dcterms:creator>Kingsley, Charles, 1819-1875</dcterms:creator>
+    <dcterms:creator>Ahrem, Jacques.</dcterms:creator>
     <dcterms:created>1884</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.).</dcterms:extent>
     <dcterms:publisher>John Church &amp; Co.</dcterms:publisher>
+    <dcterms:subject>Kingsley, Charles, 1819-1875</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
     <dcterms:subject>Vocal duets with piano</dcterms:subject>
-    <dcterms:subject>Kingsley, Charles</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1120016/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1120016</edm:isShownAt>

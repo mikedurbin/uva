@@ -15,14 +15,15 @@
     <dcterms:created>1917-04-26</dcterms:created>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:extent>5 x 7 in.</dcterms:extent>
+    <dcterms:subject>Monticello (Va.)</dcterms:subject>
     <dcterms:subject>Portraits</dcterms:subject>
     <dcterms:subject>Landscape</dcterms:subject>
     <dcterms:subject>Tombs</dcterms:subject>
     <dcterms:subject>Cemeteries</dcterms:subject>
-    <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Charlottesville (Va.)</dcterms:subject>
     <dcterms:isPartOf>Holsinger Studio Collection</dcterms:isPartOf>
-    <edm:hasType>Glass negatives</edm:hasType>
+    <dcterms:medium>Glass negatives</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1047871/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1047871</edm:isShownAt>

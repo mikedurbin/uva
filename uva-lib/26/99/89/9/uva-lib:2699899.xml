@@ -15,10 +15,10 @@
     <dcterms:description>Glass feeding bottle with glass nipple. Donated with pieces of a glass breast pump.</dcterms:description>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:extent>3.5 x 24.5 x 8 cm</dcterms:extent>
-    <dcterms:subject>Glass containers</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Glass containers--Bottle feeding</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>nursing bottles</edm:hasType>
+    <dcterms:medium>nursing bottles</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2699899/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2699899</edm:isShownAt>

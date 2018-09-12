@@ -16,8 +16,8 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxiv, 223 p., [1] l. ports. 21.5 cm.</dcterms:extent>
     <dcterms:publisher>Printed by J. Bell</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2383243/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2383243</edm:isShownAt>

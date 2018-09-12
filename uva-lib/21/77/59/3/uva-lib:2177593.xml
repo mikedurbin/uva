@@ -16,12 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxix, 511 p., [25] leaves of plates (1 folded) : ill., maps, ports. ; 21 cm.</dcterms:extent>
     <dcterms:publisher>Harper &amp; Bros.</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Hispaniola--History</dcterms:subject>
+    <dcterms:subject>Hispaniola--Description and travel</dcterms:subject>
+    <dcterms:subject>Haiti--History</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2177593/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2177593</edm:isShownAt>

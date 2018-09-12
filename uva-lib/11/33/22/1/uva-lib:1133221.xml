@@ -12,15 +12,18 @@
     <dcterms:title>Jubilate Deo = in B flat, with duet for soprano and alto, and bass solo</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Balmer, Charles, 1817-1892</dcterms:creator>
+    <dcterms:creator>Giorza, Paolo, 1832-1914</dcterms:creator>
+    <dcterms:creator>Poniatowski, Józef Antoni, książę, 1763-1813</dcterms:creator>
+    <dcterms:creator>Robert, P. G., Rev</dcterms:creator>
     <dcterms:created>1879</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (11 p.)</dcterms:extent>
     <dcterms:publisher>Balmer &amp; Weber</dcterms:publisher>
     <dcterms:subject>Choruses, Sacred (Mixed voices, 4 parts) with piano</dcterms:subject>
     <dcterms:subject>Choruses, Sacred (Mixed voices, 4 parts) with organ</dcterms:subject>
-    <dcterms:subject>Psalms (Music)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Psalms (Music)--66th Psalm</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1133221/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1133221</edm:isShownAt>

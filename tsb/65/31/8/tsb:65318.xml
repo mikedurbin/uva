@@ -12,16 +12,17 @@
     <dcterms:title>The new German constitution</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Brunet, René, 1882-1951</dcterms:creator>
+    <dcterms:creator>Gollomb, Joseph, 1881-1950</dcterms:creator>
+    <dcterms:creator>Gollomb, Joseph, 1881-1950</dcterms:creator>
     <dcterms:created>1922</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>339 p. 22 cm.</dcterms:extent>
     <dcterms:publisher>A. A. Knopf</dcterms:publisher>
-    <dcterms:subject>Constitutions</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Constitutions--Germany</dcterms:subject>
+    <dcterms:subject>Germany--Politics and government--1918-1933</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
-    <dcterms:temporal>1918-1933</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65318/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65318</edm:isShownAt>

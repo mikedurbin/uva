@@ -15,10 +15,10 @@
     <dcterms:description>Handle only; trephine shaft and blade are missing.</dcterms:description>
     <dcterms:medium>Stainless steel</dcterms:medium>
     <dcterms:extent>1.3 x 9.1 x 1.7 cm</dcterms:extent>
-    <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medical instruments and apparatus--Trephining</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58657/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58657</edm:isShownAt>

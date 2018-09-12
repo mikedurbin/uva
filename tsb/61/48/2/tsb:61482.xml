@@ -16,12 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>175 p. maps (partly fold.) 24 cm.</dcterms:extent>
     <dcterms:publisher>J. B. Lippincott &amp; co.</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Campaigns</dcterms:subject>
+    <dcterms:subject>Shenandoah River Valley (Va. and W. Va.)--History--Civil War, 1861-1865</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61482/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61482</edm:isShownAt>

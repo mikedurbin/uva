@@ -12,16 +12,16 @@
     <dcterms:title>Lohengrin march</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wagner, Richard, 1813-1883</dcterms:creator>
+    <dcterms:creator>Hamm, J. Val. (Johann Valentin), 1811-1875</dcterms:creator>
     <dcterms:created>1890/1899</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 p. of music.</dcterms:extent>
     <dcterms:publisher>Richard A. Saalfield</dcterms:publisher>
-    <dcterms:subject>Operas</dcterms:subject>
+    <dcterms:subject>Operas--Excerpts, Arranged</dcterms:subject>
     <dcterms:subject>Marches (Piano), Arranged</dcterms:subject>
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <edm:hasType>mr-op</edm:hasType>
+    <dcterms:medium>mr-op</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1142203/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1142203</edm:isShownAt>

@@ -15,14 +15,15 @@
     <dcterms:created>1851</dcterms:created>
     <dcterms:extent>1 map : hand col. ; 34 x 27 cm.</dcterms:extent>
     <dcterms:publisher>Published by Thomas, Cowperthwait &amp; Co. No. 253 Market Street</dcterms:publisher>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Roads</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Railroads--Georgia--Maps</dcterms:subject>
+    <dcterms:subject>Roads--Georgia--Maps</dcterms:subject>
+    <dcterms:subject>Georgia--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Pennsylvania</dcterms:spatial>
     <dcterms:spatial>Philadelphia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:602673/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:602673</edm:isShownAt>

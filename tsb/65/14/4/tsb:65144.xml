@@ -12,14 +12,15 @@
     <dcterms:title>Memoir of Col. Joshua Fry, sometime professor in William and Mary college, Virginia, and Washington's senior in command of Virginia forces, 1754, etc., etc., with an autobiography of his son</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Slaughter, Philip, 1808-1890</dcterms:creator>
+    <dcterms:creator>Fry, Henry, 1738-1823</dcterms:creator>
     <dcterms:created>1880</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>112 p., 1 l. 24 cm.</dcterms:extent>
     <dcterms:publisher>Randolph &amp; English</dcterms:publisher>
     <dcterms:subject>Fry family (Joshua Fry, 1632-1754)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65144/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65144</edm:isShownAt>

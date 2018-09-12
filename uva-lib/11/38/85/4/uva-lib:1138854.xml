@@ -12,14 +12,14 @@
     <dcterms:title>Old hundred : paraphrase de concert</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Rivé-King, Julie, 1854-1937</dcterms:creator>
+    <dcterms:creator>Kitchell, Henrietta</dcterms:creator>
     <dcterms:created>1879</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>9 p. of music.</dcterms:extent>
     <dcterms:publisher>Kunkel Bros.</dcterms:publisher>
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
     <dcterms:subject>Variations (Piano)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1138854/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1138854</edm:isShownAt>

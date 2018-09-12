@@ -12,13 +12,14 @@
     <dcterms:title>Life of Rear-Admiral John Paul Jones, chevalier of the Military order of merit, and of the Russian order of St. Anne</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Jones, John Paul, 1747-1792</dcterms:creator>
+    <dcterms:creator>Walker, Benjamin</dcterms:creator>
     <dcterms:created>1945</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 p.l., iii-x, 11-399 p. incl. illus., plates. front. (port.) 21 cm.</dcterms:extent>
     <dcterms:publisher>Walker &amp; Gillis</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64399/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64399</edm:isShownAt>

@@ -11,17 +11,18 @@
     <dcterms:identifier>uva-lib:838343</dcterms:identifier>
     <dcterms:title>The Early Italian poets from Ciullo d'Alcamo to Dante Alighieri (1100-1200-1300) : in the original metres : together with Dante's Vita nuova ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Rossetti, Dante Gabriel, 1828-1882</dcterms:creator>
+    <dcterms:creator>Dante Alighieri, 1265-1321</dcterms:creator>
     <dcterms:created>1861</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxxvi, 451 p. ; 19 cm.</dcterms:extent>
     <dcterms:publisher>[s.n.]</dcterms:publisher>
-    <dcterms:subject>Italian poetry</dcterms:subject>
-    <dcterms:subject>Italian poetry</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Italian poetry--Translations into English</dcterms:subject>
+    <dcterms:subject>Italian poetry--To 1400</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>ita</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <dcterms:temporal>To 1400</dcterms:temporal>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:838343/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:838343</edm:isShownAt>

@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vi p., 3 l., [13]-286 p. incl. plates, maps. front. 17 cm.</dcterms:extent>
     <dcterms:publisher>Harper &amp; brothers</dcterms:publisher>
-    <dcterms:subject>Darius</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Darius, I, King of Persia, 548 B.C.-485 B.C</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65102/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65102</edm:isShownAt>

@@ -11,21 +11,20 @@
     <dcterms:identifier>uva-lib:1219814</dcterms:identifier>
     <dcterms:title>By His Excellency, the Hon. Thomas Gage, Esq. Governor, and Commander in Chief, in and over His Majesty's Province of Massachusetts-Bay, and Vice-Admiral of the same. A proclamation. : Whereas the infatuated multitudes ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Gage, Thomas, 1721-1787</dcterms:creator>
     <dcterms:created>1775</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : ill. ; 50 x 40 cm.</dcterms:extent>
     <dcterms:publisher>Margaret Draper?</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Massachusetts--History--Revolution, 1775-1783</dcterms:subject>
+    <dcterms:subject>United States--History--Revolution, 1775-1783</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Massachusetts</dcterms:spatial>
     <dcterms:spatial>Boston</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Proclamations-Massachusetts-1775.</edm:hasType>
-    <edm:hasType>Broadsides-Massachusetts-1775.</edm:hasType>
-    <dcterms:temporal>Revolution, 1775-1783</dcterms:temporal>
-    <dcterms:temporal>Revolution, 1775-1783</dcterms:temporal>
+    <dcterms:medium>Proclamations-Massachusetts-1775.</dcterms:medium>
+    <dcterms:medium>Broadsides-Massachusetts-1775.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1219814/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1219814</edm:isShownAt>

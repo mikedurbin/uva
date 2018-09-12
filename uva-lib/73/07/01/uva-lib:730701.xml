@@ -17,10 +17,10 @@
     <dcterms:extent>40, [2] p. ; 16 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Par Iean de Tournes</dcterms:publisher>
     <dcterms:subject>Astrology</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730701/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730701</edm:isShownAt>

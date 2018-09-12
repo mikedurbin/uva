@@ -11,17 +11,16 @@
     <dcterms:identifier>tsb:58687</dcterms:identifier>
     <dcterms:title>Keratome</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Stein USA</dcterms:creator>
     <dcterms:created>1870/1910</dcterms:created>
     <dcterms:description>Jaeger's angular keratome knife, contained in a cardboard box.</dcterms:description>
     <dcterms:medium>stainless steel</dcterms:medium>
     <dcterms:extent>1.5 x 14 x 1.5 cm</dcterms:extent>
     <dcterms:subject>Surgical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
-    <edm:hasType>surgical instruments</edm:hasType>
-    <edm:hasType>knives</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:medium>surgical instruments</dcterms:medium>
+    <dcterms:medium>knives</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58687/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58687</edm:isShownAt>

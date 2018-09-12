@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>iv, 302 p. port. 18 cm.</dcterms:extent>
     <dcterms:publisher>Houghton, Mifflin</dcterms:publisher>
-    <dcterms:subject>Hawthorne, Nathaniel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Hawthorne, Nathaniel, 1804-1864</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65282/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65282</edm:isShownAt>

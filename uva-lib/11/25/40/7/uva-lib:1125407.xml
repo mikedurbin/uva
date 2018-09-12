@@ -12,14 +12,17 @@
     <dcterms:title>He wept to leave her side</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Colman, H. S.</dcterms:creator>
+    <dcterms:creator>Nones, Jefferson Henri, -1903</dcterms:creator>
+    <dcterms:creator>Gillingham, Edwin</dcterms:creator>
+    <dcterms:creator>Nones, Mary K.</dcterms:creator>
     <dcterms:created>1855</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.)</dcterms:extent>
     <dcterms:publisher>H. McCaffrey</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Death</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Death--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1125407/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125407</edm:isShownAt>

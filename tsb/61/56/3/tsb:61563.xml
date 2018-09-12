@@ -11,14 +11,15 @@
     <dcterms:identifier>tsb:61563</dcterms:identifier>
     <dcterms:title>Abstract of North Carolina wills</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Grimes, J. Bryan (John Bryan), 1868-1923</dcterms:creator>
     <dcterms:created>1910</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vii, 670 p. 23 1/2 cm.</dcterms:extent>
     <dcterms:publisher>E. M. Uzzell &amp; co., state printers</dcterms:publisher>
-    <dcterms:subject>Wills</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Wills--North Carolina</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>abstract or summary</edm:hasType>
+    <dcterms:medium>abstract or summary</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61563/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61563</edm:isShownAt>

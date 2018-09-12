@@ -17,18 +17,18 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Rivers</dcterms:subject>
-    <dcterms:subject>Jefferson County (W. Va.)</dcterms:subject>
-    <dcterms:subject>West Virginia</dcterms:subject>
-    <dcterms:subject>Valleys (landforms)</dcterms:subject>
-    <dcterms:subject>South (U.S.)</dcterms:subject>
-    <dcterms:subject>Cliffs</dcterms:subject>
-    <dcterms:subject>Hills</dcterms:subject>
-    <dcterms:subject>Train tracks</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Rivers--Bodies of water and components</dcterms:subject>
+    <dcterms:subject>Jefferson County (W. Va.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>West Virginia--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Valleys (landforms)--Landforms</dcterms:subject>
+    <dcterms:subject>South (U.S.)--Regions and states</dcterms:subject>
+    <dcterms:subject>Cliffs--Landforms</dcterms:subject>
+    <dcterms:subject>Hills--Landforms</dcterms:subject>
+    <dcterms:subject>Train tracks--Components by specific context</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Photographs</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:333516/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333516</edm:isShownAt>

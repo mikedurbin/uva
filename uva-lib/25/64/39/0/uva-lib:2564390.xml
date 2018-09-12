@@ -11,16 +11,15 @@
     <dcterms:identifier>uva-lib:2564390</dcterms:identifier>
     <dcterms:title>Tenderfoot automated heel incision devices</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>International Transmission Co. (ITC)</dcterms:creator>
     <dcterms:created>2000</dcterms:created>
     <dcterms:description>Five sterile, single use, fully automated heel incision devices for newborn blood sampling. Each device measures 1 cm x 3 cm x 3 cm.</dcterms:description>
     <dcterms:medium>plastic (organic material)</dcterms:medium>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>1 x 3 x 3 cm</dcterms:extent>
-    <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medical instruments and apparatus--Phlebotomy</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2564390/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2564390</edm:isShownAt>

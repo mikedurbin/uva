@@ -12,16 +12,17 @@
     <dcterms:title>Tell him I love him yet : a ballad</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Ball, Alexander.</dcterms:creator>
+    <dcterms:creator>Praed, Winthrop Mackworth, 1802-1839</dcterms:creator>
     <dcterms:created>1835</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score ([2] leaves) ; 32 cm.</dcterms:extent>
     <dcterms:publisher>Geo. Willig, Jr.</dcterms:publisher>
+    <dcterms:subject>Praed, Winthrop Mackworth, 1802-1839</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>Praed, Winthrop Mackworth</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1148529/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1148529</edm:isShownAt>

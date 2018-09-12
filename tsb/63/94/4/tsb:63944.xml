@@ -12,15 +12,17 @@
     <dcterms:title>Sermons on important subjects</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Davies, Samuel, 1723-1761</dcterms:creator>
+    <dcterms:creator>Barnes, Albert, 1798-1870</dcterms:creator>
+    <dcterms:creator>Gibbons, Thomas, 1720-1785</dcterms:creator>
     <dcterms:created>1849</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. ; 20 cm.</dcterms:extent>
     <dcterms:publisher>Robert Carter and Brothers</dcterms:publisher>
+    <dcterms:subject>Sermons</dcterms:subject>
     <dcterms:subject>Sermons, American</dcterms:subject>
-    <dcterms:subject>Presbyterian Church</dcterms:subject>
-    <dcterms:subject>Presbyterian Church in the U.S.A.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Presbyterian Church--Sermons</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63944/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63944</edm:isShownAt>

@@ -12,12 +12,13 @@
     <dcterms:title>The life and letters of Walter Farquhar Hook, D. D., F. R. S.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Stephens, W. R. W. (William Richard Wood), 1839-1902</dcterms:creator>
+    <dcterms:creator>Hook, Walter Farquhar, 1798-1875</dcterms:creator>
     <dcterms:created>1881</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>x, [2], 626 p. front. (port.) 20 cm.</dcterms:extent>
     <dcterms:publisher>R. Bentley &amp; son</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65405/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65405</edm:isShownAt>

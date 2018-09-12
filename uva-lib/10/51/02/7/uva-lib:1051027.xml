@@ -15,16 +15,14 @@
     <dcterms:created>1928-11-30</dcterms:created>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:extent>5 x 7 in.</dcterms:extent>
-    <dcterms:subject>Presidents</dcterms:subject>
     <dcterms:subject>Coolidge, Calvin, 1872-1933</dcterms:subject>
-    <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Presidents</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>Holsinger Studio Collection</dcterms:isPartOf>
-    <edm:hasType>Glass negatives</edm:hasType>
+    <dcterms:medium>Glass negatives</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1051027/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1051027</edm:isShownAt>

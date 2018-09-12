@@ -18,10 +18,10 @@
     <dcterms:publisher>Giovanni Chiantore</dcterms:publisher>
     <dcterms:subject>Literature, Medieval</dcterms:subject>
     <dcterms:subject>Gog and Magog</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Italy--History</dcterms:subject>
+    <dcterms:subject>Rome--History</dcterms:subject>
     <dcterms:language>ita</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61489/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61489</edm:isShownAt>

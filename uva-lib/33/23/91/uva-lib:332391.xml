@@ -17,16 +17,16 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Ships</dcterms:subject>
-    <dcterms:subject>Water</dcterms:subject>
-    <dcterms:subject>Men</dcterms:subject>
-    <dcterms:subject>Transportation</dcterms:subject>
-    <dcterms:subject>Chains</dcterms:subject>
-    <dcterms:subject>Ropes</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Ships--Watercraft</dcterms:subject>
+    <dcterms:subject>Water--Materials by composition</dcterms:subject>
+    <dcterms:subject>Men--People by gender</dcterms:subject>
+    <dcterms:subject>Transportation--Associated Concepts</dcterms:subject>
+    <dcterms:subject>Chains--Object genres by form</dcterms:subject>
+    <dcterms:subject>Ropes--Materials by form</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332391/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332391</edm:isShownAt>

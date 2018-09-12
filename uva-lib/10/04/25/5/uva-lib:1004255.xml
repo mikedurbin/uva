@@ -14,13 +14,14 @@
     <dcterms:creator>Deux Ponts, Christian, marquis de, b. 1752</dcterms:creator>
     <dcterms:created>1786</dcterms:created>
     <dcterms:extent>1 manuscript map : b&amp;w ; 50 x 33 cm.</dcterms:extent>
-    <dcterms:subject>Fortification</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Fortification--New York (State)--West Point--Maps, Manuscript--Early works to 1800</dcterms:subject>
+    <dcterms:subject>West Point (N.Y.)--Maps, Manuscript--Early works to 1800</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>New York (State)</dcterms:spatial>
     <dcterms:spatial>West Point</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004255/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004255</edm:isShownAt>

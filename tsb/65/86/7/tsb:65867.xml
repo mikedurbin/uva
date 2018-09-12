@@ -12,14 +12,15 @@
     <dcterms:title>Sir Orl. Bridgman's Conveyances : being select precedents of deeds and instruments concerning the most considerable estates in England.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bridgeman, Orlando, Sir, 1608-1674</dcterms:creator>
+    <dcterms:creator>Johnson, Thomas Page.</dcterms:creator>
     <dcterms:created>1725</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. in 1. : front. (port.) ; 34 cm.</dcterms:extent>
     <dcterms:publisher>Printed by E. and R. Nutt, and R. Gosling (assigns of E. Sayer, esq;) for R. Gosling [etc.]</dcterms:publisher>
-    <dcterms:subject>Conveyancing</dcterms:subject>
-    <dcterms:subject>Forms (Law)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Conveyancing--Great Britain</dcterms:subject>
+    <dcterms:subject>Forms (Law)--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65867/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65867</edm:isShownAt>

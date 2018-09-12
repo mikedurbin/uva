@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 p.l., 84, [2] p. front., (port.) 23 cm.</dcterms:extent>
     <dcterms:publisher>Houghton Mifflin company</dcterms:publisher>
-    <dcterms:subject>Eliot, Charles William</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Eliot, Charles William, 1834-1926</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61515/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61515</edm:isShownAt>

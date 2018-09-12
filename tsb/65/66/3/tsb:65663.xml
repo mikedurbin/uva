@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vi, [2], 256 p. front., illus., plates. 23 cm.</dcterms:extent>
     <dcterms:publisher>Chapman &amp; Hall, ltd.</dcterms:publisher>
-    <dcterms:subject>Natural history</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Natural history--Patagonia (Argentina and Chile)</dcterms:subject>
+    <dcterms:subject>Patagonia (Argentina and Chile)--Description and travel</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65663/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65663</edm:isShownAt>

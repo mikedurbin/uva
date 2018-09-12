@@ -12,13 +12,14 @@
     <dcterms:title>Air du Roi Louis XIII : Amaryllis : op. 261</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Beaujoyeulx, Baltasar de, -approximately 1587</dcterms:creator>
+    <dcterms:creator>Hayden, W. L. (Winslow L.)</dcterms:creator>
+    <dcterms:creator>Louis, XIII, King of France, 1601-1643</dcterms:creator>
     <dcterms:created>1867</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 p. of music.</dcterms:extent>
     <dcterms:publisher>Oliver Ditson &amp; Co.</dcterms:publisher>
     <dcterms:subject>Guitar music, Arranged</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1130375/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1130375</edm:isShownAt>

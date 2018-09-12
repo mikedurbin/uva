@@ -11,16 +11,16 @@
     <dcterms:identifier>tsb:18702</dcterms:identifier>
     <dcterms:title>Au nom du peuple souverain. Citoyens!</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Sobrier.</dcterms:creator>
     <dcterms:created>1848</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 broadside. 29 x 23 cm.</dcterms:extent>
     <dcterms:publisher>Impr. de Chassaignon</dcterms:publisher>
-    <dcterms:subject>Amnesty</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Caussidière</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Caussidière, 1808-1861</dcterms:subject>
+    <dcterms:subject>Amnesty--France</dcterms:subject>
+    <dcterms:subject>France--History--Second Republic, 1848-1852</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
-    <dcterms:temporal>Second Republic, 1848-1852</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18702/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18702</edm:isShownAt>

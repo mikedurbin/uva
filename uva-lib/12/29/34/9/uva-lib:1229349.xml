@@ -11,21 +11,22 @@
     <dcterms:identifier>uva-lib:1229349</dcterms:identifier>
     <dcterms:title>Portraits and authograph signatures of the framers and signers of the Declaration of Independence, Philadelphia, July 4th 1776</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hunter, Thomas, (Lithographer)</dcterms:creator>
+    <dcterms:creator>Hobart, John Henry, Jr, 1775-1830</dcterms:creator>
     <dcterms:created>1876</dcterms:created>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 print : lithograph, b&amp;w ; 44 x 41 cm.</dcterms:extent>
     <dcterms:publisher>Published by the Centennial Portrait and Authograph Co., Philada.</dcterms:publisher>
-    <dcterms:subject>Signers</dcterms:subject>
-    <dcterms:subject>United States.</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Signers--Portraits</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Pennsylvania</dcterms:spatial>
     <dcterms:spatial>Philadelphia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>graphic</edm:hasType>
-    <edm:hasType>Portrait prints-1870-1880.</edm:hasType>
-    <edm:hasType>Lithographs-1870-1880.</edm:hasType>
+    <dcterms:medium>graphic</dcterms:medium>
+    <dcterms:medium>Portrait prints-1870-1880.</dcterms:medium>
+    <dcterms:medium>Lithographs-1870-1880.</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1229349/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1229349</edm:isShownAt>

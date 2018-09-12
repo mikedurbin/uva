@@ -11,16 +11,20 @@
     <dcterms:identifier>tsb:61666</dcterms:identifier>
     <dcterms:title>Report of the Commission to locate the site of the frontier forts of Pennsylvania</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Richards, Henry Melchior Muhlenberg, 1848-1935</dcterms:creator>
+    <dcterms:creator>Buckalew, John M., 1826-</dcterms:creator>
+    <dcterms:creator>Reynolds, Sheldon, 1845-1895</dcterms:creator>
+    <dcterms:creator>Weiser, Jay Gilfillan.</dcterms:creator>
+    <dcterms:creator>Albert, George Dallas.</dcterms:creator>
     <dcterms:created>1896</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v., col. plates, fold. map, plans (part fold.) 27 cm.</dcterms:extent>
     <dcterms:publisher>Busch, state printer</dcterms:publisher>
-    <dcterms:subject>Fortification</dcterms:subject>
-    <dcterms:subject>Indians of North America</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Fortification--Pennsylvania</dcterms:subject>
+    <dcterms:subject>Indians of North America--Pennsylvania</dcterms:subject>
+    <dcterms:subject>Pennsylvania--History--Colonial period, ca. 1600-1775</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Colonial period, ca. 1600-1775</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61666/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61666</edm:isShownAt>

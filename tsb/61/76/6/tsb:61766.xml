@@ -12,16 +12,15 @@
     <dcterms:title>The fascist movement in Italian life</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Gorgolini, Pietro, 1891-1973</dcterms:creator>
+    <dcterms:creator>Petre, Maude D., 1863-</dcterms:creator>
     <dcterms:created>1923</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>216, [1] p. front. (port.) 23 cm.</dcterms:extent>
     <dcterms:publisher>T. F. Unwin, ltd.</dcterms:publisher>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Mussolini, Benito/</dcterms:subject>
-    <dcterms:subject>Partito nazionale fascista (Italy)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Mussolini, Benito, 1883-1945</dcterms:subject>
+    <dcterms:subject>Italy--Politics and government--1914-1922</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1914-1922</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61766/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61766</edm:isShownAt>

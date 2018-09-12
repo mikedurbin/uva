@@ -17,9 +17,9 @@
     <dcterms:extent>324 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>Perrin</dcterms:publisher>
     <dcterms:subject>Christian sociology</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65388/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65388</edm:isShownAt>

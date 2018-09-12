@@ -16,14 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>295 p. front. (port.) 21 cm.</dcterms:extent>
     <dcterms:publisher>The Neale publishing company</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Atlantic States--History--Civil War, 1861-1865</dcterms:subject>
+    <dcterms:subject>Charleston (S.C.)--History--Civil War, 1861-1865</dcterms:subject>
+    <dcterms:subject>Charleston (S.C.)--History--Siege, 1863</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
-    <dcterms:temporal>Siege, 1863</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61773/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61773</edm:isShownAt>

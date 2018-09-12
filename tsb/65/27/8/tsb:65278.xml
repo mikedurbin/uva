@@ -12,13 +12,14 @@
     <dcterms:title>Xenophon's Anabasis, with explanatory notes, for the use of schools and colleges.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Xenophon.</dcterms:creator>
+    <dcterms:creator>Boise, James Robinson, 1815-1895</dcterms:creator>
     <dcterms:created>1856</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxi, 393 p. illus., fold. map. 19 cm.</dcterms:extent>
     <dcterms:publisher>D. Appleton and company</dcterms:publisher>
-    <dcterms:subject>Cyrus</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Cyrus, the Younger, approximately 423 B.C.-401 B.C</dcterms:subject>
     <dcterms:language>gre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65278/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65278</edm:isShownAt>

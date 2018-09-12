@@ -16,14 +16,12 @@
     <dcterms:description>Bruce Dotson, Associate Professor of Planning and Assistant Director of the Institute for Environmental Negotiation and Richard Collins, Professor of Planning and Director of the Institute for Environmental Negotiation.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:subject>Press coverage</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:subject>University of Virginia. News Office</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>color negatives</edm:hasType>
+    <dcterms:medium>color negatives</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2163939/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2163939</edm:isShownAt>

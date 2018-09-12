@@ -12,14 +12,16 @@
     <dcterms:title>Life of Col. Jesse Harper of Danville, Ills. farm-boy, lawyer, editor, author, orator, scholar and reformer.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Harper, Jesse, 1823-1902</dcterms:creator>
+    <dcterms:creator>Barton, Alexander Campbell, 1851-</dcterms:creator>
+    <dcterms:creator>Gallaher, W. B.</dcterms:creator>
     <dcterms:created>1904</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>371 p. front., ports. 20 cm.</dcterms:extent>
     <dcterms:publisher>M. A. Donohue</dcterms:publisher>
-    <dcterms:subject>Harper, Jesse</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Harper, Jesse, 1823-1902</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64156/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64156</edm:isShownAt>

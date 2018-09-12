@@ -16,12 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 volumes ; 23 cm</dcterms:extent>
     <dcterms:publisher>Longman, Brown, Green and Longmans</dcterms:publisher>
+    <dcterms:subject>Philosophy of mind--History</dcterms:subject>
     <dcterms:subject>Philosophy of mind</dcterms:subject>
-    <dcterms:subject>Philosophy of mind</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>History.</edm:hasType>
-    <edm:hasType>Annotations (Provenance)</edm:hasType>
+    <dcterms:medium>History.</dcterms:medium>
+    <dcterms:medium>Annotations (Provenance)</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65402/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65402</edm:isShownAt>

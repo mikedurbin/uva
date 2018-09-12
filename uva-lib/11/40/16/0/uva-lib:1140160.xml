@@ -12,14 +12,14 @@
     <dcterms:title>Moonlight sonata</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Beethoven, Ludwig van, 1770-1827</dcterms:creator>
+    <dcterms:creator>Mack, Edward, 1826-1882</dcterms:creator>
     <dcterms:created>1881</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[2] p. of music.</dcterms:extent>
     <dcterms:publisher>W.F. Shaw</dcterms:publisher>
-    <dcterms:subject>Sonatas (Piano)</dcterms:subject>
-    <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:subject>Sonatas (Piano)--Excerpts, Arranged</dcterms:subject>
+    <dcterms:subject>Piano music--Simplified editions</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1140160/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1140160</edm:isShownAt>

@@ -11,7 +11,6 @@
     <dcterms:identifier>tsb:58673</dcterms:identifier>
     <dcterms:title>Antiseptic pastilles bottle</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>William R. Warner &amp; Co.</dcterms:creator>
     <dcterms:created>1876/1940</dcterms:created>
     <dcterms:description>The yellow label on bottle and box are marked: "G228 50, Antiseptic 
       pastilles, Warner, As suggested by Dr. Carl Seiler." The contents of each tablet is given. Label also reads "William R. Warner &amp; Co., Inc. Manufacturing Pharmaceutists Laboratories New York St. Louis." Company name is embossed on the side of the bottle.</dcterms:description>
@@ -19,11 +18,11 @@
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:medium>corks (stoppers)</dcterms:medium>
     <dcterms:extent>10.3 x 4.2 x 4.2 cm</dcterms:extent>
-    <dcterms:subject>Medicine bottles</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medicine bottles--Drugs-Packaging</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
-    <edm:hasType>medicine bottles</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:medium>medicine bottles</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58673/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58673</edm:isShownAt>

@@ -12,15 +12,16 @@
     <dcterms:title>Passages from the prose and table talk of Coleridge</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Coleridge, Samuel Taylor, 1772-1834</dcterms:creator>
+    <dcterms:creator>Dircks, W. H. (Will H.)</dcterms:creator>
     <dcterms:created>1894</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xiii, 261 p. 18 cm.</dcterms:extent>
     <dcterms:publisher>W. Scott</dcterms:publisher>
+    <dcterms:subject>Wordsworth, William, 1770-1850</dcterms:subject>
     <dcterms:subject>Criticism</dcterms:subject>
-    <dcterms:subject>Literature</dcterms:subject>
-    <dcterms:subject>Wordsworth, William</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Literature--History and criticism</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64215/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64215</edm:isShownAt>

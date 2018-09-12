@@ -12,14 +12,16 @@
     <dcterms:title>Slumber sea : lullaby</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Chisholm, Myra Augur.</dcterms:creator>
+    <dcterms:creator>Brehany, Louise M.</dcterms:creator>
+    <dcterms:creator>Brehany, Louise M.</dcterms:creator>
     <dcterms:created>1896</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.) : ill.</dcterms:extent>
     <dcterms:publisher>Myra Augur Chisholm</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
     <dcterms:subject>Lullabies, English</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1131753/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1131753</edm:isShownAt>

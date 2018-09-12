@@ -11,14 +11,14 @@
     <dcterms:identifier>uva-lib:1226463</dcterms:identifier>
     <dcterms:title>A Pagan anthology</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Crane, Hart, 1899-1932</dcterms:creator>
     <dcterms:created>1918</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[3], 92 p. 24 cm.</dcterms:extent>
     <dcterms:publisher>Pagan publishing co.</dcterms:publisher>
-    <dcterms:subject>American poetry</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>American poetry--20th century</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>20th century</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1226463/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1226463</edm:isShownAt>

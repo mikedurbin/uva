@@ -15,14 +15,13 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 v. ; 21 cm.</dcterms:extent>
     <dcterms:publisher>The University of Virginia]</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Students</dcterms:subject>
-    <dcterms:subject>Holliday, Fred W. M. (Frederick William Mackey)/</dcterms:subject>
-    <dcterms:subject>University of Virginia/</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Holliday, Fred W. M. (Frederick William Mackey), 1828-1899</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>Periodicals</dcterms:subject>
+    <dcterms:subject>Students--Periodicals</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>periodical</edm:hasType>
+    <dcterms:medium>periodical</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2425702/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2425702</edm:isShownAt>

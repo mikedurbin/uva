@@ -12,14 +12,15 @@
     <dcterms:title>Lays of ancient Rome ; with Ivry and The Armada. Lays of the Scottish cavaliers, and other poems</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Macaulay, Thomas Babington Macaulay, Baron, 1800-1859</dcterms:creator>
+    <dcterms:creator>Aytoun, William Edmondstoune, 1813-1865</dcterms:creator>
     <dcterms:created>1877</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>366 p. ; 18 cm.</dcterms:extent>
     <dcterms:publisher>Lovell, Adam, Wesson</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Rome--History--Poetry</dcterms:subject>
+    <dcterms:subject>Scotland--History--Poetry</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65565/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65565</edm:isShownAt>

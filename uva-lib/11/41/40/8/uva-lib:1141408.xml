@@ -12,6 +12,7 @@
     <dcterms:title>Song that reached my heart, [or], Home sweet home</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Jordan, Jules, 1850-1927</dcterms:creator>
+    <dcterms:creator>Klein, Ida</dcterms:creator>
     <dcterms:created>1887</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.)</dcterms:extent>
@@ -19,8 +20,8 @@
     <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
     <dcterms:subject>Songs (Medium voice) with piano</dcterms:subject>
     <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1141408/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1141408</edm:isShownAt>

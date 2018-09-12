@@ -12,13 +12,14 @@
     <dcterms:title>Final memorials of Charles Lamb</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Lamb, Charles, 1775-1834</dcterms:creator>
+    <dcterms:creator>Talfourd, Thomas Noon, 1795-1854</dcterms:creator>
     <dcterms:created>1850</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2v., 21cm.</dcterms:extent>
     <dcterms:publisher>E.Moxon</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65162/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65162</edm:isShownAt>

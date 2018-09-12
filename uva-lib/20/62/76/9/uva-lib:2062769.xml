@@ -15,11 +15,12 @@
     <dcterms:created>1683</dcterms:created>
     <dcterms:extent>1 map : hand col. ; 14 x 11 cm. on sheet 21 x 14 cm.</dcterms:extent>
     <dcterms:publisher>D. Thierry</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
     <dcterms:subject>Mellon, Paul</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>Florida--Maps--Early works to 1800</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2062769/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2062769</edm:isShownAt>

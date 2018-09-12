@@ -11,16 +11,17 @@
     <dcterms:identifier>tsb:64579</dcterms:identifier>
     <dcterms:title>Favorite poems : selected from English and American authors.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Head, Joseph H.</dcterms:creator>
     <dcterms:created>1884</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>456 p. : ill. ; 19 cm.</dcterms:extent>
     <dcterms:publisher>Thomas Y. Crowell &amp; Co.</dcterms:publisher>
     <dcterms:subject>English poetry</dcterms:subject>
     <dcterms:subject>American poetry</dcterms:subject>
-    <dcterms:subject>English poetry</dcterms:subject>
-    <dcterms:subject>American poetry</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>English poetry--Collections</dcterms:subject>
+    <dcterms:subject>American poetry--Collections</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64579/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64579</edm:isShownAt>

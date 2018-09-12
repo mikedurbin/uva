@@ -12,13 +12,15 @@
     <dcterms:title>Cato maior de senectute; Laelius de amicitia,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Cicero, Marcus Tullius.</dcterms:creator>
+    <dcterms:creator>Reid, J. S.</dcterms:creator>
+    <dcterms:creator>Kelsey, F. W.</dcterms:creator>
     <dcterms:created>1887/1882</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>118, 113 p.</dcterms:extent>
     <dcterms:publisher>Allyn</dcterms:publisher>
     <dcterms:subject>Latin language</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>lat</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64222/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64222</edm:isShownAt>

@@ -11,15 +11,16 @@
     <dcterms:identifier>uva-lib:1109571</dcterms:identifier>
     <dcterms:title>Portraits of the Presidents and Declaration of Independence</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>United States</dcterms:creator>
+    <dcterms:creator>Michelin, Francis, 1809 or 1810-1878</dcterms:creator>
+    <dcterms:creator>Colton, J. H. (Joseph Hutchins), 1800-1893</dcterms:creator>
     <dcterms:created>1849</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : ill., ports. ; 107 x 79 cm.</dcterms:extent>
     <dcterms:publisher>Published by J.H. Colton</dcterms:publisher>
-    <dcterms:subject>Presidents</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Presidents--United States--Portraits</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-New York (State)-New York City-1849.</edm:hasType>
+    <dcterms:medium>Broadsides-New York (State)-New York City-1849.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1109571/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1109571</edm:isShownAt>

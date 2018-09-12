@@ -11,7 +11,6 @@
     <dcterms:identifier>uva-lib:2167760</dcterms:identifier>
     <dcterms:title>Senior student nurses' one-act play: Costs of Hospital Visits</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Thompson, Ralph R.</dcterms:creator>
     <dcterms:description>Identified (L to R): Miss Dorothy Wade of Norfolk, Va; Miss Eleanor Hill of Spring City, PA;
 Mess Carrie Nunnally of Fredericksburg, Va; John M. Stacey, Director of the Medical Center/Hospital;
 Standing - Chester Gray, Orderly Article and caption by University News Service is included in
@@ -19,15 +18,12 @@ folder</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:subject>Health System</dcterms:subject>
     <dcterms:subject>Press coverage</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:subject>University of Virginia. News Office</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2167760/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2167760</edm:isShownAt>

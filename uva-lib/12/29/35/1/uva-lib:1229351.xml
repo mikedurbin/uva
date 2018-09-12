@@ -11,17 +11,16 @@
     <dcterms:identifier>uva-lib:1229351</dcterms:identifier>
     <dcterms:title>In Congress, July 4, 1776. : A declaration by the representatives of the United States of America, in general congress assembled.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>United States</dcterms:creator>
     <dcterms:created>1776</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 51 x 39 cm.</dcterms:extent>
     <dcterms:publisher>Printed by John Gill, and Powars and Willis, in Queen-Street</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Massachusetts</dcterms:spatial>
     <dcterms:spatial>Boston</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Massachusetts-Boston-1776.</edm:hasType>
+    <dcterms:medium>Broadsides-Massachusetts-Boston-1776.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1229351/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1229351</edm:isShownAt>

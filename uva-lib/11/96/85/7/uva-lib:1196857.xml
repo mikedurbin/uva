@@ -14,11 +14,12 @@
     <dcterms:created>1891</dcterms:created>
     <dcterms:extent>1 map : col. ; 30 x 38 cm.</dcterms:extent>
     <dcterms:publisher>Highland Park Company</dcterms:publisher>
-    <dcterms:subject>Real estate development</dcterms:subject>
-    <dcterms:subject>Highland Park Company (Richmond, Va.)</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Real estate development--Virginia--Richmond--Maps</dcterms:subject>
+    <dcterms:subject>Richmond (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Highland Park (Richmond, Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1196857/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1196857</edm:isShownAt>

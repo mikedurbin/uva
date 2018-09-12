@@ -12,18 +12,23 @@
     <dcterms:title>A life on the ocean wave : A favorite song</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Russell, Henry, 1812-1900</dcterms:creator>
+    <dcterms:creator>Russell, Henry, 1812-1900</dcterms:creator>
+    <dcterms:creator>Seguin, Arthur Edward Shelden, 1809-1852</dcterms:creator>
+    <dcterms:creator>Sargent, Epes, 1813-1880</dcterms:creator>
+    <dcterms:creator>Lawson, P.</dcterms:creator>
+    <dcterms:creator>Green, Joseph B.</dcterms:creator>
     <dcterms:created>1838</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.) ; 35 cm.</dcterms:extent>
     <dcterms:publisher>William Hall &amp; Son, 239 Broadway</dcterms:publisher>
+    <dcterms:subject>Sargent, Epes, 1813-1880</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>Seafaring life</dcterms:subject>
-    <dcterms:subject>Ocean</dcterms:subject>
-    <dcterms:subject>Sargent, Epes</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+    <dcterms:subject>Seafaring life--Songs and music</dcterms:subject>
+    <dcterms:subject>Ocean--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1143051/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1143051</edm:isShownAt>

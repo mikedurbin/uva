@@ -12,14 +12,17 @@
     <dcterms:title>Thème de Rode : chanté avec variations dans le Barbier de Seville par Madlle. Sontag</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Rode, P. (Pierre), 1774-1830</dcterms:creator>
+    <dcterms:creator>Sontag, Henriette, 1806-1854</dcterms:creator>
+    <dcterms:creator>Moreau Lislet, Louis, 18th/19th cent</dcterms:creator>
+    <dcterms:creator>Gökeritz, F.</dcterms:creator>
     <dcterms:created>1856</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (9 p.)</dcterms:extent>
     <dcterms:publisher>S. Brainard's Sons Co.</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
     <dcterms:subject>Songs with harp</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1118740/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1118740</edm:isShownAt>

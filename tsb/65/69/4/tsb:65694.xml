@@ -16,9 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>iii, 304 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>McClure, Phillips</dcterms:publisher>
-    <dcterms:subject>Wagner, Richard</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Wagner, Richard, 1813-1883</dcterms:subject>
+    <dcterms:subject>Stories, plots, etc</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65694/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65694</edm:isShownAt>

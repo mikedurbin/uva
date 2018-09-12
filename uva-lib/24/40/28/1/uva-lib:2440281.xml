@@ -11,16 +11,15 @@
     <dcterms:identifier>uva-lib:2440281</dcterms:identifier>
     <dcterms:title>Hemocytometer kit</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Spencer Lens Company</dcterms:creator>
     <dcterms:created>1935/1945</dcterms:created>
     <dcterms:description>Contained in cardboard box; includes: sealed Spencer Bright-Line Hemacytometer, instructions, 2 hemacytometer cover glasses, box of cover glass microscope slides, 12  glass bottles with droppers, small latex hose as a dispenser; hemacytometer by the Spencer Lens Company, Buffalo 11, New York; Cover glass by the Propper Manufacturing Company, Hellig, Inc., and C.A Hausser&amp; Son.</dcterms:description>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:medium>rubber (material)</dcterms:medium>
     <dcterms:subject>Medical laboratory technology</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440281/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440281</edm:isShownAt>

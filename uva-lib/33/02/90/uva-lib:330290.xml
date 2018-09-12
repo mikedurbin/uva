@@ -17,18 +17,18 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Poplarville (Miss.)</dcterms:subject>
-    <dcterms:subject>Pearl River County (Miss.)</dcterms:subject>
-    <dcterms:subject>Mississippi</dcterms:subject>
-    <dcterms:subject>Schools</dcterms:subject>
-    <dcterms:subject>South (U.S.)</dcterms:subject>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:subject>Cookery</dcterms:subject>
-    <dcterms:subject>Students</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Poplarville (Miss.)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Pearl River County (Miss.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Mississippi--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Schools--Single built works by function</dcterms:subject>
+    <dcterms:subject>South (U.S.)--Regions and states</dcterms:subject>
+    <dcterms:subject>Women--People by gender</dcterms:subject>
+    <dcterms:subject>Cookery--Physical activities by general context</dcterms:subject>
+    <dcterms:subject>Students--People by activity</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:330290/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:330290</edm:isShownAt>

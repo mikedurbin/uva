@@ -12,16 +12,15 @@
     <dcterms:title>Torch light : op. 26 : galop de concert</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Cadmus, Howard.</dcterms:creator>
+    <dcterms:creator>Decker, Walter</dcterms:creator>
     <dcterms:created>1879</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>9 p. of music : ill.</dcterms:extent>
     <dcterms:publisher>Geo. Molineaux</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
     <dcterms:subject>Galops</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1147541/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1147541</edm:isShownAt>

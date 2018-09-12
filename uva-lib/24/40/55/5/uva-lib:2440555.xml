@@ -15,9 +15,9 @@
     <dcterms:description>James P.C Southall (UVA Class of 1889) Professor of Physics at Auburn and Columbia Universities, specialized in Optics. Catalogued 11-22-1999 JMT.</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:subject>Awards</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>trophies (objects)</edm:hasType>
+    <dcterms:medium>trophies (objects)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440555/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440555</edm:isShownAt>

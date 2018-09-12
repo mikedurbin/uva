@@ -15,9 +15,9 @@
     <dcterms:medium>bone (material)</dcterms:medium>
     <dcterms:extent>9.8 x 8 x 8 cm</dcterms:extent>
     <dcterms:subject>Bone</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>skeleton components (animal components)</edm:hasType>
+    <dcterms:medium>skeleton components (animal components)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58931/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58931</edm:isShownAt>

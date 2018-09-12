@@ -11,18 +11,17 @@
     <dcterms:identifier>tsb:58960</dcterms:identifier>
     <dcterms:title>Nature's Remedy tablets</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>A.H. Lewis Medicine Co.</dcterms:creator>
     <dcterms:created>1920/1940</dcterms:created>
     <dcterms:description>Two tablets inside an orange and buff packet. The front side states "Mother Nature Supplies All the Components. Nature's Remedy, Reg. U.S. 
       Pat. Office, NR Tablets NR. Take One NR Tonight. For defective elimination in constipation, rheumatism dyspepsia. Make the test to-night. You will feel better in the Morning. A.H. Lewis Medicine Co. St. Louis. Mo. USA."</dcterms:description>
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:medium>medicines</dcterms:medium>
     <dcterms:extent>1.9 x 9 x 6 cm</dcterms:extent>
-    <dcterms:subject>Pills</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Pills--Medicine</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medicines</edm:hasType>
-    <edm:hasType>packaging</edm:hasType>
+    <dcterms:medium>medicines</dcterms:medium>
+    <dcterms:medium>packaging</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58960/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58960</edm:isShownAt>

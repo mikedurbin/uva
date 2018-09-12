@@ -15,18 +15,16 @@
     <dcterms:created>1918-09-14</dcterms:created>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:extent>8 x 10 in.</dcterms:extent>
+    <dcterms:subject>Albemarle County (Va.)</dcterms:subject>
     <dcterms:subject>Portraits, Group</dcterms:subject>
     <dcterms:subject>Musical instruments</dcterms:subject>
     <dcterms:subject>Drum and bugle corps</dcterms:subject>
     <dcterms:subject>Soldiers</dcterms:subject>
     <dcterms:subject>Uniforms</dcterms:subject>
     <dcterms:subject>World War I</dcterms:subject>
-    <dcterms:subject>United States. Army</dcterms:subject>
-    <dcterms:subject>United States. Army Training and Doctrine Command</dcterms:subject>
-    <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:isPartOf>Holsinger Studio Collection</dcterms:isPartOf>
-    <edm:hasType>Glass negatives</edm:hasType>
+    <dcterms:medium>Glass negatives</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1049767/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1049767</edm:isShownAt>

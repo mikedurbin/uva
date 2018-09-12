@@ -12,13 +12,14 @@
     <dcterms:title>Thou hast learned to love another : a ballad</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wetmore, William Jarvis, 1809-</dcterms:creator>
+    <dcterms:creator>Bishop, T. Brigham (Thomas Brigham), 1835-1905</dcterms:creator>
     <dcterms:created>1838</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (4 p.) ; 33 cm.</dcterms:extent>
     <dcterms:publisher>Millets Music Saloon</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18659/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18659</edm:isShownAt>

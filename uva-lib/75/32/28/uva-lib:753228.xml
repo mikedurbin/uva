@@ -11,19 +11,17 @@
     <dcterms:identifier>uva-lib:753228</dcterms:identifier>
     <dcterms:title>Ces presentes heures a lusaige de Paris : toutes du long sans riens requerir.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Catholic Church</dcterms:creator>
     <dcterms:created>1540</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>cliiii, [2] leaves : woodcuts ; 18 x 9 cm.</dcterms:extent>
     <dcterms:publisher>Thielman Keruer, 1540.</dcterms:publisher>
-    <dcterms:subject>Latin</dcterms:subject>
+    <dcterms:subject>Prayers and devotions--Latin</dcterms:subject>
     <dcterms:subject>Books of hours</dcterms:subject>
-    <dcterms:subject>Catholic Church</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>lat</dcterms:language>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:753228/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:753228</edm:isShownAt>

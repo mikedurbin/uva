@@ -12,15 +12,17 @@
     <dcterms:title>Carte générale des routes de poste de l'Europe : dressée d'après les itinéraires les plus nouveaux de chaque état</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Fremin, A. R., active approximately 1810-approximately 1860</dcterms:creator>
+    <dcterms:creator>Logerot, A. (Auguste)</dcterms:creator>
     <dcterms:created>1848</dcterms:created>
     <dcterms:extent>1 map : col. ; 66 x 90 cm.</dcterms:extent>
     <dcterms:publisher>Publiée par Augte. Logerot, Editeur, quai des Gds. Augustins, 55 (près le Pont-neuf)</dcterms:publisher>
-    <dcterms:subject>Postal service</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Postal service--Europe--Maps</dcterms:subject>
+    <dcterms:subject>Europe--Maps</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:600013/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:600013</edm:isShownAt>

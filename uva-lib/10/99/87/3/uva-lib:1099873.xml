@@ -11,14 +11,15 @@
     <dcterms:identifier>uva-lib:1099873</dcterms:identifier>
     <dcterms:title>Sẽsuyuẽt les troys cens cinquãte Rõdeaulx moult siugnliers [sic] a tous propos nouuellement imprimes</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Gringore, Pierre, approximately 1475-1538?</dcterms:creator>
     <dcterms:created>1531</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[6], 106 leaves ; 13 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>On les vend a Lyon cheulx Oliuier Arnoullet</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1099873/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1099873</edm:isShownAt>

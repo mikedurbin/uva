@@ -17,14 +17,14 @@
     <dcterms:extent>2 v. fronts (1 port.), 8 fold maps. 20 cm.</dcterms:extent>
     <dcterms:publisher>Printed for J. Exshaw, and J. Potts</dcterms:publisher>
     <dcterms:subject>Indians of North America</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Discovery and exploration</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Canada--Description and travel</dcterms:subject>
+    <dcterms:subject>Mississippi River Valley--Description and travel</dcterms:subject>
+    <dcterms:subject>New France--Discovery and exploration</dcterms:subject>
+    <dcterms:subject>West Indies--Description and travel</dcterms:subject>
     <dcterms:spatial>Ireland</dcterms:spatial>
     <dcterms:spatial>Dublin</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:60079/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:60079</edm:isShownAt>

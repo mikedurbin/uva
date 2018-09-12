@@ -12,13 +12,15 @@
     <dcterms:title>Map of Virginia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hotchkiss, Jedediah, 1828-1899</dcterms:creator>
+    <dcterms:creator>Koiner, George W. (George Wellington), 1852-1939</dcterms:creator>
     <dcterms:created>1875</dcterms:created>
     <dcterms:extent>1 map : col. ; 25 x 50 cm.</dcterms:extent>
     <dcterms:publisher>Va. Dept. of Agriculture?], c1875.</dcterms:publisher>
-    <dcterms:subject>Physical geography</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Physical geography--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps, Physical</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:744445/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:744445</edm:isShownAt>

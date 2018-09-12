@@ -12,14 +12,18 @@
     <dcterms:title>Map of Augusta County, Virginia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hotchkiss, Jedediah, 1828-1899</dcterms:creator>
+    <dcterms:creator>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:creator>
+    <dcterms:creator>Gilmer, Jeremy Francis, 1818-1883</dcterms:creator>
     <dcterms:created>1870</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : b&amp;w ; 120 x 114 cm.</dcterms:extent>
     <dcterms:publisher>Trustees of Washington College</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Augusta County (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Staunton (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:735041/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:735041</edm:isShownAt>

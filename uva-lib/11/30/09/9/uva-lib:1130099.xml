@@ -12,14 +12,16 @@
     <dcterms:title>The piccaninny lullaby</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Lessi, Leah B.</dcterms:creator>
+    <dcterms:creator>Lessi, Leah B.</dcterms:creator>
+    <dcterms:creator>Lust, Ferdinand</dcterms:creator>
     <dcterms:created>1897</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.) ill.</dcterms:extent>
     <dcterms:publisher>I. Whiteson</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>African Americans</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>African Americans--Music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1130099/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1130099</edm:isShownAt>

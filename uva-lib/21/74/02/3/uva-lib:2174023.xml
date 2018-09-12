@@ -14,11 +14,11 @@
     <dcterms:created>1864</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[3] p. 28 cm.</dcterms:extent>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Richmond</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2174023/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174023</edm:isShownAt>

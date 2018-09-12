@@ -12,14 +12,14 @@
     <dcterms:title>In old Madrid : waltz</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Trotère, H. (Henry), 1855-1912</dcterms:creator>
+    <dcterms:creator>Freeman, Jas. J. (James J.)</dcterms:creator>
     <dcterms:created>1892</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 p. of music.</dcterms:extent>
     <dcterms:publisher>Hitchcock's Music Stores</dcterms:publisher>
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
     <dcterms:subject>Waltzes</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1137136/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1137136</edm:isShownAt>

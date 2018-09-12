@@ -11,7 +11,6 @@
     <dcterms:identifier>tsb:58688</dcterms:identifier>
     <dcterms:title>Hemocytometer</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Adams</dcterms:creator>
     <dcterms:created>1890/1930</dcterms:created>
     <dcterms:description>Contained in a leather case. This set includes: tubing with a red stopper, tubing with a white stopper, 
       rubber tubing, lancet, lancet casing, measuring instruments, slide, glass slide cover, and two (2) unidentified objects. Instrument was used to count blood cells.</dcterms:description>
@@ -19,10 +18,10 @@
     <dcterms:medium>plastic (organic material)</dcterms:medium>
     <dcterms:medium>rubber (material)</dcterms:medium>
     <dcterms:extent>3 x 17.9 x 9.8 cm</dcterms:extent>
-    <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medical instruments and apparatus--Hemocytometers</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58688/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58688</edm:isShownAt>

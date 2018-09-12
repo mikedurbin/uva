@@ -12,15 +12,17 @@
     <dcterms:title>Les emblemes de m. Andre Alciat</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Alciati, Andrea, 1492-1550</dcterms:creator>
+    <dcterms:creator>Lefèvre, Jean, 1493-1565</dcterms:creator>
+    <dcterms:creator>Salomon, Bernard, approximately 1506-approximately 1561</dcterms:creator>
     <dcterms:created>1549</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>127 p. : ill. (woodcuts) ; 12 cm. (16mo)</dcterms:extent>
     <dcterms:publisher>Par Iean de Tournes</dcterms:publisher>
-    <dcterms:subject>Emblems</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Emblems--Early works to 1800</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1011601/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1011601</edm:isShownAt>

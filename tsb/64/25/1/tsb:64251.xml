@@ -12,13 +12,15 @@
     <dcterms:title>Village life in America, 1852-1872, including the period of the American Civil War as told in the diary of a school-girl,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Richards, Caroline Cowles, 1842-1913</dcterms:creator>
+    <dcterms:creator>Sangster, Margaret Elizabeth Munson, 1838-1912</dcterms:creator>
     <dcterms:created>1913</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xv, 225 p. front., plates, ports. 20 cm.</dcterms:extent>
     <dcterms:publisher>Holt</dcterms:publisher>
-    <dcterms:subject>Social life and customs</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Canadaigua, N.Y</dcterms:subject>
+    <dcterms:subject>New York (State)--Social life and customs</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64251/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64251</edm:isShownAt>

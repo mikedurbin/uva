@@ -17,12 +17,11 @@
     <dcterms:extent>xlvii, 730 p. 22 cm.</dcterms:extent>
     <dcterms:publisher>C. Daly</dcterms:publisher>
     <dcterms:subject>Deism</dcterms:subject>
-    <dcterms:subject>Apologetics</dcterms:subject>
-    <dcterms:subject>Apologetics</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Apologetics--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Apologetics--History--18th century</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <dcterms:temporal>18th century</dcterms:temporal>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63809/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63809</edm:isShownAt>

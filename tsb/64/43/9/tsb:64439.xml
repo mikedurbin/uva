@@ -11,14 +11,15 @@
     <dcterms:identifier>tsb:64439</dcterms:identifier>
     <dcterms:title>Report on agriculture by irrigation in the western part of the United States at the eleventh census: 1890</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Newell, Frederick Haynes, 1862-1932</dcterms:creator>
     <dcterms:created>1894</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>viii, 336 p. plates, maps, diagrs. 30 cm.</dcterms:extent>
     <dcterms:publisher>Gov't Print Off.</dcterms:publisher>
-    <dcterms:subject>Irrigation</dcterms:subject>
-    <dcterms:subject>Stream measurements</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Irrigation--West (U.S.)</dcterms:subject>
+    <dcterms:subject>Stream measurements--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64439/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64439</edm:isShownAt>

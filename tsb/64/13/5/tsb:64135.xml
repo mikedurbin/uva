@@ -12,15 +12,16 @@
     <dcterms:title>Grammatici latini ex recensione Henrici Keilii .</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Keil, Heinrich, 1822-1894</dcterms:creator>
+    <dcterms:creator>Hagan, Hermann, 1844-1898</dcterms:creator>
     <dcterms:created>1855/1880</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 v. 24 cm.</dcterms:extent>
     <dcterms:publisher>in aedibvs B.G. Tevbneri</dcterms:publisher>
-    <dcterms:subject>Latin language</dcterms:subject>
-    <dcterms:subject>Latin language</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Latin language--Grammar--Early works to 1500</dcterms:subject>
+    <dcterms:subject>Latin language--Metrics and rhythmics</dcterms:subject>
     <dcterms:language>lat</dcterms:language>
-    <edm:hasType>Marginalia (Provenance)</edm:hasType>
+    <dcterms:medium>Marginalia (Provenance)</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64135/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64135</edm:isShownAt>

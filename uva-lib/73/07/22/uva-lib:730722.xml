@@ -11,21 +11,20 @@
     <dcterms:identifier>uva-lib:730722</dcterms:identifier>
     <dcterms:title>La declaration de nostre sainct Pere le Pape Sixtus cinquiesme: : A l'encontre de Henry de Bourbon, soy disant Roy de Nauarre, &amp; semblablement de Bourbon, pretendu Prince de Condé heretiques, contre leurs posteritez &amp; successeurs: par laquelle tous leurs sujects sont declarez absous, de tous serments qu'ils leurs auroient iuré faict ou promis.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Sixtus, V, Pope, 1520-1590</dcterms:creator>
     <dcterms:created>1585</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>16 p. ; 16 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>s.n.]</dcterms:publisher>
-    <dcterms:subject>Kings and rulers</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Henry/</dcterms:subject>
-    <dcterms:subject>Condé, Henri I de Bourbon</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Henry, IV, King of France, 1553-1610</dcterms:subject>
+    <dcterms:subject>Condé, Henri I de Bourbon, prince de, 1552-1588</dcterms:subject>
+    <dcterms:subject>France--Kings and rulers--Succession</dcterms:subject>
+    <dcterms:subject>France--History--Wars of the Huguenots, 1562-1598--Sources</dcterms:subject>
+    <dcterms:subject>France--History--Henry III, 1574-1589--Sources</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Toulouse</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
-    <dcterms:temporal>Wars of the Huguenots, 1562-1598</dcterms:temporal>
-    <dcterms:temporal>Henry III, 1574-1589</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730722/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730722</edm:isShownAt>

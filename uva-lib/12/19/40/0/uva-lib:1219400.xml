@@ -11,18 +11,19 @@
     <dcterms:identifier>uva-lib:1219400</dcterms:identifier>
     <dcterms:title>The Declaration of Independence</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>United States</dcterms:creator>
+    <dcterms:creator>Swander, R. Morris.</dcterms:creator>
     <dcterms:created>1865</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : ill. ; 54 x 41 cm. (printed area)</dcterms:extent>
     <dcterms:publisher>Published by the Art Publishing Association of Philadelphia, Swander, Bishop &amp; Cos.</dcterms:publisher>
-    <dcterms:subject>Washington, George</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+    <dcterms:subject>Portraits</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Pennsylvania</dcterms:spatial>
     <dcterms:spatial>Philadelphia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Pennsylvania-Philadelphia-1865.</edm:hasType>
+    <dcterms:medium>Broadsides-Pennsylvania-Philadelphia-1865.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1219400/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1219400</edm:isShownAt>

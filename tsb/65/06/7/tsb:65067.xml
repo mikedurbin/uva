@@ -11,14 +11,15 @@
     <dcterms:identifier>tsb:65067</dcterms:identifier>
     <dcterms:title>Half-hours with the best French authors : short passages from some of the most celebrated prose writers, translated into English</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Bayard, Émile Antoine, 1837-1891</dcterms:creator>
     <dcterms:created>1867</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xii, 295 : ill. ; 26 cm.</dcterms:extent>
     <dcterms:publisher>Seeley, Jackson and Halliday</dcterms:publisher>
     <dcterms:subject>French prose literature</dcterms:subject>
     <dcterms:subject>French literature</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65067/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65067</edm:isShownAt>

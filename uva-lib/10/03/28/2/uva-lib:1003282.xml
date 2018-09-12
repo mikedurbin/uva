@@ -15,11 +15,14 @@
     <dcterms:created>1841</dcterms:created>
     <dcterms:extent>1 map : col.; 58 x 58 cm. on sheet 71 x 59 cm.</dcterms:extent>
     <dcterms:publisher>Published by Jas. Wyld, Geographer to the Queen, Charing Cross East</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Western Hemisphere--Maps</dcterms:subject>
+    <dcterms:subject>South America--Maps</dcterms:subject>
+    <dcterms:subject>North America--Maps</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003282/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003282</edm:isShownAt>

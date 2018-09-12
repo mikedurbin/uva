@@ -14,12 +14,13 @@
     <dcterms:created>1920</dcterms:created>
     <dcterms:extent>2 maps on 1 sheet (both sides) : col. ; each map 48 x 65 cm. on sheet 53 x 72 cm.</dcterms:extent>
     <dcterms:publisher>Rand McNally &amp; Co.</dcterms:publisher>
-    <dcterms:subject>Transportation</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Roads</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Transportation--South Carolina--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--South Carolina--Maps</dcterms:subject>
+    <dcterms:subject>Roads--South Carolina--Maps</dcterms:subject>
+    <dcterms:subject>South Carolina--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:743715/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:743715</edm:isShownAt>

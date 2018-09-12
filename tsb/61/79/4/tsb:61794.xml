@@ -11,15 +11,16 @@
     <dcterms:identifier>tsb:61794</dcterms:identifier>
     <dcterms:title>Progress in women's education in the British Empire, being the report of the Education Section, Victorian Era Exhibition, 1897</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Warnick, Frances Evelyn Maynard Greville, countess of, 1861-</dcterms:creator>
     <dcterms:created>1898</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxiv, 370 p. illus. 21 cm.</dcterms:extent>
     <dcterms:publisher>Longmans, Green</dcterms:publisher>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Women--Education--Great Britain</dcterms:subject>
+    <dcterms:subject>Women--Education--Commonwealth of Nations</dcterms:subject>
+    <dcterms:subject>Women--Employment--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61794/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61794</edm:isShownAt>

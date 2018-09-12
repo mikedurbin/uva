@@ -12,15 +12,17 @@
     <dcterms:title>Fredericksburg, 1850. : Dear Sir: The undersigned patentees, take this method of bringing to your notice, their "Patent Cordage Machine," for making cordage of any length and size ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Slaughter, Franklin.</dcterms:creator>
+    <dcterms:creator>Perry, David (David J.)</dcterms:creator>
+    <dcterms:creator>Slaughter, J. W.</dcterms:creator>
     <dcterms:created>1850</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 folded sheet ([1] p.) ; 25 x 40 cm. folded to 25 x 20 cm.</dcterms:extent>
     <dcterms:publisher>F. Slaughter, D. Perry, J.W. Slaughter</dcterms:publisher>
     <dcterms:subject>Cordage</dcterms:subject>
-    <dcterms:subject>Cordage industry</dcterms:subject>
-    <dcterms:subject>Cordage industry</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Cordage industry--Virginia--Fredericksburg</dcterms:subject>
+    <dcterms:subject>Cordage industry--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18750/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18750</edm:isShownAt>

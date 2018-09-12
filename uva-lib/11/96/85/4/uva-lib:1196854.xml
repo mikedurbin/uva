@@ -11,14 +11,18 @@
     <dcterms:identifier>uva-lib:1196854</dcterms:identifier>
     <dcterms:title>Middelbvrgvm, Selandiae Opp: sitv, opere, et mercimontiis, Florentiss</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hogenberg, Frans, approximately 1539-1590</dcterms:creator>
+    <dcterms:creator>Braun, Georg, 1540 or 1541-1622</dcterms:creator>
     <dcterms:created>1574/1623</dcterms:created>
     <dcterms:extent>1 map  : hand col. ; 32 x 35 cm. on sheet 40 x 52 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Middelburg (Netherlands)--Aerial views--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Middelburg (Netherlands)--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>Germany</dcterms:spatial>
     <dcterms:spatial>Cologne</dcterms:spatial>
     <dcterms:language>lat</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1196854/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1196854</edm:isShownAt>

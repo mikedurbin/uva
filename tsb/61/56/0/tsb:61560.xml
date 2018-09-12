@@ -16,13 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>viii, 400 p. 23 cm.</dcterms:extent>
     <dcterms:publisher>R. Bentley</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>France--History--Louis Philippe, 1830-1848</dcterms:subject>
+    <dcterms:subject>France--Politics and government--1830-1848</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
-    <dcterms:temporal>Louis Philippe, 1830-1848</dcterms:temporal>
-    <dcterms:temporal>1830-1848</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61560/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61560</edm:isShownAt>

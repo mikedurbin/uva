@@ -17,16 +17,16 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Gardens</dcterms:subject>
-    <dcterms:subject>Couples</dcterms:subject>
-    <dcterms:subject>Flowers (Plants)</dcterms:subject>
-    <dcterms:subject>Trees</dcterms:subject>
-    <dcterms:subject>Foliage plants</dcterms:subject>
-    <dcterms:subject>Houses</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Gardens--Open spaces and site elements</dcterms:subject>
+    <dcterms:subject>Couples--People by family relationship</dcterms:subject>
+    <dcterms:subject>Flowers (Plants)--Herbaceous plants</dcterms:subject>
+    <dcterms:subject>Trees--Trees and shrubs</dcterms:subject>
+    <dcterms:subject>Foliage plants--Herbaceous plants</dcterms:subject>
+    <dcterms:subject>Houses--Single built works by function</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:331935/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:331935</edm:isShownAt>

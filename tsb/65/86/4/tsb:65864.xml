@@ -16,11 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xvi, 498, [22], 16 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>Printed for John Walthoe and James Crokatt</dcterms:publisher>
-    <dcterms:subject>Customary law</dcterms:subject>
-    <dcterms:subject>Courts</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Customary law--England--London</dcterms:subject>
+    <dcterms:subject>Courts--England--London</dcterms:subject>
+    <dcterms:subject>London (England)--Charters, grants, privileges</dcterms:subject>
+    <dcterms:subject>London (England)--Politics and government</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65864/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65864</edm:isShownAt>

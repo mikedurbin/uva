@@ -17,11 +17,11 @@
     <dcterms:extent>vii, 464 p. 23 cm.</dcterms:extent>
     <dcterms:publisher>Cassell &amp; Company, limited</dcterms:publisher>
     <dcterms:subject>Eastern question (Balkan)</dcterms:subject>
-    <dcterms:subject>Foreign relations</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Soviet Union--Foreign relations</dcterms:subject>
+    <dcterms:subject>Soviet Union--Politics and government</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Presentation inscriptions (Provenance)</edm:hasType>
+    <dcterms:medium>Presentation inscriptions (Provenance)</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64560/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64560</edm:isShownAt>

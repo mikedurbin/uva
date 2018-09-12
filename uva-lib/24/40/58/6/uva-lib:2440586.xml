@@ -11,15 +11,14 @@
     <dcterms:identifier>uva-lib:2440586</dcterms:identifier>
     <dcterms:title>Ear speculum set</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>A.S. Aloe Company</dcterms:creator>
     <dcterms:created>1890/1897</dcterms:created>
     <dcterms:description>The following text is printed on the inside cover of the set's case: "A.S Aloe &amp; Co. Manufacturers of Surgical Instruments 415 N. Broadway St. Louis). The set consists of the following: ear examination instrument, and 3 ear examination speculums. The item was originally contained in artifacts00939.</dcterms:description>
     <dcterms:medium>wood (plant material)</dcterms:medium>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440586/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440586</edm:isShownAt>

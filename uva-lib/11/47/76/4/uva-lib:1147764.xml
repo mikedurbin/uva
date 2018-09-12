@@ -12,17 +12,18 @@
     <dcterms:title>Under the mistletoe : Christmas ballad</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Glover, Charles William, 1806-1863</dcterms:creator>
+    <dcterms:creator>Martin, C. T. (Claude Trimble)</dcterms:creator>
+    <dcterms:creator>Swain, George F.</dcterms:creator>
     <dcterms:created>1864/1877</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (29-31 [i.e. 3] p.)</dcterms:extent>
     <dcterms:publisher>J. Starr Holloway</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
     <dcterms:subject>Christmas music</dcterms:subject>
-    <dcterms:subject>Mistletoes</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Mistletoes--Songs and music</dcterms:subject>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1147764/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1147764</edm:isShownAt>

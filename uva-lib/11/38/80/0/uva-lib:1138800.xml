@@ -12,13 +12,13 @@
     <dcterms:title>Moment musical : op. 7, no. 2</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Moszkowski, Moritz, 1854-1925</dcterms:creator>
+    <dcterms:creator>Parsons, A. R. (Albert Ross), 1847-1933</dcterms:creator>
     <dcterms:created>1882</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>11 p. of music.</dcterms:extent>
     <dcterms:publisher>G. Schirmer</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1138800/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1138800</edm:isShownAt>

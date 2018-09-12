@@ -12,14 +12,15 @@
     <dcterms:title>Oeuures francoises de Ioachim Du-Bellay, gentil homme Angeuin, &amp; poëte excellent de ce temps</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Du Bellay, Joachim, approximately 1522-1560</dcterms:creator>
+    <dcterms:creator>Aubert, Guillaume.</dcterms:creator>
     <dcterms:created>1569</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[12], 40, 80, 96, 88, 60, 64, 80, 72 leaves ; 17 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>De l'imprimerie de Federic Morel ...</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1075903/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1075903</edm:isShownAt>

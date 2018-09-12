@@ -12,16 +12,18 @@
     <dcterms:title>Amérique Septentrionale</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Anville, Jean Baptiste Bourguignon d', 1697-1782</dcterms:creator>
+    <dcterms:creator>Haye, G. de la.</dcterms:creator>
     <dcterms:created>1746</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map on 4 sheets : hand col. ; 46 x 86 cm.</dcterms:extent>
     <dcterms:publisher>Chez l'auteur, aux Galeries de Louvre</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1300793/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1300793</edm:isShownAt>

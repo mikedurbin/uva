@@ -12,15 +12,16 @@
     <dcterms:title>Fragments ... concerning education</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Fénelon, François de Salignac de La Mothe-, 1651-1715</dcterms:creator>
+    <dcterms:creator>Rogers, Bessie Caldwell.</dcterms:creator>
     <dcterms:created>1896</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>84 p. ; 14 cm.</dcterms:extent>
     <dcterms:publisher>Bonnell</dcterms:publisher>
     <dcterms:subject>Education</dcterms:subject>
     <dcterms:subject>Ethics</dcterms:subject>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Women--Education</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65270/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65270</edm:isShownAt>

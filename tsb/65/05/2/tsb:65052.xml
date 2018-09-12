@@ -12,16 +12,16 @@
     <dcterms:title>The life of Benjamin Disraeli, earl of Beaconsfield</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Monypenny, William Flavelle, 1866-1912</dcterms:creator>
+    <dcterms:creator>Buckle, George Earle, 1854-1935</dcterms:creator>
     <dcterms:created>1910/1920</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>6 v. front., plates, ports. 23 cm.</dcterms:extent>
     <dcterms:publisher>Macmillan</dcterms:publisher>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Disraeli, Benjamin</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Disraeli, Benjamin, 1804-1881</dcterms:subject>
+    <dcterms:subject>Great Britain--Politics and government--1837-1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
-    <dcterms:temporal>1837-1901</dcterms:temporal>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65052/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65052</edm:isShownAt>

@@ -11,16 +11,22 @@
     <dcterms:identifier>uva-lib:1003220</dcterms:identifier>
     <dcterms:title>Il primo libro de le canzoni franzese</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Antico, Andrea, active 1517</dcterms:creator>
+    <dcterms:creator>Willaert, Adrian, 1490?-1562</dcterms:creator>
+    <dcterms:creator>Sermisy, Claudin de, approximately 1490-1562</dcterms:creator>
+    <dcterms:creator>Lhéritier, Jean.</dcterms:creator>
+    <dcterms:creator>Richafort, Jean, active 1507-1548</dcterms:creator>
+    <dcterms:creator>Moulu, Pierre.</dcterms:creator>
     <dcterms:created>1535</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 part book ([24] p.)</dcterms:extent>
     <dcterms:publisher>Octavianum Scotum</dcterms:publisher>
     <dcterms:subject>Polyphonic chansons</dcterms:subject>
     <dcterms:subject>Part songs, French</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:spatial>Italy</dcterms:spatial>
     <dcterms:spatial>Venice</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003220/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003220</edm:isShownAt>

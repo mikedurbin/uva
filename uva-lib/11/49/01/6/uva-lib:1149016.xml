@@ -12,15 +12,17 @@
     <dcterms:title>We have lived and loved together : French air from the opera of Joconde</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Herz, Henri, 1803-1888</dcterms:creator>
+    <dcterms:creator>Isouard, Nicolo, 1775-1818</dcterms:creator>
+    <dcterms:creator>Jefferys, Charles, 1807-1865</dcterms:creator>
     <dcterms:created>1834/1836</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score ([2] leaves).</dcterms:extent>
     <dcterms:publisher>J. Cole &amp; Son</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1149016/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1149016</edm:isShownAt>

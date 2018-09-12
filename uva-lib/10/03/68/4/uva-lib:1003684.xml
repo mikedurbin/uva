@@ -15,12 +15,15 @@
     <dcterms:created>1633/1636</dcterms:created>
     <dcterms:extent>1 map : hand col. ; 36 x 47 cm.</dcterms:extent>
     <dcterms:publisher>Ex officina Henrici Hondii</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Virginia--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Maryland--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Chesapeake Bay Region (Md. and Va.)--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>Netherlands</dcterms:spatial>
     <dcterms:spatial>Amsterdam</dcterms:spatial>
     <dcterms:language>lat</dcterms:language>
     <dcterms:language>ger</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003684/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003684</edm:isShownAt>

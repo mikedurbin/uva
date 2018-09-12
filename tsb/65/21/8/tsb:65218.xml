@@ -16,15 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vi, 266 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>The Century co.</dcterms:publisher>
-    <dcterms:subject>Management</dcterms:subject>
-    <dcterms:subject>Labor</dcterms:subject>
-    <dcterms:subject>Working class</dcterms:subject>
-    <dcterms:subject>Labor movement</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Management--Employee participation--United States</dcterms:subject>
+    <dcterms:subject>Labor--United States--1914-</dcterms:subject>
+    <dcterms:subject>Working class--United States--1914-</dcterms:subject>
+    <dcterms:subject>Labor movement--United States--1914-</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1914-</dcterms:temporal>
-    <dcterms:temporal>1914-</dcterms:temporal>
-    <dcterms:temporal>1914-</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65218/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65218</edm:isShownAt>

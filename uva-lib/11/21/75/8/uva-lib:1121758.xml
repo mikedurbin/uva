@@ -12,15 +12,16 @@
     <dcterms:title>Pastoral = Pastorale</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Saint-Saëns, Camille, 1835-1921</dcterms:creator>
+    <dcterms:creator>Oudin, Eugène</dcterms:creator>
     <dcterms:created>1889</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.).</dcterms:extent>
     <dcterms:publisher>G. Schirmer</dcterms:publisher>
     <dcterms:subject>Vocal duets with piano</dcterms:subject>
     <dcterms:subject>Pastoral music (Secular)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>fre</dcterms:language>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1121758/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1121758</edm:isShownAt>

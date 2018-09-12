@@ -11,16 +11,15 @@
     <dcterms:identifier>uva-lib:2532389</dcterms:identifier>
     <dcterms:title>Wm. Radam's Microbe Killer jug</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>William Radam</dcterms:creator>
     <dcterms:created>1886/1913</dcterms:created>
     <dcterms:description>A brown jug incised with "W.M. Radam's Microbe Killer." It was collected in Page County, Virginia, and donated to the library 
       with a book titled "Microbes and the Microbe Killer" by William Radam, published in New York by the author in 1890.</dcterms:description>
     <dcterms:medium>ceramic (material)</dcterms:medium>
     <dcterms:extent>24 x 21 x 21 cm</dcterms:extent>
     <dcterms:subject>Containers</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>jugs (vessels)</edm:hasType>
+    <dcterms:medium>jugs (vessels)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2532389/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2532389</edm:isShownAt>

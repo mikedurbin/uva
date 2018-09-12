@@ -18,16 +18,15 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 print : lithograph, b&amp;w ; 72 x  48 cm.</dcterms:extent>
     <dcterms:publisher>Joseph A. Arnold</dcterms:publisher>
-    <dcterms:subject>Presidents</dcterms:subject>
-    <dcterms:subject>United States.</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Presidents--United States--Portraits</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Massachusetts</dcterms:spatial>
     <dcterms:spatial>Boston</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>graphic</edm:hasType>
-    <edm:hasType>Portrait prints-1830-1840.</edm:hasType>
-    <edm:hasType>Lithographs-1830-1840.</edm:hasType>
+    <dcterms:medium>graphic</dcterms:medium>
+    <dcterms:medium>Portrait prints-1830-1840.</dcterms:medium>
+    <dcterms:medium>Lithographs-1830-1840.</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1229362/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1229362</edm:isShownAt>

@@ -12,14 +12,17 @@
     <dcterms:title>The sailor boy's grave</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Martin, J.</dcterms:creator>
+    <dcterms:creator>Martin, J.</dcterms:creator>
+    <dcterms:creator>Gillingham, Edwin</dcterms:creator>
+    <dcterms:creator>Kelty, A., Lieutenant</dcterms:creator>
     <dcterms:created>1841</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.)</dcterms:extent>
     <dcterms:publisher>George Willig Jr.</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Death</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Death--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1125690/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125690</edm:isShownAt>

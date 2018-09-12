@@ -12,21 +12,22 @@
     <dcterms:title>Circular. : Lynchburg, Va., February, 1867. : To all who cherish the memory of the heroic dead, and are willing to unite in an effort to secure honorable sepulture for the Southern victims of the late war, whose remains were interred on the battle-fields of Virginia, where they fell, this circular is addressed.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Button, Charles W.</dcterms:creator>
+    <dcterms:creator>Early, Jubal Anderson, 1816-1894</dcterms:creator>
+    <dcterms:creator>Brown, E. H., Mrs</dcterms:creator>
     <dcterms:created>1867</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 25 x 20 cm.</dcterms:extent>
     <dcterms:publisher>Chas. W. Button</dcterms:publisher>
-    <dcterms:subject>Soldiers' bodies, Disposition of</dcterms:subject>
-    <dcterms:subject>Sepulchral monuments</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Early, Jubal Anderson</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Early, Jubal Anderson, 1816-1894</dcterms:subject>
+    <dcterms:subject>Soldiers' bodies, Disposition of--Virginia</dcterms:subject>
+    <dcterms:subject>Sepulchral monuments--Virginia</dcterms:subject>
+    <dcterms:subject>Virginia--History--Civil War, 1861-1865</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Lynchburg</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Virginia-Lynchburg-1867.</edm:hasType>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:medium>Broadsides-Virginia-Lynchburg-1867.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2174037/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174037</edm:isShownAt>

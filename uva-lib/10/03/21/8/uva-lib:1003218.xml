@@ -15,16 +15,17 @@
     <dcterms:created>1899</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[2] unnumbered leaves, I-II, 265 pages ; 18 cm</dcterms:extent>
-    <dcterms:subject>Racially mixed people</dcterms:subject>
-    <dcterms:subject>African American men</dcterms:subject>
-    <dcterms:subject>Black nationalism</dcterms:subject>
-    <dcterms:subject>Radicals</dcterms:subject>
-    <dcterms:subject>Racism</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Racially mixed people--Fiction</dcterms:subject>
+    <dcterms:subject>African American men--Fiction</dcterms:subject>
+    <dcterms:subject>Black nationalism--Fiction</dcterms:subject>
+    <dcterms:subject>Radicals--Fiction</dcterms:subject>
+    <dcterms:subject>Racism--Fiction</dcterms:subject>
+    <dcterms:subject>Texas--Fiction</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Ohio</dcterms:spatial>
     <dcterms:spatial>Cincinnati</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003218/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003218</edm:isShownAt>

@@ -12,12 +12,14 @@
     <dcterms:title>A complete concordance to the Holy Scriptures of the Old and New Testaments</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Cruden, Alexander, 1699-1770</dcterms:creator>
+    <dcterms:creator>Jones, Alfred.</dcterms:creator>
     <dcterms:created>1916</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 p. l., 757 p. 24 cm.</dcterms:extent>
     <dcterms:publisher>Fleming H. Revell company</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Concordances, English</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64370/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64370</edm:isShownAt>

@@ -12,14 +12,16 @@
     <dcterms:title>Storming of Monterey</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Strakosch, Moritz, -1887</dcterms:creator>
+    <dcterms:creator>D'Avignon, Francis, 1813-</dcterms:creator>
+    <dcterms:creator>Nagel, L. (Louis)</dcterms:creator>
+    <dcterms:creator>Haas, Philip, active 1837-1863</dcterms:creator>
     <dcterms:created>1848/1858</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>9 p. of music : port.</dcterms:extent>
     <dcterms:publisher>William Hall &amp; Son</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Monterrey, Battle of, Monterrey, Mexico, 1846</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:subject>Monterrey, Battle of, Monterrey, Mexico, 1846--Songs and music</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1117194/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1117194</edm:isShownAt>

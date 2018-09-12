@@ -12,10 +12,12 @@
     <dcterms:title>Plan itinéraire et administratif de la ville de Paris</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Perrot, A. M. (Aristide Michel), 1793-1879</dcterms:creator>
+    <dcterms:creator>Simonneau, Charles, 1645-1728</dcterms:creator>
     <dcterms:created>1833</dcterms:created>
     <dcterms:publisher>Dauty</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Paris (France)--Maps</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1561745/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1561745</edm:isShownAt>

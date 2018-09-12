@@ -17,15 +17,15 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>South Africa</dcterms:subject>
-    <dcterms:subject>Africa</dcterms:subject>
-    <dcterms:subject>Agricultural land</dcterms:subject>
-    <dcterms:subject>Open spaces</dcterms:subject>
-    <dcterms:subject>Hills</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>South Africa--Countries by name</dcterms:subject>
+    <dcterms:subject>Africa--Continents</dcterms:subject>
+    <dcterms:subject>Agricultural land--Cultural landscapes</dcterms:subject>
+    <dcterms:subject>Open spaces--Open spaces and site elements</dcterms:subject>
+    <dcterms:subject>Hills--Landforms</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332243/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332243</edm:isShownAt>

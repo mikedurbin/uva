@@ -15,13 +15,15 @@
     <dcterms:created>191u</dcterms:created>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:extent>8 x 10 in.</dcterms:extent>
+    <dcterms:subject>Jefferson, Thomas, 1743-1826</dcterms:subject>
     <dcterms:subject>Landscape</dcterms:subject>
     <dcterms:subject>Cemeteries</dcterms:subject>
-    <dcterms:subject>Jefferson, Thomas, 1743-1826</dcterms:subject>
-    <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Monticello (Va.)</dcterms:subject>
+    <dcterms:subject>Albemarle County (Va.)</dcterms:subject>
+    <dcterms:subject>Charlottesville (Va.)</dcterms:subject>
     <dcterms:isPartOf>Holsinger Studio Collection</dcterms:isPartOf>
-    <edm:hasType>Glass negatives</edm:hasType>
+    <dcterms:medium>Glass negatives</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1039587/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1039587</edm:isShownAt>

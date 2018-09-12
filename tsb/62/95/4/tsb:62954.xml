@@ -12,13 +12,17 @@
     <dcterms:title>The novels of Captain Marryat : Jacob Faithful, The pacha of many tales, Japhet in search of a father, Mr. Midshipman easy.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Marryat, Frederick, 1792-1848</dcterms:creator>
+    <dcterms:creator>Marryat, Frederick, 1792-1848</dcterms:creator>
+    <dcterms:creator>Marryat, Frederick, 1792-1848</dcterms:creator>
+    <dcterms:creator>Marryat, Frederick, 1792-1848</dcterms:creator>
+    <dcterms:creator>Marryat, Frederick, 1792-1848</dcterms:creator>
     <dcterms:created>1879</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>157, 155, 160, 156 p. ; 20 cm.</dcterms:extent>
     <dcterms:publisher>George Routledge and Sons</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Annotations (Provenance)</edm:hasType>
+    <dcterms:medium>Annotations (Provenance)</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:62954/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:62954</edm:isShownAt>

@@ -16,13 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>43, [1] leaves : ill. ; 16 x 8 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>On les vend a Lyon en la maison de Frācoys Iuste demourant deuant nostre Dame de Confort</dcterms:publisher>
-    <dcterms:subject>French poetry</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>French poetry--16th century</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:language>ita</dcterms:language>
-    <dcterms:temporal>16th century</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:611405/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:611405</edm:isShownAt>

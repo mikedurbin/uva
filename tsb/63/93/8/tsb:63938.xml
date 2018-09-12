@@ -11,13 +11,14 @@
     <dcterms:identifier>tsb:63938</dcterms:identifier>
     <dcterms:title>Liber precum publicarum Ecclesiae Anglicanae</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Church of England</dcterms:creator>
+    <dcterms:creator>Bright, William, 1824-1901</dcterms:creator>
+    <dcterms:creator>Medd, Peter Goldsmith, 1829-1908</dcterms:creator>
     <dcterms:created>1869</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xl, 356 p. ; 17 cm.</dcterms:extent>
     <dcterms:publisher>Rivington</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>lat</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63938/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63938</edm:isShownAt>

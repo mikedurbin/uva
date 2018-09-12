@@ -12,20 +12,20 @@
     <dcterms:title>The Declaration of Independence of the United States of America, July 4th, 1776</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Trembley, Ralph, approximately 1817-</dcterms:creator>
+    <dcterms:creator>Trumbull, John, 1756-1843</dcterms:creator>
+    <dcterms:creator>Bowen, John T., approximately 1801-1856?</dcterms:creator>
     <dcterms:created>1838/1844</dcterms:created>
     <dcterms:medium>graphic</dcterms:medium>
     <dcterms:extent>1 print : lithograph; col. ; ca. 50 x 70 cm.</dcterms:extent>
     <dcterms:publisher>Published at J.T. Bowen's Lithographic Establishment</dcterms:publisher>
-    <dcterms:subject>Document signings</dcterms:subject>
-    <dcterms:subject>United States.</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Document signings--Pennsylvania--Philadelphia--1770-1780</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>graphic</edm:hasType>
-    <edm:hasType>Group portraits-1830-1850.</edm:hasType>
-    <edm:hasType>Portrait prints-1830-1850.</edm:hasType>
-    <edm:hasType>Paintings-Reproductions-1830-1850.</edm:hasType>
-    <edm:hasType>Lithographs-1830-1850.</edm:hasType>
-    <dcterms:temporal>1770-1780</dcterms:temporal>
+    <dcterms:medium>graphic</dcterms:medium>
+    <dcterms:medium>Group portraits-1830-1850.</dcterms:medium>
+    <dcterms:medium>Portrait prints-1830-1850.</dcterms:medium>
+    <dcterms:medium>Paintings-Reproductions-1830-1850.</dcterms:medium>
+    <dcterms:medium>Lithographs-1830-1850.</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1229370/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1229370</edm:isShownAt>

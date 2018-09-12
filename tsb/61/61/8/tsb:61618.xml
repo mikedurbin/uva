@@ -12,13 +12,14 @@
     <dcterms:title>The life of Benjamin Franklin, written by himself. Now first edited from original manuscripts and from his printed correspondence and other writings,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Franklin, Benjamin, 1706-1790</dcterms:creator>
+    <dcterms:creator>Bigelow, John, 1817-1911</dcterms:creator>
     <dcterms:created>1905</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. fronts, plates, port., facsim. 22 cm.</dcterms:extent>
     <dcterms:publisher>J. B. Lippincott company</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61618/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61618</edm:isShownAt>

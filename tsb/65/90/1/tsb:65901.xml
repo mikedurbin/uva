@@ -17,12 +17,12 @@
     <dcterms:extent>xx, 307 p. : port. ; 27 cm. (4to)</dcterms:extent>
     <dcterms:publisher>E Theatro Sheldoniano</dcterms:publisher>
     <dcterms:subject>Roman law</dcterms:subject>
-    <dcterms:subject>Roman law</dcterms:subject>
-    <dcterms:subject>Law</dcterms:subject>
-    <dcterms:subject>Latin language</dcterms:subject>
-    <dcterms:subject>Roman law</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Roman law--History</dcterms:subject>
+    <dcterms:subject>Law--Great Britain</dcterms:subject>
+    <dcterms:subject>Latin language--Terms and phrases</dcterms:subject>
+    <dcterms:subject>Roman law--Terminology</dcterms:subject>
     <dcterms:language>lat</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65901/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65901</edm:isShownAt>

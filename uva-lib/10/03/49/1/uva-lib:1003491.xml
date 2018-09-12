@@ -14,13 +14,13 @@
     <dcterms:created>1880/1890</dcterms:created>
     <dcterms:extent>1 map ; 20 x 25 cm. on sheet 23 x 28 cm.</dcterms:extent>
     <dcterms:publisher>N.Y. Map &amp; Relief Line Eng. Co.</dcterms:publisher>
-    <dcterms:subject>Soil profiles</dcterms:subject>
-    <dcterms:subject>Soil profiles</dcterms:subject>
-    <dcterms:subject>Soil profiles</dcterms:subject>
-    <dcterms:subject>Soil profiles</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Soil profiles--Kentucky--Montgomery County</dcterms:subject>
+    <dcterms:subject>Soil profiles--Kentucky--Menifee County</dcterms:subject>
+    <dcterms:subject>Soil profiles--Kentucky--Morgan County</dcterms:subject>
+    <dcterms:subject>Soil profiles--Kentucky</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003491/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003491</edm:isShownAt>

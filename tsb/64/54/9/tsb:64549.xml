@@ -11,17 +11,17 @@
     <dcterms:identifier>tsb:64549</dcterms:identifier>
     <dcterms:title>American statesmen and patriots of the United States</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1880</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[526] p. ; 19 cm.</dcterms:extent>
     <dcterms:publisher>Hurst</dcterms:publisher>
     <dcterms:subject>Signers</dcterms:subject>
-    <dcterms:subject>Presidents</dcterms:subject>
-    <dcterms:subject>Statesmen</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>United States.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Presidents--United States--Biography</dcterms:subject>
+    <dcterms:subject>Statesmen--United States--Biography</dcterms:subject>
+    <dcterms:subject>United States--Politics and government</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64549/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64549</edm:isShownAt>

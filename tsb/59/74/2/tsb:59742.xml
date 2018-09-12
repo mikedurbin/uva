@@ -15,9 +15,9 @@
     <dcterms:medium>stainless steel</dcterms:medium>
     <dcterms:extent>5 x 14.5 x 8 cm</dcterms:extent>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>specula (medical instrument)</edm:hasType>
+    <dcterms:medium>specula (medical instrument)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:59742/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:59742</edm:isShownAt>

@@ -11,18 +11,17 @@
     <dcterms:identifier>tsb:58647</dcterms:identifier>
     <dcterms:title>Canaliculus knife</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>George Tiemann &amp; Co.</dcterms:creator>
     <dcterms:created>1880/1910</dcterms:created>
     <dcterms:description>Bowman's Canaliculus knife, contained in a plastic case.</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:medium>plastic (organic material)</dcterms:medium>
     <dcterms:extent>0.5 x 12.4 x 0.5 cm</dcterms:extent>
-    <dcterms:subject>Surgical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Surgical instruments and apparatus--Optical instruments</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
-    <edm:hasType>surgical instruments</edm:hasType>
-    <edm:hasType>optical instruments</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:medium>surgical instruments</dcterms:medium>
+    <dcterms:medium>optical instruments</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58647/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58647</edm:isShownAt>

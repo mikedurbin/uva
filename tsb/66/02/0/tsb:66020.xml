@@ -17,9 +17,9 @@
     <dcterms:extent>2 v. (xii, [55], 1391, [84] p.) ; 25 cm.</dcterms:extent>
     <dcterms:publisher>J. and W.T. Clarke</dcterms:publisher>
     <dcterms:subject>Nisi prius</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66020/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66020</edm:isShownAt>

@@ -14,14 +14,16 @@
     <dcterms:created>1900</dcterms:created>
     <dcterms:extent>1 map : col. ; 30 x 19 cm. on sheet 33 x 20 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Iron ranges</dcterms:subject>
-    <dcterms:subject>Iron ranges</dcterms:subject>
-    <dcterms:subject>Mines and mineral resources</dcterms:subject>
-    <dcterms:subject>Mines and mineral resources</dcterms:subject>
     <dcterms:subject>Tasker, Stephen P. M</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Iron ranges--Virginia--Pulaski County--Maps</dcterms:subject>
+    <dcterms:subject>Iron ranges--Virginia--Wythe County--Maps</dcterms:subject>
+    <dcterms:subject>Mines and mineral resources--Virginia--Pulaski County--Maps</dcterms:subject>
+    <dcterms:subject>Mines and mineral resources--Virginia--Wythe County--Maps</dcterms:subject>
+    <dcterms:subject>Pulaski County (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Wythe County (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003493/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003493</edm:isShownAt>

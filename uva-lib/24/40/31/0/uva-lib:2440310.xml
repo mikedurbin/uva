@@ -11,14 +11,13 @@
     <dcterms:identifier>uva-lib:2440310</dcterms:identifier>
     <dcterms:title>Tonsillectomy Bag</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Davol Rubber Co.</dcterms:creator>
     <dcterms:created>1920/1960</dcterms:created>
     <dcterms:description>Label information: One No. 385 Tonsillectomy Bag; Chocolate - Cloth Inserted; Made in U.S.A.; Davol Rubber Company, Providence, Rhode Island.</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:medium>rubber (material)</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440310/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440310</edm:isShownAt>

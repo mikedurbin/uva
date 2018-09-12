@@ -12,13 +12,13 @@
     <dcterms:title>Il trovatore : op. 114, no. 10</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Krug, Diederich, 1821-1880</dcterms:creator>
+    <dcterms:creator>Verdi, Giuseppe, 1813-1901</dcterms:creator>
     <dcterms:created>1875/1889</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 p. of music.</dcterms:extent>
     <dcterms:publisher>E.H. Harding</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1132483/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1132483</edm:isShownAt>

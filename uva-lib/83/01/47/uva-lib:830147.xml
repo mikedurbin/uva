@@ -12,20 +12,21 @@
     <dcterms:title>The wide, wide world</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Warner, Susan, 1819-1885</dcterms:creator>
+    <dcterms:creator>Greening, W.</dcterms:creator>
     <dcterms:created>1878/1889</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>576, [16] p., [11] leaves of plates : ill. (3 col.) ; 19 cm.</dcterms:extent>
     <dcterms:publisher>Ward, Lock, and Co.</dcterms:publisher>
-    <dcterms:subject>Christian life</dcterms:subject>
-    <dcterms:subject>Christian life</dcterms:subject>
-    <dcterms:subject>Children and death</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Christian life--Fiction</dcterms:subject>
+    <dcterms:subject>Christian life--Juvenile fiction</dcterms:subject>
+    <dcterms:subject>Children and death--Juvenile fiction</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Publishers' cloth bindings (Binding)-1878.</edm:hasType>
-    <edm:hasType>Pictorial cloth bindings (Binding)-1878.</edm:hasType>
-    <edm:hasType>Binders' tickets (Binding)-1878.</edm:hasType>
+    <dcterms:medium>Publishers' cloth bindings (Binding)-1878.</dcterms:medium>
+    <dcterms:medium>Pictorial cloth bindings (Binding)-1878.</dcterms:medium>
+    <dcterms:medium>Binders' tickets (Binding)-1878.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:830147/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:830147</edm:isShownAt>

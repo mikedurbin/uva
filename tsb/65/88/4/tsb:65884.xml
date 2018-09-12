@@ -11,13 +11,15 @@
     <dcterms:identifier>tsb:65884</dcterms:identifier>
     <dcterms:title>Reports of cases, upon appeals and writs of error, in the High Court of Parliament; from the year 1697, to the year 1713.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Brown, Josiah, -1793</dcterms:creator>
+    <dcterms:creator>Colles, Richard</dcterms:creator>
     <dcterms:created>1789</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vi, [4], 467, [21] p. 22 cm.</dcterms:extent>
     <dcterms:publisher>Printed by E. Lynch</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65884/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65884</edm:isShownAt>

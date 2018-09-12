@@ -16,18 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>ix, 11-157 p. 25 cm.</dcterms:extent>
     <dcterms:publisher>The Johns Hopkins Press</dcterms:publisher>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Virginia./</dcterms:subject>
-    <dcterms:subject>General Assembly./</dcterms:subject>
-    <dcterms:subject>House of Burgesses./</dcterms:subject>
-    <dcterms:subject>Virginia./</dcterms:subject>
-    <dcterms:subject>Committee of Correspondence.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Virginia--Politics and government--To 1775</dcterms:subject>
+    <dcterms:subject>Virginia--Politics and government--1775-1783</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <dcterms:temporal>To 1775</dcterms:temporal>
-    <dcterms:temporal>1775-1783</dcterms:temporal>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64651/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64651</edm:isShownAt>

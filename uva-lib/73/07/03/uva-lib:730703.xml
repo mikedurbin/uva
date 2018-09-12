@@ -11,15 +11,17 @@
     <dcterms:identifier>uva-lib:730703</dcterms:identifier>
     <dcterms:title>Traicté des elements, temperaments, humeurs, &amp; facultés naturelles, selon la doctrine d'Hippocrates, &amp; de Galien, : vtile tant à ceux qui desirent apprendre la medicine, qu'aux estudiants en chirurgie.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hippocrates.</dcterms:creator>
+    <dcterms:creator>Galen.</dcterms:creator>
     <dcterms:created>1555</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>111 p. ; 13 cm. (16mo)</dcterms:extent>
     <dcterms:publisher>Par Guillaume Rouille</dcterms:publisher>
-    <dcterms:subject>Medicine</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Medicine--Early works to 1800</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730703/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730703</edm:isShownAt>

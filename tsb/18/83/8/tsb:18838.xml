@@ -15,11 +15,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 folded sheet ([1] p.) ; 14 x 20 cm. folded to 14 x 9 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Balls (Parties)</dcterms:subject>
-    <dcterms:subject>Dance parties</dcterms:subject>
-    <dcterms:subject>University of Virginia.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Balls (Parties)--Virginia--Charlottesville</dcterms:subject>
+    <dcterms:subject>Dance parties--Virginia--Charlottesville</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18838/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18838</edm:isShownAt>

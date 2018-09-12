@@ -16,10 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>730 p. incl. illus., plates, ports. front. (port.) 22 cm.</dcterms:extent>
     <dcterms:publisher>B. B. Russell</dcterms:publisher>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Women--Biography</dcterms:subject>
+    <dcterms:subject>United States--Biography</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65655/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65655</edm:isShownAt>

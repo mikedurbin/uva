@@ -11,15 +11,19 @@
     <dcterms:identifier>tsb:65132</dcterms:identifier>
     <dcterms:title>Trade and industry of Finland</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Tiderman, F.</dcterms:creator>
+    <dcterms:creator>Järvinen, Kyösti Nestor, 1869-</dcterms:creator>
+    <dcterms:creator>Stenbäck, Mary Longman</dcterms:creator>
     <dcterms:created>1922</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>746 p., 1 l. col. front., illus. (incl. ports., maps) coat of arms, 32 cm.</dcterms:extent>
     <dcterms:publisher>J. Simelius' heirs printing company ltd.</dcterms:publisher>
-    <dcterms:subject>Industries</dcterms:subject>
-    <dcterms:subject>Commerce</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Finland--Industries</dcterms:subject>
+    <dcterms:subject>Finland--Commerce</dcterms:subject>
+    <dcterms:subject>Finland--Biography</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65132/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65132</edm:isShownAt>

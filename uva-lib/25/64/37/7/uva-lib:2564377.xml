@@ -11,15 +11,14 @@
     <dcterms:identifier>uva-lib:2564377</dcterms:identifier>
     <dcterms:title>Needles and suture wire in box</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Charriere</dcterms:creator>
     <dcterms:created>1865</dcterms:created>
     <dcterms:description>The words "Collin A Paris" are inscribed inside the lid of the box. This item belonged to Dr. Elie C. Chastang, a 19th century French Navy Doctor; part of a collection of French naval instruments.</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>1.5 x 4.8 x 2.7 cm</dcterms:extent>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2564377/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2564377</edm:isShownAt>

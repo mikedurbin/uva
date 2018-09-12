@@ -13,8 +13,8 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Barton, George, 1866-1940</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65634/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65634</edm:isShownAt>

@@ -11,15 +11,18 @@
     <dcterms:identifier>tsb:65886</dcterms:identifier>
     <dcterms:title>An exact abridgement of the records in the Tower of London, from the reign of King Edward the Second, unto King Richard the Third, of all the parliaments holden in each Kings reign, and the several acts in every Parliament: together with the names and titles of all the Dukes, Marquesses, Earls, Viscounts, and Barons, summoned to every of the said Parliaments.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Cotton, Robert, Sir, 1571-1631</dcterms:creator>
+    <dcterms:creator>Morrell, William, -1692?</dcterms:creator>
+    <dcterms:creator>Bowyer, Robert, -1622</dcterms:creator>
+    <dcterms:creator>Prynne, William, 1600-1669</dcterms:creator>
     <dcterms:created>1657</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 p. l., [30], 716 (i.e. 588), [142] p. 31 cm.</dcterms:extent>
     <dcterms:publisher>Printed for William Leake, stationer, at the Crown in Fleetstreet, between the two Temple gates</dcterms:publisher>
-    <dcterms:subject>Archives</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Tower of London (London, England)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Archives--Great Britain</dcterms:subject>
+    <dcterms:subject>Great Britain--History--Sources</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65886/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65886</edm:isShownAt>

@@ -11,15 +11,14 @@
     <dcterms:identifier>uva-lib:2564374</dcterms:identifier>
     <dcterms:title>Gigli's chain saw</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Charriere</dcterms:creator>
     <dcterms:created>1865</dcterms:created>
     <dcterms:description>Chain saw used for cutting through bone where its location would render it inaccessible to a blade saw; principally used for resection operations. "Charriere" is inscribed on one of the handles. Belonged to Dr. Elie C. Chastang, a 19th century French Navy Doctor; part of a collection of French naval instruments.</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>1 x 41 x 5.5 cm</dcterms:extent>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2564374/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2564374</edm:isShownAt>

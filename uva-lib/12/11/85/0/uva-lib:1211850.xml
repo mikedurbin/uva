@@ -12,15 +12,16 @@
     <dcterms:title>Les diuerses leçons de Pierre Messie gentil-homme de Seuile. : Contenans variables &amp; memorables histoires,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Mexía, Pedro, 1496?-1552?</dcterms:creator>
+    <dcterms:creator>Gruget, Claude, 16th cent</dcterms:creator>
     <dcterms:created>1572</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>472, [8] leaves : port. ; 13 cm. (12mo)</dcterms:extent>
     <dcterms:publisher>Chez Claude Micard ...</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:language>spa</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1211850/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1211850</edm:isShownAt>

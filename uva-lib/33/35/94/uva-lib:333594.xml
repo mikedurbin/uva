@@ -17,14 +17,14 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Hats</dcterms:subject>
-    <dcterms:subject>Eyeglasses</dcterms:subject>
-    <dcterms:subject>Pulling</dcterms:subject>
-    <dcterms:subject>Chairs</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Hats--Accessories worn on the head</dcterms:subject>
+    <dcterms:subject>Eyeglasses--Equipment for personal use</dcterms:subject>
+    <dcterms:subject>Pulling--Physical activities by general context</dcterms:subject>
+    <dcterms:subject>Chairs--Furniture</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Photographs</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:333594/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333594</edm:isShownAt>

@@ -11,19 +11,20 @@
     <dcterms:identifier>uva-lib:1110636</dcterms:identifier>
     <dcterms:title>Le tombeau de Marguerite de Valois, royne de Nauarre</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Denisot, Nicolas, 1515-1559</dcterms:creator>
     <dcterms:created>1551</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[104] leaves ; ill. : 18 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>De l'imprimerie de Michel Fezandat, &amp; Robert GranIon  ...</dcterms:publisher>
-    <dcterms:subject>Marguerite</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Marguerite, Queen, consort of Henry II, King of Navarre, 1492-1549</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
     <dcterms:language>gre</dcterms:language>
     <dcterms:language>ita</dcterms:language>
     <dcterms:language>lat</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1110636/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1110636</edm:isShownAt>

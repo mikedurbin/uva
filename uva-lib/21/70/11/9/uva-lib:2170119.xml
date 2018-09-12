@@ -11,14 +11,16 @@
     <dcterms:identifier>uva-lib:2170119</dcterms:identifier>
     <dcterms:title>Norfolk Borough, April 24, 1838. : Sir: At a recent meeting of the people of this Borough, resolutions were adopted by them, respectfully recommending to their fellow citizens of Virginia and North Carolina to unite with them in a Convention, to be holden in the city of Richmond on the second Wednesday in June next, with a view to aid in the attainment of the objects specified in the report and resolutions adopted at the last session of the Augusta Convention. : ... we have been appointed a committee to correspond with the counties and towns in those states, and to extend to them a most respectful and earnest invitation to meet us ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Millson, John S. (John Singleton), 1808-1874</dcterms:creator>
+    <dcterms:creator>King, Miles.</dcterms:creator>
     <dcterms:created>1838</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 folded sheet ([2] p.) ; 26 cm.</dcterms:extent>
     <dcterms:publisher>Borough of Norfolk</dcterms:publisher>
-    <dcterms:subject>Commercial associations</dcterms:subject>
-    <dcterms:subject>Commerce</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Commercial associations--Southern States</dcterms:subject>
+    <dcterms:subject>Southern States--Commerce</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2170119/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2170119</edm:isShownAt>

@@ -16,12 +16,13 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. 23 cm.</dcterms:extent>
     <dcterms:publisher>J. Nisbet</dcterms:publisher>
-    <dcterms:subject>Inheritance and succession</dcterms:subject>
-    <dcterms:subject>Nobility</dcterms:subject>
-    <dcterms:subject>Bertrand family/</dcterms:subject>
+    <dcterms:subject>Bertrand family</dcterms:subject>
     <dcterms:subject>Smith-Carrington family</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Inheritance and succession--Great Britain</dcterms:subject>
+    <dcterms:subject>Nobility--Great Britain</dcterms:subject>
+    <dcterms:subject>Great Britain--Genealogy</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65359/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65359</edm:isShownAt>

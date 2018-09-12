@@ -12,14 +12,17 @@
     <dcterms:title>Proposals for carrying on a manufacture [of duck or sail cloth] in the town of Boston, for employing the poor of said town</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Barret, John.</dcterms:creator>
+    <dcterms:creator>Goldthwait, Ezekiel.</dcterms:creator>
+    <dcterms:creator>Ruddock, John.</dcterms:creator>
+    <dcterms:creator>Hancock, John, 1737-1793</dcterms:creator>
     <dcterms:created>1768</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[2] p. 31 x 20 cm.</dcterms:extent>
     <dcterms:subject>Duck (Textile)</dcterms:subject>
-    <dcterms:subject>Poor</dcterms:subject>
-    <dcterms:subject>Manufactures</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Boston (Mass.)--Poor</dcterms:subject>
+    <dcterms:subject>Boston (Mass.)--Manufactures</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2144913/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2144913</edm:isShownAt>

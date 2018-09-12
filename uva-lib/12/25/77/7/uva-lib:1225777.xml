@@ -11,25 +11,23 @@
     <dcterms:identifier>uva-lib:1225777</dcterms:identifier>
     <dcterms:title>Grand barbecue of the Walker colored voters!! of Richmond and Henrico. : We, a portion of the Walker colored voters of Richmond City and Henrico County, intend giving a barbecue to our colored political friends, on Friday afternoon, at 3 o'clock, July 2, on Vauxall Island, Mayo's Bridge.  : Every colored voter in favor of the equal political and civil rights of the colored and white man ... is earnestly invited to attend and participate. ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Smith, Lomax B.</dcterms:creator>
     <dcterms:created>1869</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 46 x 28 cm.</dcterms:extent>
     <dcterms:publisher>Committee of Arrangements</dcterms:publisher>
-    <dcterms:subject>African Americans</dcterms:subject>
-    <dcterms:subject>African Americans</dcterms:subject>
-    <dcterms:subject>Civil rights</dcterms:subject>
-    <dcterms:subject>Reconstruction (U.S. history, 1865-1877)</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Walker, Gilbert Carlton</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Walker, Gilbert Carlton, 1832-1885</dcterms:subject>
+    <dcterms:subject>African Americans--Political activity--Virginia--Richmond--19th century</dcterms:subject>
+    <dcterms:subject>African Americans--Political activity--Virginia--Henrico County--19th century</dcterms:subject>
+    <dcterms:subject>Civil rights--Virginia</dcterms:subject>
+    <dcterms:subject>Reconstruction (U.S. history, 1865-1877)--Virginia</dcterms:subject>
+    <dcterms:subject>Virginia--Politics and government--1865-1950</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Richmond</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Virginia-Richmond-1869.</edm:hasType>
-    <dcterms:temporal>19th century</dcterms:temporal>
-    <dcterms:temporal>19th century</dcterms:temporal>
-    <dcterms:temporal>1865-1950</dcterms:temporal>
+    <dcterms:medium>Broadsides-Virginia-Richmond-1869.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1225777/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1225777</edm:isShownAt>

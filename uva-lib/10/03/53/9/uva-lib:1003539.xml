@@ -12,15 +12,18 @@
     <dcterms:title>Thornrose Cemetery, Staunton, Va</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hotchkiss, Jedediah, 1828-1899</dcterms:creator>
+    <dcterms:creator>Anschutz, F. H.</dcterms:creator>
+    <dcterms:creator>Stack, J. J.</dcterms:creator>
     <dcterms:created>1894</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : b&amp;w ; 70 x 78 cm.</dcterms:extent>
     <dcterms:publisher>Norris Peters Co., Photo-Litho</dcterms:publisher>
-    <dcterms:subject>Cemeteries</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Cemeteries--Virginia--Staunton--Maps</dcterms:subject>
+    <dcterms:subject>Staunton (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003539/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003539</edm:isShownAt>

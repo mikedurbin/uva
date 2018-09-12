@@ -16,16 +16,13 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[16] p. ; 17 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>s.n.]</dcterms:publisher>
-    <dcterms:subject>Church and state</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Henry/</dcterms:subject>
-    <dcterms:subject>Catholic Church</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Henry, IV, King of France, 1553-1610</dcterms:subject>
+    <dcterms:subject>France--16th century</dcterms:subject>
+    <dcterms:subject>Church and state--France</dcterms:subject>
+    <dcterms:subject>France--History--Henry III, 1574-1589--Sources</dcterms:subject>
+    <dcterms:subject>France--History--Wars of the Huguenots, 1562-1598</dcterms:subject>
     <dcterms:language>frm</dcterms:language>
-    <dcterms:temporal>16th century</dcterms:temporal>
-    <dcterms:temporal>Henry III, 1574-1589</dcterms:temporal>
-    <dcterms:temporal>Wars of the Huguenots, 1562-1598</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730729/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730729</edm:isShownAt>

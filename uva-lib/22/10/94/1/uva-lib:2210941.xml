@@ -11,6 +11,10 @@
     <dcterms:identifier>uva-lib:2210941</dcterms:identifier>
     <dcterms:title>A Supplement, to the Kentucky harmony</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Davisson, Ananias, 1780-1857</dcterms:creator>
+    <dcterms:creator>Tremper, L.</dcterms:creator>
+    <dcterms:creator>North, Abraham R.</dcterms:creator>
+    <dcterms:creator>Lynn, J.</dcterms:creator>
     <dcterms:created>1826</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>152 p. : chiefly music ; 13 x 23 cm.</dcterms:extent>
@@ -19,12 +23,12 @@
     <dcterms:subject>Tune-books</dcterms:subject>
     <dcterms:subject>Shape-note hymnals</dcterms:subject>
     <dcterms:subject>Choruses, Sacred (Mixed voices), Unaccompanied</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Harrisonburg</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Hymnals.</edm:hasType>
+    <dcterms:medium>Hymnals.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2210941/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2210941</edm:isShownAt>

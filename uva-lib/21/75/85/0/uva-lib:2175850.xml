@@ -16,12 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 p. l., 16, [2] p., 1 l. double plates, fold. map. 18 cm.</dcterms:extent>
     <dcterms:publisher>P. Vander Aa</dcterms:publisher>
-    <dcterms:subject>Discovery and exploration</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Gosnold, Bartholomew</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Gosnold, Bartholomew, -1607</dcterms:subject>
+    <dcterms:subject>America--Discovery and exploration--English</dcterms:subject>
+    <dcterms:subject>New England--Description and travel</dcterms:subject>
     <dcterms:language>dut</dcterms:language>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2175850/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2175850</edm:isShownAt>

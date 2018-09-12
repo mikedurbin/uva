@@ -12,16 +12,16 @@
     <dcterms:title>Punchinello</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Molloy, J. L. (James L.), 1837-1909</dcterms:creator>
+    <dcterms:creator>Dodworth, Harvey B., 1822-1891</dcterms:creator>
+    <dcterms:creator>Andersen, H. C. (Hans Christian), 1805-1875</dcterms:creator>
     <dcterms:created>1887</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (3 p.)</dcterms:extent>
     <dcterms:publisher>Richard A. Saalfield</dcterms:publisher>
-    <dcterms:subject>Cornet and piano music, Arranged</dcterms:subject>
-    <dcterms:subject>Songs</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Cornet and piano music, Arranged--Scores</dcterms:subject>
+    <dcterms:subject>Songs--Instrumental settings</dcterms:subject>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1142107/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1142107</edm:isShownAt>

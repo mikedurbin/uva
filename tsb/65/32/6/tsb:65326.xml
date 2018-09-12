@@ -16,19 +16,15 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>184 p. ; 21 cm.</dcterms:extent>
     <dcterms:publisher>Whittet &amp; Shepperson, Printers</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Education</dcterms:subject>
-    <dcterms:subject>Public schools</dcterms:subject>
-    <dcterms:subject>Holladay, Lewis Littlepage/</dcterms:subject>
-    <dcterms:subject>Maury, Matthew Fontaine/</dcterms:subject>
-    <dcterms:subject>McKinley, William/</dcterms:subject>
-    <dcterms:subject>Thornton, William M. (William Mynn)/</dcterms:subject>
-    <dcterms:subject>Hampden-Sydney College./</dcterms:subject>
-    <dcterms:subject>Virginia./</dcterms:subject>
-    <dcterms:subject>Constitutional Convention/</dcterms:subject>
-    <dcterms:subject>(1901-1902)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Holladay, Lewis Littlepage, 1806-1869</dcterms:subject>
+    <dcterms:subject>Maury, Matthew Fontaine, 1806-1873</dcterms:subject>
+    <dcterms:subject>McKinley, William, 1843-1901</dcterms:subject>
+    <dcterms:subject>Thornton, William M. (William Mynn), 1851-1935</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>Education--Virginia</dcterms:subject>
+    <dcterms:subject>Public schools--Virginia</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65326/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65326</edm:isShownAt>

@@ -14,12 +14,16 @@
     <dcterms:created>1890/1899</dcterms:created>
     <dcterms:extent>1 map on 2 sheets : col. ; 91 x 156 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Railroads--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--North Carolina--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--Tennessee--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--West Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
+    <dcterms:subject>North Carolina--Maps</dcterms:subject>
+    <dcterms:subject>Tennessee--Maps</dcterms:subject>
+    <dcterms:subject>West Virginia--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003448/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003448</edm:isShownAt>

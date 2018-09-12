@@ -11,11 +11,15 @@
     <dcterms:identifier>tsb:18876</dcterms:identifier>
     <dcterms:title>Postcript. Staunton, Wednesday night, May 24th, 1854.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Imboden, John D. (John Daniel), 1823-1895</dcterms:creator>
+    <dcterms:creator>McCue, Moses H.</dcterms:creator>
+    <dcterms:creator>Baylor, George.</dcterms:creator>
+    <dcterms:creator>Kinney, Jefferson.</dcterms:creator>
     <dcterms:created>1854</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 broadside. 34 x 12 cm.</dcterms:extent>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18876/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18876</edm:isShownAt>

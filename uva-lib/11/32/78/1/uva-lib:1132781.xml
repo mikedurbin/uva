@@ -18,9 +18,9 @@
     <dcterms:publisher>Geo. Willig &amp; Co.</dcterms:publisher>
     <dcterms:subject>Sacred vocal duets with piano</dcterms:subject>
     <dcterms:subject>Ave Maria (Music)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>ita</dcterms:language>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1132781/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1132781</edm:isShownAt>

@@ -15,13 +15,15 @@
     <dcterms:created>1850</dcterms:created>
     <dcterms:extent>1 map  ; 29 x 43 cm.</dcterms:extent>
     <dcterms:publisher>Printed by W.M. Belt</dcterms:publisher>
-    <dcterms:subject>Mexican War, 1846-1848</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Mexican War, 1846-1848--Maps</dcterms:subject>
+    <dcterms:subject>Texas--Maps</dcterms:subject>
+    <dcterms:subject>Louisiana--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>District of Columbia</dcterms:spatial>
     <dcterms:spatial>Washington</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003346/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003346</edm:isShownAt>

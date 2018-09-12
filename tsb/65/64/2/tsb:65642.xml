@@ -11,15 +11,15 @@
     <dcterms:identifier>tsb:65642</dcterms:identifier>
     <dcterms:title>Liber pluscardensis</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Buchanan, Maurice, 15th cent</dcterms:creator>
+    <dcterms:creator>Skene, Felix James Henry</dcterms:creator>
     <dcterms:created>1877/1880</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. 23 cm.</dcterms:extent>
     <dcterms:publisher>W. Paterson</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Pluscarden Priory (Elgin, Scotland)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Scotland--History--1058-1488</dcterms:subject>
     <dcterms:language>lat</dcterms:language>
-    <dcterms:temporal>1058-1488</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65642/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65642</edm:isShownAt>

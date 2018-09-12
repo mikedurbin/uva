@@ -14,12 +14,13 @@
     <dcterms:created>1913</dcterms:created>
     <dcterms:extent>1 map ; 53 x 81 cm. on sheet 60 x 85 cm.</dcterms:extent>
     <dcterms:publisher>Dépôt de la Guerre]</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:subject>Ast, Joseph Phillip</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Ast, Joseph Phillip, 1882-1975</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>World War, 1914-1918--France--Maps, Topographic</dcterms:subject>
+    <dcterms:subject>Montbéliard (France)--Maps, Topographic</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:600019/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:600019</edm:isShownAt>

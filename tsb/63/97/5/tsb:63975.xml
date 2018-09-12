@@ -12,20 +12,21 @@
     <dcterms:title>The miscellaneous works of Sir Walter Scott, bart. .</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Scott, Walter, 1771-1832</dcterms:creator>
+    <dcterms:creator>Turner, J. M. W. (Joseph Mallord William), 1775-1851</dcterms:creator>
     <dcterms:created>1870/1882</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>30 v. fronts., fold. maps. 17 cm.</dcterms:extent>
     <dcterms:publisher>A. and C. Black</dcterms:publisher>
+    <dcterms:subject>Dryden, John, 1631-1700</dcterms:subject>
+    <dcterms:subject>Swift, Jonathan, 1667-1745</dcterms:subject>
+    <dcterms:subject>Napoleon, I, Emperor of the French, 1769-1821</dcterms:subject>
     <dcterms:subject>Novelists, English</dcterms:subject>
     <dcterms:subject>Demonology</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Dryden, John/</dcterms:subject>
-    <dcterms:subject>Swift, Jonathan/</dcterms:subject>
-    <dcterms:subject>Napoleon</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Scotland--History</dcterms:subject>
+    <dcterms:subject>France--History</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63975/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63975</edm:isShownAt>

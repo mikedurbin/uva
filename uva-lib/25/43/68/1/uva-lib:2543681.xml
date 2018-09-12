@@ -11,7 +11,6 @@
     <dcterms:identifier>uva-lib:2543681</dcterms:identifier>
     <dcterms:title>Baumanometer sphygmomanometer</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>W.A. Baum Co., Inc.</dcterms:creator>
     <dcterms:created>1955/1985</dcterms:created>
     <dcterms:description>Baumanometer (brand) sphygmomanometer, blood pressure instrument.</dcterms:description>
     <dcterms:medium>nylon</dcterms:medium>
@@ -20,9 +19,9 @@
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>8 x 22 x 7 cm</dcterms:extent>
     <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2543681/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2543681</edm:isShownAt>

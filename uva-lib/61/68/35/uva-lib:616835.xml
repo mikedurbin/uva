@@ -12,16 +12,19 @@
     <dcterms:title>A north view of Pensacola, on the Island of Santa Rosa</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Serres, Dominic, 1719-1793</dcterms:creator>
+    <dcterms:creator>Sayer, Robert, 1725-1794</dcterms:creator>
+    <dcterms:creator>Jefferys, Thomas, -1771</dcterms:creator>
     <dcterms:created>1768</dcterms:created>
     <dcterms:extent>1 view and 1 map on a single sheet : b&amp;w. ; 16 x 27 cm. (view) and 19 x 26 cm. (map)</dcterms:extent>
     <dcterms:publisher>R. Sayer &amp; T. Jefferys</dcterms:publisher>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:subject>Views</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Nautical charts--Florida--Pensacola--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Views--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Florida--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616835/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616835</edm:isShownAt>

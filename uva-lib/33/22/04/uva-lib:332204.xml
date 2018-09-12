@@ -17,20 +17,20 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Monrovia (Liberia)</dcterms:subject>
-    <dcterms:subject>Houses</dcterms:subject>
-    <dcterms:subject>Streets</dcterms:subject>
-    <dcterms:subject>Liberia</dcterms:subject>
-    <dcterms:subject>Africa</dcterms:subject>
-    <dcterms:subject>Concrete</dcterms:subject>
-    <dcterms:subject>Steps</dcterms:subject>
-    <dcterms:subject>Wood (plant material)</dcterms:subject>
-    <dcterms:subject>Corrugating</dcterms:subject>
-    <dcterms:subject>Metals</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Monrovia (Liberia)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Houses--Single built works by function</dcterms:subject>
+    <dcterms:subject>Streets--Open spaces and site elements</dcterms:subject>
+    <dcterms:subject>Liberia--Countries by name</dcterms:subject>
+    <dcterms:subject>Africa--Continents</dcterms:subject>
+    <dcterms:subject>Concrete--Materials by composition</dcterms:subject>
+    <dcterms:subject>Steps--Components by specific context</dcterms:subject>
+    <dcterms:subject>Wood (plant material)--Materials by origin</dcterms:subject>
+    <dcterms:subject>Corrugating--Processes and techniques by specific type</dcterms:subject>
+    <dcterms:subject>Metals--Metal and metal products</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332204/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332204</edm:isShownAt>

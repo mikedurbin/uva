@@ -11,14 +11,14 @@
     <dcterms:identifier>tsb:64450</dcterms:identifier>
     <dcterms:title>Urkundenbuch der Universität Heidelberg. Zur 500 Jähringen stiftungsfeier der Universität ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Winkelmann, Eduard, 1838-1896</dcterms:creator>
     <dcterms:created>1886</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v., 27 cm.</dcterms:extent>
     <dcterms:publisher>C. Winter</dcterms:publisher>
     <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Universität Heidelberg</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>ger</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64450/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64450</edm:isShownAt>

@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xvi, 405 p. front. (port.) illus., 4 pl., plans. 23 cm.</dcterms:extent>
     <dcterms:publisher>A. &amp; C. Black</dcterms:publisher>
-    <dcterms:subject>Brahe, Tycho</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Brahe, Tycho, 1546-1601</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63917/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63917</edm:isShownAt>

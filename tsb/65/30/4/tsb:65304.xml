@@ -16,12 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>83 p. ; 24 cm.</dcterms:extent>
     <dcterms:publisher>Internationaler Psychoanalytischer Verein</dcterms:publisher>
-    <dcterms:subject>Comparative literature</dcterms:subject>
+    <dcterms:subject>Juan, Don (Legendary character)</dcterms:subject>
+    <dcterms:subject>Comparative literature--Themes, motives</dcterms:subject>
     <dcterms:subject>Psychoanalysis</dcterms:subject>
-    <dcterms:subject>Juan</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>ger</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65304/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65304</edm:isShownAt>

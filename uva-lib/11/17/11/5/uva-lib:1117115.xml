@@ -12,13 +12,13 @@
     <dcterms:title>Divertissement de salon sur le Cor des Alpes</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Proch, Heinrich, 1809-1878</dcterms:creator>
+    <dcterms:creator>Le Carpentier, Adolphe-Clair, 1809-1869</dcterms:creator>
     <dcterms:created>1835/1869</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>10 p. of music.</dcterms:extent>
     <dcterms:publisher>G.F Hupfeld &amp; Son</dcterms:publisher>
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1117115/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1117115</edm:isShownAt>

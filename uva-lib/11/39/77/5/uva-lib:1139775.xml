@@ -12,6 +12,7 @@
     <dcterms:title>There's a song in the air : Christmas carol</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Day, Harry Brooks.</dcterms:creator>
+    <dcterms:creator>Holland, J. G. (Josiah Gilbert), 1819-1881</dcterms:creator>
     <dcterms:created>1893</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 close score (2 p.)</dcterms:extent>
@@ -19,8 +20,8 @@
     <dcterms:subject>Sacred vocal quartets with piano</dcterms:subject>
     <dcterms:subject>Carols, English</dcterms:subject>
     <dcterms:subject>Christmas music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1139775/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1139775</edm:isShownAt>

@@ -12,32 +12,62 @@
     <dcterms:title>El grande nuevo aumentado Atlas de la mar, o mundo de agua, : mostrando nos todas las costas del redondes de la tiera, consistiendo en mui corectas mapas, tanto en grados chatos como crecientes, delos quales se an en mendado, y mejorado algunos que mostravan mal, lo qual sepuedo ver tambien en el titulo de las mapas, mui favorable para los maestres de Navios, Pilatos, y Amadores de la grande navegacion.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Loon, J. van, approximately 1611-1686</dcterms:creator>
+    <dcterms:creator>Keulen, Johannes van, 1654-1715</dcterms:creator>
+    <dcterms:creator>Keulen, Johannes van, 1654-1715</dcterms:creator>
+    <dcterms:creator>Loon, Herman van</dcterms:creator>
+    <dcterms:creator>Nagtegaal, Aernout</dcterms:creator>
+    <dcterms:creator>Luiken, Jan, 1649-1712</dcterms:creator>
     <dcterms:created>1680</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 atlas : 35 double-page maps ; 55 cm (fol.)</dcterms:extent>
     <dcterms:publisher>Por Johannes van Keulen, librero, y fabricador de valestillas astronomicas, enfrente del puente nuevo en el Piloto Coronado</dcterms:publisher>
-    <dcterms:subject>Atlases</dcterms:subject>
+    <dcterms:subject>Atlases--Early works to 1800</dcterms:subject>
     <dcterms:subject>Early maps</dcterms:subject>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:subject>Coasts</dcterms:subject>
+    <dcterms:subject>Nautical charts--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Nautical charts--Europe--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Nautical charts--Asia--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Nautical charts--South America--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Nautical charts--Indian Ocean--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Nautical charts--Atlantic Ocean--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Nautical charts--Mexico, Gulf of--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Nautical charts--Mediterranean Region--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Coasts--South America--Maps--Early works to 1800</dcterms:subject>
     <dcterms:subject>Atlases</dcterms:subject>
-    <dcterms:subject>Maps</dcterms:subject>
-    <dcterms:subject>Maps</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Groningen (Netherlands : Province)--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Lower Saxony (Germany)--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>North Sea--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Baltic Sea--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Hudson Bay--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Netherlands--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>English Channel--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Biscay, Bay of (France and Spain)--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>France--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Portugal--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Aegean Islands (Greece and Turkey)--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Greece--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Cabo Verde--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Azores--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Canary Islands--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>West Indies--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Mexico, Gulf of--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Antilles, Lesser--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>South Atlantic Ocean--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Indian Ocean--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>East Indies--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Sri Lanka--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Pacific Ocean--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>South America--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Tasmania--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Australia--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>Netherlands</dcterms:spatial>
     <dcterms:spatial>Amsterdam</dcterms:spatial>
     <dcterms:language>spa</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <edm:hasType>Early works.</edm:hasType>
-    <edm:hasType>Maps</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:medium>Early works.</dcterms:medium>
+    <dcterms:medium>Maps</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:54547/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:54547</edm:isShownAt>

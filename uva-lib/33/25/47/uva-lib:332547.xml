@@ -17,13 +17,13 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Steamships</dcterms:subject>
-    <dcterms:subject>Rowboats</dcterms:subject>
-    <dcterms:subject>Oceans</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Steamships--Watercraft</dcterms:subject>
+    <dcterms:subject>Rowboats--Watercraft</dcterms:subject>
+    <dcterms:subject>Oceans--Bodies of water and components</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332547/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332547</edm:isShownAt>

@@ -15,12 +15,12 @@
     <dcterms:created>1890</dcterms:created>
     <dcterms:extent>1 map ; 43 x 57 cm.</dcterms:extent>
     <dcterms:publisher>The Equity Improvement Company</dcterms:publisher>
-    <dcterms:subject>Real estate development</dcterms:subject>
-    <dcterms:subject>Industrialization</dcterms:subject>
-    <dcterms:subject>Equity Improvement Company (Winchester, Va.)</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Real estate development--Virginia--Winchester--Maps</dcterms:subject>
+    <dcterms:subject>Industrialization--Virginia--Winchester--Maps</dcterms:subject>
+    <dcterms:subject>Winchester (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:743732/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:743732</edm:isShownAt>

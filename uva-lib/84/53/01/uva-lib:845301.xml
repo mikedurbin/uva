@@ -11,15 +11,17 @@
     <dcterms:identifier>uva-lib:845301</dcterms:identifier>
     <dcterms:title>Plan of the Shaftesbury Park Estate, Lavender Hill near Clapham Common Surrey</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Austin, Robert, architect</dcterms:creator>
+    <dcterms:creator>Crichton, John, lithographer</dcterms:creator>
     <dcterms:created>1874</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : ill., map ; 57 x 80 cm.</dcterms:extent>
     <dcterms:publisher>Artizans', Labourers', and General Dwellings Company, Limited</dcterms:publisher>
-    <dcterms:subject>Real estate development</dcterms:subject>
-    <dcterms:subject>Real estate development</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Real estate development--England--London</dcterms:subject>
+    <dcterms:subject>Real estate development--England--19th century</dcterms:subject>
+    <dcterms:subject>Shaftesbury Park Estate (London, England)</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>19th century</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:845301/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:845301</edm:isShownAt>

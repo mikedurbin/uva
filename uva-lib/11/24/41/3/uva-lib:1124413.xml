@@ -12,17 +12,18 @@
     <dcterms:title>Long weary day, or, The peasant maiden's lament = Des Mädchens Klage : with English and German words, ballad</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Silcher, Friedrich, 1789-1860</dcterms:creator>
+    <dcterms:creator>Weber, C. G. (Carl Gottwalt), 1815-1879</dcterms:creator>
+    <dcterms:creator>Hine, Charlie</dcterms:creator>
     <dcterms:created>1851</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.).</dcterms:extent>
     <dcterms:publisher>Balmer &amp; Weber</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Grief</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Grief--Songs and music</dcterms:subject>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>ger</dcterms:language>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1124413/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1124413</edm:isShownAt>

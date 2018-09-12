@@ -15,11 +15,12 @@
     <dcterms:created>1595</dcterms:created>
     <dcterms:extent>1 map : col. ; 34 x 40 cm on sheet 41 x 46 cm.</dcterms:extent>
     <dcterms:publisher>Gerard Mercator</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Scotland--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>Germany</dcterms:spatial>
     <dcterms:spatial>Duisberg</dcterms:spatial>
     <dcterms:language>lat</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004200/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004200</edm:isShownAt>

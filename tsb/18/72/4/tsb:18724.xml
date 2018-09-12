@@ -11,16 +11,18 @@
     <dcterms:identifier>tsb:18724</dcterms:identifier>
     <dcterms:title>Carry me back to ole Wurginny ; Answer to the Stolen child!</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Christy, Edwin Pearce, 1815-1862</dcterms:creator>
     <dcterms:created>1850</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : ill. ; 26 x 16 cm.</dcterms:extent>
     <dcterms:publisher>Harkness, printer</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Virginia--Poetry</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>Preston</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-England-Preston-1850.</edm:hasType>
-    <edm:hasType>Broadside poems-England-Preston-1850.</edm:hasType>
+    <dcterms:medium>Broadsides-England-Preston-1850.</dcterms:medium>
+    <dcterms:medium>Broadside poems-England-Preston-1850.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18724/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18724</edm:isShownAt>

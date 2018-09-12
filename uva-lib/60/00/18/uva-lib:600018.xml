@@ -14,10 +14,11 @@
     <dcterms:created>1916</dcterms:created>
     <dcterms:extent>1 map : col. ; 61 x 69 cm. on sheet 86 x 77 cm.</dcterms:extent>
     <dcterms:publisher>Ordnance Survey</dcterms:publisher>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>World War, 1914-1918--Balkan Peninsula--Maps</dcterms:subject>
+    <dcterms:subject>Balkan Peninsula--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:600018/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:600018</edm:isShownAt>

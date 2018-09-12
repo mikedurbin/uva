@@ -14,13 +14,17 @@
     <dcterms:created>1885</dcterms:created>
     <dcterms:extent>1 map : col. ; 42 x 56 cm. (on 2 sheets, each 44 x 30 cm.)</dcterms:extent>
     <dcterms:publisher>Geo. F. Cram Co.?</dcterms:publisher>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Railroads--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--West Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--Maryland--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--Delaware--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
+    <dcterms:subject>West Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Maryland--Maps</dcterms:subject>
+    <dcterms:subject>Delaware--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003279/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003279</edm:isShownAt>

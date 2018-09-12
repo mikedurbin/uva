@@ -12,17 +12,18 @@
     <dcterms:title>From mountain heights &amp; vallies green : song &amp; chorus : commemorative of the introduction of the Croton water into the city of New York, 1842</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Willis, John.</dcterms:creator>
+    <dcterms:creator>Phillips, Jonas B.</dcterms:creator>
     <dcterms:created>1842</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (3 p.)</dcterms:extent>
     <dcterms:publisher>John F. Nunns</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
     <dcterms:subject>Vocal trios with piano</dcterms:subject>
-    <dcterms:subject>Temperance</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Temperance--Songs and music</dcterms:subject>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+    <dcterms:subject>Croton Aqueduct (N.Y.)--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1140613/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1140613</edm:isShownAt>

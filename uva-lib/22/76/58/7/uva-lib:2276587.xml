@@ -12,21 +12,28 @@
     <dcterms:title>Cosmographia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Ptolemy, active 2nd century</dcterms:creator>
+    <dcterms:creator>D'Angelo, Jacopo</dcterms:creator>
+    <dcterms:creator>Vadius, Angelus</dcterms:creator>
+    <dcterms:creator>Picardus, Barnabas</dcterms:creator>
+    <dcterms:creator>Lichtenstein, Hermann, -1494</dcterms:creator>
+    <dcterms:creator>Trivisano, Benedicto</dcterms:creator>
+    <dcterms:creator>Michaele, Angelo</dcterms:creator>
+    <dcterms:creator>Stevens, Henry, Jr, 1819-1886</dcterms:creator>
     <dcterms:created>1475</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[143] leaves : ill., 4 diagrams ; 30 cm (fol.)</dcterms:extent>
     <dcterms:publisher>En tibi lector cosmographia Ptolemaei ab Hermano leuilapide [i.e., Hermannus Liechtenstein] coloniensi Vicenciae accuratissime impressa. Benedicto Triuisano: &amp; Angelo Michaele praesidibus</dcterms:publisher>
+    <dcterms:subject>Geography, Ancient--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Mathematical geography--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Incunabula--Specimens</dcterms:subject>
     <dcterms:subject>Geography, Ancient</dcterms:subject>
     <dcterms:subject>Mathematical geography</dcterms:subject>
-    <dcterms:subject>Incunabula</dcterms:subject>
-    <dcterms:subject>Geography, Ancient</dcterms:subject>
-    <dcterms:subject>Mathematical geography</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>Italy</dcterms:spatial>
     <dcterms:spatial>Vicenza</dcterms:spatial>
     <dcterms:language>lat</dcterms:language>
     <dcterms:language>grc</dcterms:language>
-    <edm:hasType>Incunabula-Italy-Vicenza-1475.</edm:hasType>
+    <dcterms:medium>Incunabula-Italy-Vicenza-1475.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2276587/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2276587</edm:isShownAt>

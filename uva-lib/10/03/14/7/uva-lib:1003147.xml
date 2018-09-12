@@ -11,17 +11,17 @@
     <dcterms:identifier>uva-lib:1003147</dcterms:identifier>
     <dcterms:title>Oh, look who's here!</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Scar.</dcterms:creator>
     <dcterms:created>1914</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 15 x 12 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Prohibition</dcterms:subject>
-    <dcterms:subject>Local option</dcterms:subject>
-    <dcterms:subject>Hanly, J. Frank (James Frank)/</dcterms:subject>
-    <dcterms:subject>Anti-saloon League of America.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Hanly, J. Frank (James Frank), 1863-1920</dcterms:subject>
+    <dcterms:subject>Prohibition--Virginia</dcterms:subject>
+    <dcterms:subject>Local option--Virginia</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Virginia-1914.</edm:hasType>
+    <dcterms:medium>Broadsides-Virginia-1914.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003147/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003147</edm:isShownAt>

@@ -16,9 +16,9 @@
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:extent>3.3 x 7.8 x 7.8 cm</dcterms:extent>
     <dcterms:subject>Glass containers</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>containers for health care</edm:hasType>
+    <dcterms:medium>containers for health care</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2699901/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2699901</edm:isShownAt>

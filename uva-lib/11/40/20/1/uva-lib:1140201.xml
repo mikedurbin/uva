@@ -11,17 +11,18 @@
     <dcterms:identifier>uva-lib:1140201</dcterms:identifier>
     <dcterms:title>Many can always help one, where one cannot always help many! : sung by Wally Price, the premier motto and sensational vocalist ;</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Price, Wally</dcterms:creator>
+    <dcterms:creator>Batchelor, E. F.</dcterms:creator>
     <dcterms:created>1877</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (4 p.)</dcterms:extent>
     <dcterms:publisher>E. H. Harding</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Generosity</dcterms:subject>
-    <dcterms:subject>Poverty</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Generosity--Songs and music</dcterms:subject>
+    <dcterms:subject>Poverty--Songs and music</dcterms:subject>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1140201/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1140201</edm:isShownAt>

@@ -16,13 +16,13 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[11] p. ; 16 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>[s.n.]</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Charles</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Charles, IX, King of France, 1550-1574</dcterms:subject>
+    <dcterms:subject>Poetry</dcterms:subject>
+    <dcterms:subject>France--History--Charles IX, 1560-1574--Pamphlets</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
-    <dcterms:temporal>Charles IX, 1560-1574</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730710/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730710</edm:isShownAt>

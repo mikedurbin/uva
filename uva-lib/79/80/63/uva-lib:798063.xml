@@ -12,18 +12,19 @@
     <dcterms:title>Liure tres bon plaisant et salutaire de linstitution de la femme chrestienne, tant en son enfance, que mariage &amp; viduite. : Aussi de loffice du mary,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Vives, Juan Luis, 1492-1540</dcterms:creator>
+    <dcterms:creator>Changy, Pierre de, 1482-1543</dcterms:creator>
     <dcterms:created>1543</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[6], cli, [1] leaves ; 16 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>On les vend a Paris en la rue sainct Iaques a         lenseigne des deux couchetz, par Iaques Keruer</dcterms:publisher>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:subject>Women and religion</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Women--France</dcterms:subject>
+    <dcterms:subject>Women--Education--France</dcterms:subject>
+    <dcterms:subject>Women and religion--France</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:language>lat</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:798063/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:798063</edm:isShownAt>

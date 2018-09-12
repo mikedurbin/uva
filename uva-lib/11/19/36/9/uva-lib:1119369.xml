@@ -12,15 +12,16 @@
     <dcterms:title>Ah, those moments were so happy : farewell = Ach das waren schöne Stunden : Lebewohl = O beati e bei momenti: addio : song for soprano or tenor</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Proch, Heinrich.</dcterms:creator>
+    <dcterms:creator>Barnett, M. J.</dcterms:creator>
     <dcterms:created>1876</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.).</dcterms:extent>
     <dcterms:publisher>J.L. Peters</dcterms:publisher>
     <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>ger</dcterms:language>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>ita</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1119369/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1119369</edm:isShownAt>

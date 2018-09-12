@@ -12,14 +12,14 @@
     <dcterms:title>Walthers Preislied = Walter's prize song : aus der Oper Die Meistersinger von Richard Wagner</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wagner, Richard, 1813-1883</dcterms:creator>
+    <dcterms:creator>Bendel, François</dcterms:creator>
     <dcterms:created>1889</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>8 p. of music : ill.</dcterms:extent>
     <dcterms:publisher>Kunkel Bros.</dcterms:publisher>
-    <dcterms:subject>Operas</dcterms:subject>
+    <dcterms:subject>Operas--Excerpts, Arranged</dcterms:subject>
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1144006/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1144006</edm:isShownAt>

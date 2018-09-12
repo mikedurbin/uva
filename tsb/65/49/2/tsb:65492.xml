@@ -11,14 +11,17 @@
     <dcterms:identifier>tsb:65492</dcterms:identifier>
     <dcterms:title>History of the Ohio state university</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Mendenhall, Thomas C. (Thomas Corwin), 1910-1998</dcterms:creator>
+    <dcterms:creator>Cope, Alexis, 1841-1918</dcterms:creator>
+    <dcterms:creator>Hooper, Osman Castle, 1858-1941</dcterms:creator>
+    <dcterms:creator>Siebert, Wilbur Henry, 1866-1961</dcterms:creator>
     <dcterms:created>1920</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>v. in fronts., illus. (maps) plates (incl. music)ports., facsims., diagr. 24 cm.</dcterms:extent>
     <dcterms:publisher>The Ohio state university press</dcterms:publisher>
     <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Ohio State University</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65492/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65492</edm:isShownAt>

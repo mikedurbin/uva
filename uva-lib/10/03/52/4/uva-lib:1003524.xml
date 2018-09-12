@@ -11,16 +11,18 @@
     <dcterms:identifier>uva-lib:1003524</dcterms:identifier>
     <dcterms:title>Map of the state of Virginia : containing the counties,        principal towns, railroads, rivers, canalsds &amp; all other internal improvements ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Buchholtz, Leopold von.</dcterms:creator>
+    <dcterms:creator>Ludwig, Ch.</dcterms:creator>
     <dcterms:created>1858</dcterms:created>
     <dcterms:extent>1 map. : hand-col. ; 58 x 89 cm. fold. to 20 x 12 cm.</dcterms:extent>
     <dcterms:publisher>Lithographed and published by Ritchie &amp; Dunnavant</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Virginia--Maps--19th century</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Richmond</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>19th century</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003524/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003524</edm:isShownAt>

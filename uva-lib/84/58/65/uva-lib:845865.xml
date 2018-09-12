@@ -15,13 +15,13 @@
     <dcterms:created>1857</dcterms:created>
     <dcterms:extent>1 map : hand col. ; 29 x 38 cm.</dcterms:extent>
     <dcterms:publisher>Published by J.H. Colton &amp; Co. No. 172 William Street</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Virginia--Maps--19th century</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>New York (State)</dcterms:spatial>
     <dcterms:spatial>New York (City)</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>19th century</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:845865/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:845865</edm:isShownAt>

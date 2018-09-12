@@ -16,15 +16,13 @@
     <dcterms:description>Shows woodlands, rivers, towns, and residents, with railroads, roads and a grid of the city of Richmond shown in red.</dcterms:description>
     <dcterms:extent>1 map : col. ; 55 x 61 cm.</dcterms:extent>
     <dcterms:publisher>Engineer Dept., Confederate States of America</dcterms:publisher>
-    <dcterms:subject>Landowners</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Landowners--Virginia--Henrico County--19th century--Maps</dcterms:subject>
+    <dcterms:subject>Richmond (Va.)--History--Civil War, 1861-1865--Maps</dcterms:subject>
+    <dcterms:subject>Henrico County (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>19th century</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1196861/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1196861</edm:isShownAt>

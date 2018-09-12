@@ -16,16 +16,15 @@
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map ; 24 x 37 cm. folded in cover 8 x 5 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Miniature books</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>St. Claire Hotel (Richmond, Va.)</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Miniature books--Specimens</dcterms:subject>
+    <dcterms:subject>Richmond (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Yorktown (Va.)--History--Siege, 1781--Centennial celebrations, etc</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Richmond</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>Siege, 1781</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:59076/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:59076</edm:isShownAt>

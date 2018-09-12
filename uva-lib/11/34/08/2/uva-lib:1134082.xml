@@ -12,14 +12,14 @@
     <dcterms:title>Valse styrien : op. 27, no. 2</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wollenhaupt, H. A. (Hermann Adolf), 1827-1863</dcterms:creator>
+    <dcterms:creator>Stone, Cameron</dcterms:creator>
     <dcterms:created>1854</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>9 p. of music.</dcterms:extent>
     <dcterms:publisher>F. Meyer</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
     <dcterms:subject>Waltzes</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1134082/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1134082</edm:isShownAt>

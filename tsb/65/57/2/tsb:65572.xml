@@ -12,13 +12,14 @@
     <dcterms:title>The philosophy of the Upanishads</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Deussen, Paul, 1845-1919</dcterms:creator>
+    <dcterms:creator>Geden, A. S. (Alfred Shenington), 1857-1936</dcterms:creator>
     <dcterms:created>1908</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xiv, 429, [1] p. 23 cm.</dcterms:extent>
     <dcterms:publisher>T. &amp; T. Clark</dcterms:publisher>
     <dcterms:subject>Criticism, interpretation, etc</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65572/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65572</edm:isShownAt>

@@ -11,13 +11,15 @@
     <dcterms:identifier>uva-lib:743707</dcterms:identifier>
     <dcterms:title>Map of Poor Mountain iron lands : 2,975 acres, Roanoke Co., Va.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Gifford, J. B.</dcterms:creator>
     <dcterms:created>1883</dcterms:created>
     <dcterms:extent>1 map ; sheet 31 x 32 cm.</dcterms:extent>
-    <dcterms:subject>Iron ores</dcterms:subject>
-    <dcterms:subject>Mines and mineral resources</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Iron ores--Virginia--Roanoke County--Maps, Manuscript</dcterms:subject>
+    <dcterms:subject>Mines and mineral resources--Virginia--Roanoke County--Maps, Manuscript</dcterms:subject>
+    <dcterms:subject>Roanoke County (Va.)--Maps, Manuscript</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:743707/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:743707</edm:isShownAt>

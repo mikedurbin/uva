@@ -12,14 +12,15 @@
     <dcterms:title>The border bandits, or The horse-thief's trail</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Gerstäcker, Friedrich, 1816-1872</dcterms:creator>
+    <dcterms:creator>Johnson, Francis, 1837-1908</dcterms:creator>
     <dcterms:created>1870</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[5]-97 p. ; 22 cm.</dcterms:extent>
     <dcterms:publisher>Beadle and Company</dcterms:publisher>
     <dcterms:subject>Dime novels</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>ger</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:825942/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:825942</edm:isShownAt>

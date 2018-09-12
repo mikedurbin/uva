@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[24], 216, [8] p. ; 19 cm.</dcterms:extent>
     <dcterms:publisher>Printed by R. and W. Leybourn for the author and are to be sold by John Crooke, and Daniel White</dcterms:publisher>
-    <dcterms:subject>Gavelkind</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Gavelkind--Early works to 1800</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66027/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66027</edm:isShownAt>

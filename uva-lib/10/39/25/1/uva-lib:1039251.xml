@@ -14,13 +14,10 @@
     <dcterms:creator>Holsinger, Rufus W., 1866-1930</dcterms:creator>
     <dcterms:medium>Glass negatives</dcterms:medium>
     <dcterms:subject>Portraits, Group</dcterms:subject>
-    <dcterms:subject>Fraternity Brothers</dcterms:subject>
-    <dcterms:subject>Chi Phi (Fraternity)</dcterms:subject>
-    <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Charlottesville (Va.)</dcterms:subject>
     <dcterms:isPartOf>Holsinger Studio Collection</dcterms:isPartOf>
-    <edm:hasType>Photographs</edm:hasType>
+    <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1039251/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1039251</edm:isShownAt>

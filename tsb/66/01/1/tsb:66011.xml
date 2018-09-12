@@ -19,8 +19,8 @@
     <dcterms:subject>Punishment</dcterms:subject>
     <dcterms:subject>Prisons</dcterms:subject>
     <dcterms:subject>Criminal law</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66011/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66011</edm:isShownAt>

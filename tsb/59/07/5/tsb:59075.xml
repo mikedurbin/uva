@@ -12,19 +12,19 @@
     <dcterms:title>Map of a part of the city of Richmond showing the burnt districts</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Smith, William Ira.</dcterms:creator>
+    <dcterms:creator>Ludwig, C. L.</dcterms:creator>
     <dcterms:created>1865</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : 21 x 32 cm.</dcterms:extent>
     <dcterms:publisher>Wm. Ira Smith, proprietor Richmond Whig</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Richmond (Va.)--History--Civil War, 1861-1865--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Richmond</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:59075/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:59075</edm:isShownAt>

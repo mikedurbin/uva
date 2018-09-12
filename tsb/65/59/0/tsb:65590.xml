@@ -12,13 +12,15 @@
     <dcterms:title>Noctes Ambrosianae</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wilson, John, 1785-1854</dcterms:creator>
+    <dcterms:creator>Ferrier, James Frederick, 1808-1864</dcterms:creator>
+    <dcterms:creator>Hogg, James, 1770-1835</dcterms:creator>
     <dcterms:created>1864</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 v. illus. (music) ports., diagrs. 19 cm.</dcterms:extent>
     <dcterms:publisher>W. Blackwood and sons</dcterms:publisher>
-    <dcterms:subject>English language</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>English language--Dialects--Glossaries, vocabularies, etc</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65590/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65590</edm:isShownAt>

@@ -12,14 +12,21 @@
     <dcterms:title>To the Right Honourable Charles Earl of Peterborow and Monmouth, &amp;c. This map of Africa, : according to ye newest and most exact observations</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+    <dcterms:creator>Overton, Philip, -1751</dcterms:creator>
+    <dcterms:creator>Bowles, Thomas, -1767</dcterms:creator>
+    <dcterms:creator>Bowles, John, 1701-1779</dcterms:creator>
+    <dcterms:creator>King, John.</dcterms:creator>
+    <dcterms:creator>Peterborough, Charles Mordaunt, Earl of, 1658-1735</dcterms:creator>
     <dcterms:created>1730</dcterms:created>
     <dcterms:extent>1 map col. ; 58 x 96 cm. on sheet 61 x 106 cm.</dcterms:extent>
     <dcterms:publisher>Printed for Ino. Bowles Print and Map Seller at the Black Horse in Cornhill, Tho. Bowles Print and Mapseller next to the Chapter house in St. Pauls Church yard, by Philip Overton Map and Printseller near St. Dunstans Church Fleetstreet, and by John King at ye Globe in ye Poultry</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Africa--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Madagascar--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003629/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003629</edm:isShownAt>

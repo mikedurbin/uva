@@ -16,16 +16,15 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[28] p. ; 24 cm. (4to)</dcterms:extent>
     <dcterms:publisher>Apud Federicum Morellum, in vico Bellouaco, ad vrbanam Morum</dcterms:publisher>
+    <dcterms:subject>Henry, II, King of France, 1519-1559</dcterms:subject>
     <dcterms:subject>Death and burial</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Henry</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>France--History--Henry II, 1547-1559--Sources</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>lat</dcterms:language>
     <dcterms:language>frm</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
-    <dcterms:temporal>Henry II, 1547-1559</dcterms:temporal>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730706/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730706</edm:isShownAt>

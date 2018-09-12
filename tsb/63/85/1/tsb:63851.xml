@@ -12,15 +12,17 @@
     <dcterms:title>An introduction to heraldry</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Clark, Hugh, active 1775-1784</dcterms:creator>
+    <dcterms:creator>Wormull, Thomas</dcterms:creator>
+    <dcterms:creator>Planché, J. R. (James Robinson), 1796-1880</dcterms:creator>
     <dcterms:created>1892</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>viii, 279 p. xliv pl. (incl. front.) 20 cm.</dcterms:extent>
     <dcterms:publisher>G. Bell &amp; sons</dcterms:publisher>
     <dcterms:subject>Heraldry</dcterms:subject>
-    <dcterms:subject>Heraldry</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Heraldry--Dictionaries</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>dictionary</edm:hasType>
+    <dcterms:medium>dictionary</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63851/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63851</edm:isShownAt>

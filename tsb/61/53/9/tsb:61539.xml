@@ -16,11 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>296 p. ; 20 cm.</dcterms:extent>
     <dcterms:publisher>P. Donahoe</dcterms:publisher>
-    <dcterms:subject>Doctrines</dcterms:subject>
+    <dcterms:subject>Doctrines--Catholic authors</dcterms:subject>
     <dcterms:subject>Protestantism</dcterms:subject>
-    <dcterms:subject>Catholic Church</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61539/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61539</edm:isShownAt>

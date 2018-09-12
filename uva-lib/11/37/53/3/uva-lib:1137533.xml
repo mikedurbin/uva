@@ -12,17 +12,18 @@
     <dcterms:title>Speak! = Parla! : valse chantée</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Arditi, Luigi, 1822-1903</dcterms:creator>
+    <dcterms:creator>Elson, Louis Charles, 1848-1920</dcterms:creator>
     <dcterms:created>1885</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (11 p.).</dcterms:extent>
     <dcterms:publisher>S.T. Gordon &amp; Son</dcterms:publisher>
     <dcterms:subject>Songs (Medium voice) with piano</dcterms:subject>
     <dcterms:subject>Waltzes</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>fre</dcterms:language>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>ita</dcterms:language>
     <dcterms:language>ita</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1137533/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1137533</edm:isShownAt>

@@ -15,16 +15,15 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xv, 254 p. : front. (port.) illus. (maps) plates. ; 21 cm.</dcterms:extent>
     <dcterms:publisher>General Education Board</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
+    <dcterms:subject>Alderman, Edwin Anderson, 1861-1931</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
     <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Education</dcterms:subject>
-    <dcterms:subject>Agricultural education</dcterms:subject>
-    <dcterms:subject>Universities and colleges</dcterms:subject>
-    <dcterms:subject>Alderman, Edwin Anderson/</dcterms:subject>
-    <dcterms:subject>General Education Board (New York, N.Y.)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Education--Southern States</dcterms:subject>
+    <dcterms:subject>Agricultural education--United States</dcterms:subject>
+    <dcterms:subject>Universities and colleges--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63973/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63973</edm:isShownAt>

@@ -12,13 +12,14 @@
     <dcterms:title>Believe me if all those endearing young charmes : elegant transcription for the pianoforte</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Moore, Thomas, 1779-1852</dcterms:creator>
+    <dcterms:creator>Bollman, Charles</dcterms:creator>
+    <dcterms:creator>Beck, Ida M.</dcterms:creator>
     <dcterms:created>1869</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 p. of music.</dcterms:extent>
     <dcterms:publisher>S. Brainard &amp; Sons</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1135378/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1135378</edm:isShownAt>

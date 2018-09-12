@@ -11,19 +11,19 @@
     <dcterms:identifier>uva-lib:1003727</dcterms:identifier>
     <dcterms:title>Trustees' sales of most valuable farms! : Horses, oxen, cattle, hogs, sheep, farming implem'ts, household and kitchen furniture, &amp;c., in Albemarle County. : By virtue of a deed of trust executed on the 29th day of April, 1875, by J. Woods Garth and wife, the undersigned, trustees named therein ... on Tuesday 9th day of November next, will expose to sale, at public auction, on the premises, that most desirable farm known as "Birdwood," the late residence of Wm. Garth, dec'd. ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Duke, R. T. W. (Richard Thomas Walker), 1822-1898</dcterms:creator>
+    <dcterms:creator>Jones, James D.</dcterms:creator>
     <dcterms:created>1875</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 67 x 30 cm.</dcterms:extent>
     <dcterms:publisher>Charlottesville Chronicle Book and Job Printing Establishment</dcterms:publisher>
-    <dcterms:subject>Farms</dcterms:subject>
-    <dcterms:subject>Auctions</dcterms:subject>
-    <dcterms:subject>Garth, William/</dcterms:subject>
-    <dcterms:subject>Garth, J. Woods/</dcterms:subject>
-    <dcterms:subject>Garth family/</dcterms:subject>
-    <dcterms:subject>Birdwood (Albemarle County, Va. : Estate)/</dcterms:subject>
-    <dcterms:subject>Chestnut Ridge (Va.)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Garth, William</dcterms:subject>
+    <dcterms:subject>Garth, J. Woods</dcterms:subject>
+    <dcterms:subject>Garth family</dcterms:subject>
+    <dcterms:subject>Farms--Virginia--Albemarle County</dcterms:subject>
+    <dcterms:subject>Auctions--Virginia--Albemarle County</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003727/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003727</edm:isShownAt>

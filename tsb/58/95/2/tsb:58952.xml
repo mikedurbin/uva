@@ -17,11 +17,11 @@
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:medium>medicines</dcterms:medium>
     <dcterms:extent>1.9 x 4.5 x 4.5 cm</dcterms:extent>
-    <dcterms:subject>Pills</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Pills--Medicine</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medicines</edm:hasType>
-    <edm:hasType>pill boxes</edm:hasType>
+    <dcterms:medium>medicines</dcterms:medium>
+    <dcterms:medium>pill boxes</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58952/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58952</edm:isShownAt>

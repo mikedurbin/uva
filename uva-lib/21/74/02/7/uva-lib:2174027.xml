@@ -15,14 +15,13 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 p. ; 22 cm.</dcterms:extent>
     <dcterms:publisher>Geo. P. Evans &amp; Co.</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Fowler, W. H. (William Henry)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Fowler, W. H. (William Henry), 1826-1867</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Claims</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Richmond</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2174027/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174027</edm:isShownAt>

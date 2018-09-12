@@ -16,14 +16,14 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 20 x 11 cm.</dcterms:extent>
     <dcterms:publisher>J.U.L. Feemster</dcterms:publisher>
-    <dcterms:subject>Dentists</dcterms:subject>
     <dcterms:subject>Feemster, J. U. L</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Dentists--Virginia--Fredericksburg</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Fredericksburg</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Virginia-Fredericksburg-1854.</edm:hasType>
+    <dcterms:medium>Broadsides-Virginia-Fredericksburg-1854.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18868/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18868</edm:isShownAt>

@@ -16,10 +16,9 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>150 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>Boni and Liveright</dcterms:publisher>
-    <dcterms:subject>Literature, Modern</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Literature, Modern--19th century</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>19th century</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64429/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64429</edm:isShownAt>

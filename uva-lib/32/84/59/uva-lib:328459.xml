@@ -17,14 +17,14 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Charlottesville (Va.)</dcterms:subject>
-    <dcterms:subject>Albemarle County (Va.)</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Dillard, J. H. (James Hardy), 1856-1940</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Charlottesville (Va.)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Albemarle County (Va.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Virginia--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Dillard, J. H. (James Hardy), 1856-1940--People by name</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:328459/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:328459</edm:isShownAt>

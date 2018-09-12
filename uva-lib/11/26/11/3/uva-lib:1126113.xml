@@ -12,6 +12,8 @@
     <dcterms:title>Variations on the Alexis waltz</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Himmel, Friedrich Heinrich, 1765-1814</dcterms:creator>
+    <dcterms:creator>Thilow, C. W.</dcterms:creator>
+    <dcterms:creator>Peachy, Sally Cary</dcterms:creator>
     <dcterms:created>1855</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>13 p. of music ; 33 cm.</dcterms:extent>
@@ -19,8 +21,7 @@
     <dcterms:subject>Variations (Piano)</dcterms:subject>
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
     <dcterms:subject>Waltzes</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1126113/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1126113</edm:isShownAt>

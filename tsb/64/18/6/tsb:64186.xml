@@ -12,16 +12,17 @@
     <dcterms:title>Democracy in America</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Tocqueville, Alexis de, 1805-1859</dcterms:creator>
+    <dcterms:creator>Reeve, Henry, 1813-1895</dcterms:creator>
     <dcterms:created>1900</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. 24 cm.</dcterms:extent>
     <dcterms:publisher>The Colonial press</dcterms:publisher>
     <dcterms:subject>Democracy</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Social conditions</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--Politics and government</dcterms:subject>
+    <dcterms:subject>United States--Social conditions</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64186/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64186</edm:isShownAt>

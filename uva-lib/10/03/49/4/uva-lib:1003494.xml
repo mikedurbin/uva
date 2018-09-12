@@ -14,11 +14,12 @@
     <dcterms:created>1905</dcterms:created>
     <dcterms:extent>1 map ; 14 x 33 cm. on sheet 17 x 37 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Anthracite coal mines and mining</dcterms:subject>
-    <dcterms:subject>Coal mines and mining</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Anthracite coal mines and mining--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Coal mines and mining--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003494/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003494</edm:isShownAt>

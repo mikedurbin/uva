@@ -11,13 +11,13 @@
     <dcterms:identifier>uva-lib:2174008</dcterms:identifier>
     <dcterms:title>Southrons to arms! Air -- "God save the South."</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Z.</dcterms:creator>
     <dcterms:created>1862</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 broadside. 21 x 8 cm.</dcterms:extent>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Songs and music--Confederate</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2174008/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174008</edm:isShownAt>

@@ -15,11 +15,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. front., pl., maps and plans (part fold.) 33 cm.</dcterms:extent>
     <dcterms:publisher>M. Coltellini</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>America--Gazetteers</dcterms:subject>
     <dcterms:spatial>Italy</dcterms:spatial>
     <dcterms:spatial>Livorno</dcterms:spatial>
     <dcterms:language>ita</dcterms:language>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:711624/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:711624</edm:isShownAt>

@@ -11,13 +11,15 @@
     <dcterms:identifier>uva-lib:1135901</dcterms:identifier>
     <dcterms:title>Let those who quarrel, fight : "My love to the war has gone"</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Moore, Maggie</dcterms:creator>
+    <dcterms:creator>Worth, Henry</dcterms:creator>
     <dcterms:created>1873</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.).</dcterms:extent>
     <dcterms:publisher>Charles S. Eaton</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1135901/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1135901</edm:isShownAt>

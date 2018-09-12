@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>805 p. incl. front., illus., plates, ports., facsims. fold. map. 23 cm.</dcterms:extent>
     <dcterms:publisher>Hubbard</dcterms:publisher>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Livingstone, David</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Livingstone, David, 1813-1873</dcterms:subject>
+    <dcterms:subject>Africa, Central--Description and travel</dcterms:subject>
+    <dcterms:subject>Africa, Southern--Description and travel</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61673/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61673</edm:isShownAt>

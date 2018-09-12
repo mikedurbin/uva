@@ -16,12 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 p.l., 7-349, [1] p. front. (port.) maps on fold. 1. 24 cm.</dcterms:extent>
     <dcterms:publisher>E. Diederichs</dcterms:publisher>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>World War, 1914-1918--Personal narratives, Austrian</dcterms:subject>
+    <dcterms:subject>World War, 1914-1918--Campaigns--Eastern Front</dcterms:subject>
+    <dcterms:subject>Austria--History--Franz Joseph I, 1848-1916</dcterms:subject>
     <dcterms:language>ger</dcterms:language>
-    <dcterms:temporal>Franz Joseph I, 1848-1916</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65259/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65259</edm:isShownAt>

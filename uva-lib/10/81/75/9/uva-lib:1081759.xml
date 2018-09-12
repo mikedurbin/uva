@@ -15,10 +15,11 @@
     <dcterms:created>1907</dcterms:created>
     <dcterms:extent>1 map : blue line print ; 90 x 125 cm.</dcterms:extent>
     <dcterms:publisher>s.n., 1907]</dcterms:publisher>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Real property--West Virginia--Clay County--Maps</dcterms:subject>
+    <dcterms:subject>Clay County (W. Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1081759/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1081759</edm:isShownAt>

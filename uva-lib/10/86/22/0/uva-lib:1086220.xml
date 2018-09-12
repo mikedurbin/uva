@@ -14,11 +14,11 @@
     <dcterms:created>1884</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>broadside. 47 x 31 cm.</dcterms:extent>
-    <dcterms:subject>Twain, Mark/</dcterms:subject>
-    <dcterms:subject>Cable, George Washington</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Twain, Mark, 1835-1910</dcterms:subject>
+    <dcterms:subject>Cable, George Washington, 1844-1925</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-United States-1884.</edm:hasType>
+    <dcterms:medium>Broadsides-United States-1884.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1086220/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1086220</edm:isShownAt>

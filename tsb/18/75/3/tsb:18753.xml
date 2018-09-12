@@ -16,11 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : ill. ; 12 x 9 cm.</dcterms:extent>
     <dcterms:publisher>John T. Townsend</dcterms:publisher>
-    <dcterms:subject>Riding schools</dcterms:subject>
-    <dcterms:subject>Elysium Riding School.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Riding schools--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-United States-1850-1859.</edm:hasType>
+    <dcterms:medium>Broadsides-United States-1850-1859.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18753/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18753</edm:isShownAt>

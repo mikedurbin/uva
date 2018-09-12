@@ -16,14 +16,14 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>lxxxvii, [1] leaves ; 12 cm. (16mo)</dcterms:extent>
     <dcterms:publisher>En l'imprimerie de Ieanne de Marnef, demourant en la rue Neuue nostre Dame à l'enseigne saint Iean Baptiste</dcterms:publisher>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Women--Early works to 1800</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:language>ita</dcterms:language>
     <dcterms:language>grc</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1017687/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1017687</edm:isShownAt>

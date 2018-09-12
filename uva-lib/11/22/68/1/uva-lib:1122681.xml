@@ -12,13 +12,16 @@
     <dcterms:title>God is love : trio for soprano, tenor, and basso</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Kreutzer, Conradin, 1780-1849</dcterms:creator>
+    <dcterms:creator>Abbot, John M.</dcterms:creator>
+    <dcterms:creator>Oakes, William H., -1890</dcterms:creator>
+    <dcterms:creator>Cooper, James S.</dcterms:creator>
     <dcterms:created>1866</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.)</dcterms:extent>
     <dcterms:publisher>Wm. A. Pond &amp; Co.</dcterms:publisher>
     <dcterms:subject>Sacred vocal trios with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1122681/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1122681</edm:isShownAt>

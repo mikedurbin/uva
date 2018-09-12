@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 p.l., 9-215 p. front. (port.) fold. facsim. 25 cm.</dcterms:extent>
     <dcterms:publisher>The University of Illinois press</dcterms:publisher>
-    <dcterms:subject>Peabody, Selim H. (Selim Hobart)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Peabody, Selim H. (Selim Hobart), 1829-1903</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65003/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65003</edm:isShownAt>

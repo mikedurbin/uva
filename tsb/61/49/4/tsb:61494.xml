@@ -16,14 +16,14 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xi, [1], 353 pages frontispiece, folded map 22 cm.</dcterms:extent>
     <dcterms:publisher>H. Holt &amp; Company</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Alderman, Edwin Anderson/</dcterms:subject>
-    <dcterms:subject>Rhodes, Cecil</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Alderman, Edwin Anderson, 1861-1931</dcterms:subject>
+    <dcterms:subject>Rhodes, Cecil, 1853-1902</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>South Africa--Politics and government</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61494/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61494</edm:isShownAt>

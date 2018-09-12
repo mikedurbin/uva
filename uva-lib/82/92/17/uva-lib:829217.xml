@@ -12,17 +12,19 @@
     <dcterms:title>Raison darchitecture antique</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Sagredo, Diego de.</dcterms:creator>
+    <dcterms:creator>Jollat.</dcterms:creator>
+    <dcterms:creator>Vitruvius Pollio.</dcterms:creator>
     <dcterms:created>1542</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>51 leaves : ill. ; 22 cm. (4to)</dcterms:extent>
     <dcterms:publisher>Imprime par Simon de Colines demourant a Paris en la grand rue sainct Marcel, a lenseigne des quatre Euangelistes</dcterms:publisher>
     <dcterms:subject>Architecture, Classical</dcterms:subject>
-    <dcterms:subject>Architecture</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Architecture--Early works to 1800</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:language>spa</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:829217/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:829217</edm:isShownAt>

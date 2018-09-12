@@ -16,11 +16,11 @@
     <dcterms:description>Caption: "I'er Conscrit de France"</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:subject>Chromolithography</dcterms:subject>
-    <dcterms:subject>Kings and rulers</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Kings and rulers--Great Britain--Caricatures and cartoons</dcterms:subject>
     <dcterms:isPartOf>Cecil Lang Collection of Vanity Fair Illustrations</dcterms:isPartOf>
-    <edm:hasType>chromolithographs</edm:hasType>
-    <edm:hasType>caricatures</edm:hasType>
+    <dcterms:medium>chromolithographs</dcterms:medium>
+    <dcterms:medium>caricatures</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:621265/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:621265</edm:isShownAt>

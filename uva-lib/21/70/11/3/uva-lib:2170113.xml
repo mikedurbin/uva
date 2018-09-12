@@ -12,14 +12,14 @@
     <dcterms:title>Mr. Jefferson's last letter</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Jefferson, Thomas, 1743-1826</dcterms:creator>
+    <dcterms:creator>Weightman, R. C.</dcterms:creator>
     <dcterms:created>1826</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 26 x 17 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Fourth of July celebrations</dcterms:subject>
-    <dcterms:subject>United States.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Fourth of July celebrations--Washington (D.C.)</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2170113/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2170113</edm:isShownAt>

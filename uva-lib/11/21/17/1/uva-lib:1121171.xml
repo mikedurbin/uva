@@ -17,8 +17,9 @@
     <dcterms:publisher>s.n.</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
     <dcterms:subject>Songs, Scots</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Lomond, Loch (Scotland)--Songs and music</dcterms:subject>
     <dcterms:language>sco</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1121171/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1121171</edm:isShownAt>

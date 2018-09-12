@@ -12,14 +12,16 @@
     <dcterms:title>Battle-field of Five Forks : "Cotton" map, No. 2.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Cotton, J. P., civil engineer</dcterms:creator>
+    <dcterms:creator>Bien, Julius, 1826-1909</dcterms:creator>
     <dcterms:created>1883</dcterms:created>
     <dcterms:extent>1 map ; 44 x 35 cm. on sheet 56 x 48 cm.</dcterms:extent>
     <dcterms:publisher>Julius Bien, Lith.</dcterms:publisher>
-    <dcterms:subject>Five Forks, Battle of, Va., 1865</dcterms:subject>
-    <dcterms:subject>Warren, G. K. (Gouverneur Kemble)</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Warren, G. K. (Gouverneur Kemble), 1830-1882</dcterms:subject>
+    <dcterms:subject>Five Forks, Battle of, Va., 1865--Maps</dcterms:subject>
+    <dcterms:subject>Five Forks (Dinwiddie County, Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003968/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003968</edm:isShownAt>

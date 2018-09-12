@@ -11,16 +11,15 @@
     <dcterms:identifier>uva-lib:2524241</dcterms:identifier>
     <dcterms:title>Pen eraser</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Miller Brothers Cutlery Company</dcterms:creator>
     <dcterms:created>1865/1900</dcterms:created>
     <dcterms:description>The phrase "Miller Bros" is stamped on the eraser blade. The pen eraser may have belonged to Robley Dunglison, first professor of medicine at The University of Virginia and Thomas Jefferson's personal physician.</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:medium>ivory (material)</dcterms:medium>
     <dcterms:extent>.5 x 12.5 x 1.5 cm</dcterms:extent>
     <dcterms:subject>Writing materials and instruments</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>erasers</edm:hasType>
+    <dcterms:medium>erasers</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2524241/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524241</edm:isShownAt>

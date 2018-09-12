@@ -12,16 +12,19 @@
     <dcterms:title>A diagram of the state of Alabama : exhibiting the situation of the Public Surveys shewing what records of the same are on file in the General Land Office and the Surveyor General's Office, the Townships, the field notes of which are yet to be transcribed for the General Land Office and recorded in this Office, also, what Townships, the original field notes of which are not on file in either office, having been destroyed by fire in December 1827, and which have to be retraced for the purpose of obtaining the Original Land Marks to be preserved on record in the General Land Office and this Office.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Weakley, James H.</dcterms:creator>
+    <dcterms:creator>Stone, William James, 1798-1865</dcterms:creator>
     <dcterms:created>1841</dcterms:created>
     <dcterms:extent>1 map ; 57 x 29 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Indians of North America</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Indians of North America--Alabama--Maps</dcterms:subject>
+    <dcterms:subject>Alabama--Surveys--Maps</dcterms:subject>
+    <dcterms:subject>Alabama--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>District of Columbia</dcterms:spatial>
     <dcterms:spatial>Washington</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003289/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003289</edm:isShownAt>

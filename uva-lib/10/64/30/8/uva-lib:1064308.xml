@@ -15,11 +15,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>51 p. : ill.; 20 cm.</dcterms:extent>
     <dcterms:publisher>A.P. Bibb &amp; Co.</dcterms:publisher>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Real property--Virginia--Charlottesville</dcterms:subject>
+    <dcterms:subject>Real property--Virginia--Albemarle County</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>catalog</edm:hasType>
+    <dcterms:medium>catalog</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1064308/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1064308</edm:isShownAt>

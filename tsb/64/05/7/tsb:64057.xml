@@ -12,14 +12,16 @@
     <dcterms:title>Life of William Blake, "Pictor ignotus."</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Gilchrist, Alexander, 1828-1861</dcterms:creator>
+    <dcterms:creator>Gilchrist, Anne (Anne Burrows), 1828-1885</dcterms:creator>
+    <dcterms:creator>Linton, W. J. (William James), 1812-1897</dcterms:creator>
     <dcterms:created>1863</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. fronts., (port., v. 1) illus., 48 pl. 23 cm.</dcterms:extent>
     <dcterms:publisher>Macmillan and co.</dcterms:publisher>
-    <dcterms:subject>Blake, William</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Blake, William, 1757-1827</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64057/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64057</edm:isShownAt>

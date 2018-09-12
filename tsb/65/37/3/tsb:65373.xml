@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>viii, 288 p. 22 cm.</dcterms:extent>
     <dcterms:publisher>J. Gideon, junior, printer</dcterms:publisher>
-    <dcterms:subject>Bacon, Samuel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Bacon, Samuel, 1781-1820</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65373/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65373</edm:isShownAt>

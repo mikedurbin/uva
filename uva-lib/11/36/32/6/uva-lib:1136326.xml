@@ -12,14 +12,16 @@
     <dcterms:title>My ship comes in</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Millard, H. (Harrison), 1830-1895</dcterms:creator>
+    <dcterms:creator>Miller, Joaquin, 1837-1913</dcterms:creator>
+    <dcterms:creator>Gerson, Julius Christian, 1811-1894</dcterms:creator>
     <dcterms:created>1876</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score ([7] p.) : 1-color ill.</dcterms:extent>
     <dcterms:publisher>Edward Schuberth &amp; Co.</dcterms:publisher>
     <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>ger</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1136326/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1136326</edm:isShownAt>

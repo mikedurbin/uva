@@ -14,14 +14,16 @@
     <dcterms:created>1840/1849</dcterms:created>
     <dcterms:extent>1 map : c&amp;w. ; 11 x 39 cm. on sheet 30 x 39 cm.</dcterms:extent>
     <dcterms:publisher>Proprietors of the South-Western Line</dcterms:publisher>
-    <dcterms:subject>Postal service</dcterms:subject>
-    <dcterms:subject>Stagecoach lines</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Postal service--South Atlantic States--Maps</dcterms:subject>
+    <dcterms:subject>Stagecoach lines--South Atlantic States--Maps</dcterms:subject>
+    <dcterms:subject>South Atlantic States--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Fredericksburg</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003685/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003685</edm:isShownAt>

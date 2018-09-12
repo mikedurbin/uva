@@ -12,14 +12,15 @@
     <dcterms:title>Charity : a sacred song</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Horn, Charles E. (Charles Edward), 1786-1849</dcterms:creator>
+    <dcterms:creator>Montgomery, James, 1771-1854</dcterms:creator>
     <dcterms:created>1840</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.).</dcterms:extent>
     <dcterms:publisher>C.E. Horn</dcterms:publisher>
     <dcterms:subject>Sacred songs with piano</dcterms:subject>
-    <dcterms:subject>Charity</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Charity--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1148098/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1148098</edm:isShownAt>

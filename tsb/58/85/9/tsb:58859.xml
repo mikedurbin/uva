@@ -12,14 +12,15 @@
     <dcterms:title>At morn upon the beach I stood : in the opera of the Brides of Venice</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Benedict, Julius, 1804-1885</dcterms:creator>
+    <dcterms:creator>Bunn, Alfred, 1796-1860</dcterms:creator>
     <dcterms:created>1844/1857</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 vocal score (3 p.) ; 33 cm.</dcterms:extent>
     <dcterms:publisher>Published by Oliver Ditson</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58859/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58859</edm:isShownAt>

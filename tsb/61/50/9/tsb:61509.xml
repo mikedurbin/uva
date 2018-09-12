@@ -12,13 +12,14 @@
     <dcterms:title>Bismarck's table-talk</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bismarck, Otto, Fürst von, 1815-1898</dcterms:creator>
+    <dcterms:creator>Lowe, Charles, 1848-1931</dcterms:creator>
     <dcterms:created>1895</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 p. l., viii, 387 p. front. (port.) 20 cm.</dcterms:extent>
     <dcterms:publisher>H. Grevel and co.</dcterms:publisher>
     <dcterms:subject>Table-talk</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61509/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61509</edm:isShownAt>

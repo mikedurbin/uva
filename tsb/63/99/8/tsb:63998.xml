@@ -12,16 +12,18 @@
     <dcterms:title>The works of Edgar Allan Poe : newly collected and edited, with a memoir, critical introductions, and notes</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Poe, Edgar Allan, 1809-1849</dcterms:creator>
+    <dcterms:creator>Stedman, Edmund Clarence, 1833-1908</dcterms:creator>
+    <dcterms:creator>Woodberry, George Edward, 1855-1930</dcterms:creator>
     <dcterms:created>1894/1895</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>10 v., [36] leaves of plates : ill., ports., facsim. ; 20 cm.</dcterms:extent>
     <dcterms:publisher>Stone &amp; Kimball</dcterms:publisher>
     <dcterms:subject>Poetry</dcterms:subject>
-    <dcterms:subject>American literature</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>American literature--History and criticism</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <edm:hasType>Marginalia (Provenance)</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:medium>Marginalia (Provenance)</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63998/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63998</edm:isShownAt>

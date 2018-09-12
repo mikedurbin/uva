@@ -12,13 +12,16 @@
     <dcterms:title>Edwards's great West and her commercial metropolis</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Edwards, Richard, of St. Louis</dcterms:creator>
+    <dcterms:creator>Hopewell, Merna</dcterms:creator>
     <dcterms:created>1860</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>604 p. front., plates, ports. 24 cm.</dcterms:extent>
     <dcterms:publisher>Pub. at the office of "Edwards's monthly"</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Saint Louis (Mo.)--History</dcterms:subject>
+    <dcterms:subject>Saint Louis (Mo.)--Biography</dcterms:subject>
+    <dcterms:subject>Mississippi River Valley</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65495/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65495</edm:isShownAt>

@@ -16,11 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>49 p. 24 cm.</dcterms:extent>
     <dcterms:publisher>Walker, Evans &amp; Cogswell</dcterms:publisher>
-    <dcterms:subject>Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier/</dcterms:subject>
-    <dcterms:subject>Huger, Francis Kinloch</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834</dcterms:subject>
+    <dcterms:subject>Huger, Francis Kinloch, 1773-1855</dcterms:subject>
+    <dcterms:subject>Olomouc (Czech Republic)</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65479/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65479</edm:isShownAt>

@@ -12,16 +12,18 @@
     <dcterms:title>Gipsy dance : op. 10</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Sherwood, William H. (William Hall), 1854-1911</dcterms:creator>
+    <dcterms:creator>Göckeritz, F.</dcterms:creator>
+    <dcterms:creator>Walker</dcterms:creator>
+    <dcterms:creator>Riddle, Lizzie</dcterms:creator>
     <dcterms:created>1883</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>9 p. of music : port.</dcterms:extent>
     <dcterms:publisher>Russell Bros.</dcterms:publisher>
+    <dcterms:subject>Sherwood, William H. (William Hall), 1854-1911</dcterms:subject>
+    <dcterms:subject>Portraits</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:subject>Sherwood, William H. (William Hall)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1144176/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1144176</edm:isShownAt>

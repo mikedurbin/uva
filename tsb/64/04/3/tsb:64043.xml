@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 p. l., xiii-xix, 403 p. front., plates, ports., maps (part fold.) facsims. 21 cm.</dcterms:extent>
     <dcterms:publisher>Dodd, Mead and Company</dcterms:publisher>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>World War, 1914-1918--Personal narratives</dcterms:subject>
+    <dcterms:subject>World War, 1914-1918--Germany</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64043/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64043</edm:isShownAt>

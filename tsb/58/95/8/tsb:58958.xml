@@ -11,18 +11,17 @@
     <dcterms:identifier>tsb:58958</dcterms:identifier>
     <dcterms:title>Red Cloud Liver Berries</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>H.C. Clarke &amp; Sons, Inc.</dcterms:creator>
     <dcterms:created>1900/1950</dcterms:created>
     <dcterms:description>Empty vial. Label reads "Red Cloud Liver Berries, Registered in the U.S. Patent Office. For sick headache, biliousness, constipation, indigestion, dyspepsia, disorders of the stomach, liver and bowels."</dcterms:description>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:extent>6.4 x 1.8 x 1.8 cm</dcterms:extent>
-    <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medical instruments and apparatus--Oral medication</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
-    <edm:hasType>medicine bottles</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:medium>medicine bottles</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58958/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58958</edm:isShownAt>

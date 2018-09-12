@@ -16,11 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxiii, 815 p. illus. (incl. maps.) plates, ports., facsims. 24 cm.</dcterms:extent>
     <dcterms:publisher>Columbia University Press</dcterms:publisher>
-    <dcterms:subject>Reconstruction (U.S. history, 1865-1877)</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Reconstruction (U.S. history, 1865-1877)--Alabama</dcterms:subject>
+    <dcterms:subject>Alabama--History--Civil War, 1861-1865</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61566/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61566</edm:isShownAt>

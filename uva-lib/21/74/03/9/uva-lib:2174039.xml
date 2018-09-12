@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 24 x 13 cm.</dcterms:extent>
     <dcterms:publisher>Wm. J. Folkes</dcterms:publisher>
-    <dcterms:subject>Bookbinders</dcterms:subject>
-    <dcterms:subject>Bookbinding</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Bookbinders--Virginia--Lynchburg</dcterms:subject>
+    <dcterms:subject>Bookbinding--Virginia--Lynchburg</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2174039/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174039</edm:isShownAt>

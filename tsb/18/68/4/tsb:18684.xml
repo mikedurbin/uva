@@ -15,11 +15,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : ill. ; 41 x 28 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Horse racing</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Horse racing--Argentina--Buenos Aires</dcterms:subject>
     <dcterms:language>spa</dcterms:language>
-    <edm:hasType>Cloth printings (Printing)</edm:hasType>
-    <edm:hasType>Broadsides-Argentina-Buenos Aires-1851.</edm:hasType>
+    <dcterms:medium>Cloth printings (Printing)</dcterms:medium>
+    <dcterms:medium>Broadsides-Argentina-Buenos Aires-1851.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18684/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18684</edm:isShownAt>

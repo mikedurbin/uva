@@ -12,14 +12,14 @@
     <dcterms:title>L'Hermite = The hermit</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Rubinstein, Anton, 1829-1894</dcterms:creator>
+    <dcterms:creator>Massart, Aglaé, 1827-1887</dcterms:creator>
     <dcterms:created>1873</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 p. of music.</dcterms:extent>
     <dcterms:publisher>G. Schirmer</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Hermits</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:subject>Hermits--Songs and music</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1121647/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1121647</edm:isShownAt>

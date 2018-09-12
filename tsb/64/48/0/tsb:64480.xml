@@ -12,14 +12,16 @@
     <dcterms:title>The poetry of sport</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Peek, Hedley</dcterms:creator>
+    <dcterms:creator>Lang, Andrew, 1844-1912</dcterms:creator>
+    <dcterms:creator>Watson, Alfred Edward Thomas, 1849-1922</dcterms:creator>
     <dcterms:created>1896</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxxvi, 420 p. front., illus., plates. 20 cm.</dcterms:extent>
     <dcterms:publisher>Little, Brown, and co.</dcterms:publisher>
-    <dcterms:subject>Sports</dcterms:subject>
-    <dcterms:subject>English poetry</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Sports--Poetry</dcterms:subject>
+    <dcterms:subject>English poetry--Collections</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64480/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64480</edm:isShownAt>

@@ -17,16 +17,16 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>3 x 4 in.</dcterms:extent>
-    <dcterms:subject>Overlooks</dcterms:subject>
-    <dcterms:subject>Mountains</dcterms:subject>
-    <dcterms:subject>Views</dcterms:subject>
-    <dcterms:subject>Stone</dcterms:subject>
-    <dcterms:subject>Benches</dcterms:subject>
-    <dcterms:subject>Trees</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Overlooks--Open spaces and site elements</dcterms:subject>
+    <dcterms:subject>Mountains--Landforms</dcterms:subject>
+    <dcterms:subject>Views--Visual works by form</dcterms:subject>
+    <dcterms:subject>Stone--Materials by composition</dcterms:subject>
+    <dcterms:subject>Benches--Furniture</dcterms:subject>
+    <dcterms:subject>Trees--Trees and shrubs</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Photographs</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:333649/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333649</edm:isShownAt>

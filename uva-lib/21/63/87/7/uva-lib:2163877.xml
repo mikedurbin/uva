@@ -11,21 +11,18 @@
     <dcterms:identifier>uva-lib:2163877</dcterms:identifier>
     <dcterms:title>E-Summit</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Gross, Stephanie</dcterms:creator>
     <dcterms:created>1999-11-12</dcterms:created>
     <dcterms:description>E-Summit panel called Teaching and Learning. Participants include Harold J. Burbach, from University of Virginia Curry School of Education; Brooke E. Graham, University student;  John A. Griffin, from Blue Ridge Capital Inc.; 
 David N. Kunkel, from PSINET Inc.;  Bethany L. Poole, University student; Bernard R. Robin, from University of Houston College of Education; and
 John M. Unsworth, from University of Virginia Institute for Advanced Technology in the Humanities</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:subject>Press coverage</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:subject>University of Virginia. News Office</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>color photographs</edm:hasType>
+    <dcterms:medium>color photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2163877/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2163877</edm:isShownAt>

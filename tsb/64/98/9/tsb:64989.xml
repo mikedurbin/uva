@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>x, 234 p. illus., maps (1 fold.) tables (part fold.) diagrs. 24 cm.</dcterms:extent>
     <dcterms:publisher>McGraw-Hill book Company inc.; [etc., etc.]</dcterms:publisher>
-    <dcterms:subject>Wood</dcterms:subject>
+    <dcterms:subject>Wood--Testing</dcterms:subject>
     <dcterms:subject>Strength of materials</dcterms:subject>
-    <dcterms:subject>Timber</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Timber--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64989/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64989</edm:isShownAt>

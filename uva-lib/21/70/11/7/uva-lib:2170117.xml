@@ -15,12 +15,10 @@
     <dcterms:created>1826</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 broadside. 33 x 21 cm.</dcterms:extent>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--Politics and government--1825-1829</dcterms:subject>
+    <dcterms:subject>United States--History--1825-1829</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1825-1829</dcterms:temporal>
-    <dcterms:temporal>1825-1829</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2170117/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2170117</edm:isShownAt>

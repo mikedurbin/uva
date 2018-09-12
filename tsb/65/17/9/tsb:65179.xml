@@ -16,12 +16,9 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 p.l., 107 p. 26 cm.</dcterms:extent>
     <dcterms:publisher>Carnegie institution of Washington</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Archivo General de Simancas./</dcterms:subject>
-    <dcterms:subject>Archivo Histórico Nacional (Spain)/</dcterms:subject>
-    <dcterms:subject>Archivo General de Indias.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--History--Sources</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65179/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65179</edm:isShownAt>

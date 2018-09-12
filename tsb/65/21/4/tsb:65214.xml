@@ -15,10 +15,10 @@
     <dcterms:created>1908</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>367 p. ; 20 cm.</dcterms:extent>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
-    <edm:hasType>Annotations (Provenance)</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:medium>Annotations (Provenance)</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65214/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65214</edm:isShownAt>

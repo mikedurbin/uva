@@ -12,15 +12,16 @@
     <dcterms:title>O santissima vergine = Prayer to the virgin : canto popolare toscano</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Gordigiani, Luigi, 1806-1860</dcterms:creator>
+    <dcterms:creator>Stackpole, Patrick M.</dcterms:creator>
     <dcterms:created>1866/1879</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.)</dcterms:extent>
     <dcterms:publisher>G. Schirmer, successors to C. Breusing</dcterms:publisher>
     <dcterms:subject>Sacred songs with piano</dcterms:subject>
-    <dcterms:subject>Folk songs, Italian</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Folk songs, Italian--Italy--Tuscany</dcterms:subject>
     <dcterms:language>ita</dcterms:language>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1142698/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1142698</edm:isShownAt>

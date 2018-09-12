@@ -16,12 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>260 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>Blelock &amp; co.</dcterms:publisher>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--Politics and government--1861-1865</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Causes</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1861-1865</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65190/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65190</edm:isShownAt>

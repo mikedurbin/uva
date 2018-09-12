@@ -12,14 +12,16 @@
     <dcterms:title>Aris sonis focisque : being a memoir of an American family, the Harrisons of Skimino, and particularly of Jesse Burton Harrison and Burton Norvell Harrison</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Harrison, Burton Norton, 1838-1904</dcterms:creator>
+    <dcterms:creator>Harrison, Fairfax, 1869-1938</dcterms:creator>
+    <dcterms:creator>Harrison, J. B. (Jesse Burton), 1805-1841</dcterms:creator>
     <dcterms:created>1910</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>413 p. : ill. ; 25 cm.</dcterms:extent>
     <dcterms:publisher>The De Vinne Press]</dcterms:publisher>
-    <dcterms:subject>Harrison family/</dcterms:subject>
-    <dcterms:subject>Davis, Jefferson</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Harrison family</dcterms:subject>
+    <dcterms:subject>Davis, Jefferson, 1808-1889</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64091/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64091</edm:isShownAt>

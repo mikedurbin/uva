@@ -12,15 +12,14 @@
     <dcterms:title>Polacca brillante</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Weber, Carl Maria von, 1786-1826</dcterms:creator>
+    <dcterms:creator>Mack, Edward, 1826-1882</dcterms:creator>
     <dcterms:created>1881</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[3] p. of music.</dcterms:extent>
     <dcterms:publisher>W.F. Shaw</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1124249/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1124249</edm:isShownAt>

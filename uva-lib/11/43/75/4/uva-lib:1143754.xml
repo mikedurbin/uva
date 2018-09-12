@@ -12,14 +12,15 @@
     <dcterms:title>In the cross of Christ we glory</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Howe, Edward.</dcterms:creator>
+    <dcterms:creator>Bowring, John, 1792-1872</dcterms:creator>
     <dcterms:created>1876</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.)</dcterms:extent>
     <dcterms:publisher>Oliver Ditson Co.</dcterms:publisher>
     <dcterms:subject>Sacred vocal duets with piano</dcterms:subject>
-    <dcterms:subject>Holy Cross</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Holy Cross--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1143754/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1143754</edm:isShownAt>

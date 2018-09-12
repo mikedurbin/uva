@@ -12,15 +12,16 @@
     <dcterms:title>Petit traité de Arnalte et Lucenda</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>San Pedro, Diego de, active 1500</dcterms:creator>
+    <dcterms:creator>Herberay, Nicolas de, sieur des Essars, active 16th century</dcterms:creator>
     <dcterms:created>1548</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[79] leaves : ill. ; 13 cm. (16mo)</dcterms:extent>
     <dcterms:publisher>On les vend au Palays par Vincent Sertenas Libraire ...</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:language>spa</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1038386/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1038386</edm:isShownAt>

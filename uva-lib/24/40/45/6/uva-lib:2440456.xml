@@ -11,7 +11,6 @@
     <dcterms:identifier>uva-lib:2440456</dcterms:identifier>
     <dcterms:title>Apothecary scale set</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Samuel Freeman</dcterms:creator>
     <dcterms:created>1829</dcterms:created>
     <dcterms:description>Contained in wooden and fabric box; peeling label on inside of box: Samuel Freeman [ ] Hall Street, London; Wilie Davis loaned to A. Davis July 1829, handwritten on inside of box; set includes: 2-plate apothecary scale; 4 round weights, different sizes; 7 square weights, varying sizes; 1 square thin plate; 1 bent nail.</dcterms:description>
     <dcterms:medium>brass (alloy)</dcterms:medium>
@@ -21,9 +20,9 @@
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:subject>Scales (Weighing instruments)</dcterms:subject>
     <dcterms:subject>Technology, Pharmaceutical</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>prescription scales</edm:hasType>
+    <dcterms:medium>prescription scales</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440456/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440456</edm:isShownAt>

@@ -12,19 +12,21 @@
     <dcterms:title>List to me : romance</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Audran, Edmond, 1842-1901</dcterms:creator>
+    <dcterms:creator>Chivot, Henri, 1830-1897</dcterms:creator>
+    <dcterms:creator>Duru, Alfred, 1829-1889</dcterms:creator>
+    <dcterms:creator>Burnand, F. C. (Francis Cowley), 1836-1917</dcterms:creator>
     <dcterms:created>1895</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 vocal score (2 p.).</dcterms:extent>
     <dcterms:publisher>Emerson Drug Co.</dcterms:publisher>
     <dcterms:subject>Vocal duets with piano</dcterms:subject>
     <dcterms:subject>Vocal duets with organ</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
+    <dcterms:subject>Operas--Excerpts--Vocal scores with organ</dcterms:subject>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1151539/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1151539</edm:isShownAt>

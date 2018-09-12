@@ -16,13 +16,13 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 25 x 12 cm.</dcterms:extent>
     <dcterms:publisher>Day Book Print</dcterms:publisher>
-    <dcterms:subject>Grace (Theology)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Grace (Theology)--Songs and music</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Norfolk</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Virginia-Norfolk-1850.</edm:hasType>
+    <dcterms:medium>Broadsides-Virginia-Norfolk-1850.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18726/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18726</edm:isShownAt>

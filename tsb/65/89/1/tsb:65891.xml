@@ -12,16 +12,20 @@
     <dcterms:title>The crown circuit companion : in which is incorporated the crown circuit assistant.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Stubbs, W.</dcterms:creator>
+    <dcterms:creator>Talmash, George, -1762</dcterms:creator>
+    <dcterms:creator>Dogherty, Thomas, -1805</dcterms:creator>
+    <dcterms:creator>Minchin, J. (James)</dcterms:creator>
+    <dcterms:creator>Herbert, A. (Algernon), 1792-1855</dcterms:creator>
     <dcterms:created>1820</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>723 p. ; 25 cm.</dcterms:extent>
     <dcterms:publisher>Butterworth</dcterms:publisher>
-    <dcterms:subject>Indictments</dcterms:subject>
-    <dcterms:subject>Criminal procedure</dcterms:subject>
-    <dcterms:subject>Criminal law</dcterms:subject>
-    <dcterms:subject>Costs (Law)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Indictments--Great Britain</dcterms:subject>
+    <dcterms:subject>Criminal procedure--Great Britain</dcterms:subject>
+    <dcterms:subject>Criminal law--Great Britain</dcterms:subject>
+    <dcterms:subject>Costs (Law)--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65891/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65891</edm:isShownAt>

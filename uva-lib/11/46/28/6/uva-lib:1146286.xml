@@ -12,16 +12,15 @@
     <dcterms:title>The old folks at home</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Foster, Stephen Collins, 1826-1864</dcterms:creator>
+    <dcterms:creator>Blake, Charles D. (Charles Dupee), 1847-1903</dcterms:creator>
     <dcterms:created>1897</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 p. of music.</dcterms:extent>
     <dcterms:publisher>F. Trifet</dcterms:publisher>
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
-    <dcterms:subject>Songs</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Songs--Instrumental settings</dcterms:subject>
+    <dcterms:subject>Popular instrumental music--United States--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1146286/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1146286</edm:isShownAt>

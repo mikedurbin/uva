@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xv, 565 p. ; 22 cm.</dcterms:extent>
     <dcterms:publisher>S. Sonnenschein</dcterms:publisher>
-    <dcterms:subject>Sociology</dcterms:subject>
-    <dcterms:subject>Buckle, Henry Thomas</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Buckle, Henry Thomas, 1821-1862</dcterms:subject>
+    <dcterms:subject>Sociology--History</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61796/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61796</edm:isShownAt>

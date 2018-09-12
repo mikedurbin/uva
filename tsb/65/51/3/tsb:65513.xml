@@ -12,16 +12,18 @@
     <dcterms:title>Diseases of the eye</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Nettleship, Edward, 1845-1913</dcterms:creator>
+    <dcterms:creator>Posey, William Campbell, 1866-1934</dcterms:creator>
+    <dcterms:creator>Thomson, William, 1833-1907</dcterms:creator>
     <dcterms:created>1900</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xvi, 17-560 p. : illus., plates (part col., 1 fold.) ; 21 cm.</dcterms:extent>
     <dcterms:publisher>Lea brothers &amp; co.</dcterms:publisher>
-    <dcterms:subject>Eye</dcterms:subject>
+    <dcterms:subject>Eye--Diseases</dcterms:subject>
     <dcterms:subject>Color blindness</dcterms:subject>
     <dcterms:subject>Eye Diseases</dcterms:subject>
     <dcterms:subject>Color Vision Defects</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65513/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65513</edm:isShownAt>

@@ -11,7 +11,8 @@
     <dcterms:identifier>tsb:61649</dcterms:identifier>
     <dcterms:title>The mystification of the allied peoples. Why? How? By whom?</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Chéradame, André, 1871-</dcterms:creator>
+    <dcterms:creator>Chéradame, André, 1871-1948</dcterms:creator>
+    <dcterms:creator>Fitzgerald, John A., Jr</dcterms:creator>
     <dcterms:created>1923</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>liii, 404 p. illus. (incl. maps, facsims.) diagrs. 19 cm.</dcterms:extent>
@@ -19,9 +20,9 @@
     <dcterms:subject>Pangermanism</dcterms:subject>
     <dcterms:subject>Reconstruction (1914-1939)</dcterms:subject>
     <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61649/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61649</edm:isShownAt>

@@ -12,16 +12,22 @@
     <dcterms:title>Map of the survey of the summit level of the James River &amp; Kanawha Canal, made in the year 1851</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Lorraine, E. (Edward), 1818-1872</dcterms:creator>
+    <dcterms:creator>Gwynn, Walter, 1802-1882</dcterms:creator>
+    <dcterms:creator>Ludwig, Charles L.</dcterms:creator>
     <dcterms:created>1851</dcterms:created>
     <dcterms:extent>1 map ; 65 x97 cm. on sheet 74 x 100 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Canals</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Canals--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>James River and Kanawha Canal (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Greenbrier River Valley (W. Va.)--Maps</dcterms:subject>
+    <dcterms:subject>West Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Richmond</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003398/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003398</edm:isShownAt>

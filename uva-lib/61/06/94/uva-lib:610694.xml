@@ -12,16 +12,18 @@
     <dcterms:title>Six sonatas for 2 common flutes or two German flutes and a bass, consisting of preludes, allmands, corants, sarabands, gavotts, and jiggs. Opera quarta.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Corbett, William, 1675-1748</dcterms:creator>
+    <dcterms:creator>Walsh, John, 1665 or 1666-1736</dcterms:creator>
+    <dcterms:creator>Hare, Joseph, -1733</dcterms:creator>
+    <dcterms:creator>Pippard, Luke.</dcterms:creator>
     <dcterms:created>1713</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 parts. 37 cm.</dcterms:extent>
     <dcterms:publisher>Printed for I. Walsh and I. Hare</dcterms:publisher>
-    <dcterms:subject>Trio sonatas</dcterms:subject>
-    <dcterms:subject>Trios (Flutes (2), cello)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Trio sonatas--Parts</dcterms:subject>
+    <dcterms:subject>Trios (Flutes (2), cello)--Parts</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:610694/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:610694</edm:isShownAt>

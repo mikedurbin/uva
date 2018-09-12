@@ -12,15 +12,16 @@
     <dcterms:title>Livingstone's and Stanley's travels in Africa : also the adventures of Mungo Parke, Clapperton, DuChaillu, Baker and other famous explorers in the land of the palm and the gorilla</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Jones, Charles H.</dcterms:creator>
+    <dcterms:creator>Williams, Henry Llewellyn, 1842-</dcterms:creator>
     <dcterms:created>1881</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>viii, 496 p., 5 leaves of plates : ill. ; 24 cm.</dcterms:extent>
     <dcterms:publisher>Hurst</dcterms:publisher>
-    <dcterms:subject>Discovery and exploration</dcterms:subject>
-    <dcterms:subject>Livingstone, David/</dcterms:subject>
-    <dcterms:subject>Stanley, Henry M. (Henry Morton)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Livingstone, David, 1813-1873</dcterms:subject>
+    <dcterms:subject>Stanley, Henry M. (Henry Morton), 1841-1904</dcterms:subject>
+    <dcterms:subject>Africa--Discovery and exploration</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65243/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65243</edm:isShownAt>

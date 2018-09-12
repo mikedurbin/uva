@@ -12,6 +12,7 @@
     <dcterms:title>Gloria in excelsis</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hunt, John Douglas.</dcterms:creator>
+    <dcterms:creator>Foute, R. C., Rev</dcterms:creator>
     <dcterms:created>1879</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.)</dcterms:extent>
@@ -19,8 +20,8 @@
     <dcterms:subject>Choruses, Sacred (Mixed voices, 4 parts) with piano</dcterms:subject>
     <dcterms:subject>Choruses, Sacred (Mixed voices, 4 parts) with organ</dcterms:subject>
     <dcterms:subject>Gloria in excelsis Deo (Music)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1134150/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1134150</edm:isShownAt>

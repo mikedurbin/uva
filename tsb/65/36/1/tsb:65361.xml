@@ -14,8 +14,9 @@
     <dcterms:created>1890</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 p. l., 16 leaves, [16] plates ; 15 x 21 cm.</dcterms:extent>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Natural Bridge (Va.)</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65361/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65361</edm:isShownAt>

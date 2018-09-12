@@ -14,12 +14,13 @@
     <dcterms:created>1890</dcterms:created>
     <dcterms:extent>1 map : col. ; 52 x 96 cm. on sheet 61 x 101 cm.</dcterms:extent>
     <dcterms:publisher>Staunton Development Company</dcterms:publisher>
-    <dcterms:subject>Real estate development</dcterms:subject>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:subject>Staunton Development Company (Staunton, Va.)</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>Real estate development--Virginia--Staunton--Maps</dcterms:subject>
+    <dcterms:subject>Real property--Virginia--Staunton--Maps</dcterms:subject>
+    <dcterms:subject>Staunton (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003478/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003478</edm:isShownAt>

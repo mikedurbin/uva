@@ -11,15 +11,14 @@
     <dcterms:identifier>uva-lib:2440282</dcterms:identifier>
     <dcterms:title>Diagnostic lamp light bulbs</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Schuco</dcterms:creator>
     <dcterms:created>1956</dcterms:created>
     <dcterms:description>2 packages of 3 small clear incandescent 2.5 volt bulbs; 0.227 Ampere bulb T - 3/4.</dcterms:description>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:medium>plastic (organic material)</dcterms:medium>
     <dcterms:subject>Light bulbs</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440282/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440282</edm:isShownAt>

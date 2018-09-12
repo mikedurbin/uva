@@ -17,21 +17,21 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Glen Allen (Va.)</dcterms:subject>
-    <dcterms:subject>Henrico County (Va.)</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Phenix, George P., 1863-1930</dcterms:subject>
-    <dcterms:subject>Phenix, Marie Elizabeth</dcterms:subject>
-    <dcterms:subject>Davis, Ruth</dcterms:subject>
-    <dcterms:subject>Virginia Randolph Training School (Glen Allen (Va.))</dcterms:subject>
-    <dcterms:subject>Baby bonnets</dcterms:subject>
-    <dcterms:subject>Hats</dcterms:subject>
-    <dcterms:subject>Children (people by age group)</dcterms:subject>
+    <dcterms:subject>Glen Allen (Va.)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Henrico County (Va.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Virginia--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Phenix, George P., 1863-1930--People by name</dcterms:subject>
+    <dcterms:subject>Phenix, Marie Elizabeth--People by name</dcterms:subject>
+    <dcterms:subject>Davis, Ruth--People by name</dcterms:subject>
+    <dcterms:subject>Virginia Randolph Training School (Glen Allen (Va.))--Single built works by name</dcterms:subject>
+    <dcterms:subject>Baby bonnets--Accessories worn on the head</dcterms:subject>
+    <dcterms:subject>Hats--Accessories worn on the head</dcterms:subject>
+    <dcterms:subject>Children (people by age group)--People by age group</dcterms:subject>
     <dcterms:subject>Automobiles</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:328547/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:328547</edm:isShownAt>

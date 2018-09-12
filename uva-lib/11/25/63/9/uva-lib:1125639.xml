@@ -12,14 +12,15 @@
     <dcterms:title>Mystic schottisch</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Magruder, James E.</dcterms:creator>
+    <dcterms:creator>Clayton, Charles O.</dcterms:creator>
+    <dcterms:creator>Magruder, Kate C.</dcterms:creator>
     <dcterms:created>1864</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 p. of music : col. ill.</dcterms:extent>
     <dcterms:publisher>Henry McCaffrey</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
     <dcterms:subject>Schottisches</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1125639/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125639</edm:isShownAt>

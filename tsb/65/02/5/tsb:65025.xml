@@ -12,17 +12,16 @@
     <dcterms:title>The memoirs of Baron de Marbot, late lieutenant-general in the French army</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Marbot, Jean-Baptiste-Antoine-Marcelin, baron de, 1782-1854</dcterms:creator>
+    <dcterms:creator>Butler, Arthur John, 1844-1910</dcterms:creator>
     <dcterms:created>1892</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. fronts., illus. (plans) fold. maps. 23 cm.</dcterms:extent>
     <dcterms:publisher>Longmans, Green, and co.</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>France--History--1789-1815</dcterms:subject>
+    <dcterms:subject>Europe--History--1789-1815</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
-    <dcterms:temporal>1789-1815</dcterms:temporal>
-    <dcterms:temporal>1789-1815</dcterms:temporal>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65025/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65025</edm:isShownAt>

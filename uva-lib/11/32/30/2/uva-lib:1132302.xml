@@ -12,14 +12,16 @@
     <dcterms:title>Then you'll remember me : from the opera of the Bohemian girl</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Balfe, M. W. (Michael William), 1808-1870</dcterms:creator>
+    <dcterms:creator>French, William, 1815-1898</dcterms:creator>
+    <dcterms:creator>Gillingham, Edwin</dcterms:creator>
     <dcterms:created>1859/1862</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 vocal score (5 p.)</dcterms:extent>
     <dcterms:publisher>George Willig</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1132302/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1132302</edm:isShownAt>

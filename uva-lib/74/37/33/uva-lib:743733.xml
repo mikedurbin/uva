@@ -11,19 +11,17 @@
     <dcterms:identifier>uva-lib:743733</dcterms:identifier>
     <dcterms:title>Plans and sections of batteries on the main line of enemy's works in front of Petersburg, Va</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Michler, N. (Nathaniel), 1827-1881</dcterms:creator>
     <dcterms:created>1891/1895</dcterms:created>
     <dcterms:extent>12 plans on one sheet : b&amp;w. ; sheet 42 x 69 cm.</dcterms:extent>
     <dcterms:publisher>Govt. Print. Off.</dcterms:publisher>
-    <dcterms:subject>Fortification</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Fortification--Virginia--Petersburg--Maps</dcterms:subject>
+    <dcterms:subject>Petersburg (Va.)--History--Siege, 1864-1865--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--History--Civil War, 1861-1865--Maps</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>Siege, 1864-1865</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:743733/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:743733</edm:isShownAt>

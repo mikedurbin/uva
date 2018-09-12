@@ -12,14 +12,15 @@
     <dcterms:title>A new classical dictionary of Greek and Roman biography, mythology, and geography, partly based upon the Dictionary of Greek and Roman biography and mythology.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Smith, William, 1813-1893</dcterms:creator>
+    <dcterms:creator>Anthon, Charles, 1797-1867</dcterms:creator>
     <dcterms:created>1851</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xv, 1039 p. incl. tables. plan. 24 cm.</dcterms:extent>
     <dcterms:publisher>Harper &amp; Brothers</dcterms:publisher>
     <dcterms:subject>Classical dictionaries</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>dictionary</edm:hasType>
+    <dcterms:medium>dictionary</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64411/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64411</edm:isShownAt>

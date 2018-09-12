@@ -16,11 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xi p., 3 l.,372 p. front., plates, ports. 22 cm.</dcterms:extent>
     <dcterms:publisher>Dodd, Mead and company</dcterms:publisher>
-    <dcterms:subject>Meigs, John/</dcterms:subject>
-    <dcterms:subject>Hill School (Pottstown, Pa.)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Meigs, John, 1852-1911</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65271/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65271</edm:isShownAt>

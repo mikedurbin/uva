@@ -14,13 +14,15 @@
     <dcterms:created>1889</dcterms:created>
     <dcterms:extent>1 map : col. ; 57 x 76 cm. on sheet 60 x 79 cm.</dcterms:extent>
     <dcterms:publisher>Iron Gate Land and Improvement Co.</dcterms:publisher>
-    <dcterms:subject>Real estate development</dcterms:subject>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:subject>Iron Gate Land and Improvement Co.</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>Real estate development--Virginia--Iron Gate--Maps</dcterms:subject>
+    <dcterms:subject>Real property--Virginia--Iron Gate--Maps</dcterms:subject>
+    <dcterms:subject>Real property--Virginia--Alleghany County--Maps</dcterms:subject>
+    <dcterms:subject>Iron Gate (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Alleghany County (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003471/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003471</edm:isShownAt>

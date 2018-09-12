@@ -12,11 +12,16 @@
     <dcterms:title>Three maps of London, removed from an edition of William Maitland's The history of London from its foundation to the present time</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Cole, B. (Benjamin)</dcterms:creator>
+    <dcterms:creator>Maitland, William, 1693?-1757</dcterms:creator>
+    <dcterms:creator>Cole, B. (Benjamin)</dcterms:creator>
+    <dcterms:creator>Cole, B. (Benjamin)</dcterms:creator>
+    <dcterms:creator>Cole, B. (Benjamin)</dcterms:creator>
     <dcterms:created>1755</dcterms:created>
     <dcterms:extent>3 maps ; 42 x 26 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>London (England)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1109564/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1109564</edm:isShownAt>

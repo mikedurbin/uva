@@ -11,20 +11,17 @@
     <dcterms:identifier>uva-lib:2164658</dcterms:identifier>
     <dcterms:title>Thomas Jefferson's birthday</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Faust, Bill</dcterms:creator>
     <dcterms:created>1993</dcterms:created>
     <dcterms:description>From excerpt: Head baker Lynn Burley decorates a true-to-scale cake of the Rotunda expected to feed 3,000 celebrants of Thomas Jefferson's 250th birthday April 13, 1993. Designed by Mike Haney of dining
 services' catering department, the five-foot by five-foot cake was made from 125 sheet cakes, topped off with 140 pounds of icing.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:subject>Press coverage</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:subject>University of Virginia. News Office</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2164658/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2164658</edm:isShownAt>

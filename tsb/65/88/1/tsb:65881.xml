@@ -12,15 +12,20 @@
     <dcterms:title>A systematic arrangement of Lord Coke's First Institute of the laws of England, on the plan of Sir Matthew Hale's analysis; with the annotations of Mr. Hargrave, Lord Chief Justice Hale, and Lord Chancellor Nottingham; and a new series of notes and references to the present time: including tables of parallel reference, analytical tables of contents, and a copious digested index.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Coke, Edward, Sir, 1552-1634</dcterms:creator>
+    <dcterms:creator>Littleton, Thomas, Sir, -1481</dcterms:creator>
+    <dcterms:creator>Thomas, John Henry, b. 1788 or 89</dcterms:creator>
+    <dcterms:creator>Hale, Matthew, 1609-1676</dcterms:creator>
+    <dcterms:creator>Hargrave, Francis, 1741?-1821</dcterms:creator>
+    <dcterms:creator>Nottingham, Heneage Finch, Earl of, 1621-1682</dcterms:creator>
     <dcterms:created>1818</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. 26 cm.</dcterms:extent>
     <dcterms:publisher>Printed by S. Brooke</dcterms:publisher>
-    <dcterms:subject>Land tenure</dcterms:subject>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Land tenure--Law and legislation--Great Britain</dcterms:subject>
+    <dcterms:subject>Real property--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65881/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65881</edm:isShownAt>

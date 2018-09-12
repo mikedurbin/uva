@@ -16,10 +16,10 @@
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:extent>20 x 10 x 10 cm</dcterms:extent>
     <dcterms:subject>Wine glasses</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>drinking glasses</edm:hasType>
-    <edm:hasType>wine glasses</edm:hasType>
+    <dcterms:medium>drinking glasses</dcterms:medium>
+    <dcterms:medium>wine glasses</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2584781/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2584781</edm:isShownAt>

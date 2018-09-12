@@ -12,13 +12,14 @@
     <dcterms:title>Switzerland</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hug, Lina.</dcterms:creator>
+    <dcterms:creator>Stead, Richard</dcterms:creator>
     <dcterms:created>1890</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 p. l., [ix]-xxiii, [1], 430 p. front., illus. (incl. ports.) fold. map. 20 cm.</dcterms:extent>
     <dcterms:publisher>G. Putnam's sons; [etc., etc.]</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Switzerland--History</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64604/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64604</edm:isShownAt>

@@ -12,14 +12,14 @@
     <dcterms:title>Fra Diavolo : overture</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Auber, D. F. E. (Daniel François Esprit), 1782-1871</dcterms:creator>
+    <dcterms:creator>Kunkel, Charles, 1840-1923</dcterms:creator>
     <dcterms:created>1875</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>19 p. of music.</dcterms:extent>
     <dcterms:publisher>Kunkel Brothers</dcterms:publisher>
     <dcterms:subject>Piano music (4 hands), Arranged</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:subject>Operas--Excerpts--Piano scores (4 hands)</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1131184/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1131184</edm:isShownAt>

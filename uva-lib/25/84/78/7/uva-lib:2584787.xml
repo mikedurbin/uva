@@ -14,10 +14,10 @@
     <dcterms:description>Empty, green-colored glass bottle</dcterms:description>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:extent>26.5 x 3.8 x 3.8 cm</dcterms:extent>
-    <dcterms:subject>Glass containers</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Glass containers--Bottles</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>bottles</edm:hasType>
+    <dcterms:medium>bottles</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2584787/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2584787</edm:isShownAt>

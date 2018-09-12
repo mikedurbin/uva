@@ -12,22 +12,19 @@
     <dcterms:title>Battle of New Orleans for freedom, September 14, 1874</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hardee, T. S.</dcterms:creator>
+    <dcterms:creator>Lewis, Henry, 1819-1904</dcterms:creator>
     <dcterms:created>1874</dcterms:created>
     <dcterms:extent>1 map ; 33 x 59 cm. on sheet 48 x 64 cm.</dcterms:extent>
     <dcterms:publisher>Lith. &amp; Pub. by H. Lewis, 22 St. Charles St.</dcterms:publisher>
-    <dcterms:subject>Riots</dcterms:subject>
-    <dcterms:subject>Reconstruction (U.S. history, 1865-1877)</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Kellogg, William Pitt/</dcterms:subject>
-    <dcterms:subject>Louisiana./</dcterms:subject>
-    <dcterms:subject>Governor (1873-1877 : Kellogg)</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Kellogg, William Pitt, 1830-1918</dcterms:subject>
+    <dcterms:subject>Riots--Louisiana--New Orleans--19th century--Maps</dcterms:subject>
+    <dcterms:subject>Reconstruction (U.S. history, 1865-1877)--Louisiana--New Orleans</dcterms:subject>
+    <dcterms:subject>Louisiana--Politics and government--1865-1950</dcterms:subject>
+    <dcterms:subject>New Orleans (La.)--History--19th century--Maps</dcterms:subject>
+    <dcterms:subject>New Orleans (La.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>19th century</dcterms:temporal>
-    <dcterms:temporal>1865-1950</dcterms:temporal>
-    <dcterms:temporal>19th century</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:777191/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:777191</edm:isShownAt>

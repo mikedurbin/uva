@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66154</dcterms:identifier>
+    <dcterms:title>An essay on the law of patents for new inventions. To which are prefixed, two chapters, on the general history of monopolies, and on their introduction and progress in England to the time of the inter-regnum. With an appendix, containing copies of the caveat, petition, oath, and other formulae, with an arranged catalogue of all the patents granted from January 1, 1800 to the present time.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Collier, John Dyer, 1762-1825</dcterms:creator>
+    <dcterms:created>1803</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>xvi, [4], 200, 116 p. 24 cm.</dcterms:extent>
+    <dcterms:publisher>The author</dcterms:publisher>
+    <dcterms:subject>Patent laws and legislation--Great Britain</dcterms:subject>
+    <dcterms:subject>Patents--Great Britain</dcterms:subject>
+    <dcterms:subject>Monopolies--Great Britain</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66154/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66154</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2557527/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

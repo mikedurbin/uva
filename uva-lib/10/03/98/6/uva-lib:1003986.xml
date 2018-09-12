@@ -15,12 +15,14 @@
     <dcterms:created>1850</dcterms:created>
     <dcterms:extent>1 map : col. ; 25 x 42 cm. with surrounding text on sheet 34 x 53 cm.</dcterms:extent>
     <dcterms:publisher>Heinrich Keller untere Zäune No. 367</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Switzerland--Maps</dcterms:subject>
+    <dcterms:subject>Switzerland--Maps, Tourist</dcterms:subject>
     <dcterms:spatial>Switzerland</dcterms:spatial>
     <dcterms:spatial>Zurich</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
     <dcterms:language>ger</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003986/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003986</edm:isShownAt>

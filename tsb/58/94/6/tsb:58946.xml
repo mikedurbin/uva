@@ -11,17 +11,16 @@
     <dcterms:identifier>tsb:58946</dcterms:identifier>
     <dcterms:title>Ramon's Pink Pills</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Brown Manufacturing Company</dcterms:creator>
     <dcterms:created>1920/1940</dcterms:created>
     <dcterms:description>The front side of the packet states "Ramon's Pink Pills for Sluggish Liver. Take this trial pill tonight, You'll feel better tomorrow, The little doctor brings happy days, Read the circular enclosed."</dcterms:description>
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:medium>medicines</dcterms:medium>
     <dcterms:extent>1.9 x 9 x 6 cm</dcterms:extent>
-    <dcterms:subject>Pills</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Pills--Medicine</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medicines</edm:hasType>
-    <edm:hasType>packaging</edm:hasType>
+    <dcterms:medium>medicines</dcterms:medium>
+    <dcterms:medium>packaging</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58946/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58946</edm:isShownAt>

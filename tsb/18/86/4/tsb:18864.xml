@@ -14,15 +14,15 @@
     <dcterms:created>1854</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[4] pages (last 3 pages are blank) ; 26 x 21 cm</dcterms:extent>
-    <dcterms:subject>Tobacco industry</dcterms:subject>
-    <dcterms:subject>Tobacco farmers</dcterms:subject>
-    <dcterms:subject>Tobacco farmers</dcterms:subject>
-    <dcterms:subject>Commission merchants</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Tobacco industry--Virginia</dcterms:subject>
+    <dcterms:subject>Tobacco farmers--Virginia</dcterms:subject>
+    <dcterms:subject>Tobacco farmers--North Carolina</dcterms:subject>
+    <dcterms:subject>Commission merchants--Virginia--Petersburg</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Petersburg</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18864/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18864</edm:isShownAt>

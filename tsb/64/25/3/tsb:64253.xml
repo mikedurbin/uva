@@ -17,11 +17,10 @@
     <dcterms:extent>vi, 382 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>Houghton, Mifflin and Company</dcterms:publisher>
     <dcterms:subject>Puritans</dcterms:subject>
-    <dcterms:subject>Church history</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Massachusetts--Church history</dcterms:subject>
+    <dcterms:subject>Massachusetts--History--Colonial period, ca. 1600-1775</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Colonial period, ca. 1600-1775</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64253/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64253</edm:isShownAt>

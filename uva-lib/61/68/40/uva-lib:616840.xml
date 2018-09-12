@@ -12,16 +12,20 @@
     <dcterms:title>La Mer de Nort où sont la Nle. France, la Floride, la Nle. Espagne, les Isles et la Terre-Ferme d'Amerique</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Duval, P. (Pierre), 1619-1682</dcterms:creator>
+    <dcterms:creator>Liebaux.</dcterms:creator>
     <dcterms:created>1679</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : hand col. ; 41 x 45 cm. on sheet 41 x 53 cm.</dcterms:extent>
     <dcterms:publisher>Chez l'autheur, en l'isle du palais, sur le Quay de l'Orloge...</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Mexico, Gulf of--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>West Indies--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616840/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616840</edm:isShownAt>

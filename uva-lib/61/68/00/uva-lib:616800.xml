@@ -15,12 +15,19 @@
     <dcterms:created>1850</dcterms:created>
     <dcterms:extent>1 map : b&amp;w ; 57 x 90 cm.</dcterms:extent>
     <dcterms:publisher>C.B. Graham</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Potomac River--Maps</dcterms:subject>
+    <dcterms:subject>Chesapeake and Ohio Canal (Md. and Washington, D.C.)--Maps</dcterms:subject>
+    <dcterms:subject>Alexandria Canal (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Washington Canal (Washington, D.C.)--Maps</dcterms:subject>
+    <dcterms:subject>Washington (D.C.)--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Maryland--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>District of Columbia</dcterms:spatial>
     <dcterms:spatial>Washington</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616800/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616800</edm:isShownAt>

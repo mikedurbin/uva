@@ -12,13 +12,14 @@
     <dcterms:title>The consumers' co-operative movement</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Webb, Sidney, 1859-1947</dcterms:creator>
+    <dcterms:creator>Webb, Beatrice, 1858-1943</dcterms:creator>
     <dcterms:created>1921</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xv, 504 p. 22 cm.</dcterms:extent>
     <dcterms:publisher>Longmans, Green and co.</dcterms:publisher>
-    <dcterms:subject>Cooperation</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Cooperation--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61598/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61598</edm:isShownAt>

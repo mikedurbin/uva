@@ -11,19 +11,16 @@
     <dcterms:identifier>uva-lib:2165189</dcterms:identifier>
     <dcterms:title>Professor dinner</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Gantz, Patrick</dcterms:creator>
     <dcterms:created>2001-03</dcterms:created>
     <dcterms:description>Students working with the First Year Resource Center have organized an ongoing series of dinners with faculty guests to help first-year students feel more comfortable communicating with their professors</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:subject>Press coverage</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:subject>University of Virginia. News Office</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>color photographs</edm:hasType>
+    <dcterms:medium>color photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2165189/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2165189</edm:isShownAt>

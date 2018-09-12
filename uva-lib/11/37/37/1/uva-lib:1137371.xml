@@ -12,6 +12,7 @@
     <dcterms:title>O holy night : Christmas song : for mezzo sop. or tenor with chorus ad lib, and piano or organ accompaniment</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Adam, Adolphe, 1803-1856</dcterms:creator>
+    <dcterms:creator>Dressler, William</dcterms:creator>
     <dcterms:created>1875</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (3 p.).</dcterms:extent>
@@ -20,9 +21,9 @@
     <dcterms:subject>Sacred songs (Medium voice) with piano</dcterms:subject>
     <dcterms:subject>Choruses, Secular (Mixed voices, 5 parts) with piano</dcterms:subject>
     <dcterms:subject>Christmas music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1137371/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1137371</edm:isShownAt>

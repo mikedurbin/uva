@@ -11,13 +11,14 @@
     <dcterms:identifier>tsb:66003</dcterms:identifier>
     <dcterms:title>Reports of divers special cases adjudged in the courts of King's Bench, Common Pleas and Exchequer, in the reign of King Charles II. [1660-1682]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Raymond, Thomas, 1627-1683</dcterms:creator>
     <dcterms:created>1793</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>viii, 506 (i.e. 496), [66] p. 23 cm.</dcterms:extent>
     <dcterms:publisher>Printed by J. Moore</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66003/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66003</edm:isShownAt>

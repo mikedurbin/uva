@@ -12,14 +12,15 @@
     <dcterms:title>Discours a treshault et trespuissant prince, Monseigneur le Duc de Sauoye. ; Chant pastoral a Madame Marquerite, Duchesse de Sauoye. ; Plus, XXIIII inscriptions en faueur de quelques grands seigneurs, lesquelles deuoyent seruir en la comedie, qu'on esperoit representer en la maison de Guise par le commandement de Monseigneur le Reuerendissime Cardinal de Lorraine</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Ronsard, Pierre de, 1524-1585</dcterms:creator>
+    <dcterms:creator>Ronsard, Pierre de, 1524-1585</dcterms:creator>
     <dcterms:created>1559</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[36] p. ; 21 cm. (4to)</dcterms:extent>
     <dcterms:publisher>De l'imprimerie de Robert Estienne</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:770710/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770710</edm:isShownAt>

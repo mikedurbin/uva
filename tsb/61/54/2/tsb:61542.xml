@@ -12,14 +12,14 @@
     <dcterms:title>Memoirs of the life of the Rev. Thomas Halyburton .</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Halyburton, Thomas, 1674-1712</dcterms:creator>
+    <dcterms:creator>Halbyburton, Janet Watson</dcterms:creator>
     <dcterms:created>1848</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xvi, [17]-320 p. front. (port.) 20 cm.</dcterms:extent>
     <dcterms:publisher>J. Johnstone</dcterms:publisher>
-    <dcterms:subject>Church of Scotland.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61542/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61542</edm:isShownAt>

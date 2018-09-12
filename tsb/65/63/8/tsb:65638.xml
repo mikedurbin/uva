@@ -16,9 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>517 p. : plates, port. ; 22 cm.</dcterms:extent>
     <dcterms:publisher>Printed only for subscribers by G. Barrie</dcterms:publisher>
-    <dcterms:subject>Sheppard, Jack</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Sheppard, Jack, 1702-1724</dcterms:subject>
+    <dcterms:subject>Fiction</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65638/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65638</edm:isShownAt>

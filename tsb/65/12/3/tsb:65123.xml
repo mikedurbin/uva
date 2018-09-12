@@ -14,12 +14,10 @@
     <dcterms:created>1903</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>106 p. front., plates, ports. 25 cm.</dcterms:extent>
-    <dcterms:subject>Finley, John H. (John Huston)/</dcterms:subject>
-    <dcterms:subject>New York (N.Y.)./</dcterms:subject>
-    <dcterms:subject>City College.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Finley, John H. (John Huston), 1863-1940</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65123/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65123</edm:isShownAt>

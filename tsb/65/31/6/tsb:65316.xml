@@ -12,13 +12,14 @@
     <dcterms:title>The German universities: their character and historical development</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Paulsen, Friedrich, 1846-1908</dcterms:creator>
+    <dcterms:creator>Perry, Edward Delavan, 1854-1938</dcterms:creator>
     <dcterms:created>1895</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxxi, 254 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>Macmillan and co.</dcterms:publisher>
-    <dcterms:subject>Universities and colleges</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Universities and colleges--Germany</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65316/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65316</edm:isShownAt>

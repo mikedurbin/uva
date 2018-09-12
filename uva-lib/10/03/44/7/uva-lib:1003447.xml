@@ -15,9 +15,10 @@
     <dcterms:created>1920/1929</dcterms:created>
     <dcterms:extent>1 map : col. ; 69 x 157 cm. on sheet 93 x 162 cm.</dcterms:extent>
     <dcterms:publisher>Published by Carl Pitner</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003447/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003447</edm:isShownAt>

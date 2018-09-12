@@ -16,12 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xii, 639 p. incl. col. front., illus. 12 pl. 20 cm.</dcterms:extent>
     <dcterms:publisher>Hotten</dcterms:publisher>
-    <dcterms:subject>Caricatures and cartoons</dcterms:subject>
-    <dcterms:subject>Social life and customs</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Caricatures and cartoons--Great Britain</dcterms:subject>
+    <dcterms:subject>Great Britain--Social life and customs</dcterms:subject>
+    <dcterms:subject>Great Britain--History--1714-1837</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1714-1837</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64104/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64104</edm:isShownAt>

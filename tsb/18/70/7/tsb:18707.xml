@@ -12,19 +12,19 @@
     <dcterms:title>The true Whig sentiment : Gen. Taylor's two Alison letters.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Taylor, Zachary, 1784-1850</dcterms:creator>
+    <dcterms:creator>Alison, J. A.</dcterms:creator>
     <dcterms:created>1848</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 p. ; 24 x 15 cm.</dcterms:extent>
     <dcterms:publisher>Eastburn's Press</dcterms:publisher>
+    <dcterms:subject>Taylor, Zachary, 1784-1850</dcterms:subject>
+    <dcterms:subject>Correspondence</dcterms:subject>
     <dcterms:subject>Campaign literature</dcterms:subject>
-    <dcterms:subject>Presidents</dcterms:subject>
-    <dcterms:subject>Presidents</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Taylor, Zachary</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Presidents--United States--Election--1848</dcterms:subject>
+    <dcterms:subject>Presidents--United States--Correspondence</dcterms:subject>
+    <dcterms:subject>United States--Politics and government--1845-1849</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1848</dcterms:temporal>
-    <dcterms:temporal>1845-1849</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18707/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18707</edm:isShownAt>

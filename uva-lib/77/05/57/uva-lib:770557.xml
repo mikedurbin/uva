@@ -12,18 +12,19 @@
     <dcterms:title>Letter of Edgar Allan Poe, Philadelphia, to Frederick William Thomas</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Poe, Edgar Allan, 1809-1849</dcterms:creator>
+    <dcterms:creator>Thomas, Frederick William, 1806-1866</dcterms:creator>
     <dcterms:created>1842</dcterms:created>
     <dcterms:description>Poe writes about a hoped for job in the Philadelphia customs house, the need for an international copyright law, and the illness of his wife Viriginia Clemm Poe.</dcterms:description>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:medium>manuscript</dcterms:medium>
     <dcterms:extent>1 item.</dcterms:extent>
-    <dcterms:subject>Books</dcterms:subject>
-    <dcterms:subject>Copyright</dcterms:subject>
-    <dcterms:subject>Poe, Edgar Allan/</dcterms:subject>
-    <dcterms:subject>Poe, Virginia</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Poe, Edgar Allan, 1809-1849</dcterms:subject>
+    <dcterms:subject>Poe, Virginia, 1822-1847</dcterms:subject>
+    <dcterms:subject>Books--Pirated editions</dcterms:subject>
+    <dcterms:subject>Copyright--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:770557/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770557</edm:isShownAt>

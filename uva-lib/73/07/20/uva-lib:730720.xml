@@ -17,12 +17,11 @@
     <dcterms:extent>23 leaves ; 16 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Chez Guillaume Chaudiere ...</dcterms:publisher>
     <dcterms:subject>Apologetics</dcterms:subject>
-    <dcterms:subject>Calvinism</dcterms:subject>
-    <dcterms:subject>Catholic Church</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Calvinism--Controversial literature</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730720/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730720</edm:isShownAt>

@@ -15,11 +15,12 @@
     <dcterms:created>1913</dcterms:created>
     <dcterms:extent>1 map on 3 sheets ; each image 47 x 72 cm.</dcterms:extent>
     <dcterms:publisher>U.S. Govt. Printing Office</dcterms:publisher>
-    <dcterms:subject>Intracoastal waterways</dcterms:subject>
-    <dcterms:subject>Canals</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Intracoastal waterways--Florida--Maps</dcterms:subject>
+    <dcterms:subject>Canals--Florida--Maps</dcterms:subject>
+    <dcterms:subject>Florida--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:768802/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:768802</edm:isShownAt>

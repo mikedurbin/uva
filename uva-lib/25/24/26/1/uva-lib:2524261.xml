@@ -11,7 +11,6 @@
     <dcterms:identifier>uva-lib:2524261</dcterms:identifier>
     <dcterms:title>Electrotherapy apparatus</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Aluminum Battery Co.</dcterms:creator>
     <dcterms:created>1893</dcterms:created>
     <dcterms:description>Apparatus is contained within a wooden box with a metal handle and clasp. It contains a large cylindrical battery, 2 sponges on wooden handles, a metal plate, 
       and papers related to the battery including an envelope printed with the National Commercial Co.'s (Medical Battery Makers) address in Cincinnati, Ohio. 
@@ -23,10 +22,10 @@
     <dcterms:medium>cloth</dcterms:medium>
     <dcterms:medium>sponge (material)</dcterms:medium>
     <dcterms:extent>22.3 x 19.8 x 21 cm</dcterms:extent>
-    <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medical instruments or apparatus--Electrotherapeutics--Gibson, Mary Eckenrode</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2524261/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524261</edm:isShownAt>

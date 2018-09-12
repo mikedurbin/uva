@@ -15,14 +15,15 @@
     <dcterms:created>1851/1852</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>41 pts. ; 66 cm.</dcterms:extent>
-    <dcterms:subject>Plantation life</dcterms:subject>
-    <dcterms:subject>African Americans</dcterms:subject>
-    <dcterms:subject>Slavery</dcterms:subject>
-    <dcterms:subject>Slaves</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Plantation life--Fiction</dcterms:subject>
+    <dcterms:subject>African Americans--Fiction</dcterms:subject>
+    <dcterms:subject>Slavery--Fiction</dcterms:subject>
+    <dcterms:subject>Slaves--Fiction</dcterms:subject>
+    <dcterms:subject>Southern States--Fiction</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Didactic fiction.</edm:hasType>
-    <edm:hasType>Political fiction.</edm:hasType>
+    <dcterms:medium>Didactic fiction.</dcterms:medium>
+    <dcterms:medium>Political fiction.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1037614/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1037614</edm:isShownAt>

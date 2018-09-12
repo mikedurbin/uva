@@ -16,11 +16,9 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xiv p., 1 l., 464 p., 1 l. front., ports., plates, map. 23 cm.</dcterms:extent>
     <dcterms:publisher>Houghton Mifflin company</dcterms:publisher>
-    <dcterms:subject>Andover Theological Seminary./</dcterms:subject>
-    <dcterms:subject>Dartmouth College.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64602/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64602</edm:isShownAt>

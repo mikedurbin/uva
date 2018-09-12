@@ -12,15 +12,17 @@
     <dcterms:title>Historic Pulaski, birthplace of the Ku Klux Klan, scene of execution of Sam Davis.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Richardson, William Thomas, 1858-</dcterms:creator>
+    <dcterms:creator>Brunson, R. J.</dcterms:creator>
+    <dcterms:creator>Brown, Joshua, 1949-</dcterms:creator>
     <dcterms:created>1913</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>108 p. illus. (facsim.) plates. 19 cm.</dcterms:extent>
     <dcterms:publisher>Methodist Publishing House, printer</dcterms:publisher>
-    <dcterms:subject>Davis, Sam/</dcterms:subject>
-    <dcterms:subject>Ku Klux Klan (19th century)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Davis, Sam, 1842-1863</dcterms:subject>
+    <dcterms:subject>Pulaski (Tenn.)</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61717/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61717</edm:isShownAt>

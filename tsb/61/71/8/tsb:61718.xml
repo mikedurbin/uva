@@ -12,13 +12,15 @@
     <dcterms:title>The lyrical poems of William Blake</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Blake, William, 1757-1827</dcterms:creator>
+    <dcterms:creator>Sampson, John</dcterms:creator>
+    <dcterms:creator>Raleigh, Walter, 1861-1922</dcterms:creator>
     <dcterms:created>1905</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>203 p., 18 cm</dcterms:extent>
     <dcterms:publisher>Clarendon press</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61718/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61718</edm:isShownAt>

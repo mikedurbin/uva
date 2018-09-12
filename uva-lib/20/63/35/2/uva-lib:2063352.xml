@@ -16,10 +16,11 @@
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : col. ; 33 x 53 cm., folded in cover 14 x 9 cm.</dcterms:extent>
     <dcterms:publisher>Jno. F. Waite Pub. Co.</dcterms:publisher>
-    <dcterms:subject>Virginia Business College.</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
+    <dcterms:subject>West Virginia--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2063352/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2063352</edm:isShownAt>

@@ -12,14 +12,15 @@
     <dcterms:title>A grammar of the Latin language</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Zumpt, Karl Gottlob, 1792-1849</dcterms:creator>
+    <dcterms:creator>Anthon, Charles, 1797-1867</dcterms:creator>
+    <dcterms:creator>Schmitz, Leonhard, 1807-1890</dcterms:creator>
     <dcterms:created>1853</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xx, 594 p. ; 20 cm.</dcterms:extent>
     <dcterms:publisher>Harper</dcterms:publisher>
-    <dcterms:subject>Latin language</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Latin language--Grammar--1800-1870</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1800-1870</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65434/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65434</edm:isShownAt>

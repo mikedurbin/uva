@@ -16,15 +16,14 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[47], 424, [13] p. : ill. ; 16 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Pour Antoine Chuppin</dcterms:publisher>
-    <dcterms:subject>Indians of South America</dcterms:subject>
+    <dcterms:subject>Indians of South America--Brazil</dcterms:subject>
     <dcterms:subject>Tupi language</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Brazil--Description and travel</dcterms:subject>
+    <dcterms:subject>Brazil--History--French colony, 1555-1567</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>La Rochelle</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
-    <dcterms:temporal>French colony, 1555-1567</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1155121/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1155121</edm:isShownAt>

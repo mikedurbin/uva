@@ -12,17 +12,19 @@
     <dcterms:title>Within my heart's still beating</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Aler, Edwin.</dcterms:creator>
+    <dcterms:creator>Musset, Alfred de, 1810-1857</dcterms:creator>
+    <dcterms:creator>Craigie, C. D.</dcterms:creator>
     <dcterms:created>1893</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.).</dcterms:extent>
     <dcterms:publisher>John F. Ellis &amp; Co.</dcterms:publisher>
+    <dcterms:subject>Musset, Alfred de, 1810-1857</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>Musset, Alfred de</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1133170/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1133170</edm:isShownAt>

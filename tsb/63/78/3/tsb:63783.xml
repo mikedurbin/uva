@@ -12,6 +12,7 @@
     <dcterms:title>Critique of pure reason</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Kant, Immanuel, 1724-1804</dcterms:creator>
+    <dcterms:creator>Meiklejohn, J. M. D. (John Miller Dow), 1830-1902</dcterms:creator>
     <dcterms:created>1900</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxv, 480 p. front. 20 cm.</dcterms:extent>
@@ -19,9 +20,9 @@
     <dcterms:subject>Knowledge, Theory of</dcterms:subject>
     <dcterms:subject>Causation</dcterms:subject>
     <dcterms:subject>Reason</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>ger</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63783/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63783</edm:isShownAt>

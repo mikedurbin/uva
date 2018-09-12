@@ -12,16 +12,17 @@
     <dcterms:title>Works</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>M'Crie, Thomas, 1772-1835</dcterms:creator>
+    <dcterms:creator>M'Crie, Thomas, 1797-1875</dcterms:creator>
     <dcterms:created>1855/1857</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 v. ports. (v. 1, 3) 20 cm.</dcterms:extent>
     <dcterms:publisher>W. Blackwood</dcterms:publisher>
+    <dcterms:subject>Knox, John, approximately 1514-1572</dcterms:subject>
+    <dcterms:subject>Scott, Walter, 1771-1832</dcterms:subject>
+    <dcterms:subject>Melville, Andrew, 1545-1622</dcterms:subject>
     <dcterms:subject>Reformation</dcterms:subject>
-    <dcterms:subject>Knox, John/</dcterms:subject>
-    <dcterms:subject>Scott, Walter/</dcterms:subject>
-    <dcterms:subject>Melville, Andrew</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65227/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65227</edm:isShownAt>

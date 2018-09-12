@@ -11,14 +11,13 @@
     <dcterms:identifier>uva-lib:2440606</dcterms:identifier>
     <dcterms:title>Erlenmeyer flask and 2 beakers</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Corning Incorporated</dcterms:creator>
     <dcterms:created>1915/1960</dcterms:created>
     <dcterms:description>Consists of the following: 1 50 ml beaker, 1 100 ml beaker, and 1 125 ml erlenmeyer flask. The following text is printed on all of the vessels: "T.M. REG PYREX U.S. PAT. OFF. MADE IN U.S.A.".</dcterms:description>
     <dcterms:medium>glass</dcterms:medium>
     <dcterms:subject>Medical laboratory technology</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>beakers (pouring vessels)</edm:hasType>
+    <dcterms:medium>beakers (pouring vessels)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440606/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440606</edm:isShownAt>

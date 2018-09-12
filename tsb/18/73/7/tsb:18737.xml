@@ -15,11 +15,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 broadside. 33 x 20 cm.</dcterms:extent>
     <dcterms:publisher>Culley, Printer, 146 Main Street</dcterms:publisher>
-    <dcterms:subject>Concert programs</dcterms:subject>
-    <dcterms:subject>Elena, Luigi/</dcterms:subject>
+    <dcterms:subject>Elena, Luigi</dcterms:subject>
     <dcterms:subject>Elena, Annibale</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Concert programs</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18737/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18737</edm:isShownAt>

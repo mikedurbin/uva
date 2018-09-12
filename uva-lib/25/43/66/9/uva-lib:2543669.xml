@@ -21,9 +21,9 @@
     <dcterms:medium>leather</dcterms:medium>
     <dcterms:extent>26.5 x 32 x 7 cm</dcterms:extent>
     <dcterms:subject>Handbags</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>purses (ladies' accessories)</edm:hasType>
+    <dcterms:medium>purses (ladies' accessories)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2543669/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2543669</edm:isShownAt>

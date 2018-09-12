@@ -11,7 +11,6 @@
     <dcterms:identifier>uva-lib:2543692</dcterms:identifier>
     <dcterms:title>Surgical kit</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Davis &amp; Geck Inc.</dcterms:creator>
     <dcterms:created>1912/1918</dcterms:created>
     <dcterms:description>World War I canvas field surgical kit with 2 snaps containing 8 instruments. Includes tweezers, scissors, bougie (?), hemostat, 
       two small scalpels in a metal case stamped "PATENTED NOV. 5, 1912," one complete vial of sutures marked "Claustro-therman Catgut sutures, 
@@ -23,10 +22,10 @@
     <dcterms:medium>thread</dcterms:medium>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:extent>9 x 16 x 4 cm</dcterms:extent>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>World War, 1914-1918--First aid in illness and injury</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2543692/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2543692</edm:isShownAt>

@@ -12,13 +12,13 @@
     <dcterms:title>Floating on the wind : op. 90</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Richards, Brinley, 1819-1885</dcterms:creator>
+    <dcterms:creator>Moelling, Theodore</dcterms:creator>
     <dcterms:created>1866</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 p. of music.</dcterms:extent>
     <dcterms:publisher>S. Brainard's Sons</dcterms:publisher>
     <dcterms:subject>Piano music (4 hands), Arranged</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1119581/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1119581</edm:isShownAt>

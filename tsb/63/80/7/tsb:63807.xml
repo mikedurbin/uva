@@ -12,13 +12,14 @@
     <dcterms:title>Saint Genest and Venceslas</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Rotrou, Jean, 1609-1650</dcterms:creator>
+    <dcterms:creator>Crane, Thomas Frederick, 1844-1927</dcterms:creator>
     <dcterms:created>1907</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>ix, 433 p. front. 19 cm.</dcterms:extent>
     <dcterms:publisher>Ginn &amp; Company</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63807/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63807</edm:isShownAt>

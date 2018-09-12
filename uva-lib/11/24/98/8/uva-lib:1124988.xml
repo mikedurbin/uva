@@ -12,13 +12,15 @@
     <dcterms:title>Nocturne pour le piano, oeuv. 32</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wollenhaupt, H. A. (Hermann Adolf), 1827-1863</dcterms:creator>
+    <dcterms:creator>Marcato, Ben</dcterms:creator>
+    <dcterms:creator>Pearson, J. C. (J. Charles)</dcterms:creator>
+    <dcterms:creator>Pomeroy, Cora</dcterms:creator>
     <dcterms:created>1848/1858</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 p. of music.</dcterms:extent>
     <dcterms:publisher>William Hall &amp; Son</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1124988/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1124988</edm:isShownAt>

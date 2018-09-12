@@ -12,23 +12,23 @@
     <dcterms:title>Military map of Suffolk and vicinity</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Soederquist, Oscar.</dcterms:creator>
+    <dcterms:creator>Viele, Egbert L. (Egbert Ludovicus), 1825-1902</dcterms:creator>
+    <dcterms:creator>Beauregard, G. T. (Gustave Toutant), 1818-1893</dcterms:creator>
+    <dcterms:creator>Walker, William Stephen.</dcterms:creator>
+    <dcterms:creator>Cowles, Calvin D. (Calvin Duvall), 1849-</dcterms:creator>
     <dcterms:created>1891/1895</dcterms:created>
     <dcterms:extent>1 map : col. ; 42 x 69 cm.</dcterms:extent>
     <dcterms:publisher>Govt. Print. Off.</dcterms:publisher>
-    <dcterms:subject>Landowners</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Landowners--Virginia--Suffolk--Maps</dcterms:subject>
+    <dcterms:subject>Suffolk (Va.)--History--Siege, 1863--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--History--Civil War, 1861-1865--Maps</dcterms:subject>
+    <dcterms:subject>South Carolina--History--Civil War, 1861-1865--Maps</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Maps</dcterms:subject>
+    <dcterms:subject>Morris Island (S.C.)--History--Maps</dcterms:subject>
+    <dcterms:subject>Colleton County (S.C.)--History--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>Siege, 1863</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:59096/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:59096</edm:isShownAt>

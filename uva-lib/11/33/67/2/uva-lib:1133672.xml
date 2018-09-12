@@ -12,16 +12,23 @@
     <dcterms:title>I wish I was in Dixies land</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Emmett, Daniel Decatur, 1815-1904</dcterms:creator>
+    <dcterms:creator>Wood, John, Mrs</dcterms:creator>
+    <dcterms:creator>Newcomb, J.</dcterms:creator>
+    <dcterms:creator>Peters, W. H. (Walter Harvest), 1885-1949</dcterms:creator>
+    <dcterms:creator>Viereck, J. C.</dcterms:creator>
+    <dcterms:creator>Wehrmann, Henri, 1827-1905</dcterms:creator>
+    <dcterms:creator>Wakelam</dcterms:creator>
     <dcterms:created>1860</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.).</dcterms:extent>
     <dcterms:publisher>P.P. Werlein</dcterms:publisher>
+    <dcterms:subject>Peters, W. H. (Walter Harvest), 1885-1949</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>Peters, W. H. (Walter Harvest)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+    <dcterms:subject>Southern States--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1133672/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1133672</edm:isShownAt>

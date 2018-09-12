@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 p.l., 381 p. front (port.) 20 cm.</dcterms:extent>
     <dcterms:publisher>The Bobbs-Merrill company</dcterms:publisher>
-    <dcterms:subject>Browning, Robert</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Browning, Robert, 1812-1889</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61573/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61573</edm:isShownAt>

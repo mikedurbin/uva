@@ -12,15 +12,16 @@
     <dcterms:title>Race prejudice</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Finot, Jean, 1858-1922</dcterms:creator>
+    <dcterms:creator>Evans, Florence Wade</dcterms:creator>
     <dcterms:created>1906</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xvi, 320 p. 24 cm.</dcterms:extent>
     <dcterms:publisher>Archibald Constable and company, ltd.</dcterms:publisher>
     <dcterms:subject>Race relations</dcterms:subject>
     <dcterms:subject>Race</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65584/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65584</edm:isShownAt>

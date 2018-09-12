@@ -12,16 +12,18 @@
     <dcterms:title>Memorials of Washington and of Mary, his mother, and Martha, his wife</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Walter, James.</dcterms:creator>
+    <dcterms:creator>Cary, Robert.</dcterms:creator>
+    <dcterms:creator>Sharples, James, 1750?-1811</dcterms:creator>
     <dcterms:created>1887/1886</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xii p., [1] leaf, 362, [1] p., [12] leaves of plates : ill. ; 26 cm.</dcterms:extent>
     <dcterms:publisher>Charles Scribner's Sons</dcterms:publisher>
-    <dcterms:subject>Washington, George/</dcterms:subject>
-    <dcterms:subject>Washington, Mary Ball/</dcterms:subject>
-    <dcterms:subject>Washington, Martha</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+    <dcterms:subject>Washington, Mary Ball, 1708-1789</dcterms:subject>
+    <dcterms:subject>Washington, Martha, 1731-1802</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63967/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63967</edm:isShownAt>

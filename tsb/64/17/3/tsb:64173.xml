@@ -12,15 +12,15 @@
     <dcterms:title>C. Suetoni Tranquilli quae supersunt omnia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Suetonius, approximately 69-approximately 122</dcterms:creator>
+    <dcterms:creator>Roth, Karl Ludwig, 1811-1860</dcterms:creator>
     <dcterms:created>1898</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>civ, 357 p. 18 cm.</dcterms:extent>
     <dcterms:publisher>in aedibus, B. G. Teubneri</dcterms:publisher>
-    <dcterms:subject>Emperors</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Emperors--Rome</dcterms:subject>
+    <dcterms:subject>Rome--History--Empire, 30 B.C.-284 A.D</dcterms:subject>
     <dcterms:language>ita</dcterms:language>
-    <dcterms:temporal>Empire, 30 B.C.-284 A.D</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64173/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64173</edm:isShownAt>

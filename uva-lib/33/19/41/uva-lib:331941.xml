@@ -17,15 +17,15 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Davis, Alexander Jackson</dcterms:subject>
-    <dcterms:subject>Daughters</dcterms:subject>
-    <dcterms:subject>Hats</dcterms:subject>
-    <dcterms:subject>Girls</dcterms:subject>
-    <dcterms:subject>Portrait</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Davis, Alexander Jackson--People by name</dcterms:subject>
+    <dcterms:subject>Daughters--People by family relationship</dcterms:subject>
+    <dcterms:subject>Hats--Accessories worn on the head</dcterms:subject>
+    <dcterms:subject>Girls--People by gender</dcterms:subject>
+    <dcterms:subject>Portrait--Visual works by subject types</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:331941/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:331941</edm:isShownAt>

@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vii, [1], 1439 p. 26 cm.</dcterms:extent>
     <dcterms:publisher>Funk &amp; Wagnells company</dcterms:publisher>
-    <dcterms:subject>Social sciences</dcterms:subject>
-    <dcterms:subject>Social problems</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Social sciences--Dictionaries</dcterms:subject>
+    <dcterms:subject>Social problems--Dictionaries</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>dictionary</edm:hasType>
+    <dcterms:medium>dictionary</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65001/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65001</edm:isShownAt>

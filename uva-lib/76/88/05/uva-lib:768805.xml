@@ -11,14 +11,18 @@
     <dcterms:identifier>uva-lib:768805</dcterms:identifier>
     <dcterms:title>A plan of the town of Macon, Bibb County, Georgia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Smith, James.</dcterms:creator>
+    <dcterms:creator>Dane, George.</dcterms:creator>
+    <dcterms:creator>Wilcox, A. D.</dcterms:creator>
     <dcterms:created>1899</dcterms:created>
     <dcterms:extent>1 map : blueprint ; 41 x 68 cm.</dcterms:extent>
     <dcterms:publisher>City Engineer's Office</dcterms:publisher>
-    <dcterms:subject>City planning</dcterms:subject>
-    <dcterms:subject>Landowners</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>City planning--Georgia--Macon--Maps</dcterms:subject>
+    <dcterms:subject>Landowners--Georgia--Macon--Maps</dcterms:subject>
+    <dcterms:subject>Macon (Ga.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:768805/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:768805</edm:isShownAt>

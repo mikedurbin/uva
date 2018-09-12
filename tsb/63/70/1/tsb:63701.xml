@@ -12,13 +12,14 @@
     <dcterms:title>Hungarian grammar</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Ginever, Charles Arthur.</dcterms:creator>
+    <dcterms:creator>Ginever, Ilona De Györy, 1868-</dcterms:creator>
     <dcterms:created>1909</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vii, 100 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>K. Paul, Trench, Trübner &amp; Co., ltd.</dcterms:publisher>
-    <dcterms:subject>Hungarian language</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Hungarian language--Grammar</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63701/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63701</edm:isShownAt>

@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. 23 cm.</dcterms:extent>
     <dcterms:publisher>Macmillan</dcterms:publisher>
-    <dcterms:subject>Colonies</dcterms:subject>
-    <dcterms:subject>Colonies</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Great Britain--Colonies--Administration</dcterms:subject>
+    <dcterms:subject>Great Britain--Colonies--America</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61727/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61727</edm:isShownAt>

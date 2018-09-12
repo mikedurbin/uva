@@ -11,19 +11,16 @@
     <dcterms:identifier>uva-lib:2164606</dcterms:identifier>
     <dcterms:title>Teach-in</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Hurelbrinck, Nancy</dcterms:creator>
     <dcterms:created>1997-03</dcterms:created>
     <dcterms:description>Eric Lott, English, speaks at Workers' Rights are Civil Rights: A Teach-in with the labor Movement. The program included consumer advocate Ralph Nader; AFL-CIO secretary-treasurer Richard Trumka; feminist social critic and author Barbara Ehrenreich; Ed Ayers and Julian Bond, from the History department; Joyce Breeden, diploma coordinator; Pam Karlan, from Law school; and UNC-Chapel Hill Housekeepers Association chair Barbara Prear.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:subject>Press coverage</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:subject>University of Virginia. News Office</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>black-and-white negatives</edm:hasType>
+    <dcterms:medium>black-and-white negatives</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2164606/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2164606</edm:isShownAt>

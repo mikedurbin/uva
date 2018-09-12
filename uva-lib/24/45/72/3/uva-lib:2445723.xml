@@ -15,7 +15,8 @@
     <dcterms:created>1929/1935</dcterms:created>
     <dcterms:description>Interior, view of altar. Building Date: 1734. King William County, Virginia.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
-    <dcterms:subject>Historic buildings</dcterms:subject>
+    <dcterms:subject>Johnston, Frances Benjamin, 1864-1952</dcterms:subject>
+    <dcterms:subject>Historic buildings--Virginia</dcterms:subject>
     <dcterms:subject>Architecture</dcterms:subject>
     <dcterms:subject>Churches</dcterms:subject>
     <dcterms:subject>Religious buildings</dcterms:subject>
@@ -25,14 +26,13 @@
     <dcterms:subject>Camber windows</dcterms:subject>
     <dcterms:subject>Choir lofts</dcterms:subject>
     <dcterms:subject>Barrel vaults</dcterms:subject>
-    <dcterms:subject>Johnston, Frances Benjamin, 1864-1952</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>King William</dcterms:spatial>
     <dcterms:isPartOf>Frances Benjamin Johnston Photographs</dcterms:isPartOf>
-    <edm:hasType>Architectural photographs</edm:hasType>
-    <edm:hasType>gelatin silver prints</edm:hasType>
+    <dcterms:medium>Architectural photographs</dcterms:medium>
+    <dcterms:medium>gelatin silver prints</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2445723/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2445723</edm:isShownAt>

@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>47, [5] leaves ; 14 cm.</dcterms:extent>
     <dcterms:publisher>On les vend a Lyon, en la maison de Frācoys Juste ...</dcterms:publisher>
-    <dcterms:subject>Cosmetics</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Cosmetics--Early works to 1800</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:745506/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:745506</edm:isShownAt>

@@ -12,17 +12,18 @@
     <dcterms:title>When the cuckoo goes to sleep</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Davis, Gussie L., 1863-1899</dcterms:creator>
+    <dcterms:creator>Speed, Billy</dcterms:creator>
+    <dcterms:creator>Davis, Gussie L., 1863-1899</dcterms:creator>
     <dcterms:created>1886</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.)</dcterms:extent>
     <dcterms:publisher>M. Witmark &amp; Sons</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
     <dcterms:subject>Choruses, Secular (Mixed voices) with piano</dcterms:subject>
-    <dcterms:subject>Minstrel music</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Minstrel music--United States</dcterms:subject>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1139798/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1139798</edm:isShownAt>

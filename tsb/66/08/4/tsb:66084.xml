@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66084</dcterms:identifier>
+    <dcterms:title>Les termes de la ley; or, Certain difficult &amp; obscure words &amp; terms of the common and statute laws of this realm now in use, expounded and explained. Corrected and enlarged, with the addition of many other words; particularly of those that have been lately introduced into the statute law of Great Britain, never printed in any other impression.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Rastell, John, -1536</dcterms:creator>
+    <dcterms:creator>Rastell, William, 1508?-1565</dcterms:creator>
+    <dcterms:created>1721</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>592 p. 21 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by Eliz. Nutt and R. Gosling (assigns of E. Sayer) for R. Gosling</dcterms:publisher>
+    <dcterms:subject>Law--Dictionaries</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:language>fre</dcterms:language>
+    <dcterms:medium>dictionary</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66084/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66084</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2516070/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

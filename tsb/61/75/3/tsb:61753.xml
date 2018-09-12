@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. front., (v. 1, coat of arms) plates, ports., geneal. tab. 21 cm.</dcterms:extent>
     <dcterms:publisher>G. P. Putnam's sons</dcterms:publisher>
-    <dcterms:subject>Carroll, Charles</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Carroll, Charles, 1737-1832</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61753/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61753</edm:isShownAt>

@@ -11,17 +11,25 @@
     <dcterms:identifier>uva-lib:1003427</dcterms:identifier>
     <dcterms:title>Preliminary chart of Hampton Roads and Elizabeth River Virginia : from a trigonometrical survey</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Bache, A. D. (Alexander Dallas), 1806-1867</dcterms:creator>
+    <dcterms:creator>Almy, John Jay, 1815-1895</dcterms:creator>
+    <dcterms:creator>Blunt, Edmund, 1799-1866</dcterms:creator>
+    <dcterms:creator>Graham, C. B. (Curtis B.)</dcterms:creator>
+    <dcterms:creator>Seib, John.</dcterms:creator>
+    <dcterms:creator>Schoepf, A. S.</dcterms:creator>
     <dcterms:created>1857</dcterms:created>
     <dcterms:extent>1 map ; 54 x 39 cm. on sheet 61 x 48 cm.</dcterms:extent>
     <dcterms:publisher>United States Coast Survey]</dcterms:publisher>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Nautical charts--Virginia--Hampton Roads (Harbor)</dcterms:subject>
+    <dcterms:subject>Nautical charts--Virginia--Elizabeth River</dcterms:subject>
+    <dcterms:subject>Hampton Roads (Va. : Harbor)--Maps</dcterms:subject>
+    <dcterms:subject>Elizabeth River (Va.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>District of Columbia</dcterms:spatial>
     <dcterms:spatial>Washington</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003427/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003427</edm:isShownAt>

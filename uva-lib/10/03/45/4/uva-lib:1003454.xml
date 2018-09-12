@@ -15,12 +15,10 @@
     <dcterms:created>1883</dcterms:created>
     <dcterms:extent>1 map ; 58 x 88 cm. on sheet 62 x 100 cm.</dcterms:extent>
     <dcterms:publisher>Grace Church</dcterms:publisher>
-    <dcterms:subject>Cemeteries</dcterms:subject>
-    <dcterms:subject>Grace Church Cemetery (Cismont, Va.)/</dcterms:subject>
-    <dcterms:subject>Grace Church (Cismont, Va.)</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Cemeteries--Virginia--Albemarle County--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003454/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003454</edm:isShownAt>

@@ -12,13 +12,14 @@
     <dcterms:title>The life of William H. Seward with selections from his works</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Baker, George E.</dcterms:creator>
+    <dcterms:creator>Seward, William H. (William Henry), 1801-1872</dcterms:creator>
     <dcterms:created>1855</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>410 p. front. (port.) 19 cm.</dcterms:extent>
     <dcterms:publisher>Redfield</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63842/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63842</edm:isShownAt>

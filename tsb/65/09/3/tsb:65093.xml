@@ -12,13 +12,14 @@
     <dcterms:title>Shakespeare's Macbeth</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Shakespeare, William, 1564-1616</dcterms:creator>
+    <dcterms:creator>Schelling, Felix Emmanuel, 1858-1945</dcterms:creator>
     <dcterms:created>1911</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxxiii, [1], 173 p. front. (port.) illus., map. 17 cm.</dcterms:extent>
     <dcterms:publisher>H. Holt and company</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65093/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65093</edm:isShownAt>

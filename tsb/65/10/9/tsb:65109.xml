@@ -12,12 +12,13 @@
     <dcterms:title>Le colonel Chabert ; Honorine ; L'interdicton</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Balzac, Honoré de, 1799-1850</dcterms:creator>
+    <dcterms:creator>Balzac, Honoré de, 1799-1850</dcterms:creator>
     <dcterms:created>1896</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>303 p. ; 19 cm.</dcterms:extent>
     <dcterms:publisher>Calmann Lévy</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65109/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65109</edm:isShownAt>

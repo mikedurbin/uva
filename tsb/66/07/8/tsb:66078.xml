@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66078</dcterms:identifier>
+    <dcterms:title>Lectures on the constitution and laws of England: with a commentary on Magna charta, and illustrations of many of the English statutes.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Sullivan, Francis Stoughton, 1719-1776</dcterms:creator>
+    <dcterms:creator>Stuart, Gilbert, 1742-1786</dcterms:creator>
+    <dcterms:created>1776</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>xvi, xxxii, 415 p. 27 cm.</dcterms:extent>
+    <dcterms:publisher>Printed for E. and C. Dilly [etc.]</dcterms:publisher>
+    <dcterms:subject>Feudal law--Great Britain</dcterms:subject>
+    <dcterms:subject>Constitutional history--Great Britain</dcterms:subject>
+    <dcterms:subject>Law--Great Britain</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66078/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66078</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2512841/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

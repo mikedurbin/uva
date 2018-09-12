@@ -12,13 +12,14 @@
     <dcterms:title>Memoirs of Robert-Houdin, ambassador, author, and conjuror</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Robert-Houdin, Jean-Eugène, 1805-1871</dcterms:creator>
+    <dcterms:creator>Mackenzie, R. Shelton (Robert Shelton), 1809-1880</dcterms:creator>
     <dcterms:created>1859</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>445 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>G. G. Evans</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61730/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61730</edm:isShownAt>

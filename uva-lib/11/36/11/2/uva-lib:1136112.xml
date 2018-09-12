@@ -12,14 +12,15 @@
     <dcterms:title>An old world serenade : Liebeslied = Rococo Ständchen = Serenade rococco : (violin obligato ad lib.)</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Meyer-Helmund, Erik, 1861-1932</dcterms:creator>
+    <dcterms:creator>England, Paul</dcterms:creator>
     <dcterms:created>1895</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (6 p.).</dcterms:extent>
     <dcterms:publisher>B. F. Wood Music Co.</dcterms:publisher>
     <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>ger</dcterms:language>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1136112/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1136112</edm:isShownAt>

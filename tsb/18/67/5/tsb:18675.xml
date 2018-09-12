@@ -17,11 +17,11 @@
     <dcterms:extent>1 sheet ([1] p.) ; 48 x 31 cm.</dcterms:extent>
     <dcterms:publisher>C.R. Fontaine</dcterms:publisher>
     <dcterms:subject>Star of the South (Horse)</dcterms:subject>
-    <dcterms:subject>Horses</dcterms:subject>
-    <dcterms:subject>Stallions</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Horses--Breeding</dcterms:subject>
+    <dcterms:subject>Stallions--Virginia</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Virginia-19th century.</edm:hasType>
+    <dcterms:medium>Broadsides-Virginia-19th century.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18675/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18675</edm:isShownAt>

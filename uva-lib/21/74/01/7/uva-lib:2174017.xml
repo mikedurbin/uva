@@ -14,11 +14,10 @@
     <dcterms:created>1863</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 broadside. 26 x 14 cm.</dcterms:extent>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Beauregard, G. T. (Gustave Toutant)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Beauregard, G. T. (Gustave Toutant), 1818-1893</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Poetry--Confederate</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2174017/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174017</edm:isShownAt>

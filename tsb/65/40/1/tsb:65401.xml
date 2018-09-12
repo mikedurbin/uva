@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>viii, 363, [1] p. front., maps (part fold.) 24 cm.</dcterms:extent>
     <dcterms:publisher>McBride</dcterms:publisher>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>World War, 1914-1918--Campaigns--France</dcterms:subject>
+    <dcterms:subject>World War, 1914-1918--Germany</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65401/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65401</edm:isShownAt>

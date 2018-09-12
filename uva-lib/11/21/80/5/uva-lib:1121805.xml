@@ -12,16 +12,18 @@
     <dcterms:title>My boyhood's home : air sung by Mr. Seguin, in the grand opera Amilie, or, The love test</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Rooke, W. M. (William Michael), 1794-1847</dcterms:creator>
+    <dcterms:creator>Haines, John Thomas, 1799?-1843</dcterms:creator>
+    <dcterms:creator>Seguin, Arthur Edward Shelden, 1809-1852</dcterms:creator>
     <dcterms:created>1836/1838</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 vocal score (7 p.) ; 35 cm.</dcterms:extent>
     <dcterms:publisher>Published at Millet's Music Saloon</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Home</dcterms:subject>
-    <dcterms:subject>Soldiers</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Home--Songs and music</dcterms:subject>
+    <dcterms:subject>Soldiers--Songs and music</dcterms:subject>
+    <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1121805/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1121805</edm:isShownAt>

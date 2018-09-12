@@ -15,15 +15,15 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 44 x 28 cm.</dcterms:extent>
     <dcterms:publisher>Lynchburg Republican</dcterms:publisher>
-    <dcterms:subject>Winter</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Winter--Poetry</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Lynchburg</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Virginia-Lynchburg-1850.</edm:hasType>
-    <edm:hasType>Cloth printings (Printing)</edm:hasType>
-    <edm:hasType>Carriers' addresses-Virginia-Lynchburg-1850.</edm:hasType>
+    <dcterms:medium>Broadsides-Virginia-Lynchburg-1850.</dcterms:medium>
+    <dcterms:medium>Cloth printings (Printing)</dcterms:medium>
+    <dcterms:medium>Carriers' addresses-Virginia-Lynchburg-1850.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18671/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18671</edm:isShownAt>

@@ -12,14 +12,15 @@
     <dcterms:title>Confederate reunion march</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Grunewald, C.</dcterms:creator>
+    <dcterms:creator>Childress, W. A.</dcterms:creator>
     <dcterms:created>1895</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 p. of music : ill.</dcterms:extent>
     <dcterms:publisher>Grunewald's Music House</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
     <dcterms:subject>Marches (Piano)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:subject>Confederate States of America--Songs and music</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1145087/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1145087</edm:isShownAt>

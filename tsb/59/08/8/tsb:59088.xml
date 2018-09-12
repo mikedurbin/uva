@@ -12,14 +12,15 @@
     <dcterms:title>Map of Staunton Park Addition Co., adjoining City Park, Staunton, Va</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Zerr, E. B.</dcterms:creator>
+    <dcterms:creator>Kable, William H. (William Hartman), 1837-1912</dcterms:creator>
     <dcterms:created>1900</dcterms:created>
     <dcterms:extent>1 map : b&amp;w ; 63 x 51 cm.</dcterms:extent>
     <dcterms:publisher>Norris Peters Co.</dcterms:publisher>
-    <dcterms:subject>Real estate development</dcterms:subject>
-    <dcterms:subject>Staunton Park Addition Co. (Staunton, Va.)</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Real estate development--Virginia--Staunton--Maps</dcterms:subject>
+    <dcterms:subject>Staunton (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:59088/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:59088</edm:isShownAt>

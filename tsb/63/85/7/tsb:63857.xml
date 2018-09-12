@@ -18,16 +18,12 @@
     <dcterms:publisher>Little, Brown, and company</dcterms:publisher>
     <dcterms:subject>History</dcterms:subject>
     <dcterms:subject>Sea-power</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History, Naval</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>France./</dcterms:subject>
-    <dcterms:subject>Marine</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>France--History--1789-1900</dcterms:subject>
+    <dcterms:subject>France--History, Naval</dcterms:subject>
+    <dcterms:subject>France--History--Consulate and First Empire, 1799-1815</dcterms:subject>
+    <dcterms:subject>Europe--History</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1789-1900</dcterms:temporal>
-    <dcterms:temporal>Consulate and First Empire, 1799-1815</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63857/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63857</edm:isShownAt>

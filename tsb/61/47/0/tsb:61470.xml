@@ -12,14 +12,17 @@
     <dcterms:title>The Lincoln memorial: album-immortelles</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Oldroyd, Osborn Hamiline, 1842-1930</dcterms:creator>
+    <dcterms:creator>Lincoln, Abraham, 1809-1865</dcterms:creator>
+    <dcterms:creator>Simpson, Matthew, bp, 1811-1884</dcterms:creator>
+    <dcterms:creator>Arnold, Isaac N., 1815-1884</dcterms:creator>
     <dcterms:created>1882</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxviii, 29-571 p. incl. facsims. front. (port.) plates. 24 cm.</dcterms:extent>
     <dcterms:publisher>G. W. Carleton &amp; co.</dcterms:publisher>
-    <dcterms:subject>Lincoln, Abraham</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Lincoln, Abraham, 1809-1865</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61470/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61470</edm:isShownAt>

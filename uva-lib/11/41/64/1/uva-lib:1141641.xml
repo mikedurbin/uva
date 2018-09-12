@@ -12,17 +12,18 @@
     <dcterms:title>Lovers' wishes = Les voeux d'un amant</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bendall, Wilfred, 1850-1920</dcterms:creator>
+    <dcterms:creator>Hugo, Victor, 1802-1885</dcterms:creator>
     <dcterms:created>1889</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (9 p.) + 2 parts ([1] leaf each)</dcterms:extent>
     <dcterms:publisher>G. Schirmer</dcterms:publisher>
-    <dcterms:subject>Songs (Medium voice) with instrumental ensemble</dcterms:subject>
+    <dcterms:subject>Hugo, Victor, 1802-1885</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
+    <dcterms:subject>Songs (Medium voice) with instrumental ensemble--Scores and parts</dcterms:subject>
     <dcterms:subject>Love songs</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>Hugo, Victor</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1141641/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1141641</edm:isShownAt>

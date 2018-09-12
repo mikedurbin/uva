@@ -16,14 +16,12 @@
     <dcterms:description>Retired UVa Spanish professor C. Julian Bishko, left, 93, made a point of attending UVa's graduation and Final Exercises to congratulate his cousin twice removed, Brandi L. Durkac, second from right. Bishko, who still goes to Alderman Library once a week to do research, became a mentor to Durkac, who majored in Spanish and economics. Standing with them are Spanish department chair David Gies, who said he also considered Bishko a mentor, and Brandi's mother, Lani, whose father was Bishko's first cousin.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:subject>Press coverage</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:subject>University of Virginia. News Office</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>color photographs</edm:hasType>
+    <dcterms:medium>color photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2164132/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2164132</edm:isShownAt>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66225</dcterms:identifier>
+    <dcterms:title>The orphan's legacy; or, A testamentary abridgment. In three parts. I. Of last wills and testaments. II. Of executors and administrators. III. Of legacies and devises. Wherein the most material points of law relating to that subject, are succinctly treated, as well according to the common and temporal, as ecclesiastical and civil laws of this realm. Illustrated with a great variety of select cases in the law of both professions.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Godolphin, John, 1617-1678</dcterms:creator>
+    <dcterms:created>1701</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>4 p. l., 478 (i. e. 476), [20] p. 24 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by the assigns of Richard and Edward Atkins, for Robert Vincent</dcterms:publisher>
+    <dcterms:subject>Wills--Great Britain</dcterms:subject>
+    <dcterms:subject>Executors and administrators--Great Britain</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66225/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66225</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2590298/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

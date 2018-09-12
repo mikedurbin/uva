@@ -12,13 +12,14 @@
     <dcterms:title>Lettres persanes</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Montesquieu, Charles de Secondat, baron de, 1689-1755</dcterms:creator>
+    <dcterms:creator>Cru, R. Loyalty (Robert Loyalty), 1884-</dcterms:creator>
     <dcterms:created>1914</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxvii, 312 p. plates, 2 port. (incl. front.) facsim. 19 cm.</dcterms:extent>
     <dcterms:publisher>Oxford University Press; [etc., etc.]</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64115/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64115</edm:isShownAt>

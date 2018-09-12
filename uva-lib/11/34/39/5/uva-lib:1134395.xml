@@ -12,13 +12,14 @@
     <dcterms:title>There is a green hill far away</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Gounod, Charles, 1818-1893</dcterms:creator>
+    <dcterms:creator>Alexander, Cecil Frances, 1818-1895</dcterms:creator>
     <dcterms:created>1870/1879</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.)</dcterms:extent>
     <dcterms:publisher>F.W. Walter</dcterms:publisher>
     <dcterms:subject>Sacred songs with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1134395/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1134395</edm:isShownAt>

@@ -12,15 +12,16 @@
     <dcterms:title>Iron &amp; coal lands of T.J. Boyd, Wythe County, Virginia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Boyd, Charles Rufus, 1841-1903</dcterms:creator>
+    <dcterms:creator>Boyd, Thomas Jefferson, 1804-1893</dcterms:creator>
     <dcterms:created>1885</dcterms:created>
     <dcterms:extent>1 map : col. ; 43 x 34 cm. on sheet 49 x 37 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Mines and mineral resources</dcterms:subject>
-    <dcterms:subject>Iron mines and mining</dcterms:subject>
-    <dcterms:subject>Coal lands</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Mines and mineral resources--Virginia--Wythe County--Maps</dcterms:subject>
+    <dcterms:subject>Iron mines and mining--Virginia--Wythe County--Maps</dcterms:subject>
+    <dcterms:subject>Coal lands--Virginia--Wythe County--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003489/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003489</edm:isShownAt>

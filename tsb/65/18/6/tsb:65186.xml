@@ -16,12 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xi, 364 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>S. Low, Marston, Searle, &amp; Rivington</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Social life and customs</dcterms:subject>
-    <dcterms:subject>Great Britain./</dcterms:subject>
-    <dcterms:subject>Court of Quarter Sessions of the Peace (Devon)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Devon (England)--History</dcterms:subject>
+    <dcterms:subject>England--Social life and customs</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65186/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65186</edm:isShownAt>

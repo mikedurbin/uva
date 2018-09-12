@@ -16,12 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xi, [1], 373 p. : front., illus., ports., plates, fold. facsim. ; 22 cm.</dcterms:extent>
     <dcterms:publisher>For Griffith, Farran, Okeden &amp; Welsh</dcterms:publisher>
-    <dcterms:subject>Children's literature</dcterms:subject>
-    <dcterms:subject>Newbery, John/</dcterms:subject>
-    <dcterms:subject>Newbery, firm, publishers, London.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Newbery, John, 1713-1767</dcterms:subject>
+    <dcterms:subject>Children's literature--Bibliography</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65463/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65463</edm:isShownAt>

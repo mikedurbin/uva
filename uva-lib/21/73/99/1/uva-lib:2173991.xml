@@ -16,16 +16,15 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 26 x 21 cm.</dcterms:extent>
     <dcterms:publisher>Sam'l. M. Wilson</dcterms:publisher>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
     <dcterms:subject>Wilson, Samuel M</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Confederate States of America--Politics and government</dcterms:subject>
+    <dcterms:subject>Virginia--Politics and government--1861-1865</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Norfolk</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Virginia-Norfolk County-1861.</edm:hasType>
-    <dcterms:temporal>1861-1865</dcterms:temporal>
+    <dcterms:medium>Broadsides-Virginia-Norfolk County-1861.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2173991/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2173991</edm:isShownAt>

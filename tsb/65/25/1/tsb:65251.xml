@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 p.l., [57]-163, [1] p. pl. VII-XVI (pl. XVI, fold.) 27 cm.</dcterms:extent>
     <dcterms:publisher>[Printed by the Friedenwald company]</dcterms:publisher>
-    <dcterms:subject>Geology</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Geology--Maryland--Allegany County</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65251/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65251</edm:isShownAt>

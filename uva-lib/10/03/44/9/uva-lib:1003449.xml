@@ -11,16 +11,29 @@
     <dcterms:identifier>uva-lib:1003449</dcterms:identifier>
     <dcterms:title>Preliminary chart of Rappahannock River Virginia from entrance to Deep Creek</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Lindenkohl, A.</dcterms:creator>
+    <dcterms:creator>Maedel, E. A.</dcterms:creator>
+    <dcterms:creator>Sipe, E. H.</dcterms:creator>
+    <dcterms:creator>Seib, John.</dcterms:creator>
+    <dcterms:creator>Blunt, Edmund, 1799-1866</dcterms:creator>
+    <dcterms:creator>Lee, S. P.</dcterms:creator>
+    <dcterms:creator>Almy, John Jay, 1815-1895</dcterms:creator>
+    <dcterms:creator>Wainwright, Richard, 1817-1862</dcterms:creator>
+    <dcterms:creator>Adams, I. Hull.</dcterms:creator>
+    <dcterms:creator>Palmer, W. R. (William R.), -1862</dcterms:creator>
+    <dcterms:creator>Farley, John, 1802 or 1803-1874</dcterms:creator>
+    <dcterms:creator>Smith, M. L. (Martin Luther), 1819-1866</dcterms:creator>
     <dcterms:created>1857</dcterms:created>
     <dcterms:extent>1 map ; 73 x 42 cm. on sheet 76 x 46 cm.</dcterms:extent>
     <dcterms:publisher>United States Coast Survey</dcterms:publisher>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Nautical charts--Virginia--Rappahannock River--Maps</dcterms:subject>
+    <dcterms:subject>Rappahannock River (Va.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>District of Columbia</dcterms:spatial>
     <dcterms:spatial>Washington</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003449/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003449</edm:isShownAt>

@@ -14,10 +14,13 @@
     <dcterms:created>1918</dcterms:created>
     <dcterms:extent>1 map ; 53 x 83 cm. on sheet 61 x 86 cm.</dcterms:extent>
     <dcterms:publisher>Printed at Base Printing Plant, 29th Engineers, U.S. Army</dcterms:publisher>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>World War, 1914-1918--France--Maps, Topographic</dcterms:subject>
+    <dcterms:subject>Meuse (France)--Maps, Topographic</dcterms:subject>
+    <dcterms:subject>Bar-le-Duc (France)--Maps, Topographic</dcterms:subject>
+    <dcterms:subject>France--Maps, Topographic</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:600020/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:600020</edm:isShownAt>

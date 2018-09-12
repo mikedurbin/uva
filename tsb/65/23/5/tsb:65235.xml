@@ -12,14 +12,15 @@
     <dcterms:title>Colomba, and Carmen.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Mérimée, Prosper, 1803-1870</dcterms:creator>
+    <dcterms:creator>Mérimée, Prosper, 1803-1870</dcterms:creator>
     <dcterms:created>1901</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxvii, 208, 99 p. ports. 21 cm.</dcterms:extent>
     <dcterms:publisher>P.F. Collier &amp; Son</dcterms:publisher>
-    <dcterms:subject>Mérimée, Prosper</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Mérimée, Prosper, 1803-1870</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65235/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65235</edm:isShownAt>

@@ -11,16 +11,18 @@
     <dcterms:identifier>tsb:18751</dcterms:identifier>
     <dcterms:title>State of Virginia, Henry County, to-wit : I, John H. Pharis, a Notary Public in and for the county aforesaid, in the state of Virginia, do hereby certify that [blank] whose name [blank] signed to the foregoing and annexed writing, bearing date on the [blank] day of [blank] 18 [blank], this day personally appeared before me in my county aforesaid, and acknowledged the said writing to be [blank] act and deed. Given under my hand this [blank] day of [blank] 18 [blank] N.P.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Pharis, John. H.</dcterms:creator>
     <dcterms:created>1850/1859</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : ill. ; 32 x 21 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Notaries</dcterms:subject>
-    <dcterms:subject>Oaths</dcterms:subject>
-    <dcterms:subject>Affidavits</dcterms:subject>
     <dcterms:subject>Pharis, John. H</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Notaries--Virginia--Henry County--Forms</dcterms:subject>
+    <dcterms:subject>Oaths--Virginia--Henry County--Forms</dcterms:subject>
+    <dcterms:subject>Affidavits--Virginia--Henry County--Forms</dcterms:subject>
+    <dcterms:subject>Henry County (Va.)</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18751/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18751</edm:isShownAt>

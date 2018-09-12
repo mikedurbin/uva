@@ -12,14 +12,15 @@
     <dcterms:title>A dictionary of the Norman or Old French language : collected from such acts of Parliament, Parliament rolls, journals, acts of state, records, law books, antient historians, and manuscripts as relate to this nation ... to which are added the laws of William, the Conqueror, with notes and references</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Kelham, Robert, 1717-1808</dcterms:creator>
+    <dcterms:creator>Wilkins, David, 1685-1745</dcterms:creator>
     <dcterms:created>1779/1899</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>viii, 259, xii, 88 p. ; 21 cm.</dcterms:extent>
     <dcterms:publisher>W. Clarke and Sons</dcterms:publisher>
-    <dcterms:subject>Anglo-Norman dialect</dcterms:subject>
-    <dcterms:subject>Law</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Anglo-Norman dialect--Dictionaries</dcterms:subject>
+    <dcterms:subject>Law--Great Britain--Terminology</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65970/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65970</edm:isShownAt>

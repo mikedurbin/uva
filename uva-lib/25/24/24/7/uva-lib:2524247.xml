@@ -20,10 +20,10 @@
     <dcterms:extent>13.7 x 8.4 x 34 cm</dcterms:extent>
     <dcterms:subject>audiometers</dcterms:subject>
     <dcterms:subject>models (representations)</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>replicas</edm:hasType>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>replicas</dcterms:medium>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2524247/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524247</edm:isShownAt>

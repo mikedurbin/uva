@@ -16,15 +16,15 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>ix, 334 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>Macmillan and co., limited</dcterms:publisher>
-    <dcterms:subject>Rabelais, François/</dcterms:subject>
-    <dcterms:subject>Commynes, Philippe de/</dcterms:subject>
-    <dcterms:subject>Holland, Philemon/</dcterms:subject>
-    <dcterms:subject>Montaigne, Michel de/</dcterms:subject>
-    <dcterms:subject>Drummond, William/</dcterms:subject>
-    <dcterms:subject>Burton, Robert/</dcterms:subject>
-    <dcterms:subject>Casanova, Giacomo</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Rabelais, François, approximately 1490-1553?</dcterms:subject>
+    <dcterms:subject>Commynes, Philippe de, approximately 1447-1511</dcterms:subject>
+    <dcterms:subject>Holland, Philemon, 1552-1637</dcterms:subject>
+    <dcterms:subject>Montaigne, Michel de, 1533-1592</dcterms:subject>
+    <dcterms:subject>Drummond, William, 1585-1649</dcterms:subject>
+    <dcterms:subject>Burton, Robert, 1577-1640</dcterms:subject>
+    <dcterms:subject>Casanova, Giacomo, 1725-1798</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64260/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64260</edm:isShownAt>

@@ -12,15 +12,16 @@
     <dcterms:title>The ego and his own</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Stirner, Max, 1806-1856</dcterms:creator>
+    <dcterms:creator>Byington, Steven T. (Steven Tracy), 1868-1957</dcterms:creator>
     <dcterms:created>1918</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xiv, 387 p. 17 cm.</dcterms:extent>
     <dcterms:publisher>Boni and Liveright</dcterms:publisher>
     <dcterms:subject>Egoism</dcterms:subject>
     <dcterms:subject>Individualism</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>ger</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63890/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63890</edm:isShownAt>

@@ -16,13 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[16] p., [1] leaf of plates : port. ; 14 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Imprimé a Paris ... par Nicolas Buffet pres le College de Reimes</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Henry</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Henry, II, King of France, 1519-1559</dcterms:subject>
+    <dcterms:subject>France--History--Henry II, 1547-1559</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
-    <dcterms:temporal>Henry II, 1547-1559</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1099874/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1099874</edm:isShownAt>

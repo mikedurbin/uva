@@ -14,12 +14,14 @@
     <dcterms:created>1895</dcterms:created>
     <dcterms:extent>2 maps on 1 sheet : back to back, col. ; 21 x 32 cm. and 24 x 32 cm. on sheet 29 x 36 cm.</dcterms:extent>
     <dcterms:publisher>Rand McNally &amp; Co.</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>North Carolina--Maps</dcterms:subject>
+    <dcterms:subject>West Virginia--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Illinois</dcterms:spatial>
     <dcterms:spatial>Chicago</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1109566/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1109566</edm:isShownAt>

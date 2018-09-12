@@ -12,16 +12,16 @@
     <dcterms:title>El zagal : waltz al española : pour le piano forte : tiré d'un motif favori d'Elisa e Claudio</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bassini, Charles.</dcterms:creator>
+    <dcterms:creator>Mercadante, Saverio, 1795-1870</dcterms:creator>
+    <dcterms:creator>Bridges, Catherine L.</dcterms:creator>
     <dcterms:created>1842</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 leaves of music.</dcterms:extent>
     <dcterms:publisher>George Willig</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
     <dcterms:subject>Waltzes</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1116949/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1116949</edm:isShownAt>

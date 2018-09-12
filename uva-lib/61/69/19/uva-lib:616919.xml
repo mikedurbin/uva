@@ -15,10 +15,11 @@
     <dcterms:created>1774</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>p. 473-475 ; 24 cm.</dcterms:extent>
-    <dcterms:subject>African Americans</dcterms:subject>
-    <dcterms:subject>Wheatley, Phillis</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Wheatley, Phillis, 1753-1784</dcterms:subject>
+    <dcterms:subject>Poetry</dcterms:subject>
+    <dcterms:subject>African Americans--Education</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616919/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616919</edm:isShownAt>

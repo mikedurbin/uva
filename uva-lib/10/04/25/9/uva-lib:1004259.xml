@@ -12,17 +12,19 @@
     <dcterms:title>A sketch of the environs of Charlestown in South Carolina</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Sproule, George, 1741-1817</dcterms:creator>
+    <dcterms:creator>Des Barres, Joseph F. W. (Joseph Frederick Wallet), 1722-1824</dcterms:creator>
     <dcterms:created>1780</dcterms:created>
     <dcterms:extent>1 map : b&amp;w. ; 40 x 55 cm.</dcterms:extent>
     <dcterms:publisher>J.F.W. Des Barres</dcterms:publisher>
-    <dcterms:subject>Siege, 1780</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Charleston County (S.C.)--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Charleston (S.C.)--Siege, 1780--Maps</dcterms:subject>
+    <dcterms:subject>South Carolina--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>United States--History--Revolution, 1775-1783--Maps</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>Revolution, 1775-1783</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004259/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004259</edm:isShownAt>

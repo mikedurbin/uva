@@ -12,12 +12,14 @@
     <dcterms:title>Electrical distribution : its theory and practice</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Kilgour, Martin Hamilton.</dcterms:creator>
+    <dcterms:creator>Biggs, Charles H. W.</dcterms:creator>
+    <dcterms:creator>Swan, Howard, engineer</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>424 p. : ill. ; 19 cm.</dcterms:extent>
     <dcterms:publisher>Biggs &amp; Co.</dcterms:publisher>
     <dcterms:subject>Electric power distribution</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65424/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65424</edm:isShownAt>

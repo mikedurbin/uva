@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. IX, 274 fold. plates (incl. map) 34.3 cm.</dcterms:extent>
     <dcterms:publisher>Printed by B.M. for the author</dcterms:publisher>
-    <dcterms:subject>Natural history</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Natural history--Jamaica</dcterms:subject>
+    <dcterms:subject>Jamaica--Description and travel</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>lat</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2187512/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2187512</edm:isShownAt>

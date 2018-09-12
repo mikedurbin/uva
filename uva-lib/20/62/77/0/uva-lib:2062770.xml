@@ -11,14 +11,21 @@
     <dcterms:identifier>uva-lib:2062770</dcterms:identifier>
     <dcterms:title>Virginia-Kentucky, Clintwood quadrangle</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Sutton, Frank.</dcterms:creator>
+    <dcterms:creator>Gayetty, J. I.</dcterms:creator>
+    <dcterms:creator>Biggs, L. F.</dcterms:creator>
+    <dcterms:creator>Hinds, Henry, 1883-1964</dcterms:creator>
     <dcterms:created>1916</dcterms:created>
     <dcterms:extent>1 map : col. ; 44 x 36 cm. on sheet 51 x 41 cm.</dcterms:extent>
     <dcterms:publisher>University of Virginia</dcterms:publisher>
-    <dcterms:subject>Coal mines and mining</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Coal mines and mining--Virginia--Dickenson County--Maps</dcterms:subject>
+    <dcterms:subject>Dickenson County (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Wise County (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Pike County (Ky.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <edm:hasType>Topographic maps.</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:medium>Topographic maps.</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2062770/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2062770</edm:isShownAt>

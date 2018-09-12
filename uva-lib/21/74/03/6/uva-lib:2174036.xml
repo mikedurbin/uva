@@ -11,15 +11,18 @@
     <dcterms:identifier>uva-lib:2174036</dcterms:identifier>
     <dcterms:title>The Southern opinion's Prize poems</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Randolph, Innes, 1837-1887</dcterms:creator>
+    <dcterms:creator>Hayne, Paul Hamilton, 1830-1886</dcterms:creator>
+    <dcterms:creator>Pollard, H. Rives.</dcterms:creator>
     <dcterms:created>1866</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([2] p.) : ill. ; 30 x 24 cm.</dcterms:extent>
     <dcterms:publisher>H. Rives Pollard</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Hollywood Cemetery (Richmond, Va.)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Poetry</dcterms:subject>
+    <dcterms:subject>Confederate States of America--Poetry</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Poetry</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2174036/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174036</edm:isShownAt>

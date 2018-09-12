@@ -12,14 +12,15 @@
     <dcterms:title>The complete orations and speeches of Henry W. Grady</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Grady, Henry Woodfin, 1850-1889</dcterms:creator>
+    <dcterms:creator>Shurter, Edwin Du Bois, 1863-1946</dcterms:creator>
     <dcterms:created>1910</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>233 p. 21 cm.</dcterms:extent>
     <dcterms:publisher>Hinds, Noble &amp; Eldredge</dcterms:publisher>
-    <dcterms:subject>Social conditions</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--Social conditions</dcterms:subject>
+    <dcterms:subject>United States--Politics and government</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65580/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65580</edm:isShownAt>

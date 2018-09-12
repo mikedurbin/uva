@@ -12,13 +12,13 @@
     <dcterms:title>Oxford of today; a manual for prospective Rhodes scholars,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Crosby, Laurence Alden</dcterms:creator>
+    <dcterms:creator>Aydelotte, Frank, 1880-1956</dcterms:creator>
     <dcterms:created>1922</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xii p., 1 l., 288 p. front., plates. 20 cm.</dcterms:extent>
     <dcterms:publisher>Oxford university press</dcterms:publisher>
-    <dcterms:subject>University of Oxford.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63900/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63900</edm:isShownAt>

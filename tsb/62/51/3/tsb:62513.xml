@@ -16,13 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>431 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>Martin &amp; Hoyt</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>South Carolina--History--Revolution, 1775-1783--Fiction</dcterms:subject>
+    <dcterms:subject>United States--History--Revolution, 1775-1783--Fiction</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Presentation inscriptions (Provenance)</edm:hasType>
-    <dcterms:temporal>Revolution, 1775-1783</dcterms:temporal>
-    <dcterms:temporal>Revolution, 1775-1783</dcterms:temporal>
+    <dcterms:medium>Presentation inscriptions (Provenance)</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:62513/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:62513</edm:isShownAt>

@@ -12,12 +12,14 @@
     <dcterms:title>Map of the United States, exhibiting the post-roads, the situations, connexions &amp; distances of the post-offices, state roads, counties, &amp; principal rivers.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bradley, Abraham, 1731-1824</dcterms:creator>
+    <dcterms:creator>Shallus, Francis</dcterms:creator>
     <dcterms:created>1804</dcterms:created>
     <dcterms:extent>map. 131 x 94 cm. fold. to 17 x 20 cm.</dcterms:extent>
     <dcterms:publisher>F. Shallus</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>United States--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1102753/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1102753</edm:isShownAt>

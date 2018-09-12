@@ -12,20 +12,22 @@
     <dcterms:title>Le catalogue des antiques erections des villes &amp; cites, fleuues, &amp; fontaines, assisses es troys Gaules, : cestassauoir Celticque, Belgicque &amp; Aquitaine, contenant deulx liures.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Corrozet, Gilles, 1510-1568</dcterms:creator>
+    <dcterms:creator>Champier, Claude, b. ca. 1520</dcterms:creator>
+    <dcterms:creator>Champier, Symphorien, 1472?-approximately 1535</dcterms:creator>
     <dcterms:created>1535</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>84, [4] leaves : ill. ; 11 cm. (16mo)</dcterms:extent>
     <dcterms:publisher>On les vend a Lyon chez Francoys Iuste</dcterms:publisher>
-    <dcterms:subject>Cities and towns</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Kings and rulers</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Antiquities</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Cities and towns--France</dcterms:subject>
+    <dcterms:subject>France--Description and travel--Early works to 1800</dcterms:subject>
+    <dcterms:subject>France--Kings and rulers</dcterms:subject>
+    <dcterms:subject>Gaul--History</dcterms:subject>
+    <dcterms:subject>Gaul--Antiquities</dcterms:subject>
+    <dcterms:subject>France--Description and travel</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1038385/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1038385</edm:isShownAt>

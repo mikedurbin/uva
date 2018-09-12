@@ -12,17 +12,18 @@
     <dcterms:title>J.L.M. Curry; a biography,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Alderman, Edwin Anderson, 1861-1931</dcterms:creator>
+    <dcterms:creator>Gordon, Armistead C. (Armistead Churchill), 1855-1931</dcterms:creator>
     <dcterms:created>1911</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xx, 468 p. port. 20 cm.</dcterms:extent>
     <dcterms:publisher>Macmillan</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Curry, J. L. M. (Jabez Lamar Monroe)/</dcterms:subject>
-    <dcterms:subject>Alderman, Edwin Anderson</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Curry, J. L. M. (Jabez Lamar Monroe), 1825-1903</dcterms:subject>
+    <dcterms:subject>Alderman, Edwin Anderson, 1861-1931</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65390/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65390</edm:isShownAt>

@@ -12,18 +12,23 @@
     <dcterms:title>Relacion historica del viage a la America Meridional hecho de orden de S. Mag. para medir algunos grados de meridiano terrestre, y venir por ellos en conocimiento de la verdadera figura, y magnitud de la tierra, con otras varias observaciones astronomicas, y phisicas</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Ulloa, Antonio de, 1716-1795</dcterms:creator>
+    <dcterms:creator>Juan, Jorge, 1713-1773</dcterms:creator>
+    <dcterms:creator>Vega, Garcilaso de la, 1539-1616</dcterms:creator>
     <dcterms:created>1748</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 v. in 2 pt. fronts., illus., 20 fold. pl. incl. ports. 14 fold. maps and plans. 31 cm.</dcterms:extent>
     <dcterms:publisher>Aporntonio Marin</dcterms:publisher>
     <dcterms:subject>Scientific expeditions</dcterms:subject>
     <dcterms:subject>Arc measures</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Social life and customs</dcterms:subject>
-    <dcterms:subject>Colonies</dcterms:subject>
-    <dcterms:subject>Figure</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>South America--Description and travel</dcterms:subject>
+    <dcterms:subject>South America--Social life and customs</dcterms:subject>
+    <dcterms:subject>Spain--Colonies--South America</dcterms:subject>
+    <dcterms:subject>Peru</dcterms:subject>
+    <dcterms:subject>Colombia</dcterms:subject>
+    <dcterms:subject>Chile</dcterms:subject>
+    <dcterms:subject>Earth (Planet)--Figure</dcterms:subject>
     <dcterms:language>spa</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2345328/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2345328</edm:isShownAt>

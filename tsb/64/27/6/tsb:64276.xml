@@ -12,13 +12,14 @@
     <dcterms:title>Their true faith and allegiance</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Ohlinger, Gustavus, 1877-</dcterms:creator>
+    <dcterms:creator>Wister, Owen, 1860-1938</dcterms:creator>
     <dcterms:created>1916</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxix, 124 p. 17 cm.</dcterms:extent>
     <dcterms:publisher>The Macmillan company</dcterms:publisher>
-    <dcterms:subject>Germans</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Germans--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64276/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64276</edm:isShownAt>

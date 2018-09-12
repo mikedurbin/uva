@@ -12,17 +12,23 @@
     <dcterms:title>The Sontag polka</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Albert, Charles d', 1809-1886</dcterms:creator>
+    <dcterms:creator>Sontag, Henriette, 1806-1854</dcterms:creator>
+    <dcterms:creator>Lablache, Luigi, 1794-1858</dcterms:creator>
+    <dcterms:creator>Quidor, George W., approximately 1817-</dcterms:creator>
+    <dcterms:creator>Alary, Giulio.</dcterms:creator>
     <dcterms:created>185u</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 p. of music ; 35 cm.</dcterms:extent>
     <dcterms:publisher>Firth, Pond &amp; Co.</dcterms:publisher>
+    <dcterms:subject>Sontag, Henriette, 1806-1854</dcterms:subject>
+    <dcterms:subject>Sontag, Henriette, 1806-1854</dcterms:subject>
+    <dcterms:subject>Lablache, Luigi, 1794-1858</dcterms:subject>
+    <dcterms:subject>Songs and music</dcterms:subject>
+    <dcterms:subject>Portraits</dcterms:subject>
+    <dcterms:subject>Portraits</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
     <dcterms:subject>Polkas</dcterms:subject>
-    <dcterms:subject>Sontag, Henriette/</dcterms:subject>
-    <dcterms:subject>Sontag, Henriette/</dcterms:subject>
-    <dcterms:subject>Lablache, Luigi</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18637/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18637</edm:isShownAt>

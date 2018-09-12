@@ -12,14 +12,16 @@
     <dcterms:title>Kinder- und hausmärchen der gebrüder Grimm</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Grimm, Jacob, 1785-1863</dcterms:creator>
+    <dcterms:creator>Grimm, Wilhelm, 1786-1859</dcterms:creator>
+    <dcterms:creator>Van der Smissen, William Henry, 1884-</dcterms:creator>
     <dcterms:created>1885</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>190 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>D. C. Heath &amp; co.</dcterms:publisher>
     <dcterms:subject>Fairy tales</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>ger</dcterms:language>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63748/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63748</edm:isShownAt>

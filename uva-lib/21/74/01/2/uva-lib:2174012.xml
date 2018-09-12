@@ -16,17 +16,12 @@
     <dcterms:extent>2 p. ; 19 cm.</dcterms:extent>
     <dcterms:publisher>U.S. War Dept.</dcterms:publisher>
     <dcterms:subject>African American troops</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>United States./</dcterms:subject>
-    <dcterms:subject>Army/</dcterms:subject>
-    <dcterms:subject>United States./</dcterms:subject>
-    <dcterms:subject>War Department</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Participation, African American</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>District of Columbia</dcterms:spatial>
     <dcterms:spatial>Washington</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2174012/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174012</edm:isShownAt>

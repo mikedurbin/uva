@@ -11,13 +11,16 @@
     <dcterms:identifier>tsb:64335</dcterms:identifier>
     <dcterms:title>Historic Dinwiddie County, Virginia : or, The last long camp.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Peebles, William Lemuel.</dcterms:creator>
+    <dcterms:creator>Rives, W. G.</dcterms:creator>
     <dcterms:created>1907</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[13] p. : ill. ; 23 cm.</dcterms:extent>
     <dcterms:publisher>Published by order of the Jamestown Exhibit Committee of Dinwiddie Co., Va.</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Dinwiddie County (Va.)--History</dcterms:subject>
+    <dcterms:subject>Dinwiddie County (Va.)</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64335/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64335</edm:isShownAt>

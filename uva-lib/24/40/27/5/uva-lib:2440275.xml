@@ -11,15 +11,14 @@
     <dcterms:identifier>uva-lib:2440275</dcterms:identifier>
     <dcterms:title>Human anti-rho anti-D serum</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Michael Reese Research Foundation</dcterms:creator>
     <dcterms:created>1950/1960</dcterms:created>
     <dcterms:description>Empty brown glass bottle, black cap with liquid dispenser attached. Label Information: Anti-Rho. Human Anti-D Serum for slide test. Lot No. 233; 5 cc; Expiration 1960-01-08; Prepared by Michael Reese Research Foundation, Chicago, Illinois; TT. S. License No. 113.</dcterms:description>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:medium>rubber (material)</dcterms:medium>
     <dcterms:subject>Medical laboratory technology</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440275/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440275</edm:isShownAt>

@@ -16,10 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>viii, 870 p. col. front., illus., plates, ports. 24 cm.</dcterms:extent>
     <dcterms:publisher>Gray</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Albany (N.Y.)--Biography</dcterms:subject>
+    <dcterms:subject>Albany County (N.Y.)--Biography</dcterms:subject>
+    <dcterms:subject>Albany County (N.Y.)--History--Civil War, 1861-1865</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64017/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64017</edm:isShownAt>

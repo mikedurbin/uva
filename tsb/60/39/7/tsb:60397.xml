@@ -16,15 +16,14 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 28 x 19 cm.</dcterms:extent>
     <dcterms:publisher>Miller School Boys' Print.</dcterms:publisher>
+    <dcterms:subject>Miller, Samuel, 1792-1869</dcterms:subject>
     <dcterms:subject>Will</dcterms:subject>
-    <dcterms:subject>Miller, Samuel/</dcterms:subject>
-    <dcterms:subject>Miller Manual Labor School (Albemarle County, Va.)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Virginia-Charlottesville-1878.</edm:hasType>
+    <dcterms:medium>Broadsides-Virginia-Charlottesville-1878.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:60397/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:60397</edm:isShownAt>

@@ -16,11 +16,13 @@
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : col. ; 81 x 74 cm. folded to 18 x 8 cm.</dcterms:extent>
     <dcterms:publisher>Engraved and printed by Interstate Map Company</dcterms:publisher>
-    <dcterms:subject>Transportation</dcterms:subject>
-    <dcterms:subject>Transportation</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Transportation--Virginia--Norfolk--Maps</dcterms:subject>
+    <dcterms:subject>Transportation--Virginia--Portsmouth--Maps</dcterms:subject>
+    <dcterms:subject>Norfolk (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Portsmouth (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:770590/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770590</edm:isShownAt>

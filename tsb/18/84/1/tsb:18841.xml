@@ -15,10 +15,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 broadside. 10 x 20 cm.</dcterms:extent>
     <dcterms:publisher>Danforth, Bald</dcterms:publisher>
-    <dcterms:subject>Bonds</dcterms:subject>
-    <dcterms:subject>Finance, Public</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Bonds--Hungary</dcterms:subject>
+    <dcterms:subject>Finance, Public--Hungary</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18841/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18841</edm:isShownAt>

@@ -17,24 +17,24 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>South Africa</dcterms:subject>
-    <dcterms:subject>Africa</dcterms:subject>
-    <dcterms:subject>Institutional buildings</dcterms:subject>
-    <dcterms:subject>Universities</dcterms:subject>
-    <dcterms:subject>Schools</dcterms:subject>
-    <dcterms:subject>Lawns</dcterms:subject>
-    <dcterms:subject>Hedges</dcterms:subject>
-    <dcterms:subject>Gates</dcterms:subject>
-    <dcterms:subject>Columns (architectural elements)</dcterms:subject>
-    <dcterms:subject>Oculi</dcterms:subject>
-    <dcterms:subject>Entrances</dcterms:subject>
-    <dcterms:subject>Windows</dcterms:subject>
-    <dcterms:subject>Doors</dcterms:subject>
-    <dcterms:subject>Paths</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>South Africa--Countries by name</dcterms:subject>
+    <dcterms:subject>Africa--Continents</dcterms:subject>
+    <dcterms:subject>Institutional buildings--Single built works by function</dcterms:subject>
+    <dcterms:subject>Universities--Single built works by function</dcterms:subject>
+    <dcterms:subject>Schools--Single built works by function</dcterms:subject>
+    <dcterms:subject>Lawns--Open spaces and site elements</dcterms:subject>
+    <dcterms:subject>Hedges--Open spaces and site elements</dcterms:subject>
+    <dcterms:subject>Gates--Architectural elements</dcterms:subject>
+    <dcterms:subject>Columns (architectural elements)--Structural elements</dcterms:subject>
+    <dcterms:subject>Oculi--Architectural elements</dcterms:subject>
+    <dcterms:subject>Entrances--Architectural elements</dcterms:subject>
+    <dcterms:subject>Windows--Architectural elements</dcterms:subject>
+    <dcterms:subject>Doors--Architectural elements</dcterms:subject>
+    <dcterms:subject>Paths--Open spaces by function</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332236/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332236</edm:isShownAt>

@@ -11,17 +11,27 @@
     <dcterms:identifier>uva-lib:1003567</dcterms:identifier>
     <dcterms:title>Chesapeake Bay. From the mouth of  York River to the entrance to Bay</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Bache, A. D. (Alexander Dallas), 1806-1867</dcterms:creator>
+    <dcterms:creator>Blunt, Edmund M. (Edmund March), 1770-1862</dcterms:creator>
+    <dcterms:creator>Hassler, J. J. S.</dcterms:creator>
+    <dcterms:creator>Fairfax, Wilson M. C.</dcterms:creator>
+    <dcterms:creator>Knight, J., (Engraver)</dcterms:creator>
+    <dcterms:creator>Almy, John Jay, 1815-1895</dcterms:creator>
+    <dcterms:creator>Mathiot, G.</dcterms:creator>
+    <dcterms:creator>Hilgard, J. E. (Julius Erasmus), 1825-1891</dcterms:creator>
     <dcterms:created>1863</dcterms:created>
     <dcterms:extent>1 map ; 65 x 96 cm. on sheet 75 x 107 cm.</dcterms:extent>
     <dcterms:publisher>United States Coast Survey]</dcterms:publisher>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Nautical charts--Chesapeake Bay (Md. and Va.)</dcterms:subject>
+    <dcterms:subject>Nautical charts--Virginia--York River</dcterms:subject>
+    <dcterms:subject>York River (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Chesapeake Bay (Md. and Va.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>District of Columbia</dcterms:spatial>
     <dcterms:spatial>Washington</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003567/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003567</edm:isShownAt>

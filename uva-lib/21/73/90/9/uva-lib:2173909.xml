@@ -11,16 +11,13 @@
     <dcterms:identifier>uva-lib:2173909</dcterms:identifier>
     <dcterms:title>Head quarters, Army of Occupation, Western Virginia, Beverly, Va., July 16th, 1861. Soldiers of the Army of the West.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>McClellan, George B. (George Brinton), 1826-1885</dcterms:creator>
     <dcterms:created>1861</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 broadside. 13 x 20 cm.</dcterms:extent>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Confederate States of America./</dcterms:subject>
-    <dcterms:subject>Army./</dcterms:subject>
-    <dcterms:subject>Dept. of Western Virginia.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Campaigns</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2173909/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2173909</edm:isShownAt>

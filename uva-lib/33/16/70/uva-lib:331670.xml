@@ -17,19 +17,19 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>New Orleans (La.)</dcterms:subject>
-    <dcterms:subject>Orleans Parish (La.)</dcterms:subject>
-    <dcterms:subject>Louisiana</dcterms:subject>
-    <dcterms:subject>Patios</dcterms:subject>
-    <dcterms:subject>South (U.S.)</dcterms:subject>
-    <dcterms:subject>African Americans</dcterms:subject>
-    <dcterms:subject>Arches</dcterms:subject>
-    <dcterms:subject>Brick</dcterms:subject>
-    <dcterms:subject>Men</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>New Orleans (La.)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Orleans Parish (La.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Louisiana--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Patios--Rooms and spaces</dcterms:subject>
+    <dcterms:subject>South (U.S.)--Regions and states</dcterms:subject>
+    <dcterms:subject>African Americans--People by ethnic group</dcterms:subject>
+    <dcterms:subject>Arches--Structural elements</dcterms:subject>
+    <dcterms:subject>Brick--Materials by form</dcterms:subject>
+    <dcterms:subject>Men--People by gender</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:331670/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:331670</edm:isShownAt>

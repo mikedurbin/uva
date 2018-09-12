@@ -12,17 +12,26 @@
     <dcterms:title>History of labour in the United States</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Commons, John R. (John Rogers), 1862-1945</dcterms:creator>
+    <dcterms:creator>Saposs, David J. (David Joseph), 1886-1968</dcterms:creator>
+    <dcterms:creator>Sumner, Helen L. (Helen Laura), 1876-1933</dcterms:creator>
+    <dcterms:creator>Mittelman, E. B. (Edward Becker), 1889-1949</dcterms:creator>
+    <dcterms:creator>Hoagland, Henry E. (Henry Elmer), 1886-1975</dcterms:creator>
+    <dcterms:creator>Andrews, John B. (John Bertram), 1880-1943</dcterms:creator>
+    <dcterms:creator>Perlman, Selig, 1888-1959</dcterms:creator>
+    <dcterms:creator>Lescohier, Don D. (Don Divance), 1883-1961</dcterms:creator>
+    <dcterms:creator>Raushenbush, Elizabeth Brandeis.</dcterms:creator>
+    <dcterms:creator>Taft, Philip, 1902-1976</dcterms:creator>
     <dcterms:created>1918/1935</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 v. diagrs. 23 cm.</dcterms:extent>
     <dcterms:publisher>Macmillan</dcterms:publisher>
-    <dcterms:subject>Labor</dcterms:subject>
-    <dcterms:subject>Labor unions</dcterms:subject>
-    <dcterms:subject>Working class</dcterms:subject>
-    <dcterms:subject>Labor movement</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Labor--United States</dcterms:subject>
+    <dcterms:subject>Labor unions--United States</dcterms:subject>
+    <dcterms:subject>Working class--United States</dcterms:subject>
+    <dcterms:subject>Labor movement--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61665/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61665</edm:isShownAt>

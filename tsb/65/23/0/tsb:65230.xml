@@ -16,11 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xii, 408 p. : front. (port.) ; 24 cm.</dcterms:extent>
     <dcterms:publisher>Press, Westerfield-Bonte Company</dcterms:publisher>
-    <dcterms:subject>Patterson, James K. (James Kennedy)/</dcterms:subject>
-    <dcterms:subject>Kentucky University.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Patterson, James K. (James Kennedy), 1833-1922</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65230/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65230</edm:isShownAt>

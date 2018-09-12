@@ -11,29 +11,26 @@
     <dcterms:identifier>uva-lib:2170109</dcterms:identifier>
     <dcterms:title>To the Electors of the State of New-York. : Fellow Citizens! The glorious triumph of federalism is at hand. : Our administration appalled by the manly opposition made by the patriotic minority in Congress, and by the majority of the people in the Northern and Eastern States against the ruinous Embargo and Non-Intercourse system, have at length concluded to yield to the terms offered by Great Britain more than eighteen months since ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Schuyler, Harmanus P.</dcterms:creator>
     <dcterms:created>1809</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 32 x 20 cm.</dcterms:extent>
     <dcterms:publisher>Federal Party</dcterms:publisher>
+    <dcterms:subject>Jefferson, Thomas, 1743-1826</dcterms:subject>
     <dcterms:subject>Political and social views</dcterms:subject>
-    <dcterms:subject>Campaign literature</dcterms:subject>
+    <dcterms:subject>Campaign literature--New York (State)</dcterms:subject>
     <dcterms:subject>Embargo, 1807-1809</dcterms:subject>
-    <dcterms:subject>Foreign relations</dcterms:subject>
-    <dcterms:subject>Foreign relations</dcterms:subject>
-    <dcterms:subject>Commercial policy</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Jefferson, Thomas/</dcterms:subject>
-    <dcterms:subject>Republican Party (U.S. : 1792-1828)/</dcterms:subject>
-    <dcterms:subject>Federal Party (U.S.)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--Foreign relations--Great Britain</dcterms:subject>
+    <dcterms:subject>Great Britain--Foreign relations--United States</dcterms:subject>
+    <dcterms:subject>United States--Commercial policy</dcterms:subject>
+    <dcterms:subject>United States--Politics and government--1801-1809</dcterms:subject>
+    <dcterms:subject>New York (State)--Politics and government--1775-1865</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>New York</dcterms:spatial>
     <dcterms:spatial>Albany</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-New York (State)-Albany-1809.</edm:hasType>
-    <dcterms:temporal>1801-1809</dcterms:temporal>
-    <dcterms:temporal>1775-1865</dcterms:temporal>
+    <dcterms:medium>Broadsides-New York (State)-Albany-1809.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2170109/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2170109</edm:isShownAt>

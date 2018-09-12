@@ -16,11 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>161 P. FRONT., PLATES, PORTS. 21 CM.</dcterms:extent>
     <dcterms:publisher>R. G. BADGER</dcterms:publisher>
-    <dcterms:subject>Cocke, Charles Lewis/</dcterms:subject>
-    <dcterms:subject>Hollins College.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Cocke, Charles Lewis, 1820-1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61743/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61743</edm:isShownAt>

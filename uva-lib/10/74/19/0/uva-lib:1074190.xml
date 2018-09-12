@@ -16,16 +16,16 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>143 p. : ill. ; 16 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>s.n.]</dcterms:publisher>
+    <dcterms:subject>Jesus Christ</dcterms:subject>
     <dcterms:subject>Teachings</dcterms:subject>
+    <dcterms:subject>Controversial literature</dcterms:subject>
     <dcterms:subject>Popes</dcterms:subject>
     <dcterms:subject>Antichrist</dcterms:subject>
-    <dcterms:subject>Jesus Christ/</dcterms:subject>
-    <dcterms:subject>Catholic Church</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>Switzerland</dcterms:spatial>
     <dcterms:spatial>Geneva</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
     <dcterms:language>lat</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1074190/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1074190</edm:isShownAt>

@@ -16,12 +16,9 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vii, 402 p. 22 cm.</dcterms:extent>
     <dcterms:publisher>Gottsberger</dcterms:publisher>
-    <dcterms:subject>Presidents</dcterms:subject>
-    <dcterms:subject>United States./</dcterms:subject>
-    <dcterms:subject>Electoral Commission (1877)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Presidents--United States--Election--1876</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1876</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63829/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63829</edm:isShownAt>

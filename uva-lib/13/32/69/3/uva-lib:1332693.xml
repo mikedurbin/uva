@@ -14,9 +14,10 @@
     <dcterms:creator>Picquet, Charles, 1771-1827</dcterms:creator>
     <dcterms:created>1812</dcterms:created>
     <dcterms:extent>map. 81 x 138 cm. fold. to 21 x 14 cm.</dcterms:extent>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Paris (France)--Maps</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1332693/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1332693</edm:isShownAt>

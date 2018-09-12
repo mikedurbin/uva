@@ -12,17 +12,18 @@
     <dcterms:title>La marseillaise : French national hymn : march, piano, guitar</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Rouget de Lisle, Claude Joseph, 1760-1836</dcterms:creator>
+    <dcterms:creator>Beyer, Ferdinand, 1803-1863</dcterms:creator>
     <dcterms:created>1861</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.) ; 33 cm.</dcterms:extent>
     <dcterms:publisher>A.E. Blackmar &amp; Bro.</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
     <dcterms:subject>Marches (Voice with piano)</dcterms:subject>
-    <dcterms:subject>Patriotic music</dcterms:subject>
-    <dcterms:subject>Patriotic music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Patriotic music--France</dcterms:subject>
+    <dcterms:subject>Patriotic music--Confederate States of America</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58861/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58861</edm:isShownAt>

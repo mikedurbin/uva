@@ -16,16 +16,16 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vii, 414 p., [3] leaves of plates : ill. ; 20 cm.</dcterms:extent>
     <dcterms:publisher>Werner Co.</dcterms:publisher>
+    <dcterms:subject>Drake, Francis, approximately 1540-1596</dcterms:subject>
+    <dcterms:subject>Cavendish, Thomas, 1560-1592</dcterms:subject>
+    <dcterms:subject>Dampier, William, 1652-1715</dcterms:subject>
     <dcterms:subject>Voyages and travels</dcterms:subject>
-    <dcterms:subject>Discoveries in geography</dcterms:subject>
+    <dcterms:subject>Discoveries in geography--English</dcterms:subject>
     <dcterms:subject>Buccaneers</dcterms:subject>
-    <dcterms:subject>Discovery and exploration</dcterms:subject>
-    <dcterms:subject>Drake, Francis/</dcterms:subject>
-    <dcterms:subject>Cavendish, Thomas/</dcterms:subject>
-    <dcterms:subject>Dampier, William</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>America--Discovery and exploration--English</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65528/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65528</edm:isShownAt>

@@ -19,10 +19,10 @@
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>17.5 x 5.1 x 3 cm</dcterms:extent>
-    <dcterms:subject>Pharmaceutical technology</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Pharmaceutical technology--Solutions (Pharmacy)</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>pharmacy</edm:hasType>
+    <dcterms:medium>pharmacy</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2532379/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2532379</edm:isShownAt>

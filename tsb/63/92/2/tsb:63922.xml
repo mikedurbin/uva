@@ -12,15 +12,16 @@
     <dcterms:title>Ethnology</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Haberlandt, Michael, 1860-1940</dcterms:creator>
+    <dcterms:creator>Loewe, James H.</dcterms:creator>
     <dcterms:created>1900</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>viii, 169 p. incl. front., illus. 16 cm.</dcterms:extent>
     <dcterms:publisher>J. M. Dent</dcterms:publisher>
     <dcterms:subject>Ethnology</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>ger</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63922/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63922</edm:isShownAt>

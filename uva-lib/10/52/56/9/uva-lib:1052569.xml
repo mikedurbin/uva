@@ -16,13 +16,13 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 pts. in 1 v. (256, 113, [5] p.) ; 15 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Chez Charles Estienne, Imprimeur du Roy, 1553.</dcterms:publisher>
-    <dcterms:subject>Roads</dcterms:subject>
-    <dcterms:subject>Rivers</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Roads--France</dcterms:subject>
+    <dcterms:subject>Rivers--France</dcterms:subject>
+    <dcterms:subject>France--Description and travel--Early works to 1800</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1052569/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1052569</edm:isShownAt>

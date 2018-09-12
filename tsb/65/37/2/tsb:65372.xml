@@ -12,14 +12,15 @@
     <dcterms:title>The conduct of life, Nature, and other essays</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Emerson, Ralph Waldo, 1803-1882</dcterms:creator>
+    <dcterms:creator>Emerson, Ralph Waldo, 1803-1882</dcterms:creator>
     <dcterms:created>1911</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xi, 308 p. 18 cm.</dcterms:extent>
     <dcterms:publisher>J.M. Dent &amp; sons, ltd.</dcterms:publisher>
     <dcterms:subject>Conduct of life</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65372/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65372</edm:isShownAt>

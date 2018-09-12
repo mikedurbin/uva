@@ -11,12 +11,13 @@
     <dcterms:identifier>tsb:63777</dcterms:identifier>
     <dcterms:title>Calendar of Board minutes 1776-1876</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Morrison, Alfred J. (Alfred James), 1876-1923</dcterms:creator>
     <dcterms:created>1912</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>186 p. front., ports. 23 cm.</dcterms:extent>
     <dcterms:publisher>The Hermitage press</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63777/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63777</edm:isShownAt>

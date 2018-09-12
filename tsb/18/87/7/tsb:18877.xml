@@ -11,19 +11,18 @@
     <dcterms:identifier>tsb:18877</dcterms:identifier>
     <dcterms:title>The Richmond Female Institute. : Rev. B. Manly, Jr., President. : Tenth and Marshall Sts., Richmond, Va. ... : The design of The Richmond Female Institute, incorporated March 2, 1853, by the Legislature of Virginia, is to offer to young ladies the facilities for instruction which may be found in our best colleges for young men ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Manly, Basil, 1825-1892</dcterms:creator>
     <dcterms:created>1854</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[4] unnumbered pages (pages [2]-[4] blank) : illustration ; 27 x 22 cm</dcterms:extent>
     <dcterms:subject>Curricula</dcterms:subject>
-    <dcterms:subject>Women's colleges</dcterms:subject>
-    <dcterms:subject>Private schools</dcterms:subject>
-    <dcterms:subject>Richmond Female Institute (Richmond, Va.)/</dcterms:subject>
-    <dcterms:subject>Richmond Female Institute (Richmond, Va.)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Women's colleges--Virginia--Richmond</dcterms:subject>
+    <dcterms:subject>Private schools--Virginia--Richmond</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Richmond</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18877/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18877</edm:isShownAt>

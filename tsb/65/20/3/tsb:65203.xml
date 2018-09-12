@@ -12,13 +12,14 @@
     <dcterms:title>The poems of Ossian : to which are prefixed a preliminary discourse and dissertation on the æra and poems of Ossian</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Macpherson, James, 1736-1796</dcterms:creator>
+    <dcterms:creator>Blair, Hugh, 1718-1800</dcterms:creator>
     <dcterms:created>1854</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>492 p., [9] leaves of plates : ill. ; 20 cm.</dcterms:extent>
     <dcterms:publisher>Phillips, Sampson</dcterms:publisher>
-    <dcterms:subject>Ossian</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Ossian, active 3rd century</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65203/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65203</edm:isShownAt>

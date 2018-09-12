@@ -11,17 +11,16 @@
     <dcterms:identifier>uva-lib:2569218</dcterms:identifier>
     <dcterms:title>Dental X-ray tube</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>General Electric Company</dcterms:creator>
     <dcterms:created>1915/1940</dcterms:created>
     <dcterms:description>RD Coolidge right angle-shaped, air-cooled dental X-ray tube 36850. 
       This item was given in honor of Theodore E. Keats, M.D., F.A.C.R., Chair of the UVa Department of Radiology from 1963-1991.</dcterms:description>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>9.5 x 33 x 18 cm</dcterms:extent>
-    <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medical instruments or apparatus--X-rays--Equipment and supplies</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2569218/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2569218</edm:isShownAt>

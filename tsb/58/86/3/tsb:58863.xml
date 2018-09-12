@@ -12,16 +12,17 @@
     <dcterms:title>The Southron's watch=word! : The grave of a hero or victory</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Glover, Stephen, 1813-1870</dcterms:creator>
+    <dcterms:creator>Bigney, M. F. (Mark Frederick), 1817-1886</dcterms:creator>
     <dcterms:created>1861</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score ([5] p.) ; 34 cm.</dcterms:extent>
     <dcterms:publisher>Blackmar &amp; Bro.</dcterms:publisher>
-    <dcterms:subject>War songs</dcterms:subject>
+    <dcterms:subject>War songs--Confederate States of America</dcterms:subject>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Confederate States of America--Songs and music</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58863/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58863</edm:isShownAt>

@@ -12,6 +12,7 @@
     <dcterms:title>Sight and hearing in childhood</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Carter, Robert Brudenell, 1828-1918</dcterms:creator>
+    <dcterms:creator>Cheatle, Arthur Henry.</dcterms:creator>
     <dcterms:created>1903</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>viii, 119 p. ill. ; 19 cm.</dcterms:extent>
@@ -19,8 +20,8 @@
     <dcterms:subject>Vision</dcterms:subject>
     <dcterms:subject>Hearing</dcterms:subject>
     <dcterms:subject>Child development</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63894/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63894</edm:isShownAt>

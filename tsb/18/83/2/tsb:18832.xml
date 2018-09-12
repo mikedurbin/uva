@@ -15,12 +15,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 folded sheet ([1] p.) ; 17 x 21 cm. folded to 17 x 11 cm.</dcterms:extent>
     <dcterms:publisher>Aesculapian Society</dcterms:publisher>
+    <dcterms:subject>Bridges, Edward T</dcterms:subject>
     <dcterms:subject>Societies, etc</dcterms:subject>
-    <dcterms:subject>Bridges, Edward T/</dcterms:subject>
-    <dcterms:subject>Aesculapian Society (University of Virginia)/</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18832/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18832</edm:isShownAt>

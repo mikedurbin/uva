@@ -12,13 +12,14 @@
     <dcterms:title>French educational ideals of today</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Buisson, F. E. (Ferdinand Edouard), 1841-1932</dcterms:creator>
+    <dcterms:creator>Farrington, Frederic Ernest, 1872-1930</dcterms:creator>
     <dcterms:created>1919</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xii, 326 p. 21 cm.</dcterms:extent>
     <dcterms:publisher>World book company</dcterms:publisher>
-    <dcterms:subject>Education</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Education--France</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65498/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65498</edm:isShownAt>

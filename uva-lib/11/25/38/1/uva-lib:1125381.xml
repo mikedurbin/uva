@@ -12,14 +12,15 @@
     <dcterms:title>Sontag's waltz</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Herz, Henri, 1803-1888</dcterms:creator>
+    <dcterms:creator>Jarvis, Charles, 1813 or 1814-1855</dcterms:creator>
+    <dcterms:creator>Gillingham, Edwin</dcterms:creator>
     <dcterms:created>1829/1841</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 p. of music.</dcterms:extent>
     <dcterms:publisher>George Willig Jr.</dcterms:publisher>
     <dcterms:subject>Piano music (4 hands)</dcterms:subject>
     <dcterms:subject>Waltzes</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1125381/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125381</edm:isShownAt>

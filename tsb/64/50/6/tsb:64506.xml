@@ -12,15 +12,16 @@
     <dcterms:title>De bello gallico libri VII. Caesar's Gallic war, with a life of Caesar, geography and people of Gaul, history of the military art in Caesar's commentaries ; special vocabularies on the inductive plan ; historical and grammatical notes.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Caesar, Julius.</dcterms:creator>
+    <dcterms:creator>Lowe, Cornelius Marshal.</dcterms:creator>
+    <dcterms:creator>Ewing, J. T. (John Thomas), 1856-1926</dcterms:creator>
     <dcterms:created>1895</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>543 p. illus. 20 cm.</dcterms:extent>
     <dcterms:publisher>Albert, Scott</dcterms:publisher>
-    <dcterms:subject>Latin language</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Latin language--Readers</dcterms:subject>
+    <dcterms:subject>Gaul--History--58 B.C.-511 A.D</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>58 B.C.-511 A.D</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64506/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64506</edm:isShownAt>

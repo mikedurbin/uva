@@ -11,14 +11,13 @@
     <dcterms:identifier>uva-lib:2440609</dcterms:identifier>
     <dcterms:title>Brick</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Old Virginia Brick</dcterms:creator>
     <dcterms:created>1890/1990</dcterms:created>
     <dcterms:description>The brick is stamped with the following text: "OLD VIRGINIA".</dcterms:description>
     <dcterms:medium>brick (clay product)</dcterms:medium>
     <dcterms:subject>Bricks</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>brick (clay product)</edm:hasType>
+    <dcterms:medium>brick (clay product)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440609/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440609</edm:isShownAt>

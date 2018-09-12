@@ -11,15 +11,14 @@
     <dcterms:identifier>uva-lib:2532388</dcterms:identifier>
     <dcterms:title>VerV soap tissues</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Velso Products Co.</dcterms:creator>
     <dcterms:created>1925/1965</dcterms:created>
     <dcterms:description>Contains instructions for use on the box. This artifact was used in the physical exhibit "Coming Clean: Hand Washing and Public Health" by Addeane Caelleigh and Normajean Hultman.</dcterms:description>
     <dcterms:medium>cardboard</dcterms:medium>
     <dcterms:extent>6.3 x 10.5 x 1.5 cm</dcterms:extent>
-    <dcterms:subject>Hygiene</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Hygiene--Hand washing</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>soap boxes</edm:hasType>
+    <dcterms:medium>soap boxes</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2532388/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2532388</edm:isShownAt>

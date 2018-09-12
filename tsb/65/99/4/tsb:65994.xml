@@ -11,13 +11,14 @@
     <dcterms:identifier>tsb:65994</dcterms:identifier>
     <dcterms:title>Modern reports; or, Select cases adjudged in the courts of King's Bench, Chancery, Common Pleas, and Exchequer ... [1663-1755]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Leach, Thomas, 1746-1818</dcterms:creator>
     <dcterms:created>1793/1796</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>12 v. 25 cm.</dcterms:extent>
     <dcterms:publisher>Printed for G. G. J. and J. Robinson</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65994/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65994</edm:isShownAt>

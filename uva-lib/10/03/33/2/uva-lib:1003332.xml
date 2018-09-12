@@ -15,14 +15,16 @@
     <dcterms:created>1890</dcterms:created>
     <dcterms:extent>1 map : col. ; 62 x 92 cm. on sheet 68 x 98 cm.</dcterms:extent>
     <dcterms:publisher>Heliotype Printing Co., [1890]</dcterms:publisher>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:subject>Real estate development</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Real property--Virginia--New Castle--Maps</dcterms:subject>
+    <dcterms:subject>Real estate development--Virginia--New Castle--Maps</dcterms:subject>
+    <dcterms:subject>New Castle (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Craig County (Va.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Massachusetts</dcterms:spatial>
     <dcterms:spatial>Boston</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003332/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003332</edm:isShownAt>

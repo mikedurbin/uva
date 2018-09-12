@@ -15,12 +15,16 @@
     <dcterms:created>1870/1880</dcterms:created>
     <dcterms:extent>1 map : col. ; 21 x27 cm. on sheet 24 x 29 cm.</dcterms:extent>
     <dcterms:publisher>Butler</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Southwest, Old--Maps</dcterms:subject>
+    <dcterms:subject>Texas--Maps</dcterms:subject>
+    <dcterms:subject>Louisiana--Maps</dcterms:subject>
+    <dcterms:subject>Arkansas--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Pennyslvania</dcterms:spatial>
     <dcterms:spatial>Philadelphia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003572/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003572</edm:isShownAt>

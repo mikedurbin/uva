@@ -11,15 +11,14 @@
     <dcterms:identifier>uva-lib:2440446</dcterms:identifier>
     <dcterms:title>Dr. C.H. Fitch's pocket prescription scale set</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>N.V. Randolph and Company</dcterms:creator>
     <dcterms:created>1885</dcterms:created>
     <dcterms:description>Contained in cardboard box; label information: Dr. C. H. Fitch's Pocket Prescription Scale, capacity 1/2 to 20 grains, folding spatula in each box, price, $1, Manufactured by N.V. Randolph &amp; Co., Richmond, Virginia; Patented Sept 29th, 1885; instructions on inside of box; set includes: scale; bar.</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:subject>Scales (Weighing instruments)</dcterms:subject>
     <dcterms:subject>Technology, Pharmaceutical</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>prescription scales</edm:hasType>
+    <dcterms:medium>prescription scales</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440446/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440446</edm:isShownAt>

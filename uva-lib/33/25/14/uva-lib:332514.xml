@@ -17,17 +17,17 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Jerusalem</dcterms:subject>
-    <dcterms:subject>Israel</dcterms:subject>
-    <dcterms:subject>Domes</dcterms:subject>
-    <dcterms:subject>Temples</dcterms:subject>
-    <dcterms:subject>Arches</dcterms:subject>
-    <dcterms:subject>Tents</dcterms:subject>
-    <dcterms:subject>Tipis</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Jerusalem--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Israel--Countries by name</dcterms:subject>
+    <dcterms:subject>Domes--Structural elements</dcterms:subject>
+    <dcterms:subject>Temples--Single built works by function</dcterms:subject>
+    <dcterms:subject>Arches--Structural elements</dcterms:subject>
+    <dcterms:subject>Tents--Single built works by design</dcterms:subject>
+    <dcterms:subject>Tipis--Single built works by form</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332514/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332514</edm:isShownAt>

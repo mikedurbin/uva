@@ -17,15 +17,15 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Houses</dcterms:subject>
-    <dcterms:subject>TROLLEY CARS</dcterms:subject>
-    <dcterms:subject>Streets</dcterms:subject>
-    <dcterms:subject>Sidewalks</dcterms:subject>
-    <dcterms:subject>Power lines</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Houses--Single built works by function</dcterms:subject>
+    <dcterms:subject>TROLLEY CARS--X</dcterms:subject>
+    <dcterms:subject>Streets--Open spaces and site elements</dcterms:subject>
+    <dcterms:subject>Sidewalks--Components by specific context</dcterms:subject>
+    <dcterms:subject>Power lines--System components</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332017/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332017</edm:isShownAt>

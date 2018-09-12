@@ -12,13 +12,14 @@
     <dcterms:title>Sophocles; the plays and fragments with critical notes, commentary and translation in English prose,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Sophocles.</dcterms:creator>
+    <dcterms:creator>Jebb, R. C. (Richard Claverhouse), 1841-1905</dcterms:creator>
     <dcterms:created>1892/1900</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 v. 23 cm.</dcterms:extent>
     <dcterms:publisher>The University press</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65338/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65338</edm:isShownAt>

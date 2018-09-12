@@ -12,16 +12,17 @@
     <dcterms:title>Her bright smile haunts me still</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wrighton, W. T. (William Thomas), 1816-1880</dcterms:creator>
+    <dcterms:creator>Warden, David A.</dcterms:creator>
+    <dcterms:creator>Porter, T. H.</dcterms:creator>
     <dcterms:created>18uu</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score ([2] p.).</dcterms:extent>
     <dcterms:publisher>David A. Warden</dcterms:publisher>
     <dcterms:subject>Songs with piano, Arranged</dcterms:subject>
-    <dcterms:subject>Unrequited love</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Unrequited love--Song and music</dcterms:subject>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1141263/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1141263</edm:isShownAt>

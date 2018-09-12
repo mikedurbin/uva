@@ -12,18 +12,18 @@
     <dcterms:title>Map of Virginia  : to accompany the Battle  fields of Virginia ; and illustrate the operations of the Army of Northern Virginia from the Battle of Fredericksburg, 1862, to the Battle of Chancellorsville 1863</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hotchkiss, Jedediah, 1828-1899</dcterms:creator>
+    <dcterms:creator>Bien, Julius, 1826-1909</dcterms:creator>
+    <dcterms:creator>Barnard, William S., approximately 1809-</dcterms:creator>
     <dcterms:created>1867</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : b&amp;w ; 26 x 40 cm</dcterms:extent>
     <dcterms:publisher>Van Nostrand</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Confederate States of America./</dcterms:subject>
-    <dcterms:subject>Army of Northern Virginia</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>Virginia--History--Civil War, 1861-1865--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1187836/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1187836</edm:isShownAt>

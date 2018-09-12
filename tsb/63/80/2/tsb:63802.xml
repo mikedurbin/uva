@@ -12,12 +12,13 @@
     <dcterms:title>The poetical works of Alexander Pope</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Pope, Alexander, 1688-1744</dcterms:creator>
+    <dcterms:creator>Cary, Henry Francis, 1772-1844</dcterms:creator>
     <dcterms:created>1869</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xvi, 485 p. ; 18 cm.</dcterms:extent>
     <dcterms:publisher>D. Appleton</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63802/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63802</edm:isShownAt>

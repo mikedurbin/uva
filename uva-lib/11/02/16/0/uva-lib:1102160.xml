@@ -11,14 +11,13 @@
     <dcterms:identifier>uva-lib:1102160</dcterms:identifier>
     <dcterms:title>The Declaration of Independence in newspapers</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Small, Albert H. (Albert Harrison)</dcterms:creator>
     <dcterms:created>1775/1781</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>&lt;10&gt; pieces ; 30 x 44 cm.</dcterms:extent>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>United States.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--History--Revolution, 1775-1783--Sources</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Revolution, 1775-1783</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1102160/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1102160</edm:isShownAt>

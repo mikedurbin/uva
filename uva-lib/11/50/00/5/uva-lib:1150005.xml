@@ -12,16 +12,19 @@
     <dcterms:title>Marguerite = Gretchen : (from Goethe's Faust) : sung by Emma Juch</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hauptmann, Moritz, 1792-1868</dcterms:creator>
+    <dcterms:creator>Goethe, Johann Wolfgang von, 1749-1832</dcterms:creator>
+    <dcterms:creator>Juch, Emma, 1863-1939</dcterms:creator>
+    <dcterms:creator>Goethe, Johann Wolfgang von, 1749-1832</dcterms:creator>
+    <dcterms:creator>Dulcken, Ferd., 1837-1901</dcterms:creator>
     <dcterms:created>1887</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 vocal score (7 p.).</dcterms:extent>
     <dcterms:publisher>G. Schirmer</dcterms:publisher>
-    <dcterms:subject>Songs (High voice) with orchestra</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Songs (High voice) with orchestra--Vocal scores with piano</dcterms:subject>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>ger</dcterms:language>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1150005/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1150005</edm:isShownAt>

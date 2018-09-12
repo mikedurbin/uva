@@ -17,16 +17,16 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Ridge (Md.)</dcterms:subject>
-    <dcterms:subject>Saint Mary's County (Md.)</dcterms:subject>
-    <dcterms:subject>Maryland</dcterms:subject>
-    <dcterms:subject>Roman Catholic Church</dcterms:subject>
-    <dcterms:subject>South (U.S.)</dcterms:subject>
-    <dcterms:subject>Automobiles</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Ridge (Md.)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Saint Mary's County (Md.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Maryland--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Roman Catholic Church--Religions and religious concepts</dcterms:subject>
+    <dcterms:subject>South (U.S.)--Regions and states</dcterms:subject>
+    <dcterms:subject>Automobiles--Land vehicles</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:331836/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:331836</edm:isShownAt>

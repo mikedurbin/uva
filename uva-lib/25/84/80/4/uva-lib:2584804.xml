@@ -11,16 +11,15 @@
     <dcterms:identifier>uva-lib:2584804</dcterms:identifier>
     <dcterms:title>Glass bottle with stopper</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Fay &amp; Scheuler</dcterms:creator>
     <dcterms:created>1894/1929</dcterms:created>
     <dcterms:description>Unlabeled glass bottle with dark residue inside. Embossed on bottom: "Pat'D March 6th 1894 St. Louis, Mo. F.&amp;S." Bottle owned by August C. Camoriani (1906-1973), a pharmacist who was born and died in San Francisco. He was the owner of Rossi Drug Co. San Francisco, CA and "Mayor of North Beach" the "Little Italy" neighborhood. He served the Italian immigrant community of San Francisco for more than 40 years.</dcterms:description>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:extent>17.3 x 5.7 x 5.7 cm</dcterms:extent>
     <dcterms:subject>Bottles</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>bottles</edm:hasType>
-    <edm:hasType>medicine bottles</edm:hasType>
+    <dcterms:medium>bottles</dcterms:medium>
+    <dcterms:medium>medicine bottles</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2584804/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2584804</edm:isShownAt>

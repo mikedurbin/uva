@@ -11,16 +11,15 @@
     <dcterms:identifier>tsb:58680</dcterms:identifier>
     <dcterms:title>Fuller's Earth box</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Sepull's Pharmacy</dcterms:creator>
     <dcterms:created>1900/1950</dcterms:created>
     <dcterms:description>Front of the box reads: "Fuller's Earth, We exert the utmost care in compounding prescriptions, Sepull's Pharmacy 123 N. Second Avenue, Alpena, Michigan."</dcterms:description>
     <dcterms:medium>cardboard</dcterms:medium>
     <dcterms:extent>7.8 x 4.4 x 2.8 cm</dcterms:extent>
     <dcterms:subject>Drugs-Packaging</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
-    <edm:hasType>pillboxes (containers)</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:medium>pillboxes (containers)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58680/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58680</edm:isShownAt>

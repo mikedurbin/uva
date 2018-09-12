@@ -17,16 +17,16 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Hampton (Va.)</dcterms:subject>
-    <dcterms:subject>Elizabeth City County (Va.)</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Dillard, J. H. (James Hardy), 1856-1940</dcterms:subject>
-    <dcterms:subject>Duke, E. A.</dcterms:subject>
-    <dcterms:subject>Academics</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Hampton (Va.)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Elizabeth City County (Va.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Virginia--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Dillard, J. H. (James Hardy), 1856-1940--People by name</dcterms:subject>
+    <dcterms:subject>Duke, E. A.--People by name</dcterms:subject>
+    <dcterms:subject>Academics--People by occupation</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:328519/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:328519</edm:isShownAt>

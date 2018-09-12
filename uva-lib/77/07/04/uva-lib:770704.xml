@@ -16,11 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[16] p. ; 17 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Par Benoist Rigaud</dcterms:publisher>
-    <dcterms:subject>Charles</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Charles, IX, King of France, 1550-1574</dcterms:subject>
+    <dcterms:subject>Poetry</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:770704/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770704</edm:isShownAt>

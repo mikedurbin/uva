@@ -11,19 +11,16 @@
     <dcterms:identifier>uva-lib:2162989</dcterms:identifier>
     <dcterms:title>Arts</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Arrington, Rebecca</dcterms:creator>
     <dcterms:created>1994-12-09</dcterms:created>
     <dcterms:description>The smell of pine and the sound of carols played on a Chapman Stick by Greg Howard added to the festive atmosphere in Newcomb Hall Ballroom last Friday, the first day of the annual Artisan's Bazaar, which ran through the weekend.  Sponsered by University Union, the event featured more than 40 East Coast crafters.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:subject>Press coverage</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:subject>University of Virginia. News Office</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>black-and-white negatives</edm:hasType>
+    <dcterms:medium>black-and-white negatives</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2162989/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2162989</edm:isShownAt>

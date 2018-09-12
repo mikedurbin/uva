@@ -11,19 +11,16 @@
     <dcterms:identifier>uva-lib:2164307</dcterms:identifier>
     <dcterms:title>Leaders of France's Council of State visit the University</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Finkelstein, Jayne</dcterms:creator>
     <dcterms:created>1989</dcterms:created>
     <dcterms:description>Constitutional authority A.E. Dick Howard, upper right, escorts the leaders of France's Council of State, the body which rules on the constitutionality of laws passed by the French legislature, on a tour of the Jeffersonian Grounds on  September 3, 1989.  With Howard are, left to right: Michel Combarnous, President of the Council's Litigation Section; Marceau Long, Vice President of the Council of State; Pierre-Francois Racine, Master of Appeals.  The group visited the University before going to Washington D.C. to participate in a 10 day Franco-American judicial exchange.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:subject>Press coverage</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:subject>University of Virginia. News Office</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2164307/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2164307</edm:isShownAt>

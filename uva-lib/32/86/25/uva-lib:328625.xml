@@ -17,18 +17,18 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Lancaster County (Va.)</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Christ Church (Lancaster County, Va.)</dcterms:subject>
-    <dcterms:subject>Churches</dcterms:subject>
-    <dcterms:subject>Parish churches</dcterms:subject>
-    <dcterms:subject>Churchyards</dcterms:subject>
-    <dcterms:subject>Entablatures</dcterms:subject>
-    <dcterms:subject>Windows</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Lancaster County (Va.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Virginia--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Christ Church (Lancaster County, Va.)--Single built works by name</dcterms:subject>
+    <dcterms:subject>Churches--Single built works by function</dcterms:subject>
+    <dcterms:subject>Parish churches--Single built works by function</dcterms:subject>
+    <dcterms:subject>Churchyards--Built complexes and districts</dcterms:subject>
+    <dcterms:subject>Entablatures--Structural elements</dcterms:subject>
+    <dcterms:subject>Windows--Architectural elements</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:328625/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:328625</edm:isShownAt>

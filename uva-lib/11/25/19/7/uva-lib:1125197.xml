@@ -11,13 +11,16 @@
     <dcterms:identifier>uva-lib:1125197</dcterms:identifier>
     <dcterms:title>Fare thee well all ties are broken : ballad</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Romani, Claudine</dcterms:creator>
+    <dcterms:creator>Duffy, W. F.</dcterms:creator>
+    <dcterms:creator>Stout, Peter F.</dcterms:creator>
     <dcterms:created>1853</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (2 p.)</dcterms:extent>
     <dcterms:publisher>Henry McCaffrey</dcterms:publisher>
     <dcterms:subject>Songs with guitar</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1125197/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125197</edm:isShownAt>

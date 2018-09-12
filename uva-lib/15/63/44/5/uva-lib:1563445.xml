@@ -15,11 +15,14 @@
     <dcterms:created>1802</dcterms:created>
     <dcterms:extent>1 map on 4 sheets : hand col. ; 126 x 143 cm. (complete image)</dcterms:extent>
     <dcterms:publisher>Published as the Act directs by A. Arrowsmith, No. 24 Rathbone Place</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>United States--Maps</dcterms:subject>
+    <dcterms:subject>North America--Maps</dcterms:subject>
+    <dcterms:subject>Niagara Falls (N.Y. and Ont.)</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1563445/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1563445</edm:isShownAt>

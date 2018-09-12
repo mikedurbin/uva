@@ -17,19 +17,19 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>2 x 4 in.</dcterms:extent>
-    <dcterms:subject>Oxford (England)</dcterms:subject>
-    <dcterms:subject>Oxfordshire (England)</dcterms:subject>
-    <dcterms:subject>England</dcterms:subject>
-    <dcterms:subject>Great Britain</dcterms:subject>
-    <dcterms:subject>United Kingdom</dcterms:subject>
-    <dcterms:subject>Tea</dcterms:subject>
-    <dcterms:subject>Tables</dcterms:subject>
-    <dcterms:subject>Lawns</dcterms:subject>
-    <dcterms:subject>Trees</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Oxford (England)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Oxfordshire (England)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>England--Countries</dcterms:subject>
+    <dcterms:subject>Great Britain--Countries by name</dcterms:subject>
+    <dcterms:subject>United Kingdom--Countries by name</dcterms:subject>
+    <dcterms:subject>Tea--Beverages</dcterms:subject>
+    <dcterms:subject>Tables--Furniture</dcterms:subject>
+    <dcterms:subject>Lawns--Open spaces and site elements</dcterms:subject>
+    <dcterms:subject>Trees--Trees and shrubs</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332593/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332593</edm:isShownAt>

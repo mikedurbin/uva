@@ -14,13 +14,12 @@
     <dcterms:created>1852/1900</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>pieces</dcterms:extent>
-    <dcterms:subject>Theater</dcterms:subject>
-    <dcterms:subject>Stowe, Harriet Beecher</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Stowe, Harriet Beecher, 1811-1896</dcterms:subject>
+    <dcterms:subject>Theater--United States--19th century</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>19th century</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:701475/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:701475</edm:isShownAt>
-    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1518274/full/!300,300/0/default.jpg</edm:preview>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:705993/full/!300,300/0/default.jpg</edm:preview>
 </mdRecord>

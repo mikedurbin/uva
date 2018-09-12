@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66120</dcterms:identifier>
+    <dcterms:title>Reports of cases argued and determined in the Court of Common Pleas, and other courts, from Michaelmas term, 48 Geo. III. 1807, to [Hilary term, 59 Geo. III. 1819] both inclusive.  With tables of the cases and principal matters.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Taunton, William Pyle</dcterms:creator>
+    <dcterms:created>1811/1823</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>8 v. 25 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by A. Strahan for J. Butterworth; [etc., etc.]</dcterms:publisher>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66120/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66120</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2537714/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

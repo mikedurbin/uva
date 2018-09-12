@@ -12,13 +12,14 @@
     <dcterms:title>Concert sonate</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Scarlatti, Domenico, 1685-1757</dcterms:creator>
+    <dcterms:creator>Rivé-King, Julie, 1854-1937</dcterms:creator>
+    <dcterms:creator>Orth, John, 1850-1932</dcterms:creator>
     <dcterms:created>1879</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 p. of music : ill.</dcterms:extent>
     <dcterms:publisher>Kunkel Bros.</dcterms:publisher>
     <dcterms:subject>Sonatas (Piano)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1145567/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1145567</edm:isShownAt>

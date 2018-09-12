@@ -16,13 +16,15 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>8 v. ; 19 cm.</dcterms:extent>
     <dcterms:publisher>Rivingtons</dcterms:publisher>
-    <dcterms:subject>Criticism, interpretation, etc</dcterms:subject>
     <dcterms:subject>Jesus Christ</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Biography</dcterms:subject>
+    <dcterms:subject>Criticism, interpretation, etc</dcterms:subject>
+    <dcterms:subject>Commentaries</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
-    <edm:hasType>Inscriptions (Provenance)</edm:hasType>
-    <edm:hasType>Insertions (Provenance)</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:medium>Inscriptions (Provenance)</dcterms:medium>
+    <dcterms:medium>Insertions (Provenance)</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64410/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64410</edm:isShownAt>

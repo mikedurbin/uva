@@ -14,11 +14,12 @@
     <dcterms:created>1871</dcterms:created>
     <dcterms:extent>1 map ; 57 x 90 cm. on sheet 68 x 101 cm.</dcterms:extent>
     <dcterms:publisher>Norfolk &amp; Great Western Railroad</dcterms:publisher>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Norfolk &amp; Great Western Railroad Company.</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Railroads--Virginia--Piedmont--Maps</dcterms:subject>
+    <dcterms:subject>Patrick County (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Carroll County (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003519/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003519</edm:isShownAt>

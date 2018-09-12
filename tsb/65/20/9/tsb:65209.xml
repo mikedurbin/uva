@@ -16,10 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v.</dcterms:extent>
     <dcterms:publisher>Longmans, Green</dcterms:publisher>
+    <dcterms:subject>Balaam, (Biblical figure)</dcterms:subject>
     <dcterms:subject>Criticism, interpretation, etc</dcterms:subject>
-    <dcterms:subject>Balaam</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Commentaries</dcterms:subject>
+    <dcterms:subject>Commentaries</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65209/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65209</edm:isShownAt>

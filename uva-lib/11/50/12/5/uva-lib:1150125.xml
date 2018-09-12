@@ -12,16 +12,15 @@
     <dcterms:title>Hail Columbia happy land : with brilliant variations : op. 386</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Grobe, Charles.</dcterms:creator>
+    <dcterms:creator>Phile, Philip, -1793</dcterms:creator>
     <dcterms:created>1853</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 p. of music.</dcterms:extent>
     <dcterms:publisher>Lee &amp; Walker</dcterms:publisher>
     <dcterms:subject>Variations (Piano)</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1150125/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1150125</edm:isShownAt>

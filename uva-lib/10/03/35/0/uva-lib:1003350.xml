@@ -14,12 +14,13 @@
     <dcterms:creator>Cram, George Franklin, 1841-1928</dcterms:creator>
     <dcterms:created>1900</dcterms:created>
     <dcterms:extent>1 map : col. ; 35 x 51 cm.</dcterms:extent>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Kentucky--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Illinois</dcterms:spatial>
     <dcterms:spatial>Chicago</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003350/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003350</edm:isShownAt>

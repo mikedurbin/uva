@@ -12,14 +12,20 @@
     <dcterms:title>A new &amp; exact map of the electorate of Brunswick-Lunenburg and ye rest of ye Kings dominions in Germany</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+    <dcterms:creator>Overton, Philip, -1751</dcterms:creator>
+    <dcterms:creator>Ripking, Berendt R.</dcterms:creator>
+    <dcterms:creator>George, I, King of Great Britain, 1660-1727</dcterms:creator>
     <dcterms:created>1730</dcterms:created>
     <dcterms:extent>1 map : col. ; 61 x 101 cm. on sheet 64 x 107 cm.</dcterms:extent>
     <dcterms:publisher>Sold by Herman Moll over against Devereux Court, between Temple Bar and St. Clements Church in ye Strand, Philip Overton Map and Printseller near St. Dunstans Church Fleetstreet</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Lower Saxony (Germany)--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Braunschweig (Germany : State)--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Lüneburg (Principality)--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003623/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003623</edm:isShownAt>

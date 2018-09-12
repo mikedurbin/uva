@@ -12,15 +12,15 @@
     <dcterms:title>Andante élégiaque : pour le piano, op. 45</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wollenhaupt, H. A. (Hermann Adolf), 1827-1863</dcterms:creator>
+    <dcterms:creator>Hodik</dcterms:creator>
+    <dcterms:creator>Thalberg, Sigismond, 1812-1871</dcterms:creator>
     <dcterms:created>1858</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>14 p. of music.</dcterms:extent>
     <dcterms:publisher>Chez C. Breusing</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1139462/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1139462</edm:isShownAt>

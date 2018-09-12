@@ -12,14 +12,16 @@
     <dcterms:title>Such words no Shakespeare spoke : as originally published in The New York Herald : from Adolph Müllers' The king's fool, as produced with the greatest success by Conried's Opera Company throughout the United States</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Conried, Heinrich, 1855-1909</dcterms:creator>
+    <dcterms:creator>Müller, Adolph, 1839-1901</dcterms:creator>
+    <dcterms:creator>Roeder, B. F.</dcterms:creator>
     <dcterms:created>1889</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (3 p.) : col. ill.</dcterms:extent>
     <dcterms:publisher>Richard A. Saalfield</dcterms:publisher>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Operas--Excerpts, Arranged--Vocal scores</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>ger</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1135130/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1135130</edm:isShownAt>

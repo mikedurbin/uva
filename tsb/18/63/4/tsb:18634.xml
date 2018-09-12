@@ -12,18 +12,19 @@
     <dcterms:title>Utilitarian, by Eclipse. : This horse of full size, uncommon bone, and fine color, being a brown bay, is now in fine health and the prime of life, having this Spring attained just half the age of his celebrated sire, American Eclipse, who died witin the last two years at the age of 32 ... will stand the ensuing season at Hopewell plantation, 4 miles from Greensboro', on the Withers' Landing road, the season to commence forthwith, and will terminate with the month of July. ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Cocke, John Hartwell, 1780-1866</dcterms:creator>
+    <dcterms:creator>Perkins, A. (Adrian)</dcterms:creator>
     <dcterms:created>1849</dcterms:created>
     <dcterms:description>Illustration (signed Anderson) shows a groom holding a bridled, rearing, horse. Text and ill. enclosed within an ornamental border.</dcterms:description>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : ill. ; 46 x 31 cm.</dcterms:extent>
     <dcterms:publisher>A. Perkins?</dcterms:publisher>
     <dcterms:subject>Utilitarian (Horse)</dcterms:subject>
-    <dcterms:subject>Horses</dcterms:subject>
+    <dcterms:subject>Horses--Breeding</dcterms:subject>
     <dcterms:subject>Eclipse (Horse : American)</dcterms:subject>
-    <dcterms:subject>Stallions</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Stallions--Virginia--Fluvanna County</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Virginia-19th century.</edm:hasType>
+    <dcterms:medium>Broadsides-Virginia-19th century.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18634/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18634</edm:isShownAt>

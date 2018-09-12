@@ -18,9 +18,9 @@
     <dcterms:publisher>Universal Pub. Co.</dcterms:publisher>
     <dcterms:subject>Afrikaners</dcterms:subject>
     <dcterms:subject>South African War, 1899-1902</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>South Africa--History</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64113/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64113</edm:isShownAt>

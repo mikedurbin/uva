@@ -11,14 +11,18 @@
     <dcterms:identifier>tsb:18818</dcterms:identifier>
     <dcterms:title>Topography, Maryland--District of Columbia--Virginia, Washington quadrangle</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Wilson, Herbert M. (Herbert Michael), 1860-1920</dcterms:creator>
+    <dcterms:creator>Hoffman, J. D.</dcterms:creator>
     <dcterms:created>1914</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : col. ; 45 x 71 cm.</dcterms:extent>
     <dcterms:publisher>U.S. Geological Survey</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Washington Metropolitan Area--Maps, Topographic</dcterms:subject>
+    <dcterms:subject>Washington (D.C.)--Maps, Topographic</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18818/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18818</edm:isShownAt>

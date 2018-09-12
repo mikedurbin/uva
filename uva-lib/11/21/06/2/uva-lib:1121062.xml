@@ -12,15 +12,16 @@
     <dcterms:title>Beiden Grenadiere = The two grenadiers = Les deux grenadiers</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Schumann, Robert, 1810-1856</dcterms:creator>
+    <dcterms:creator>Krehbiel, Henry Edward, 1854-1923</dcterms:creator>
     <dcterms:created>1902</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (p. 206-211).</dcterms:extent>
     <dcterms:publisher>J. Church</dcterms:publisher>
     <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>ger</dcterms:language>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1121062/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1121062</edm:isShownAt>

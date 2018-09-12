@@ -12,16 +12,16 @@
     <dcterms:title>Gems from the popular opera of Norma : being a collection of the most beautiful airs : complete</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bellini, Vincenzo, 1801-1835</dcterms:creator>
+    <dcterms:creator>Petri, J. F.</dcterms:creator>
+    <dcterms:creator>Webb, L. W.</dcterms:creator>
     <dcterms:created>1843</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>9, 9, 9 p. of music ; 34 cm.</dcterms:extent>
     <dcterms:publisher>Frederick D. Benteen</dcterms:publisher>
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Operas--Excerpts, Arranged</dcterms:subject>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18652/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18652</edm:isShownAt>

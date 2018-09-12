@@ -16,12 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xi, 580 p. 20 ccm.</dcterms:extent>
     <dcterms:publisher>Ginn and company</dcterms:publisher>
-    <dcterms:subject>Social conditions</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Great Britain--Social conditions--20th century</dcterms:subject>
+    <dcterms:subject>Great Britain--Politics and government--1901-1936</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>20th century</dcterms:temporal>
-    <dcterms:temporal>1901-1936</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61661/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61661</edm:isShownAt>

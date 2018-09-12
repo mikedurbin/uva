@@ -12,13 +12,14 @@
     <dcterms:title>The evolution of sex</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Geddes, Patrick, Sir, 1854-1932</dcterms:creator>
+    <dcterms:creator>Thomson, J. Arthur (John Arthur), Sir, 1861-1933</dcterms:creator>
     <dcterms:created>1889</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xvi, 322 p. illus. 19 cm.</dcterms:extent>
     <dcterms:publisher>W. Scott</dcterms:publisher>
     <dcterms:subject>Sex (Biology)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63797/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63797</edm:isShownAt>

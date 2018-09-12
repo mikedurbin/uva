@@ -12,18 +12,19 @@
     <dcterms:title>Utilitarian, by Eclipse, : Too well and favorably known in this vicinity to need puffing, will stand the ensuing season at Hopewell plantation, 4 miles from Greensboro', on the Withers' Landing road, and at Newbern, the season to commence forthwith, and terminate with the month of July. ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Cocke, John Hartwell, 1780-1866</dcterms:creator>
+    <dcterms:creator>Perkins, A. (Adrian)</dcterms:creator>
     <dcterms:created>1850</dcterms:created>
     <dcterms:description>Illustration (unsigned) shows a groom holding a bridled, rearing, horse. Text and ill. enclosed within an ornamental border.</dcterms:description>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : ill. ; 46 x 30 cm.</dcterms:extent>
     <dcterms:publisher>A. Perkins?</dcterms:publisher>
     <dcterms:subject>Utilitarian (Horse)</dcterms:subject>
-    <dcterms:subject>Horses</dcterms:subject>
+    <dcterms:subject>Horses--Breeding</dcterms:subject>
     <dcterms:subject>Eclipse (Horse : American)</dcterms:subject>
-    <dcterms:subject>Stallions</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Stallions--Virginia--Fluvanna County</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Virginia-19th century.</edm:hasType>
+    <dcterms:medium>Broadsides-Virginia-19th century.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18672/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18672</edm:isShownAt>

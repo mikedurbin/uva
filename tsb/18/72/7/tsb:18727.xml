@@ -11,14 +11,15 @@
     <dcterms:identifier>tsb:18727</dcterms:identifier>
     <dcterms:title>Dr. R. Finley Hunt, surgeon dentist from Philadelphia, respectfully offers his professional services to the ladies and gentlemen of [Washington City] : Office at [4 1/2 Street, six doors north of Pennsylvania Avenue.]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hunt, R. Finley.</dcterms:creator>
     <dcterms:created>1850/1859</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([4] p.) ; 20 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Dentists</dcterms:subject>
     <dcterms:subject>Hunt, R. Finley</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Dentists--Washington (D.C.)</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18727/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18727</edm:isShownAt>

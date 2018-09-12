@@ -11,14 +11,15 @@
     <dcterms:identifier>tsb:18855</dcterms:identifier>
     <dcterms:title>Land for sale : the tract of land lying on Cumberland river, opposite the Stacker Iron Works, in Trigg County, Ky,. and generally known as the "White survey" is offered for sale at five dollars per acre ... those wishing to purchase will address the subscriber at Lexington, Va. E.F. Paxton, attorney for the heirs of White.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Paxton, Elisha Franklin, 1828-1863</dcterms:creator>
     <dcterms:created>1853</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 29 x 22 cm.</dcterms:extent>
     <dcterms:publisher>Printed at Gazette Office</dcterms:publisher>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Real property--Kentucky--Trigg County</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Virginia-1853.</edm:hasType>
+    <dcterms:medium>Broadsides-Virginia-1853.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18855/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18855</edm:isShownAt>

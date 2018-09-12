@@ -16,14 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>411 p. : ill. ; 24 cm.</dcterms:extent>
     <dcterms:publisher>Harper</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Great Britain--History--George II, 1727-1760--Fiction</dcterms:subject>
+    <dcterms:subject>United States--History--French and Indian War, 1754-1763--Fiction</dcterms:subject>
+    <dcterms:subject>United States--History--Revolution, 1775-1783--Fiction</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>George II, 1727-1760</dcterms:temporal>
-    <dcterms:temporal>French and Indian War, 1754-1763</dcterms:temporal>
-    <dcterms:temporal>Revolution, 1775-1783</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65486/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65486</edm:isShownAt>

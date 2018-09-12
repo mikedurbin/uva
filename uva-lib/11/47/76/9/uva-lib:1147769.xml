@@ -12,16 +12,17 @@
     <dcterms:title>When we are married : comic vocal duett</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Glover, Charles William, 1806-1863</dcterms:creator>
+    <dcterms:creator>Carpenter, J. E. (Joseph Edwards), 1813-1885</dcterms:creator>
+    <dcterms:creator>Swain, George F.</dcterms:creator>
     <dcterms:created>1868/1877</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (p. 163-167).</dcterms:extent>
     <dcterms:publisher>J. Starr Holloway</dcterms:publisher>
     <dcterms:subject>Vocal duets with piano</dcterms:subject>
-    <dcterms:subject>Marriage</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Marriage--Songs and music</dcterms:subject>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1147769/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1147769</edm:isShownAt>

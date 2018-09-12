@@ -11,15 +11,16 @@
     <dcterms:identifier>tsb:65972</dcterms:identifier>
     <dcterms:title>Apxaionomia, sive De priscis Anglorum legibus libri, sermone anglico, vetustate antiquissimo, aliquot abhinc seculis conscripti, atq; nunc demum, magno iurisperitorum, &amp; amantium antiquitatis omnium commodo,è tenebris in lucem vocati.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Great Britain</dcterms:creator>
+    <dcterms:creator>Lambarde, William, 1536-1601</dcterms:creator>
+    <dcterms:creator>Nowell, Laurence, 1530-approximately 1570</dcterms:creator>
     <dcterms:created>1568</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>17 p. l., [1], 140 numb. l., [6] p. map. 20 cm.</dcterms:extent>
     <dcterms:publisher>ex officina Joannis Daij</dcterms:publisher>
     <dcterms:subject>Law, Anglo-Saxon</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>lat</dcterms:language>
     <dcterms:language>ang</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65972/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65972</edm:isShownAt>

@@ -15,10 +15,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>117 p. ; 19 cm.</dcterms:extent>
     <dcterms:publisher>Hodges &amp; Smith</dcterms:publisher>
-    <dcterms:subject>Irish language</dcterms:subject>
-    <dcterms:subject>Irish language</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Irish language--Pronunciation</dcterms:subject>
+    <dcterms:subject>Irish language--Readers</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63720/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63720</edm:isShownAt>

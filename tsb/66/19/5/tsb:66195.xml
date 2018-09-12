@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66195</dcterms:identifier>
+    <dcterms:title>Jurisdictions: or, The lawful authority of Courts leet, Courts baron, Court of marshalseys, Court of pypowder, and Ancient demesn. Together with the most necessary learning of tenvres, and all their incidents of essoyns, imparlance, view; of all manner of pleadings, of contracts, of the nature of all sorts of actions, of maintenance; of divers other things very profitable for all students of Inns of court and Chancery: and a most perfect directory for all stewards of any the said courts. With the return and forms of several original and judicial writs now in use, relating to writs of error, writs of false judgment, and other proceedings of frequent use in the courts at Westminster.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Kitchin, John.</dcterms:creator>
+    <dcterms:creator>Antrobus, Richard</dcterms:creator>
+    <dcterms:creator>Impey, Thomas</dcterms:creator>
+    <dcterms:created>1675</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>2 p. leaves, 581, [15] p., 2 leaves, 122, [5] p. 18 cm.</dcterms:extent>
+    <dcterms:publisher>Printed for Hen. Twyford and Sam. Herrick</dcterms:publisher>
+    <dcterms:subject>Manorial courts--Great Britain</dcterms:subject>
+    <dcterms:subject>Courts baron and courts leet</dcterms:subject>
+    <dcterms:subject>Real property--Great Britain</dcterms:subject>
+    <dcterms:subject>Pleading--Great Britain</dcterms:subject>
+    <dcterms:subject>Writs--Great Britain</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66195/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66195</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2575847/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

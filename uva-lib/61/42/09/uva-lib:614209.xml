@@ -12,19 +12,19 @@
     <dcterms:title>Bref et sommaire recueil de ce qui a esté faict, &amp; de l'ordre tenüe à la ioyeuse &amp; triumphante entree de tres-puissant, tres-magnanime &amp; tres-chrestien Prince Charles IX. de ce nom Roy de France, en sa bonne ville &amp; cité de Paris, capitale de son Royaume, le Mardy sixiesme iour de Mars. : Auec le couronnement de tres-haute, tres-illustre &amp; tres-excellente Princesse Madame Elizabet d'Austriche son espouse, le Dimanche vingtcinquiesme. ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bouquet, Simon, active 16th century</dcterms:creator>
+    <dcterms:creator>Codoré, Olivier.</dcterms:creator>
     <dcterms:created>1572</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>53, [1], 10, 26, [1] leaves, [2] folded leaves of plates : ill. ; 26 cm. (4to)</dcterms:extent>
     <dcterms:publisher>De l'imprimerie de Denis du Pré, pour Oliuier Codoré, rüe Guillaume Iosse, au Heraut d'armes, pres la rüe des Lombars</dcterms:publisher>
-    <dcterms:subject>Coronations</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Charles/</dcterms:subject>
-    <dcterms:subject>Elisabeth</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Charles, IX, King of France, 1550-1574</dcterms:subject>
+    <dcterms:subject>Elisabeth, of Austria, Queen, consort of Charles IX, King of France, 1554-1592</dcterms:subject>
+    <dcterms:subject>Coronations--France</dcterms:subject>
+    <dcterms:subject>France--History--Charles IX, 1560-1574</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
-    <dcterms:temporal>Charles IX, 1560-1574</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:614209/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:614209</edm:isShownAt>

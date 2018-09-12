@@ -11,16 +11,18 @@
     <dcterms:identifier>uva-lib:730840</dcterms:identifier>
     <dcterms:title>La puce de Madame Des-Roches. ; Qui est vn recueil de diuers poëmes Grecs, Latins &amp; François</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Pasquier, Etienne, 1529-1615</dcterms:creator>
+    <dcterms:creator>Des Roches, Catherine Fredonnoit, dame, 1542-1587</dcterms:creator>
     <dcterms:created>1582</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[4], 91 (i.e. 94) leaves ; 25 cm. (4to)</dcterms:extent>
     <dcterms:publisher>Pour Abel l'Angelier ...</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:language>grc</dcterms:language>
     <dcterms:language>lat</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730840/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730840</edm:isShownAt>

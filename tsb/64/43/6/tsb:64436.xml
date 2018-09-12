@@ -12,15 +12,16 @@
     <dcterms:title>Pot-pourri from a Surrey garden</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Earle, Maria Theresa Villiers, 1836-1925</dcterms:creator>
+    <dcterms:creator>Lytton, Constance, Lady, 1869-1923</dcterms:creator>
     <dcterms:created>1912</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xii, 381 p. ; 22 cm.</dcterms:extent>
     <dcterms:publisher>Murray</dcterms:publisher>
     <dcterms:subject>Cooking</dcterms:subject>
-    <dcterms:subject>Gardening</dcterms:subject>
-    <dcterms:subject>Gardening</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Gardening--England</dcterms:subject>
+    <dcterms:subject>Gardening--Bibliography</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64436/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64436</edm:isShownAt>

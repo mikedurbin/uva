@@ -15,13 +15,13 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[3] p. ; 33 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Transportation and state</dcterms:subject>
-    <dcterms:subject>Railroads and state</dcterms:subject>
-    <dcterms:subject>Public works</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Transportation and state--Virginia</dcterms:subject>
+    <dcterms:subject>Railroads and state--Virginia</dcterms:subject>
+    <dcterms:subject>Public works--Virginia</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18709/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18709</edm:isShownAt>

@@ -12,14 +12,18 @@
     <dcterms:title>Virginie, grande region de l'Amerique Septentrionale, : avec tous ses bourgs, hameaux, rivieres et bayes, suivant les recherches exactes de ceux qui l'ont decouverte, et nouvellement mise au jour</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Aa, Pieter van der, 1659-1733</dcterms:creator>
+    <dcterms:creator>Cóvens, Jean.</dcterms:creator>
+    <dcterms:creator>Mortier, Corneille.</dcterms:creator>
     <dcterms:created>1683</dcterms:created>
     <dcterms:extent>1 map : hand col. ; 29 x 35 cm.</dcterms:extent>
     <dcterms:publisher>chez I. Cóvens et C. Mortier.</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Virginia--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Chesapeake Bay (Md. and Va.)--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>Netherlands</dcterms:spatial>
     <dcterms:spatial>Amsterdam</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004246/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004246</edm:isShownAt>

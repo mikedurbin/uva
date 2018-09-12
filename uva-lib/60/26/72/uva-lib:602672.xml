@@ -12,14 +12,16 @@
     <dcterms:title>Americae sive novi orbis, nova descriptio</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Ortelius, Abraham, 1527-1598</dcterms:creator>
+    <dcterms:creator>Plantin, Christophe, approximately 1520-1589</dcterms:creator>
     <dcterms:created>1584</dcterms:created>
     <dcterms:extent>1 map : hand col. ; 36 x 49 cm.</dcterms:extent>
     <dcterms:publisher>Christopher Plantin</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>America--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>Belgium</dcterms:spatial>
     <dcterms:spatial>Antwerp</dcterms:spatial>
     <dcterms:language>lat</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:602672/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:602672</edm:isShownAt>

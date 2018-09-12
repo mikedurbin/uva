@@ -12,16 +12,16 @@
     <dcterms:title>Madre del sommo amore = Fountain of love eternal : terzettino</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Campana, F. (Fabio), 1819-1882</dcterms:creator>
+    <dcterms:creator>Millard, H. (Harrison), 1830-1895</dcterms:creator>
     <dcterms:created>1871</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (11 p.)</dcterms:extent>
     <dcterms:publisher>G. Schirmer</dcterms:publisher>
     <dcterms:subject>Vocal trios with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>ita</dcterms:language>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1147605/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1147605</edm:isShownAt>

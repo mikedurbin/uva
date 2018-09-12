@@ -16,9 +16,8 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 p. l., 255, [1] p. front., plates. 23 cm.</dcterms:extent>
     <dcterms:publisher>Little, Brown, and Company</dcterms:publisher>
-    <dcterms:subject>Harvard University.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65592/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65592</edm:isShownAt>

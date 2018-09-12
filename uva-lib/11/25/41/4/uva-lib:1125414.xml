@@ -12,15 +12,18 @@
     <dcterms:title>Battle of Waterloo</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Ogilvy, C.</dcterms:creator>
+    <dcterms:creator>Purcell, Henry, 1659-1695</dcterms:creator>
+    <dcterms:creator>Anderson, G.</dcterms:creator>
+    <dcterms:creator>Wellington, Arthur Wellesley, Duke of, 1769-1852</dcterms:creator>
     <dcterms:created>1839/1851</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.)</dcterms:extent>
     <dcterms:publisher>F.D. Benteen</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
     <dcterms:subject>Choruses, Secular (Mixed voices, 4 parts) with piano</dcterms:subject>
-    <dcterms:subject>Waterloo, Battle of, Waterloo, Belgium, 1815</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Waterloo, Battle of, Waterloo, Belgium, 1815--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1125414/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125414</edm:isShownAt>

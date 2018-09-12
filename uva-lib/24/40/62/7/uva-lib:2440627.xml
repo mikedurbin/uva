@@ -17,9 +17,9 @@
     <dcterms:subject>Uniforms</dcterms:subject>
     <dcterms:subject>World War, 1939-1945</dcterms:subject>
     <dcterms:subject>United States. Army. Evacuation Hospital, 8th</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>uniforms</edm:hasType>
+    <dcterms:medium>uniforms</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440627/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440627</edm:isShownAt>

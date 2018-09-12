@@ -12,15 +12,17 @@
     <dcterms:title>Epitaphes par P. de Ronsard gentilhomme Vandomois, &amp; autres doctes personnages sur le tombeau de haut &amp; puissant seigneur. Anne duc de Mommorancy pair, et connestable de France</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Ronsard, Pierre de, 1524-1585</dcterms:creator>
+    <dcterms:creator>Pasquier, Etienne, 1529-1615</dcterms:creator>
+    <dcterms:creator>Dorat, Jean, 1508-1588</dcterms:creator>
     <dcterms:created>1568</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[31] p. ; 17 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Par Francois Didier</dcterms:publisher>
-    <dcterms:subject>Montmorency, Anne</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Montmorency, Anne, duc de, 1493-1567</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730718/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730718</edm:isShownAt>

@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 p.l., xvii, [19]-353 p. 18 cm.</dcterms:extent>
     <dcterms:publisher>Sheldon, Blakeman &amp; co.</dcterms:publisher>
+    <dcterms:subject>Lyon, Mary, 1797-1849</dcterms:subject>
     <dcterms:subject>Women</dcterms:subject>
-    <dcterms:subject>Lyon, Mary</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63714/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63714</edm:isShownAt>

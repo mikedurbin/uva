@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 p. l., iii-ix, 277 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>C. Scribner's sons</dcterms:publisher>
-    <dcterms:subject>Education</dcterms:subject>
-    <dcterms:subject>Arnold, Thomas/</dcterms:subject>
-    <dcterms:subject>Arnold, Matthew</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Arnold, Thomas, 1795-1842</dcterms:subject>
+    <dcterms:subject>Arnold, Matthew, 1822-1888</dcterms:subject>
+    <dcterms:subject>Education--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63700/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63700</edm:isShownAt>

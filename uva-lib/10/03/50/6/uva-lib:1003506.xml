@@ -12,19 +12,21 @@
     <dcterms:title>Plan of the Portsmouth &amp; Roanoke Rail-Road and trace of the Petersburg Rail Road</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Williamson, Thomas H. (Thomas Hoomes)</dcterms:creator>
+    <dcterms:creator>Penniman, John, approximately 1817-1850</dcterms:creator>
     <dcterms:created>1835/1840</dcterms:created>
     <dcterms:extent>1 map ; 67 x 52 cm. on sheet 85 x 59 cm.</dcterms:extent>
     <dcterms:publisher>Portsmouth &amp; Roanoke Rail-Road</dcterms:publisher>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Portsmouth and Roanoke Railroad Company/</dcterms:subject>
-    <dcterms:subject>Petersburg Railroad Company.</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>Railroads--Virginia--Southside Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--North Carolina--Maps</dcterms:subject>
+    <dcterms:subject>Southside Virginia (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>North Carolina--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Maryland</dcterms:spatial>
     <dcterms:spatial>Baltimore</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003506/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003506</edm:isShownAt>

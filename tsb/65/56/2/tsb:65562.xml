@@ -16,15 +16,15 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>p. cm.</dcterms:extent>
     <dcterms:publisher>Houghton, Mifflin and co.</dcterms:publisher>
-    <dcterms:subject>Education</dcterms:subject>
-    <dcterms:subject>Women</dcterms:subject>
+    <dcterms:subject>Education--United States</dcterms:subject>
+    <dcterms:subject>Women--United States</dcterms:subject>
     <dcterms:subject>National characteristics, American</dcterms:subject>
     <dcterms:subject>Copy 2</dcterms:subject>
-    <dcterms:subject>Germans</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Social life and customs</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Germans--United States</dcterms:subject>
+    <dcterms:subject>United States--Politics and government</dcterms:subject>
+    <dcterms:subject>United States--Social life and customs</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65562/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65562</edm:isShownAt>

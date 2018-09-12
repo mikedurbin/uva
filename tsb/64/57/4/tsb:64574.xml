@@ -12,14 +12,15 @@
     <dcterms:title>Scholia in Theocritum</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Dübner, Fr. (Friedrich), 1802-1867</dcterms:creator>
+    <dcterms:creator>Bussemaker, Ulco Cats, 1810-1865</dcterms:creator>
     <dcterms:created>1849</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xiv, 670 p. ; 26 cm.</dcterms:extent>
     <dcterms:publisher>A. Firmin-Didot</dcterms:publisher>
-    <dcterms:subject>Nicander/</dcterms:subject>
-    <dcterms:subject>Oppian</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Nicander, of Colophon</dcterms:subject>
+    <dcterms:subject>Oppian, active 2nd century</dcterms:subject>
     <dcterms:language>grc</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64574/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64574</edm:isShownAt>

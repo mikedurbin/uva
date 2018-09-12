@@ -12,15 +12,16 @@
     <dcterms:title>Creole love song : op. 4</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Smith, Edgar Belmont.</dcterms:creator>
+    <dcterms:creator>Hale, F. G. (Frank Gardner), 1876-1945</dcterms:creator>
     <dcterms:created>1889</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.)</dcterms:extent>
     <dcterms:publisher>Oliver Ditson Co.</dcterms:publisher>
     <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
-    <dcterms:subject>African Americans</dcterms:subject>
-    <dcterms:subject>Creoles</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>African Americans--Music</dcterms:subject>
+    <dcterms:subject>Creoles--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1120000/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1120000</edm:isShownAt>

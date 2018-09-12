@@ -12,16 +12,19 @@
     <dcterms:title>The tourist's pocket map of the state of Tennessee : exhibiting its internal improvements roads distances &amp;c.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Young, J. H. (James Hamilton)</dcterms:creator>
+    <dcterms:creator>Mitchell, S. Augustus (Samuel Augustus), 1792-1868</dcterms:creator>
     <dcterms:created>1837</dcterms:created>
     <dcterms:extent>1 map ; 33 x 39 cm.</dcterms:extent>
     <dcterms:publisher>[S. Augustus Mitchell]</dcterms:publisher>
-    <dcterms:subject>Transportation</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Transportation--Tennessee--Maps</dcterms:subject>
+    <dcterms:subject>Tennessee--Maps, Tourist</dcterms:subject>
+    <dcterms:subject>Tennessee--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Pennsylvania</dcterms:spatial>
     <dcterms:spatial>Philadelphia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003301/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003301</edm:isShownAt>

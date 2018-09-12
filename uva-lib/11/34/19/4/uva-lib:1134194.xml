@@ -12,13 +12,14 @@
     <dcterms:title>The Sicilian knight : cavatina : sung with rapturous applause by Mrs. Austin in the romatic opera of Rokeby</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Weber, Carl Maria von, 1786-1826</dcterms:creator>
+    <dcterms:creator>Austin, Elizabeth, approximately 1800-</dcterms:creator>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.)</dcterms:extent>
     <dcterms:publisher>George Willig &amp; Co.</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Incidental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Incidental music--Excerpts, Arranged</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1134194/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1134194</edm:isShownAt>

@@ -15,15 +15,15 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 18 x 11 cm.</dcterms:extent>
     <dcterms:publisher>W. Grattan, Printer, 8 Thames-street</dcterms:publisher>
-    <dcterms:subject>Fourth of July celebrations</dcterms:subject>
-    <dcterms:subject>Menus</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Fourth of July celebrations--New York (State)--New York</dcterms:subject>
+    <dcterms:subject>Menus--Specimens</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>New York (State)</dcterms:spatial>
     <dcterms:spatial>New York</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-New York (State)-New York-1825.</edm:hasType>
-    <edm:hasType>Menus-New York (State)-New York-1825.</edm:hasType>
+    <dcterms:medium>Broadsides-New York (State)-New York-1825.</dcterms:medium>
+    <dcterms:medium>Menus-New York (State)-New York-1825.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1222346/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1222346</edm:isShownAt>

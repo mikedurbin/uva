@@ -15,12 +15,13 @@
     <dcterms:created>1862</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 broadside. 27 x 12 cm.</dcterms:extent>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Lincoln, Abraham/</dcterms:subject>
-    <dcterms:subject>Davis, Jefferson</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Lincoln, Abraham, 1809-1865</dcterms:subject>
+    <dcterms:subject>Davis, Jefferson, 1808-1889</dcterms:subject>
+    <dcterms:subject>Poetry</dcterms:subject>
+    <dcterms:subject>Poetry</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Poetry--Confederate</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2174003/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174003</edm:isShownAt>

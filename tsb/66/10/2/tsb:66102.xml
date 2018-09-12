@@ -11,13 +11,16 @@
     <dcterms:identifier>tsb:66102</dcterms:identifier>
     <dcterms:title>A Treatise on the study of the law: containing, directions to students,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Mansfield, William Murray, Earl of, 1705-1793</dcterms:creator>
+    <dcterms:creator>Dunning, John, Baron Ashburton, 1731-1783</dcterms:creator>
+    <dcterms:creator>Thurlow, Edward Thurlow, Baron, 1731-1806</dcterms:creator>
     <dcterms:created>1797</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>viii, iii, 147 p. 22 cm.</dcterms:extent>
     <dcterms:publisher>Printed for Harrison, Cluse and Co.</dcterms:publisher>
-    <dcterms:subject>Law</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law--Study and teaching--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66102/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66102</edm:isShownAt>

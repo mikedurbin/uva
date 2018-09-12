@@ -12,18 +12,18 @@
     <dcterms:title>Reponse de Louis Meigre̜t à la dezesperée repliqe de Glaomalis de Vezelȩt, transformé ȩn Gyllaome dȩs Aotels</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Meigret, Louis, active 16th century</dcterms:creator>
+    <dcterms:creator>Des Autels, Guillaume, 1529-approximately 1581</dcterms:creator>
     <dcterms:created>1551</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>95, [1] p. ; 23 cm. (4to)</dcterms:extent>
     <dcterms:publisher>Chés Chrestien Wechel, à la rue sainct Iean de Beauuais, à l'enseigne du Cheual volant</dcterms:publisher>
-    <dcterms:subject>French language</dcterms:subject>
-    <dcterms:subject>French language</dcterms:subject>
-    <dcterms:subject>French language</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>French language--Middle French, 1300-1600</dcterms:subject>
+    <dcterms:subject>French language--Orthography and spelling</dcterms:subject>
+    <dcterms:subject>French language--Grammar</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
-    <dcterms:temporal>Middle French, 1300-1600</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:774168/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:774168</edm:isShownAt>

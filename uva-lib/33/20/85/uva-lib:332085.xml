@@ -17,15 +17,15 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Africa</dcterms:subject>
-    <dcterms:subject>Airplanes</dcterms:subject>
-    <dcterms:subject>Aerial views</dcterms:subject>
-    <dcterms:subject>Rivers</dcterms:subject>
-    <dcterms:subject>Aerial photographs</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Africa--Continents</dcterms:subject>
+    <dcterms:subject>Airplanes--Air and space vehicles</dcterms:subject>
+    <dcterms:subject>Aerial views--Visual works by form</dcterms:subject>
+    <dcterms:subject>Rivers--Bodies of water and components</dcterms:subject>
+    <dcterms:subject>Aerial photographs--Visual works by medium or technique</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332085/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332085</edm:isShownAt>

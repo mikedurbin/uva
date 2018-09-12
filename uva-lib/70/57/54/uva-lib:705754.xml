@@ -14,10 +14,11 @@
     <dcterms:created>1907</dcterms:created>
     <dcterms:extent>1 map : col. ; 19 x 19 cm. on sheet 22 x 28 cm.</dcterms:extent>
     <dcterms:publisher>The Stone Printing and Manufacturing Co.</dcterms:publisher>
-    <dcterms:subject>Administrative and political divisions</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Roanoke (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Roanoke (Va.)--Administrative and political divisions--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:705754/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:705754</edm:isShownAt>

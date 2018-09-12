@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>188 p. 17 cm.</dcterms:extent>
     <dcterms:publisher>A.Hartleben</dcterms:publisher>
-    <dcterms:subject>Yiddish language</dcterms:subject>
-    <dcterms:subject>Yiddish language</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Yiddish language--Grammar</dcterms:subject>
+    <dcterms:subject>Yiddish language--Glossaries, vocabularies, etc</dcterms:subject>
     <dcterms:language>ger</dcterms:language>
     <dcterms:language>yid</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65033/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65033</edm:isShownAt>

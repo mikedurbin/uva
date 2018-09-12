@@ -12,14 +12,14 @@
     <dcterms:title>Don Giovanni : op. 112</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Beyer, Ferdinand, 1803-1863</dcterms:creator>
+    <dcterms:creator>Mozart, Wolfgang Amadeus, 1756-1791</dcterms:creator>
     <dcterms:created>1856</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>11 p. of music ; 33 cm.</dcterms:extent>
     <dcterms:publisher>Oliver Ditson</dcterms:publisher>
     <dcterms:subject>Piano music (4 hands)</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:subject>Operas--Excerpts, Arranged</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58838/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58838</edm:isShownAt>

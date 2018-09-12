@@ -16,12 +16,11 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:extent>8 x 10 in.</dcterms:extent>
     <dcterms:subject>Architecture</dcterms:subject>
-    <dcterms:subject>University of Virginia Rotunda (Charlottesville, Va.)</dcterms:subject>
-    <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>University of Virginia Lawn (Charlottesville, Va.)</dcterms:subject>
+    <dcterms:subject>Charlottesville (Va.)</dcterms:subject>
     <dcterms:isPartOf>Holsinger Studio Collection</dcterms:isPartOf>
-    <edm:hasType>Glass negatives</edm:hasType>
+    <dcterms:medium>Glass negatives</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1049093/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1049093</edm:isShownAt>

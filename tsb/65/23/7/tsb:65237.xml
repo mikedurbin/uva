@@ -16,10 +16,9 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>p. cm.</dcterms:extent>
     <dcterms:publisher>W. and D. Laing</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Scotland--History--To 844</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 844</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65237/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65237</edm:isShownAt>

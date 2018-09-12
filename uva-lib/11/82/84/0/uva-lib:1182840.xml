@@ -15,11 +15,12 @@
     <dcterms:created>1912</dcterms:created>
     <dcterms:extent>1 map : col. ; 66 x 50 cm.</dcterms:extent>
     <dcterms:publisher>Virginia Geological Survey</dcterms:publisher>
-    <dcterms:subject>Geology</dcterms:subject>
-    <dcterms:subject>Artesian wells</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Geology--Virginia--Tidewater (Region)--Maps</dcterms:subject>
+    <dcterms:subject>Artesian wells--Virginia--Tidewater (Region)--Maps</dcterms:subject>
+    <dcterms:subject>Tidewater (Va. : Region)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1182840/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1182840</edm:isShownAt>

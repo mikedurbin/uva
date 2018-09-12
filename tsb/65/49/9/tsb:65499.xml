@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. illus., ports. 23 cm.</dcterms:extent>
     <dcterms:publisher>R. Bentley</dcterms:publisher>
-    <dcterms:subject>Huguenots</dcterms:subject>
-    <dcterms:subject>Reformation</dcterms:subject>
-    <dcterms:subject>Protestants</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Huguenots--France</dcterms:subject>
+    <dcterms:subject>Reformation--France</dcterms:subject>
+    <dcterms:subject>Protestants--France</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65499/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65499</edm:isShownAt>

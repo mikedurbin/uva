@@ -16,10 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 23 x 15 cm.</dcterms:extent>
     <dcterms:publisher>Thomas M. Scroggy, Publisher ... No. 443 Vine Street, above Twelfth, Phila. ...</dcterms:publisher>
-    <dcterms:subject>African Americans</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>African Americans--Music</dcterms:subject>
+    <dcterms:subject>Virginia--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Pennsylvania-Philadelphia-19th century.</edm:hasType>
+    <dcterms:medium>Broadsides-Pennsylvania-Philadelphia-19th century.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18733/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18733</edm:isShownAt>

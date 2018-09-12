@@ -11,12 +11,13 @@
     <dcterms:identifier>tsb:65228</dcterms:identifier>
     <dcterms:title>Economic history of Manchuria</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hoshino, Tokuji</dcterms:creator>
     <dcterms:created>1920</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>x, 303 p. illus, ports., fold. col. map, tables. 20 cm.</dcterms:extent>
-    <dcterms:subject>Economic conditions</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Manchuria (China)--Economic conditions</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65228/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65228</edm:isShownAt>

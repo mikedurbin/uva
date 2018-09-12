@@ -11,14 +11,13 @@
     <dcterms:identifier>uva-lib:2838171</dcterms:identifier>
     <dcterms:title>Catarat needle and curette</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>J.F. Hartz Co.</dcterms:creator>
     <dcterms:created>1920/1939</dcterms:created>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>0.2 x 10 x 0.9 cm</dcterms:extent>
     <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2838171/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2838171</edm:isShownAt>

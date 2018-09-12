@@ -15,9 +15,9 @@
     <dcterms:description>Two pewter cups engraved with the following text: "8th EVACUATION HOSPITAL 1942-1995".</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:subject>United States. -- Army. -- Evacuation Hospital, 8th</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>cups (drinking vessels)</edm:hasType>
+    <dcterms:medium>cups (drinking vessels)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440551/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440551</edm:isShownAt>

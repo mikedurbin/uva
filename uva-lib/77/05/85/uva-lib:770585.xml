@@ -12,14 +12,15 @@
     <dcterms:title>Les amours de P. de Ronsard Vandomois</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Ronsard, Pierre de, 1524-1585</dcterms:creator>
+    <dcterms:creator>Muret, Marc-Antoine, 1526-1585</dcterms:creator>
     <dcterms:created>1553</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[16], 128, 139-169, 180-282, [2] p. : ports. ; 17 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Chez la veuue Maurice de la Porte ...</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:770585/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770585</edm:isShownAt>

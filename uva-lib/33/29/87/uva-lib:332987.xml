@@ -17,17 +17,17 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Portraits</dcterms:subject>
-    <dcterms:subject>Families</dcterms:subject>
-    <dcterms:subject>Elderly</dcterms:subject>
-    <dcterms:subject>Shrubs</dcterms:subject>
-    <dcterms:subject>Flowers (plants)</dcterms:subject>
-    <dcterms:subject>Porches</dcterms:subject>
-    <dcterms:subject>Brick</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Portraits--Visual works by subject types</dcterms:subject>
+    <dcterms:subject>Families--People by family relationship</dcterms:subject>
+    <dcterms:subject>Elderly--People by age group</dcterms:subject>
+    <dcterms:subject>Shrubs--Trees and shrubs</dcterms:subject>
+    <dcterms:subject>Flowers (plants)--Herbaceous plants</dcterms:subject>
+    <dcterms:subject>Porches--Rooms and spaces</dcterms:subject>
+    <dcterms:subject>Brick--Materials by form</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332987/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332987</edm:isShownAt>

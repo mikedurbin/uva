@@ -14,12 +14,12 @@
     <dcterms:created>1808</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 folded sheet ([2] p.) ; 32 x 42 cm. folded to 32 x 21 cm.</dcterms:extent>
-    <dcterms:subject>Harbor</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>New Orleans (La.)--Harbor</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Louisiana</dcterms:spatial>
     <dcterms:spatial>New Orleans</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2151044/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2151044</edm:isShownAt>

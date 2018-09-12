@@ -17,12 +17,10 @@
     <dcterms:extent>2 v. fold. maps. 22 cm.</dcterms:extent>
     <dcterms:publisher>Amyot</dcterms:publisher>
     <dcterms:subject>Solferino, Battle of, Solferino, Italy, 1859</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Italy--History--War of 1859</dcterms:subject>
+    <dcterms:subject>France--History--Second Empire, 1852-1870</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
-    <dcterms:temporal>War of 1859</dcterms:temporal>
-    <dcterms:temporal>Second Empire, 1852-1870</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64558/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64558</edm:isShownAt>

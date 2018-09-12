@@ -17,16 +17,14 @@
     <dcterms:extent>xviii, 368 p. : ill., map ; 20 cm.</dcterms:extent>
     <dcterms:publisher>Rivington</dcterms:publisher>
     <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Theological seminaries</dcterms:subject>
-    <dcterms:subject>Church history</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Episcopal Church/</dcterms:subject>
-    <dcterms:subject>Church of England/</dcterms:subject>
-    <dcterms:subject>Church of England</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--History</dcterms:subject>
+    <dcterms:subject>United States</dcterms:subject>
+    <dcterms:subject>Theological seminaries--United States--History</dcterms:subject>
+    <dcterms:subject>United States--Church history</dcterms:subject>
+    <dcterms:subject>United States--Description and travel</dcterms:subject>
+    <dcterms:subject>United States--Description and travel--Early works to 1800</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64385/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64385</edm:isShownAt>

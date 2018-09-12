@@ -11,16 +11,19 @@
     <dcterms:identifier>tsb:65945</dcterms:identifier>
     <dcterms:title>Cases in law and equity: argued, debated and adjudged in the King's Bench and Chancery, in the twelfth and thirteenth years of Queen Anne [1714-1715] during the time of Lord Chief Justice Parker. With two treatises, the one on the action of debt, the other on the constitution of England.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Gilbert, Geoffrey, 1674-1726</dcterms:creator>
+    <dcterms:creator>Gilbert, Geoffrey, 1674-1726</dcterms:creator>
+    <dcterms:creator>Gilbert, Geoffrey, 1674-1726</dcterms:creator>
     <dcterms:created>1760</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xii, 354 p., 3 l., 357-468 p. 22 cm.</dcterms:extent>
     <dcterms:publisher>Printed by Catherine Lintot, for W. Owen</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:subject>Actions and defenses</dcterms:subject>
-    <dcterms:subject>Debtor and creditor</dcterms:subject>
-    <dcterms:subject>Constitutional history</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+    <dcterms:subject>Actions and defenses--Great Britain</dcterms:subject>
+    <dcterms:subject>Debtor and creditor--Great Britain</dcterms:subject>
+    <dcterms:subject>Constitutional history--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65945/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65945</edm:isShownAt>

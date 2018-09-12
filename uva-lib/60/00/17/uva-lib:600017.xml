@@ -14,10 +14,14 @@
     <dcterms:created>1917</dcterms:created>
     <dcterms:extent>1 map : col. ; 47 x 69 cm. on sheet 64 x 76 cm.</dcterms:extent>
     <dcterms:publisher>Ordnance Survey</dcterms:publisher>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>World War, 1914-1918--Russia--Maps</dcterms:subject>
+    <dcterms:subject>Kargopolʹ (Russia)--Maps</dcterms:subject>
+    <dcterms:subject>Velikiĭ Usti͡ug (Russia)--Maps</dcterms:subject>
+    <dcterms:subject>Arkhangelʹskai͡a oblastʹ (Russia)--Maps</dcterms:subject>
+    <dcterms:subject>Vologodskai͡a oblastʹ (Russia)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:600017/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:600017</edm:isShownAt>

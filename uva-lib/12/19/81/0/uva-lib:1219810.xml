@@ -11,26 +11,29 @@
     <dcterms:identifier>uva-lib:1219810</dcterms:identifier>
     <dcterms:title>Drafting the Declaration of Independence the Committee, Franklin, Jefferson, Adams, Livingston &amp; Sherman</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Chappel, Alonzo, 1828-1887</dcterms:creator>
     <dcterms:created>1857</dcterms:created>
     <dcterms:medium>graphic</dcterms:medium>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 print : hand-col.  ; 18 x 14 cm. on sheet 28 x 21 cm.</dcterms:extent>
     <dcterms:publisher>Johnson, Fry &amp; Co., Publishers</dcterms:publisher>
-    <dcterms:subject>Franklin, Benjamin/</dcterms:subject>
-    <dcterms:subject>Jefferson, Thomas/</dcterms:subject>
-    <dcterms:subject>Adams, John/</dcterms:subject>
-    <dcterms:subject>Livingston, Robert R/</dcterms:subject>
-    <dcterms:subject>Sherman, Roger/</dcterms:subject>
-    <dcterms:subject>United States./</dcterms:subject>
-    <dcterms:subject>Continental Congress./</dcterms:subject>
-    <dcterms:subject>United States.</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Franklin, Benjamin, 1706-1790</dcterms:subject>
+    <dcterms:subject>Jefferson, Thomas, 1743-1826</dcterms:subject>
+    <dcterms:subject>Adams, John, 1735-1826</dcterms:subject>
+    <dcterms:subject>Livingston, Robert R, 1746-1813</dcterms:subject>
+    <dcterms:subject>Sherman, Roger, 1721-1793</dcterms:subject>
+    <dcterms:subject>Portraits</dcterms:subject>
+    <dcterms:subject>Portraits</dcterms:subject>
+    <dcterms:subject>Portraits</dcterms:subject>
+    <dcterms:subject>Portraits</dcterms:subject>
+    <dcterms:subject>Portraits</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>graphic</edm:hasType>
-    <edm:hasType>Group portraits-1850-1860.</edm:hasType>
-    <edm:hasType>Portrait paintings-1850-1860-Reproductions.</edm:hasType>
-    <edm:hasType>Portrait prints-1850-1860.</edm:hasType>
+    <dcterms:medium>graphic</dcterms:medium>
+    <dcterms:medium>Group portraits-1850-1860.</dcterms:medium>
+    <dcterms:medium>Portrait paintings-1850-1860-Reproductions.</dcterms:medium>
+    <dcterms:medium>Portrait prints-1850-1860.</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1219810/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1219810</edm:isShownAt>

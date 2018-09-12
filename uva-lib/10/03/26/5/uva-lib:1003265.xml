@@ -12,14 +12,17 @@
     <dcterms:title>A new map of Virginia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Morden, Robert, approximately 1650-1703</dcterms:creator>
+    <dcterms:creator>Morden, Robert, approximately 1650-1703</dcterms:creator>
     <dcterms:created>1700</dcterms:created>
     <dcterms:extent>1 map ; 13 x 12 cm. (on page 19 x 13 cm.)</dcterms:extent>
     <dcterms:publisher>Robert Morden</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Chesapeake Bay Region (Md. and Va.)--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Virginia--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003265/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003265</edm:isShownAt>

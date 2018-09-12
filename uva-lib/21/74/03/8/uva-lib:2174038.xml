@@ -11,18 +11,16 @@
     <dcterms:identifier>uva-lib:2174038</dcterms:identifier>
     <dcterms:title>Reception of the Ninth Infantry, N.Y.S.N.G. in Stamford, on Tuesday, July 27, 1869. : Programme. ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Olmstead, James H.</dcterms:creator>
     <dcterms:created>1869</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 35 x 13 cm.</dcterms:extent>
     <dcterms:publisher>Citizen's Committee</dcterms:publisher>
-    <dcterms:subject>Parades</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>New York (State)./</dcterms:subject>
-    <dcterms:subject>National Guard./</dcterms:subject>
-    <dcterms:subject>Infantry Regiment, 9th.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Parades--Connecticut--Stamford</dcterms:subject>
+    <dcterms:subject>Stamford (Conn.)--History</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Connecticut-1869.</edm:hasType>
+    <dcterms:medium>Broadsides-Connecticut-1869.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2174038/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174038</edm:isShownAt>

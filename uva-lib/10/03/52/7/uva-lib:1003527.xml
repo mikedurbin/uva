@@ -11,19 +11,19 @@
     <dcterms:identifier>uva-lib:1003527</dcterms:identifier>
     <dcterms:title>Desilver's steel plate military map of the United States showing the location of the military posts, arsenals, barracks, batteries, Navy yards, rail roads, &amp;c, &amp;c.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Wagner, T. S. (Thomas S.)</dcterms:creator>
     <dcterms:created>1861</dcterms:created>
     <dcterms:extent>1 map : hand col. ; 38 x 65 cm. on sheet 55 x 65 cm.</dcterms:extent>
     <dcterms:publisher>Chas. Desilver, 1229 Chestnut Street</dcterms:publisher>
-    <dcterms:subject>Military bases</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Military bases--United States--19th century--Maps</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Pennsylvania</dcterms:spatial>
     <dcterms:spatial>Philadelphia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>19th century</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003527/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003527</edm:isShownAt>

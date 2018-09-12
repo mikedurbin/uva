@@ -11,16 +11,16 @@
     <dcterms:identifier>tsb:61569</dcterms:identifier>
     <dcterms:title>Italian simplified : complete ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hugo, Charles.</dcterms:creator>
     <dcterms:created>1920/1929</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>112, 64, 64, 30 p. ; 18 cm.</dcterms:extent>
     <dcterms:publisher>Hugo's Language Institute</dcterms:publisher>
-    <dcterms:subject>Italian language</dcterms:subject>
-    <dcterms:subject>Italian language</dcterms:subject>
-    <dcterms:subject>Italian language</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Italian language--Grammar--1870-</dcterms:subject>
+    <dcterms:subject>Italian language--Readers</dcterms:subject>
+    <dcterms:subject>Italian language--Conversation and phrase books</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1870-</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61569/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61569</edm:isShownAt>

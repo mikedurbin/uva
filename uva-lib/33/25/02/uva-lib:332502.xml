@@ -17,16 +17,16 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Palestine</dcterms:subject>
-    <dcterms:subject>Israel</dcterms:subject>
-    <dcterms:subject>Asia</dcterms:subject>
-    <dcterms:subject>Salt flats</dcterms:subject>
-    <dcterms:subject>Oceans</dcterms:subject>
-    <dcterms:subject>Seas</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Palestine--Countries</dcterms:subject>
+    <dcterms:subject>Israel--Countries by name</dcterms:subject>
+    <dcterms:subject>Asia--Continents by name</dcterms:subject>
+    <dcterms:subject>Salt flats--Landforms</dcterms:subject>
+    <dcterms:subject>Oceans--Bodies of water and components</dcterms:subject>
+    <dcterms:subject>Seas--Bodies of water and components</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332502/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332502</edm:isShownAt>

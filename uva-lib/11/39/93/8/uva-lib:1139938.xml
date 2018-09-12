@@ -12,13 +12,14 @@
     <dcterms:title>Nearer, my God, to thee! : as sung by Miss Emma A. Abbott at the Church of the Divine Paternity, New York (Rev. Dr. E.H. Chapin)</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Holden, Albert J.</dcterms:creator>
+    <dcterms:creator>Abbott, Emma, 1850-1891</dcterms:creator>
     <dcterms:created>1872</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.)</dcterms:extent>
     <dcterms:publisher>W.A. Pond &amp; Co.</dcterms:publisher>
     <dcterms:subject>Sacred songs (High voice) with organ</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1139938/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1139938</edm:isShownAt>

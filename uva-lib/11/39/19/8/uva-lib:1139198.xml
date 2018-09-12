@@ -12,14 +12,18 @@
     <dcterms:title>A kiss, a kiss, there's nobody nigh : duetto, sung by Miss E. Jefferson and Mr. Hutchins in the operatic comedy of The rencontre at the Philadelphia Theatre</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bishop, Henry R. (Henry Rowley), 1786-1855</dcterms:creator>
+    <dcterms:creator>Jefferson, E.</dcterms:creator>
+    <dcterms:creator>Hutchins, Mr</dcterms:creator>
+    <dcterms:creator>Planché, J. R. (James Robinson), 1796-1880</dcterms:creator>
+    <dcterms:creator>Willis, H.</dcterms:creator>
     <dcterms:created>1840/1853</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 vocal score (4 p.)</dcterms:extent>
     <dcterms:publisher>Published &amp; sold by Geo. Willig</dcterms:publisher>
-    <dcterms:subject>Operas</dcterms:subject>
+    <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
     <dcterms:subject>Vocal duets with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1139198/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1139198</edm:isShownAt>

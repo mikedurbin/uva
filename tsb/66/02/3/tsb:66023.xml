@@ -11,13 +11,15 @@
     <dcterms:identifier>tsb:66023</dcterms:identifier>
     <dcterms:title>Reports of cases adjudged in the Court of King's Bench, during the reigns of Charles the Second; James the Second; and William the Third. [1678-1694]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Shower, Bartholomew, Sir, 1658-1701</dcterms:creator>
+    <dcterms:creator>Leach, Thomas, 1746-1818</dcterms:creator>
     <dcterms:created>1794</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. 24 cm.</dcterms:extent>
     <dcterms:publisher>W. Clarke and Son</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66023/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66023</edm:isShownAt>

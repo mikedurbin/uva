@@ -18,8 +18,8 @@
     <dcterms:publisher>F. Alcan</dcterms:publisher>
     <dcterms:subject>Imitation</dcterms:subject>
     <dcterms:subject>Sociology</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63958/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63958</edm:isShownAt>

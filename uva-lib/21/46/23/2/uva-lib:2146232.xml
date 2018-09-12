@@ -15,10 +15,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[7] p. 2 ports. 32 cm.</dcterms:extent>
     <dcterms:publisher>Privately printed</dcterms:publisher>
-    <dcterms:subject>Berkley, Edward Fairfax/</dcterms:subject>
-    <dcterms:subject>Jones, Lorraine Farquhar</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Berkley, Edward Fairfax, 1813-1897</dcterms:subject>
+    <dcterms:subject>Jones, Lorraine Farquhar, 1837-1922</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2146232/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2146232</edm:isShownAt>

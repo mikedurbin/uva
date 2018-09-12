@@ -12,14 +12,15 @@
     <dcterms:title>Nouveau dictionnaire de poche : français-anglais et anglais-français</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Nugent, Thomas, 1700?-1772</dcterms:creator>
+    <dcterms:creator>Asborne de Chastelain.</dcterms:creator>
     <dcterms:created>1844</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. in 1 ; 12 cm.</dcterms:extent>
     <dcterms:publisher>J. Langlumé et Peitier</dcterms:publisher>
-    <dcterms:subject>French language</dcterms:subject>
-    <dcterms:subject>English language</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>French language--Dictionaries--English</dcterms:subject>
+    <dcterms:subject>English language--Dictionaries--French</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63845/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63845</edm:isShownAt>

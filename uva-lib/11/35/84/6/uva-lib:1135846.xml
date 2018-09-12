@@ -12,13 +12,14 @@
     <dcterms:title>Spring songs = Frühlingslieder : for the piano, op. 15 : Songs without words : no. 30</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Mendelssohn-Bartholdy, Felix, 1809-1847</dcterms:creator>
+    <dcterms:creator>Henselt, Adolf von, 1814-1889</dcterms:creator>
+    <dcterms:creator>Gillingham, Edwin.</dcterms:creator>
     <dcterms:created>1872</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>9 p. of music.</dcterms:extent>
     <dcterms:publisher>F.A. North &amp; Co.</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zzx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1135846/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1135846</edm:isShownAt>

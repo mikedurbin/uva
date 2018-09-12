@@ -11,17 +11,16 @@
     <dcterms:identifier>tsb:58959</dcterms:identifier>
     <dcterms:title>Cascara compound tablets container</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Myers Remedy Co.</dcterms:creator>
     <dcterms:created>1900/1950</dcterms:created>
     <dcterms:description>Empty container of Dr. Myers' Cascara Compound Tablets. Label includes other information and directions for use.</dcterms:description>
     <dcterms:medium>wood (plant material)</dcterms:medium>
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:extent>6.3 x 3 x 3 cm</dcterms:extent>
-    <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medical instruments and apparatus--Oral medication</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
-    <edm:hasType>medicine bottles</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:medium>medicine bottles</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58959/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58959</edm:isShownAt>

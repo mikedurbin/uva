@@ -17,14 +17,15 @@
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map ; 36 x 42 cm. on sheet 57 x 51 cm.</dcterms:extent>
     <dcterms:publisher>published by S.H. De Bow</dcterms:publisher>
-    <dcterms:subject>Coalfields</dcterms:subject>
-    <dcterms:subject>Geological cross sections</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Coalfields--Virginia--Richmond--Maps</dcterms:subject>
+    <dcterms:subject>Geological cross sections--Virginia--Richmond</dcterms:subject>
+    <dcterms:subject>Richmond (Va.)--Statistics</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Richmond</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:705771/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:705771</edm:isShownAt>

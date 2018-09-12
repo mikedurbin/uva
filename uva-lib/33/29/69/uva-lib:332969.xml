@@ -17,18 +17,18 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Bluffton (Ga.)</dcterms:subject>
-    <dcterms:subject>Clay County (Ga.)</dcterms:subject>
-    <dcterms:subject>Georgia</dcterms:subject>
-    <dcterms:subject>Weddings</dcterms:subject>
-    <dcterms:subject>South (U.S.)</dcterms:subject>
-    <dcterms:subject>Group Portraits</dcterms:subject>
-    <dcterms:subject>Families</dcterms:subject>
-    <dcterms:subject>Gardens</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Bluffton (Ga.)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Clay County (Ga.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Georgia--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Weddings--Ceremonies</dcterms:subject>
+    <dcterms:subject>South (U.S.)--Regions and states</dcterms:subject>
+    <dcterms:subject>Group Portraits--Visual works by subject types</dcterms:subject>
+    <dcterms:subject>Families--People by family relationship</dcterms:subject>
+    <dcterms:subject>Gardens--Open spaces and site elements</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332969/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332969</edm:isShownAt>

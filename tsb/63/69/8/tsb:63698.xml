@@ -12,15 +12,18 @@
     <dcterms:title>India and its inhabitants</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wright, Caleb, -1869</dcterms:creator>
+    <dcterms:creator>Duff, Alexander, 1806-1878</dcterms:creator>
+    <dcterms:creator>Weitbrecht, J. J. (John James), 1802-1852</dcterms:creator>
+    <dcterms:creator>Statham, John.</dcterms:creator>
     <dcterms:created>1858</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vii, [8]-304 p. incl. illus., plates. 24 cm.</dcterms:extent>
     <dcterms:publisher>J. A. Brainerd</dcterms:publisher>
-    <dcterms:subject>Social life and customs</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Religion</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>India--Social life and customs</dcterms:subject>
+    <dcterms:subject>India--Description and travel</dcterms:subject>
+    <dcterms:subject>India--Religion</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63698/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63698</edm:isShownAt>

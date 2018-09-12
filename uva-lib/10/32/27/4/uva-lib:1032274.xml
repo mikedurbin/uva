@@ -15,16 +15,14 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>20, [82] p. forms. 31 cm.</dcterms:extent>
     <dcterms:publisher>J.W. Randolph</dcterms:publisher>
-    <dcterms:subject>Farm management</dcterms:subject>
-    <dcterms:subject>Agriculture</dcterms:subject>
-    <dcterms:subject>Cable family/</dcterms:subject>
-    <dcterms:subject>Liberty Hall (Estate : Nelson County, Va.)/</dcterms:subject>
-    <dcterms:subject>Laneville (Estate : Nelson County, Va.)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Cable family</dcterms:subject>
+    <dcterms:subject>Farm management--Virginia--Nelson County</dcterms:subject>
+    <dcterms:subject>Agriculture--Accounting</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Richmond</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1032274/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1032274</edm:isShownAt>

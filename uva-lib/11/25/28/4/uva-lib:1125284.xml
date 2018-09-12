@@ -12,14 +12,15 @@
     <dcterms:title>Divertissement pour le piano forte sur des motifs de Zampa</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Lemoine, Henry, 1786-1854</dcterms:creator>
+    <dcterms:creator>Régnée, Camille</dcterms:creator>
+    <dcterms:creator>Hérold, Ferdinand, 1791-1833</dcterms:creator>
     <dcterms:created>1834/1836</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>11 p. of music.</dcterms:extent>
     <dcterms:publisher>John Cole &amp; Son</dcterms:publisher>
     <dcterms:subject>Potpourris (Piano)</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:subject>Operas--Excerpts, Arranged</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1125284/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125284</edm:isShownAt>

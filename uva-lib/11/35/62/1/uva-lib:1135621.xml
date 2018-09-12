@@ -12,14 +12,16 @@
     <dcterms:title>Grandmother's chair</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Read, John, 1839-1920</dcterms:creator>
+    <dcterms:creator>Winner, Septimus, 1827-1902</dcterms:creator>
+    <dcterms:creator>Thorburn, E. B.</dcterms:creator>
     <dcterms:created>1880</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 p. of music.</dcterms:extent>
     <dcterms:publisher>W.F. Shaw</dcterms:publisher>
     <dcterms:subject>Songs with guitar, Arranged</dcterms:subject>
     <dcterms:subject>Humorous songs</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1135621/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1135621</edm:isShownAt>

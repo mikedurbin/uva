@@ -12,12 +12,13 @@
     <dcterms:title>Letters from Gen. William Gibbs MacNeill and Mr. Alexander, engineers, on the subject of the Valley and Alexandria Railroad, and from George F. Hupp, esq. on the subject of the quantity of produce that will pass the road.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>McNeill, William Gibbs, 1801-1853</dcterms:creator>
+    <dcterms:creator>Alexander, J.</dcterms:creator>
+    <dcterms:creator>Hupp, George F.</dcterms:creator>
     <dcterms:created>1849</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 p. 24 x 15 cm.</dcterms:extent>
-    <dcterms:subject>Valley and Alexandria Railroad.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18715/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18715</edm:isShownAt>

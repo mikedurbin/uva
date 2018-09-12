@@ -12,15 +12,16 @@
     <dcterms:title>Beneath cool shades reposing = (Assis au pied d'un hêtre) : pastoral in the admired opera Le postillion de Lonjumeau</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Adam, Adolphe, 1803-1856</dcterms:creator>
+    <dcterms:creator>Moland, William</dcterms:creator>
     <dcterms:created>1846/1852</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (3, [1] p.) ; 33 cm.</dcterms:extent>
     <dcterms:publisher>A. Fiot</dcterms:publisher>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1117372/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1117372</edm:isShownAt>

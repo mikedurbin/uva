@@ -16,10 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. fronts., plates. 21 cm.</dcterms:extent>
     <dcterms:publisher>Estes and Lauriat</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Savonarola, Girolamo</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Savonarola, Girolamo, 1452-1498</dcterms:subject>
+    <dcterms:subject>Fiction</dcterms:subject>
+    <dcterms:subject>Florence (Italy)--History--Fiction</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64485/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64485</edm:isShownAt>

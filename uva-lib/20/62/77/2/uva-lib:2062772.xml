@@ -11,13 +11,16 @@
     <dcterms:identifier>uva-lib:2062772</dcterms:identifier>
     <dcterms:title>Map of Oklahoma and Indian ters</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Cram, George Franklin, 1841-1928</dcterms:creator>
     <dcterms:created>1900</dcterms:created>
     <dcterms:extent>1 map : col. ; 34 x 50 cm. on sheet 37 x 57 cm.</dcterms:extent>
     <dcterms:publisher>Published by Geo. F. Cram</dcterms:publisher>
-    <dcterms:subject>Indians of North America</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Indians of North America--Oklahoma--Maps</dcterms:subject>
+    <dcterms:subject>Oklahoma--Maps</dcterms:subject>
+    <dcterms:subject>Indian Territory--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2062772/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2062772</edm:isShownAt>

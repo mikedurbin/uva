@@ -15,12 +15,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>15 p. ; 17 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Par Benoist Rigaud</dcterms:publisher>
-    <dcterms:subject>Charles/</dcterms:subject>
-    <dcterms:subject>Elisabeth</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Charles, IX, King of France, 1550-1574</dcterms:subject>
+    <dcterms:subject>Elisabeth, of Austria, Queen, consort of Charles IX, King of France, 1554-1592</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:729615/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:729615</edm:isShownAt>

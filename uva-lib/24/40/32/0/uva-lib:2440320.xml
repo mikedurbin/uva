@@ -11,14 +11,13 @@
     <dcterms:identifier>uva-lib:2440320</dcterms:identifier>
     <dcterms:title>Nitroglyceren tablets</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>W.D. Clark Pharmacist</dcterms:creator>
     <dcterms:created>1900/1950</dcterms:created>
     <dcterms:description>Empty box. Label information: Nitroglyceren Tablets,  H-T-11/150 grain each (handwritten); W.D. Clark Pharmacist; Cor. Elm Ave. &amp; A Street., Porthsmouth, Virginia. Belonging to Dr. K.W. Howard.</dcterms:description>
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:subject>Drugs</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>drugs</edm:hasType>
+    <dcterms:medium>drugs</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440320/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440320</edm:isShownAt>

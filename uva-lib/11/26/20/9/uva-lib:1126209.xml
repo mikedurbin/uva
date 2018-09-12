@@ -12,14 +12,17 @@
     <dcterms:title>Calm me to rest = Ombre sainte que je révère, from Les vêpres siciliiennes : Ombra diletta</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Verdi, Giuseppe, 1813-1901</dcterms:creator>
+    <dcterms:creator>Ryan, Desmond L. (Desmond Lumley), 1851-1888</dcterms:creator>
+    <dcterms:creator>French, William, 1815-1898</dcterms:creator>
+    <dcterms:creator>Gillingham, Edwin</dcterms:creator>
     <dcterms:created>1859/1862</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 vocal score (5 p.)</dcterms:extent>
     <dcterms:publisher>George Willig</dcterms:publisher>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
     <dcterms:language>ita</dcterms:language>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1126209/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1126209</edm:isShownAt>

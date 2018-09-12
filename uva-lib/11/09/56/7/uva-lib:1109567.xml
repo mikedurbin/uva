@@ -14,9 +14,16 @@
     <dcterms:created>1870/1879</dcterms:created>
     <dcterms:extent>1 map : col. ; 27 x 21 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Middle Atlantic States--Maps</dcterms:subject>
+    <dcterms:subject>Southern States--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
+    <dcterms:subject>West Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Maryland--Maps</dcterms:subject>
+    <dcterms:subject>North Carolina--Maps</dcterms:subject>
+    <dcterms:subject>South Carolina--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1109567/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1109567</edm:isShownAt>

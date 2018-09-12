@@ -17,18 +17,18 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Liberia</dcterms:subject>
-    <dcterms:subject>Africa</dcterms:subject>
-    <dcterms:subject>Buildings</dcterms:subject>
-    <dcterms:subject>Huts</dcterms:subject>
-    <dcterms:subject>Thatching</dcterms:subject>
-    <dcterms:subject>Men</dcterms:subject>
-    <dcterms:subject>Lawns</dcterms:subject>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Liberia--Countries by name</dcterms:subject>
+    <dcterms:subject>Africa--Continents</dcterms:subject>
+    <dcterms:subject>Buildings--Single built works</dcterms:subject>
+    <dcterms:subject>Huts--Single built works by function</dcterms:subject>
+    <dcterms:subject>Thatching--Processes and techniques by specific type</dcterms:subject>
+    <dcterms:subject>Men--People by gender</dcterms:subject>
+    <dcterms:subject>Lawns--Open spaces and site elements</dcterms:subject>
+    <dcterms:subject>Women--People by gender</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332178/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332178</edm:isShownAt>

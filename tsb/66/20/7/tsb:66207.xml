@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66207</dcterms:identifier>
+    <dcterms:title>A collection of entries of declarations, barres, replications, rejoynders, issues, verdicts, judgements, executions, proces, continuances, essoynes, and divers other matters. Newly amended, and much enlarged with many good presidents of later time, whereof divers are upon sundry statutes, and noted in the end of the table. The new presidents throughout the book, and likewise their titles in the table, have this mark [fingerpost] set before them ...</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Rastell, William, 1508?-1565</dcterms:creator>
+    <dcterms:created>1670</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>4 p. l., 704 numb. l. 35 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by John Streater, James Flesher, and Henry Twyford, assigns of Richard Atkins and Edward Atkins [etc.]</dcterms:publisher>
+    <dcterms:subject>Pleading--Great Britain</dcterms:subject>
+    <dcterms:subject>Forms (Law)--Great Britain</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66207/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66207</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2582529/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

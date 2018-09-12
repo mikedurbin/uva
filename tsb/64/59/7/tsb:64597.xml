@@ -15,9 +15,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxvii, 544 p., 40 p. of advertisement at end, [29] leaves of plates (some folded) : ill., maps ; 18 cm.</dcterms:extent>
     <dcterms:publisher>A. and C. Black</dcterms:publisher>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>England--Description and travel</dcterms:subject>
+    <dcterms:subject>Wales--Guidebooks</dcterms:subject>
+    <dcterms:subject>England--Guidebooks</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64597/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64597</edm:isShownAt>

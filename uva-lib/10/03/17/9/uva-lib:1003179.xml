@@ -14,11 +14,11 @@
     <dcterms:created>1899</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 broadside. 16 x 12 cm.</dcterms:extent>
-    <dcterms:subject>Health resorts</dcterms:subject>
-    <dcterms:subject>Mineral waters</dcterms:subject>
+    <dcterms:subject>Health resorts--Virginia</dcterms:subject>
+    <dcterms:subject>Mineral waters--Virginia</dcterms:subject>
     <dcterms:subject>Menus</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003179/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003179</edm:isShownAt>

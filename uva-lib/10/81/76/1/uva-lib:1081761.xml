@@ -12,13 +12,15 @@
     <dcterms:title>Map of Knoxville Tennessee</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Waring, Chas.</dcterms:creator>
+    <dcterms:creator>Smith, W.</dcterms:creator>
     <dcterms:created>1924</dcterms:created>
     <dcterms:extent>1 map : blue line print ; 90 x 95 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Real property--Tennessee--Knoxville--Maps</dcterms:subject>
+    <dcterms:subject>Knoxville (Tenn.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1081761/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1081761</edm:isShownAt>

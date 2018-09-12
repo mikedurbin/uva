@@ -12,14 +12,20 @@
     <dcterms:title>Nova Anglia Novvm Belgium et Virginia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Jansson, Jan, 1588-1664</dcterms:creator>
+    <dcterms:creator>Laet, Joannes de, 1581-1649</dcterms:creator>
+    <dcterms:creator>Mercator, Gerhard, 1512-1594</dcterms:creator>
+    <dcterms:creator>Hondius, Jodocus, 1563-1612</dcterms:creator>
     <dcterms:created>1649</dcterms:created>
     <dcterms:extent>1 map : hand col. ; 39 x51 cm.</dcterms:extent>
     <dcterms:publisher>Johannes Janssonius Excudit</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Virginia--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>New York (N.Y.)--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>New England--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>Netherlands</dcterms:spatial>
     <dcterms:spatial>Amsterdam</dcterms:spatial>
     <dcterms:language>lat</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616741/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616741</edm:isShownAt>

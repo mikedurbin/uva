@@ -12,18 +12,19 @@
     <dcterms:title>America: or An exact description of the West-Indies: : more especially of those provinces which are under the dominion of the King of Spain.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>N. N.</dcterms:creator>
+    <dcterms:creator>Peake, Thomas.</dcterms:creator>
     <dcterms:created>1655</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[14], 484, [2] p., [1] folded leaf of plates : map ; 15 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Printed by Ric. Hodgkinsonne for Edw. Dod ...</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
     <dcterms:subject>Mellon, Paul</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>America--Description and travel</dcterms:subject>
+    <dcterms:subject>Latin America--Description and travel</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1117410/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1117410</edm:isShownAt>

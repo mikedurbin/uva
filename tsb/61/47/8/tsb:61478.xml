@@ -16,13 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xiv, 354 p. incl. front., illus., 2 fold. maps. 20 cm.</dcterms:extent>
     <dcterms:publisher>G. P. Putnam's sons; [etc., etc.]</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>France--History--Capetians, 987-1328</dcterms:subject>
+    <dcterms:subject>France--History--House of Valois, 1328-1589</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <dcterms:temporal>Capetians, 987-1328</dcterms:temporal>
-    <dcterms:temporal>House of Valois, 1328-1589</dcterms:temporal>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61478/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61478</edm:isShownAt>

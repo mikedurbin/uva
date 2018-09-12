@@ -17,22 +17,22 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Smithfield (N.C.)</dcterms:subject>
-    <dcterms:subject>Johnston County (N.C.)</dcterms:subject>
-    <dcterms:subject>North Carolina</dcterms:subject>
-    <dcterms:subject>Schools</dcterms:subject>
-    <dcterms:subject>South (U.S.)</dcterms:subject>
-    <dcterms:subject>African Americans</dcterms:subject>
-    <dcterms:subject>Institutional buildings</dcterms:subject>
-    <dcterms:subject>Education</dcterms:subject>
-    <dcterms:subject>Farms</dcterms:subject>
-    <dcterms:subject>Yards</dcterms:subject>
-    <dcterms:subject>Chickens</dcterms:subject>
-    <dcterms:subject>Outbuildings</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Smithfield (N.C.)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Johnston County (N.C.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>North Carolina--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Schools--Single built works by function</dcterms:subject>
+    <dcterms:subject>South (U.S.)--Regions and states</dcterms:subject>
+    <dcterms:subject>African Americans--People by ethnic group</dcterms:subject>
+    <dcterms:subject>Institutional buildings--Single built works by function</dcterms:subject>
+    <dcterms:subject>Education--Social sciences</dcterms:subject>
+    <dcterms:subject>Farms--Open spaces and site elements</dcterms:subject>
+    <dcterms:subject>Yards--Open spaces and site elements</dcterms:subject>
+    <dcterms:subject>Chickens--Birds</dcterms:subject>
+    <dcterms:subject>Outbuildings--Single built works by location or context</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:330148/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:330148</edm:isShownAt>

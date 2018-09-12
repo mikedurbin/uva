@@ -12,17 +12,18 @@
     <dcterms:title>History of Fort Wayne, from the earliest known accounts of this point, to the present period.  Embracing an extended view of the aboriginal tribes of the Northwest, including, more especially, the Miamies ... with a sketch of the life of General Anthony Wayne; including also a lengthy biography of ... pioneer settlers of Fort Wayne.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Brice, Wallace A.</dcterms:creator>
+    <dcterms:creator>Wilkens, Cleo Goff</dcterms:creator>
     <dcterms:created>1868</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xiv, 324, 33 p. front, plates, ports. 22 cm.</dcterms:extent>
     <dcterms:publisher>D. W. Jones &amp; Son, printers</dcterms:publisher>
-    <dcterms:subject>Indians of North America</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Wayne, Anthony/</dcterms:subject>
-    <dcterms:subject>Hanna, Samuel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Wayne, Anthony, 1745-1796</dcterms:subject>
+    <dcterms:subject>Hanna, Samuel, 1797-1866</dcterms:subject>
+    <dcterms:subject>Indians of North America--Northwest, Old</dcterms:subject>
+    <dcterms:subject>Northwest, Old--History</dcterms:subject>
+    <dcterms:subject>Fort Wayne (Ind.)--History</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64202/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64202</edm:isShownAt>

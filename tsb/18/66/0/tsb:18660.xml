@@ -12,14 +12,15 @@
     <dcterms:title>The low back'd car : a characteristic Irish song, as given by the author in his Irish evenings</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Lover, Samuel, 1797-1868</dcterms:creator>
+    <dcterms:creator>Wallace, William Vincent, 1812-1865</dcterms:creator>
     <dcterms:created>1846</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.) ; 34 cm.</dcterms:extent>
     <dcterms:publisher>William Hall &amp; Son</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Love songs</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Love songs--Ireland</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18660/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18660</edm:isShownAt>

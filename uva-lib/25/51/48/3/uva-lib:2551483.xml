@@ -18,9 +18,9 @@
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:extent>10.6 x 5 x 5 cm</dcterms:extent>
     <dcterms:subject>Medicine bottles</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medicine bottles</edm:hasType>
+    <dcterms:medium>medicine bottles</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2551483/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2551483</edm:isShownAt>

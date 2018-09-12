@@ -16,11 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>CI leaves ; 15 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>On les vent a Paris deuant Leglise Saincte Geneuiefue des Ardens Rue Neufue Nostre Dame, a Lenseigne du Faulcheur</dcterms:publisher>
-    <dcterms:subject>Louis</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Louis, XII, King of France, 1462-1515</dcterms:subject>
+    <dcterms:subject>Poetry</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1002917/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002917</edm:isShownAt>

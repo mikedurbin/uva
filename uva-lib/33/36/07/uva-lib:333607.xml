@@ -17,16 +17,16 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Children (people by age group)</dcterms:subject>
-    <dcterms:subject>Desks</dcterms:subject>
-    <dcterms:subject>Baskets</dcterms:subject>
-    <dcterms:subject>Tablecloths</dcterms:subject>
-    <dcterms:subject>Schools</dcterms:subject>
-    <dcterms:subject>Group portraits</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Children (people by age group)--People by age group</dcterms:subject>
+    <dcterms:subject>Desks--Furniture</dcterms:subject>
+    <dcterms:subject>Baskets--Containers by form</dcterms:subject>
+    <dcterms:subject>Tablecloths--Coverings and hangings</dcterms:subject>
+    <dcterms:subject>Schools--Single built works by function</dcterms:subject>
+    <dcterms:subject>Group portraits--Visual works by subject types</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Photographs</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:333607/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333607</edm:isShownAt>

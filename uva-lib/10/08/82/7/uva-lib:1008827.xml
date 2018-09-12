@@ -14,13 +14,12 @@
     <dcterms:created>1840</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>p. 1, col. 3 ; 58 x 45 cm.</dcterms:extent>
+    <dcterms:subject>Davis, John A. G. (John Anthony Gardner), 1801-1840</dcterms:subject>
     <dcterms:subject>Death and burial</dcterms:subject>
     <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Murder</dcterms:subject>
-    <dcterms:subject>Davis, John A. G. (John Anthony Gardner)/</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Murder--Virginia--Charlottesville</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1008827/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1008827</edm:isShownAt>

@@ -12,16 +12,16 @@
     <dcterms:title>Alpine hunter's lament = Alpen-jäger's Sehnsucht : steyrische Idylle : op. 152</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Kafka, Johann Nepomuk, 1819-1886</dcterms:creator>
+    <dcterms:creator>Porter.</dcterms:creator>
     <dcterms:created>1874/1875</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>10 p. of music ;c35 cm.</dcterms:extent>
     <dcterms:publisher>George Willig &amp; Co.</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Hunters</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Hunters--Songs and music</dcterms:subject>
+    <dcterms:subject>Popular instrumental music--United States--To 1901</dcterms:subject>
     <dcterms:language>ger</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1141424/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1141424</edm:isShownAt>

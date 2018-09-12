@@ -11,15 +11,15 @@
     <dcterms:identifier>uva-lib:1148436</dcterms:identifier>
     <dcterms:title>La fête nuptiale : brilliant variations on the motif "Ah, would that happy day were near" from Linda di Chamounix.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Donizetti, Gaetano, 1797-1848</dcterms:creator>
     <dcterms:created>1849</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>8 p. of music.</dcterms:extent>
     <dcterms:publisher>E. Ferrett &amp; Co.</dcterms:publisher>
     <dcterms:subject>Variations (Piano)</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:subject>Operas--Excerpts, Arranged</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1148436/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1148436</edm:isShownAt>

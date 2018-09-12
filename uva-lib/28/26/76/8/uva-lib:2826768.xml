@@ -11,7 +11,6 @@
     <dcterms:identifier>uva-lib:2826768</dcterms:identifier>
     <dcterms:title>Microscope and case</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>American Optical Company. Instrument Division</dcterms:creator>
     <dcterms:created>1919/1939</dcterms:created>
     <dcterms:description>Microscope set also includes microscope light, 4 plastic microscope lens cases, microscope lens, and 10x microscope eye piece.</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
@@ -20,10 +19,10 @@
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:medium>plastic (organic material)</dcterms:medium>
     <dcterms:extent>37.5 x 23 x 22 cm</dcterms:extent>
-    <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medical instruments or apparatus--Microscopes</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>microscopes</edm:hasType>
+    <dcterms:medium>microscopes</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2826768/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2826768</edm:isShownAt>

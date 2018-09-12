@@ -15,17 +15,18 @@
     <dcterms:created>1845</dcterms:created>
     <dcterms:extent>1 map : hand-col. ; 58 x 88 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Transportation</dcterms:subject>
-    <dcterms:subject>Transportation</dcterms:subject>
-    <dcterms:subject>Canals</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Railroads--Southern States--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--Florida--Pensacola--Maps</dcterms:subject>
+    <dcterms:subject>Transportation--Southern States--Maps</dcterms:subject>
+    <dcterms:subject>Transportation--Florida--Pensacola--Maps</dcterms:subject>
+    <dcterms:subject>Canals--Florida--Maps</dcterms:subject>
+    <dcterms:subject>Southern States--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Pennsylvania</dcterms:spatial>
     <dcterms:spatial>Philadelphia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003526/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003526</edm:isShownAt>

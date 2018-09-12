@@ -12,15 +12,16 @@
     <dcterms:title>Bonny Eloise polka : for the piano forte : introducing the favorite melody of "Bonny Eloise" by J. R. Thomas, to whom it is respectfully dedicated</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Brown, Francis H. (Francis Henry), 1818-1891</dcterms:creator>
+    <dcterms:creator>Clayton</dcterms:creator>
     <dcterms:created>1859</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 p. of music ; 33 cm.</dcterms:extent>
     <dcterms:publisher>Wm. Hall &amp; Son</dcterms:publisher>
+    <dcterms:subject>Thomas, J. R. (John Rogers), 1830-1896</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
     <dcterms:subject>Polkas</dcterms:subject>
-    <dcterms:subject>Thomas, J. R. (John Rogers)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58828/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58828</edm:isShownAt>

@@ -12,16 +12,17 @@
     <dcterms:title>I'd be a butterfly : sung by Miss C. Fisher</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bayly, Thomas Haynes, 1797-1839</dcterms:creator>
+    <dcterms:creator>Gillingham, Edwin</dcterms:creator>
+    <dcterms:creator>Fisher, Clara, 1811-1898</dcterms:creator>
     <dcterms:created>1829/1841</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (4 p.) ; 34 cm.</dcterms:extent>
     <dcterms:publisher>Published by G. Willig, Jr.</dcterms:publisher>
     <dcterms:subject>Songs (Medium voice) with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bd-sg</edm:hasType>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:medium>bd-sg</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1116923/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1116923</edm:isShownAt>

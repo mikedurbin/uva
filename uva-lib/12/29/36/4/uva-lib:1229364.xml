@@ -15,14 +15,13 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([2] p.) ; 39 x 31 cm.</dcterms:extent>
     <dcterms:publisher>Printed by Zechariah Fowle</dcterms:publisher>
-    <dcterms:subject>Constitutional history</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Constitutional history--New Hampshire</dcterms:subject>
+    <dcterms:subject>New Hampshire--Politics and government--1775-1783</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>New Hampshire</dcterms:spatial>
     <dcterms:spatial>Exeter</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1775-1783</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1229364/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1229364</edm:isShownAt>

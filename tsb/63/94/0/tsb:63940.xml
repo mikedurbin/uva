@@ -12,17 +12,18 @@
     <dcterms:title>The revolt of democracy</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wallace, Alfred Russel, 1823-1913</dcterms:creator>
+    <dcterms:creator>Marchant, James, Sir, 1867-1956</dcterms:creator>
     <dcterms:created>1913</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 p.l., 122, [2] p. front. (port.) pl. 21 cm.</dcterms:extent>
     <dcterms:publisher>Cassell and company, ltd.</dcterms:publisher>
-    <dcterms:subject>Labor</dcterms:subject>
+    <dcterms:subject>Labor--Great Britain</dcterms:subject>
     <dcterms:subject>Social problems</dcterms:subject>
-    <dcterms:subject>Working class</dcterms:subject>
-    <dcterms:subject>Labor movement</dcterms:subject>
-    <dcterms:subject>Social conditions</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Working class--Great Britain</dcterms:subject>
+    <dcterms:subject>Labor movement--Great Britain</dcterms:subject>
+    <dcterms:subject>Great Britain--Social conditions</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63940/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63940</edm:isShownAt>

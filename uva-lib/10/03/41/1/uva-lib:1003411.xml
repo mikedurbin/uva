@@ -12,15 +12,16 @@
     <dcterms:title>A new &amp; correct map of ye whole world</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+    <dcterms:creator>Grierson, George, -1753</dcterms:creator>
     <dcterms:created>1730/1739</dcterms:created>
     <dcterms:extent>1 map : col.; 69 x 114 cm.</dcterms:extent>
     <dcterms:publisher>George Grierson</dcterms:publisher>
-    <dcterms:subject>World maps</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>World maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>Ireland</dcterms:spatial>
     <dcterms:spatial>Dublin</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003411/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003411</edm:isShownAt>

@@ -12,15 +12,17 @@
     <dcterms:title>Hosanna! : Easter song</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Granier, Jules.</dcterms:creator>
+    <dcterms:creator>Didiée, Julien</dcterms:creator>
+    <dcterms:creator>Dole, Nathan Haskell, 1852-1935</dcterms:creator>
     <dcterms:created>1891</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.).</dcterms:extent>
     <dcterms:publisher>G. Schirmer</dcterms:publisher>
     <dcterms:subject>Sacred songs (High voice) with piano</dcterms:subject>
     <dcterms:subject>Easter music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>fre</dcterms:language>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1150095/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1150095</edm:isShownAt>

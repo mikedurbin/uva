@@ -12,17 +12,20 @@
     <dcterms:title>My bed is like a little boat : rocking song</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Loftus, Cecilia, 1876-1943</dcterms:creator>
+    <dcterms:creator>Irwin, May, 1862-1938</dcterms:creator>
+    <dcterms:creator>Stevenson, Robert Louis, 1850-1894</dcterms:creator>
+    <dcterms:creator>Hapgood, Ruth</dcterms:creator>
     <dcterms:created>1899</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.) : port.</dcterms:extent>
     <dcterms:publisher>White-Smith Music Publishing Co.</dcterms:publisher>
+    <dcterms:subject>Stevenson, Robert Louis, 1850-1894</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Beds</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>Stevenson, Robert Louis</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Beds--Songs and music</dcterms:subject>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1148969/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1148969</edm:isShownAt>

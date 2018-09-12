@@ -12,12 +12,16 @@
     <dcterms:title>The poetical works of Henry Wadsworth Longfellow</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Longfellow, Henry Wadsworth, 1807-1882</dcterms:creator>
+    <dcterms:creator>Frothingham, Octavius Brooks, 1822-1895</dcterms:creator>
+    <dcterms:creator>Darley, Felix Octavius Carr, 1822-1888</dcterms:creator>
+    <dcterms:creator>Abbey, Edwin Austin, 1852-1911</dcterms:creator>
+    <dcterms:creator>Longfellow, Ernest Wadsworth, 1845-1921</dcterms:creator>
     <dcterms:created>1880/1881</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 v. : port. ; 21 cm.</dcterms:extent>
     <dcterms:publisher>Houghton, Mifflin</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65202/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65202</edm:isShownAt>

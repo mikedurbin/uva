@@ -12,15 +12,18 @@
     <dcterms:title>Oh, ye tears, oh, ye tears = O mes pleurs : with accompaniments for piano and guitar</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Abt, Franz, 1819-1885</dcterms:creator>
+    <dcterms:creator>Raphaelson, W. D.</dcterms:creator>
+    <dcterms:creator>Mackay, Charles, 1814-1889</dcterms:creator>
+    <dcterms:creator>Wehrmann, Henri, 1827-1905</dcterms:creator>
     <dcterms:created>1866</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.).</dcterms:extent>
     <dcterms:publisher>A.E. Blackmar</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>fre</dcterms:language>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>ger</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1133130/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1133130</edm:isShownAt>

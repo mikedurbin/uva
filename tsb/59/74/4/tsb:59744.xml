@@ -11,15 +11,14 @@
     <dcterms:identifier>tsb:59744</dcterms:identifier>
     <dcterms:title>Myringotome knife</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Rudolf Bros.</dcterms:creator>
     <dcterms:created>1920/1930</dcterms:created>
     <dcterms:description>Engraving on knife handle reads: RUDOLF BROS.</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>0.3 x 0.6 x 16.8 cm</dcterms:extent>
     <dcterms:subject>Surgical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>scalpels</edm:hasType>
+    <dcterms:medium>scalpels</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:59744/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:59744</edm:isShownAt>

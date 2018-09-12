@@ -14,16 +14,18 @@
     <dcterms:created>1882</dcterms:created>
     <dcterms:extent>1 map : col. ; 23 x 34 cm. on sheet 30 x 35 cm.</dcterms:extent>
     <dcterms:publisher>George F. Cram Co.</dcterms:publisher>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Administrative and political divisions</dcterms:subject>
-    <dcterms:subject>Administrative and political divisions</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Railroads--Kentucky--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--Tennessee--Maps</dcterms:subject>
+    <dcterms:subject>Kentucky--Administrative and political divisions--Maps</dcterms:subject>
+    <dcterms:subject>Tennessee--Administrative and political divisions--Maps</dcterms:subject>
+    <dcterms:subject>Kentucky--Maps</dcterms:subject>
+    <dcterms:subject>Tennessee--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Illinois</dcterms:spatial>
     <dcterms:spatial>Chicago</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003348/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003348</edm:isShownAt>

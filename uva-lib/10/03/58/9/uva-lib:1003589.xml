@@ -15,17 +15,16 @@
     <dcterms:created>1865</dcterms:created>
     <dcterms:extent>1 map ; 20 x 25 cm. on sheet 21 x 28 cm.</dcterms:extent>
     <dcterms:publisher>A. Hoen &amp; Co., lith.</dcterms:publisher>
-    <dcterms:subject>Fortification</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Fortification--Virginia--Petersburg--Maps</dcterms:subject>
+    <dcterms:subject>Petersburg (Va.)--History--Siege, 1864-1865--Maps</dcterms:subject>
+    <dcterms:subject>Petersburg (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Maryland</dcterms:spatial>
     <dcterms:spatial>Baltimore</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>Siege, 1864-1865</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003589/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003589</edm:isShownAt>

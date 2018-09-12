@@ -12,16 +12,19 @@
     <dcterms:title>Narrative of travels and discoveries in Northern and Central Africa, in the years 1822, 1823, and 1824</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Denham, Dixon, 1786-1828</dcterms:creator>
+    <dcterms:creator>Clapperton, Hugh, 1788-1827</dcterms:creator>
+    <dcterms:creator>Oudney, Walter, 1790-1824</dcterms:creator>
+    <dcterms:creator>Salamé, Abraham V.</dcterms:creator>
     <dcterms:created>1826</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xlviii, 335, 269 p. plates, fold. maps, facsims. 22 cm.</dcterms:extent>
     <dcterms:publisher>John Murray</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Clark, Emily</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Clark, Emily, 1893-1953</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>Africa, Central--Description and travel</dcterms:subject>
+    <dcterms:subject>Africa, North--Description and travel</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2065929/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2065929</edm:isShownAt>

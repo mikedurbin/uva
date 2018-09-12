@@ -12,18 +12,20 @@
     <dcterms:title>A map of the discoveries made by Capts. Cook &amp; Clerke in the years 1778 &amp; 1779 between the eastern coast of Asia and the western coast of North America, when they attempted to navigate the North Sea. : Aalso Mr. Hearn's discoveries to the north westward of Hudson's Bay in 1772.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Carey, Mathew, 1760-1839</dcterms:creator>
+    <dcterms:creator>Scott, J. T. (Joseph T.)</dcterms:creator>
+    <dcterms:creator>Guthrie, William, 1708-1770</dcterms:creator>
     <dcterms:created>1811</dcterms:created>
     <dcterms:publisher>Mathew Carey</dcterms:publisher>
-    <dcterms:subject>Discovery and exploration</dcterms:subject>
-    <dcterms:subject>Discovery and exploration</dcterms:subject>
-    <dcterms:subject>Cook, James/</dcterms:subject>
-    <dcterms:subject>Clerke, Charles</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Cook, James, 1728-1779</dcterms:subject>
+    <dcterms:subject>Clerke, Charles, 1741-1779</dcterms:subject>
+    <dcterms:subject>Arctic regions--Discovery and exploration--Maps</dcterms:subject>
+    <dcterms:subject>North Pacific Ocean--Discovery and exploration--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Pennsylvania</dcterms:spatial>
     <dcterms:spatial>Philadelphia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003337/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003337</edm:isShownAt>

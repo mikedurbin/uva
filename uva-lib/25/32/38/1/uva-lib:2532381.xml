@@ -11,16 +11,15 @@
     <dcterms:identifier>uva-lib:2532381</dcterms:identifier>
     <dcterms:title>Alcaroid can</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>The American Ferment Co.</dcterms:creator>
     <dcterms:created>1895/1939</dcterms:created>
     <dcterms:description>"A highly efficient Antacid containing the vegetable digestive ferment-Caroid." Label includes directions for use. Container is empty</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:extent>5.4 x 4.2 x 4.2 cm</dcterms:extent>
     <dcterms:subject>Pharmaceutical technology</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>pharmacy</edm:hasType>
+    <dcterms:medium>pharmacy</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2532381/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2532381</edm:isShownAt>

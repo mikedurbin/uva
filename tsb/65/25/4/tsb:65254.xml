@@ -12,16 +12,17 @@
     <dcterms:title>Nécropoles puniques de Carthage</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Gauckler, Paul, 1866-1911</dcterms:creator>
+    <dcterms:creator>Anziani, D.</dcterms:creator>
     <dcterms:created>1915</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. illus., pl. (part fold.; incl. plans) 26 cm.</dcterms:extent>
     <dcterms:publisher>Picard</dcterms:publisher>
     <dcterms:subject>Excavations (Archaeology)</dcterms:subject>
     <dcterms:subject>Punic wars</dcterms:subject>
-    <dcterms:subject>Tombs</dcterms:subject>
-    <dcterms:subject>Antiquities</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Tombs--Carthage (Extinct city)</dcterms:subject>
+    <dcterms:subject>Carthage (Extinct city)--Antiquities</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65254/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65254</edm:isShownAt>

@@ -17,10 +17,10 @@
     <dcterms:extent>1 sheet ([4] p.) 25 x 40 cm. folded to 25 x 20 cm.</dcterms:extent>
     <dcterms:publisher>Elliott &amp; Nye</dcterms:publisher>
     <dcterms:subject>Directories</dcterms:subject>
-    <dcterms:subject>Elliott &amp; Nye (Firm : Richmond, Va.)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Virginia--Directories</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>directory</edm:hasType>
+    <dcterms:medium>directory</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18685/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18685</edm:isShownAt>

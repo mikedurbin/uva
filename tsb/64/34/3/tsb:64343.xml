@@ -11,12 +11,13 @@
     <dcterms:identifier>tsb:64343</dcterms:identifier>
     <dcterms:title>General alumni catalogue of the University of Pennsylvania</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Maxwell, W. J.</dcterms:creator>
     <dcterms:created>1917</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1331, [1] p. 24 cm.</dcterms:extent>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>catalog</edm:hasType>
+    <dcterms:medium>catalog</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64343/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64343</edm:isShownAt>

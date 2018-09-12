@@ -12,13 +12,14 @@
     <dcterms:title>Is there room in angel land!</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Dressen, H. Theodore.</dcterms:creator>
+    <dcterms:creator>Miller, J. D. C.</dcterms:creator>
     <dcterms:created>1872</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (6 p.) : ill.</dcterms:extent>
     <dcterms:publisher>Oliver Ditson &amp; Co.</dcterms:publisher>
     <dcterms:subject>Vocal duets with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1135533/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1135533</edm:isShownAt>

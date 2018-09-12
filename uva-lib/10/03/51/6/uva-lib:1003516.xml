@@ -15,16 +15,17 @@
     <dcterms:created>1890</dcterms:created>
     <dcterms:extent>1 map ; 63 x 91 cm. on sheet 67 x 96 cm.</dcterms:extent>
     <dcterms:publisher>South Boston Improvement Company</dcterms:publisher>
-    <dcterms:subject>City planning</dcterms:subject>
-    <dcterms:subject>Real estate development</dcterms:subject>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:subject>South Boston Improvement Company</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>City planning--Virginia--South Boston--Maps</dcterms:subject>
+    <dcterms:subject>Real estate development--Virginia--South Boston--Maps</dcterms:subject>
+    <dcterms:subject>Real property--Virginia--South Boston--Maps</dcterms:subject>
+    <dcterms:subject>South Boston (Va.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Richmond</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003516/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003516</edm:isShownAt>

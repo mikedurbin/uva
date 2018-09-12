@@ -14,11 +14,12 @@
     <dcterms:created>1920</dcterms:created>
     <dcterms:extent>1 map : col. ; 50 x 60 cm. on sheet 53 x 64 cm.</dcterms:extent>
     <dcterms:publisher>C.S. Hammond &amp; Co.</dcterms:publisher>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:subject>Paris Peace Conference (1919-1920)</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>World War, 1914-1918--Territorial questions--Maps</dcterms:subject>
+    <dcterms:subject>Europe--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004221/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004221</edm:isShownAt>

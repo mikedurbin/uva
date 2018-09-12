@@ -15,12 +15,11 @@
     <dcterms:created>1885</dcterms:created>
     <dcterms:extent>1 manuscript map : col. ; 33 x 77 cm.</dcterms:extent>
     <dcterms:subject>Election districts</dcterms:subject>
-    <dcterms:subject>Election districts</dcterms:subject>
-    <dcterms:subject>United States./</dcterms:subject>
-    <dcterms:subject>Congress</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Election districts--Virginia--Maps, Manuscript</dcterms:subject>
+    <dcterms:subject>Virginia--Maps, Manuscript</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:743725/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:743725</edm:isShownAt>

@@ -16,13 +16,13 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>46, [1] leaves ; 16 cm.</dcterms:extent>
     <dcterms:publisher>Par Benoist Rigaud</dcterms:publisher>
-    <dcterms:subject>Visits of state</dcterms:subject>
-    <dcterms:subject>Charles/</dcterms:subject>
-    <dcterms:subject>Catherine de Médicis</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Charles, IX, King of France, 1550-1574</dcterms:subject>
+    <dcterms:subject>Catherine de Médicis, Queen, consort of Henry II, King of France, 1519-1589</dcterms:subject>
+    <dcterms:subject>Visits of state--France</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1057045/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1057045</edm:isShownAt>

@@ -11,16 +11,15 @@
     <dcterms:identifier>uva-lib:2524245</dcterms:identifier>
     <dcterms:title>Cork press</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Enterprise Manufacturing Company</dcterms:creator>
     <dcterms:created>1870/1899</dcterms:created>
     <dcterms:description>Cork press or cork reducer, made by Enterprise Manufacturing Company of Philadelphia. Hi!</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:medium>wood (plant material)</dcterms:medium>
     <dcterms:extent>12.5 x 24 x 6.5 cm</dcterms:extent>
     <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2524245/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524245</edm:isShownAt>

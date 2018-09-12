@@ -17,9 +17,9 @@
     <dcterms:extent>vii, 303 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>Macmillan &amp; Co.</dcterms:publisher>
     <dcterms:subject>Conduct of life</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65367/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65367</edm:isShownAt>

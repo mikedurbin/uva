@@ -15,14 +15,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([2] p.) : col. ill. ; 23 x 12 cm.</dcterms:extent>
     <dcterms:publisher>Worcester Corset Co.</dcterms:publisher>
-    <dcterms:subject>Corsets</dcterms:subject>
-    <dcterms:subject>Foundation garments</dcterms:subject>
-    <dcterms:subject>Worcester Corset Co. (Worcester, Mass.)/</dcterms:subject>
-    <dcterms:subject>Loeb Brothers (Staunton, Va.)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Corsets--History--19th century</dcterms:subject>
+    <dcterms:subject>Foundation garments--History--19th century</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>19th century</dcterms:temporal>
-    <dcterms:temporal>19th century</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:627104/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:627104</edm:isShownAt>

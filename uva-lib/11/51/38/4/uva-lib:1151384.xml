@@ -12,15 +12,15 @@
     <dcterms:title>Ther's a sigh in the heart : duett</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Fricker, Anne.</dcterms:creator>
+    <dcterms:creator>Weiland, Francis</dcterms:creator>
     <dcterms:created>1855</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.) ; 34 cm.</dcterms:extent>
     <dcterms:publisher>J.E. Gould (164 Chestnut St. below 7th, Philadelphia)</dcterms:publisher>
     <dcterms:subject>Vocal duets with guitar</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1151384/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1151384</edm:isShownAt>

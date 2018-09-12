@@ -11,15 +11,26 @@
     <dcterms:identifier>tsb:63951</dcterms:identifier>
     <dcterms:title>Problems of American civilization, their practical solution the pressing Christian duty of today</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Boyesen, Hjalmar Hjorth, 1848-1895</dcterms:creator>
+    <dcterms:creator>Coxe, A. Cleveland (Arthur Cleveland), 1818-1896</dcterms:creator>
+    <dcterms:creator>Dorchester, Daniel, 1827-1907</dcterms:creator>
+    <dcterms:creator>Gates, Merrill Edwards, 1848-1922</dcterms:creator>
+    <dcterms:creator>Greene, Jacob Lyman, 1837-1905</dcterms:creator>
+    <dcterms:creator>Haygood, Atticus G. (Atticus Greene), 1839-1896</dcterms:creator>
+    <dcterms:creator>Loomis, Samuel Lane, 1856-1938</dcterms:creator>
+    <dcterms:creator>Low, Seth, 1850-1916</dcterms:creator>
+    <dcterms:creator>McCosh, James, 1811-1894</dcterms:creator>
+    <dcterms:creator>McPherson, Simon John, 1850-1919</dcterms:creator>
+    <dcterms:creator>Pierson, Arthur T., 1837-1911</dcterms:creator>
     <dcterms:created>1888</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>171 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>Baker &amp; Taylor co.</dcterms:publisher>
     <dcterms:subject>Social problems</dcterms:subject>
     <dcterms:subject>Christian sociology</dcterms:subject>
-    <dcterms:subject>Social conditions</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--Social conditions</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63951/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63951</edm:isShownAt>

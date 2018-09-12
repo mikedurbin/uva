@@ -12,15 +12,22 @@
     <dcterms:title>Virginiae partis australis, et Floridae partis orientalis, interjacentiumq[ue] regionum nova descriptio</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Jansson, Jan, 1588-1664</dcterms:creator>
+    <dcterms:creator>Jansson, Jan, 1588-1664</dcterms:creator>
     <dcterms:created>1652/1687</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : hand col. ; 38 x 49 cm. on sheet 49 x 58 cm.</dcterms:extent>
     <dcterms:publisher>J. Jansson</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>South Atlantic States--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Virginia--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>North Carolina--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>South Carolina--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Georgia--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Florida--Maps--Early works to 1800</dcterms:subject>
     <dcterms:language>lat</dcterms:language>
     <dcterms:language>dut</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18906/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18906</edm:isShownAt>

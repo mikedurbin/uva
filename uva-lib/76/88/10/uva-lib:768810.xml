@@ -11,13 +11,16 @@
     <dcterms:identifier>uva-lib:768810</dcterms:identifier>
     <dcterms:title>Post route map of the state of Georgia : showing post offices with the intermediate distances on mail routes in operation on the 1st of March, 1910</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Von Haake, A.</dcterms:creator>
+    <dcterms:creator>Hitchcock, Frank H. (Frank Harris), 1867-1935</dcterms:creator>
     <dcterms:created>1910</dcterms:created>
     <dcterms:extent>1 map : col. ; 107 x 89 cm.</dcterms:extent>
     <dcterms:publisher>United States Post Office Dept.</dcterms:publisher>
-    <dcterms:subject>Postal service</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Postal service--Georgia--Maps</dcterms:subject>
+    <dcterms:subject>Georgia--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:768810/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:768810</edm:isShownAt>

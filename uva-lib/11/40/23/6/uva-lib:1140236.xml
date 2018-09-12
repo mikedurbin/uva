@@ -12,15 +12,17 @@
     <dcterms:title>The shadow of the cross = (L'ombra della croce) : legend</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Barri, Odoardo, 1844-1920</dcterms:creator>
+    <dcterms:creator>Weatherly, F. E. (Frederic Edward), 1848-1929</dcterms:creator>
+    <dcterms:creator>Mottino, Francesco.</dcterms:creator>
     <dcterms:created>1887</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.) ; 35 cm.</dcterms:extent>
     <dcterms:publisher>G. Schirmer, 35 Union Square</dcterms:publisher>
     <dcterms:subject>Sacred songs with piano</dcterms:subject>
-    <dcterms:subject>Holy Cross</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Holy Cross--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>ita</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1140236/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1140236</edm:isShownAt>

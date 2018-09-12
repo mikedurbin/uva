@@ -12,14 +12,22 @@
     <dcterms:title>The Turkish Empire in Europe, Asia and Africa divided into all its governments : together with the other territories that are tributary to it, as also the dominions of ye Emperor of Marocco ; according to the newest and most exact observations</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+    <dcterms:creator>Bowles, John, 1701-1779</dcterms:creator>
+    <dcterms:creator>Bowles, Thomas, -1767</dcterms:creator>
+    <dcterms:creator>King, John.</dcterms:creator>
+    <dcterms:creator>Bruyn, Cornelis de, 1652-1727</dcterms:creator>
     <dcterms:created>1730</dcterms:created>
     <dcterms:extent>1 map : col. ; 60 x 101 cm. on sheet 63 x 107 cm.</dcterms:extent>
     <dcterms:publisher>Printed for H. Moll over against Devereux Court in ye Strand, and Iohn Bowles at the Black Horse in Cornhill, and T. Bowles Print &amp; Mapseller next to the Chapter house in St. Pauls Church Yard, and Iohn King at the Globe in the Poultry</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Turkey--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Morocco--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Istanbul (Turkey)--Pictorial works--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Jerusalem--Pictorial works--Early works to 1800</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003564/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003564</edm:isShownAt>

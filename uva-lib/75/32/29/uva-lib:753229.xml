@@ -11,15 +11,17 @@
     <dcterms:identifier>uva-lib:753229</dcterms:identifier>
     <dcterms:title>Le tableau de Cebes de Thebes, ancien pholosophe et disciple de Socrates: : Auquel est paincte de ses couleurs, la uraye ymaige de la uie humaine, &amp; quelle uoye l'homme doibt elire, pour paruenir à uertu, &amp; perfaicte science.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Cebes, Of Thebes</dcterms:creator>
+    <dcterms:creator>Corrozet, Gilles, 1510-1568</dcterms:creator>
     <dcterms:created>1543</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[62] leaves : ill. ; 14 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>On les uend en la grand salle du Palais en la boutique de Gilles Corrozet</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:language>grc</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:753229/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:753229</edm:isShownAt>

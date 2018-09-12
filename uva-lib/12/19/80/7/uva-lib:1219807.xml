@@ -11,17 +11,20 @@
     <dcterms:identifier>uva-lib:1219807</dcterms:identifier>
     <dcterms:title>Freedom's footsteps</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Fuller, John A.</dcterms:creator>
+    <dcterms:creator>Gray, W. Vallance.</dcterms:creator>
+    <dcterms:creator>Fletcher, E.</dcterms:creator>
     <dcterms:created>1866</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : col. ill. ; 66 x 51 cm.</dcterms:extent>
     <dcterms:publisher>Executed and published by John A. Fuller</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--History--Chronology</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>California</dcterms:spatial>
     <dcterms:spatial>San Francisco</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-California-San Francisco-1866.</edm:hasType>
+    <dcterms:medium>Broadsides-California-San Francisco-1866.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1219807/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1219807</edm:isShownAt>

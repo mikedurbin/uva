@@ -11,18 +11,23 @@
     <dcterms:identifier>uva-lib:1003596</dcterms:identifier>
     <dcterms:title>Preliminary chart of the sea coast of Virginia, from Gargathy Inlet to Gr. Machipongo Inlet</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Balbach, Arthur.</dcterms:creator>
+    <dcterms:creator>Almy, John Jay, 1815-1895</dcterms:creator>
+    <dcterms:creator>Smith, W.</dcterms:creator>
+    <dcterms:creator>Yeager, E. (Edward)</dcterms:creator>
+    <dcterms:creator>Bartle, R. F.</dcterms:creator>
     <dcterms:created>1853</dcterms:created>
     <dcterms:extent>1 map ; 30 x 24 cm. on sheet 33 x 27 cm.</dcterms:extent>
     <dcterms:publisher>United States Coast Survey</dcterms:publisher>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:subject>Coasts</dcterms:subject>
-    <dcterms:subject>Navigation</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Nautical charts--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Coasts--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Chesapeake Bay (Md. and Va.)--Navigation</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>District of Columbia</dcterms:spatial>
     <dcterms:spatial>Washington</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003596/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003596</edm:isShownAt>

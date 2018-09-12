@@ -16,16 +16,16 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>x, 213 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>Charles Scribner's Sons</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Indians of Mexico</dcterms:subject>
-    <dcterms:subject>Indian mythology</dcterms:subject>
-    <dcterms:subject>Indian mythology</dcterms:subject>
-    <dcterms:subject>Indians of South America</dcterms:subject>
-    <dcterms:subject>Indian mythology</dcterms:subject>
     <dcterms:subject>Haley, Harold B</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>Indians of Mexico--Religion</dcterms:subject>
+    <dcterms:subject>Indian mythology--Mexico</dcterms:subject>
+    <dcterms:subject>Indian mythology--Peru--South America</dcterms:subject>
+    <dcterms:subject>Indians of South America--Religion</dcterms:subject>
+    <dcterms:subject>Indian mythology--South America</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64162/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64162</edm:isShownAt>

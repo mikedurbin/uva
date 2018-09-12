@@ -16,14 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[6], li, [1] leaves ; 24 cm. (4to)</dcterms:extent>
     <dcterms:publisher>Et se vend a Paris a la rue sainct Jaques a lenseigne des troys couronnes, pres sainct Benoist</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Rhodes (Greece : Island)--History--Siege, 1522</dcterms:subject>
+    <dcterms:subject>Turkey--History--1453-1683</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
-    <dcterms:temporal>Siege, 1522</dcterms:temporal>
-    <dcterms:temporal>1453-1683</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1002827/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002827</edm:isShownAt>

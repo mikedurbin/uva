@@ -12,21 +12,21 @@
     <dcterms:title>Traitor, spare that flag</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Lundy, John P. (John Patterson), 1823-1892</dcterms:creator>
+    <dcterms:creator>Magnus, Charles.</dcterms:creator>
     <dcterms:created>1861/1867</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : col. ills. ; 21 x 13 cm.</dcterms:extent>
     <dcterms:publisher>Ten illustrated songs on notepaper, mailed to any address on receipt of 50 cts. Published byCharles Magnus, 12 Frankfort St. N.Y.</dcterms:publisher>
-    <dcterms:subject>War songs</dcterms:subject>
-    <dcterms:subject>Traitors</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>War songs--United States--Songs and music--Texts</dcterms:subject>
+    <dcterms:subject>Traitors--Songs and music--Texts</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Flags--Songs and music--Texts</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>New York (State)</dcterms:spatial>
     <dcterms:spatial>New York (City)</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-New York (State)-New York-1860-1870.</edm:hasType>
-    <edm:hasType>Song sheets-New York (State)-New York-1860-1870.</edm:hasType>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:medium>Broadsides-New York (State)-New York-1860-1870.</dcterms:medium>
+    <dcterms:medium>Song sheets-New York (State)-New York-1860-1870.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1219595/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1219595</edm:isShownAt>

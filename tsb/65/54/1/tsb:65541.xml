@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxiv, 452 p. 9 pl., 5 port. (incl. front.) col. plan, 5 facsim. 24 cm.</dcterms:extent>
     <dcterms:publisher>Longmans, Green</dcterms:publisher>
-    <dcterms:subject>Mary</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Mary, Queen of Scots, 1542-1587</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65541/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65541</edm:isShownAt>

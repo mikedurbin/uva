@@ -12,15 +12,18 @@
     <dcterms:title>The Reconciliation= La reconciliation : duetto pour soprano et baryton ou contralto</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Lucantoni, Giovanni.</dcterms:creator>
+    <dcterms:creator>Millard, H. (Harrison), 1830-1895</dcterms:creator>
+    <dcterms:creator>Marcello, M. (Marco), 1823-1865</dcterms:creator>
+    <dcterms:creator>Tagliafico, D. (Dieudonné), 1821-1900</dcterms:creator>
     <dcterms:created>1869</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (9 p.)</dcterms:extent>
     <dcterms:publisher>Schirmer</dcterms:publisher>
     <dcterms:subject>Vocal duets with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>fre</dcterms:language>
     <dcterms:language>ita</dcterms:language>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1131563/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1131563</edm:isShownAt>

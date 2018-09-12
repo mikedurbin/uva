@@ -12,16 +12,18 @@
     <dcterms:title>Life, letters and travels of Father Pierre-Jean de Smet, S. J., 1801-1873; missionary labors and adventures among the wild tribes of the North American Indians ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Smet, Pierre-Jean de, 1801-1873</dcterms:creator>
+    <dcterms:creator>Chittenden, Hiram Martin, 1858-1917</dcterms:creator>
+    <dcterms:creator>Richardson, Alfred Talbot</dcterms:creator>
     <dcterms:created>1905</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 v. fronts., plates, ports., fold. map in pocket, facsims. 25 cm.</dcterms:extent>
     <dcterms:publisher>F. P. Harper</dcterms:publisher>
     <dcterms:subject>Indians of North America</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>West (U.S.)--Description and travel</dcterms:subject>
+    <dcterms:subject>Northwestern States--Description and travel</dcterms:subject>
+    <dcterms:subject>Northwest, Canadian--Description and travel</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65454/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65454</edm:isShownAt>

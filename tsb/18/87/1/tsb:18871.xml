@@ -15,8 +15,8 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 folded sheet ([1] p.) 15 x 25 folded to 15 x 13 cm.</dcterms:extent>
     <dcterms:subject>Baskins, T. S</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18871/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18871</edm:isShownAt>

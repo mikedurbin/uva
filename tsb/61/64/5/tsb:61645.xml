@@ -16,11 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xii, 329 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>W. H. Allen</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Alexander</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Alexander, II, Emperor of Russia, 1818-1881</dcterms:subject>
+    <dcterms:subject>Russia--History--Alexander II, 1855-1881</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Alexander II, 1855-1881</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61645/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61645</edm:isShownAt>

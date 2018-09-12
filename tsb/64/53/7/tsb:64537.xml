@@ -12,16 +12,17 @@
     <dcterms:title>The violin: some account of that leading instrument, and its most eminent professors, from its earliest date to the present time;</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Dubourg, George, 1799-1882</dcterms:creator>
+    <dcterms:creator>Bishop, John, 1817-1890</dcterms:creator>
     <dcterms:created>1878</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xvii, 336 p. illus. 21 cm.</dcterms:extent>
     <dcterms:publisher>R. Cocks and co. [etc.]</dcterms:publisher>
     <dcterms:subject>Violin</dcterms:subject>
     <dcterms:subject>Violinists</dcterms:subject>
-    <dcterms:subject>Music</dcterms:subject>
-    <dcterms:subject>Music</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Music--Anecdotes</dcterms:subject>
+    <dcterms:subject>Music--Humor</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64537/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64537</edm:isShownAt>

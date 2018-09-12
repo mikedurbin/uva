@@ -12,16 +12,17 @@
     <dcterms:title>Gildersleeve's Latin grammar</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Gildersleeve, Basil L. (Basil Lanneau), 1831-1924</dcterms:creator>
+    <dcterms:creator>Lodge, Gonzalez, 1863-1942</dcterms:creator>
     <dcterms:created>1894</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>x, 550 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>University publishing company</dcterms:publisher>
-    <dcterms:subject>Latin language</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Latin language--Grammar</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Inscriptions (Provenance)</edm:hasType>
-    <edm:hasType>Annotations (Provenance)</edm:hasType>
-    <edm:hasType>Marginalia (Provenance)</edm:hasType>
+    <dcterms:medium>Inscriptions (Provenance)</dcterms:medium>
+    <dcterms:medium>Annotations (Provenance)</dcterms:medium>
+    <dcterms:medium>Marginalia (Provenance)</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65631/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65631</edm:isShownAt>

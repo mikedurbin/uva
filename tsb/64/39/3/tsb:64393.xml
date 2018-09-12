@@ -12,15 +12,16 @@
     <dcterms:title>Women of Florence</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Del Lungo, Isidoro, 1841-1927</dcterms:creator>
+    <dcterms:creator>Steegmann, Mary C.</dcterms:creator>
     <dcterms:created>1907</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxxvi, 299 p. col. front., plates (1 col.) ports. 22 cm.</dcterms:extent>
     <dcterms:publisher>Chatto and Windvs</dcterms:publisher>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:subject>Renaissance</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Women--Italy--Florence</dcterms:subject>
+    <dcterms:subject>Renaissance--Italy</dcterms:subject>
+    <dcterms:subject>Florence (Italy)--History</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64393/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64393</edm:isShownAt>

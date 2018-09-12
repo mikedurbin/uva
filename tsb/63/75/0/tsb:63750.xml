@@ -16,11 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. ; 23 cm.</dcterms:extent>
     <dcterms:publisher>A. &amp; C. Black</dcterms:publisher>
-    <dcterms:subject>Fathers of the church</dcterms:subject>
-    <dcterms:subject>Church history</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Fathers of the church--Biography</dcterms:subject>
+    <dcterms:subject>Church history--Primitive and early church, ca. 30-600</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Primitive and early church, ca. 30-600</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63750/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63750</edm:isShownAt>

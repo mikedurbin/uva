@@ -16,12 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[18], 211 p. ; 18 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>De l'imprimerie d'André Wechel</dcterms:publisher>
-    <dcterms:subject>French language</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>French language--Middle French, 1300-1600--Grammar</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
-    <dcterms:temporal>Middle French, 1300-1600</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730721/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730721</edm:isShownAt>

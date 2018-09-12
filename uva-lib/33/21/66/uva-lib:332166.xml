@@ -17,16 +17,16 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Africa</dcterms:subject>
-    <dcterms:subject>Kenya</dcterms:subject>
-    <dcterms:subject>Churches</dcterms:subject>
-    <dcterms:subject>Men</dcterms:subject>
-    <dcterms:subject>Arches</dcterms:subject>
-    <dcterms:subject>Steps</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Africa--Continents</dcterms:subject>
+    <dcterms:subject>Kenya--Countries by name</dcterms:subject>
+    <dcterms:subject>Churches--Single built works by function</dcterms:subject>
+    <dcterms:subject>Men--People by gender</dcterms:subject>
+    <dcterms:subject>Arches--Structural elements</dcterms:subject>
+    <dcterms:subject>Steps--Components by specific context</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332166/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332166</edm:isShownAt>

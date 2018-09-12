@@ -11,13 +11,15 @@
     <dcterms:identifier>tsb:65949</dcterms:identifier>
     <dcterms:title>Reports of cases argued and determined in the Supreme Court of Appeals of Virginia: with select cases relating chiefly to points of practice, decided by the Superior Court of Chancery for the Richmond District ... [1806-1810]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hening, William Waller, 1768-1828</dcterms:creator>
+    <dcterms:creator>Munford, William, 1775-1825</dcterms:creator>
     <dcterms:created>1808/1811</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 v. 22-24 cm.</dcterms:extent>
     <dcterms:publisher>[Smith &amp; Maxwell, printers]</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Virginia</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65949/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65949</edm:isShownAt>

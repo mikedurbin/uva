@@ -12,14 +12,16 @@
     <dcterms:title>Property of the Fredericksburg Development Co. Fredericksburg Virginia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Grabill, L. R.</dcterms:creator>
+    <dcterms:creator>Benton, Wm. H. (William H.)</dcterms:creator>
     <dcterms:created>1891</dcterms:created>
     <dcterms:extent>1 map ; 49 x 35 cm. on sheet 56 x 43 cm.</dcterms:extent>
     <dcterms:publisher>Fredericksburg Development Co.</dcterms:publisher>
-    <dcterms:subject>Real estate development</dcterms:subject>
-    <dcterms:subject>Fredericksburg Development Co.</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>Real estate development--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Fredericksburg (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003497/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003497</edm:isShownAt>

@@ -16,11 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. (lxxii, 844 p.) ; 23 cm.</dcterms:extent>
     <dcterms:publisher>E Typographeo Academico</dcterms:publisher>
-    <dcterms:subject>Homer/</dcterms:subject>
     <dcterms:subject>Homer</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Homer</dcterms:subject>
+    <dcterms:subject>Scholia</dcterms:subject>
     <dcterms:language>grc</dcterms:language>
     <dcterms:language>lat</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61725/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61725</edm:isShownAt>

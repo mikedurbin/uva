@@ -12,13 +12,15 @@
     <dcterms:title>Nouveau plan illustré de la ville de Paris : avec le système de ses fortifications et forts détachés, et des communes de la banlieue</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Vuillemin, Alexandre, b. 1812</dcterms:creator>
+    <dcterms:creator>Testard, A.</dcterms:creator>
     <dcterms:created>1852</dcterms:created>
     <dcterms:extent>1 map : ill. ; hand col. ; 83 x 104 cm. folded to 22 x 13 cm.</dcterms:extent>
     <dcterms:publisher>Fatout</dcterms:publisher>
-    <dcterms:subject>Fortification</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Fortification--France--Paris--Maps</dcterms:subject>
+    <dcterms:subject>Paris (France)--Maps</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1561746/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1561746</edm:isShownAt>

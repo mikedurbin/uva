@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 p.l., 354 p., 1 l. 6 pl., 4 port. (incl. front.) 21 cm.</dcterms:extent>
     <dcterms:publisher>Houghton, Mifflin and company</dcterms:publisher>
-    <dcterms:subject>Palmer, Alice Freeman</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Palmer, Alice Freeman, 1855-1902</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65474/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65474</edm:isShownAt>

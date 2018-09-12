@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. : 22 cm.</dcterms:extent>
     <dcterms:publisher>Longmans</dcterms:publisher>
-    <dcterms:subject>Thomas</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Thomas, Aquinas, Saint, 1225?-1274</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64308/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64308</edm:isShownAt>

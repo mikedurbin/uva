@@ -12,12 +12,16 @@
     <dcterms:title>The ingenious knight, Don Quixote de la Mancha</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Cervantes Saavedra, Miguel de, 1547-1616</dcterms:creator>
+    <dcterms:creator>Duffield, A. J. (Alexander James), 1821-1890</dcterms:creator>
+    <dcterms:creator>Pellicer y Pilares, Juan Antonio, 1738-1806</dcterms:creator>
+    <dcterms:creator>Clemencín, Diego, 1765-1834</dcterms:creator>
+    <dcterms:creator>Bowle, John, 1725-1788</dcterms:creator>
     <dcterms:created>1881</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. 23 cm.</dcterms:extent>
     <dcterms:publisher>C. K. Paul &amp; co.</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61595/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61595</edm:isShownAt>

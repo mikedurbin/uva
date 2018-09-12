@@ -14,11 +14,13 @@
     <dcterms:created>1870</dcterms:created>
     <dcterms:extent>1 map : col. ; 163 x 96 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Alluvial plains</dcterms:subject>
-    <dcterms:subject>Alluvial plain</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Alluvial plains--Mississippi--Maps</dcterms:subject>
+    <dcterms:subject>Delta (Miss. : Region)--Maps</dcterms:subject>
+    <dcterms:subject>Mississippi River--Alluvial plain--Maps</dcterms:subject>
+    <dcterms:subject>Mississippi--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:768811/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:768811</edm:isShownAt>

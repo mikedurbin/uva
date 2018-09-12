@@ -12,12 +12,13 @@
     <dcterms:title>Rollos̓ journey to Cambridge</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wheelwright, John T. (John Tyler), 1856-1925</dcterms:creator>
+    <dcterms:creator>Stimson, Frederic Jesup, 1855-1943</dcterms:creator>
     <dcterms:created>1895</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 p. l., [7]-28 p. illus. 27 cm.</dcterms:extent>
     <dcterms:publisher>Walker &amp; Aspinwall</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65396/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65396</edm:isShownAt>

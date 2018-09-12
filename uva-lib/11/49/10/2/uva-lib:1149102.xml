@@ -12,14 +12,13 @@
     <dcterms:title>El fresco : galop</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Garland, A. C.</dcterms:creator>
+    <dcterms:creator>McGean, James</dcterms:creator>
     <dcterms:created>1880</dcterms:created>
     <dcterms:extent>5 p. of music.</dcterms:extent>
     <dcterms:publisher>R. A. Saalfied</dcterms:publisher>
     <dcterms:subject>Galops</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1149102/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1149102</edm:isShownAt>

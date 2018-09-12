@@ -12,6 +12,7 @@
     <dcterms:title>Greek studies : a series of essays</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Pater, Walter, 1839-1894</dcterms:creator>
+    <dcterms:creator>Shadwell, Charles Lancelot, 1840-1919</dcterms:creator>
     <dcterms:created>1899</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xi, 319 p. ; 19 cm.</dcterms:extent>
@@ -19,8 +20,8 @@
     <dcterms:subject>Art, Greek</dcterms:subject>
     <dcterms:subject>Mythology, Greek</dcterms:subject>
     <dcterms:subject>Greek drama</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63991/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63991</edm:isShownAt>

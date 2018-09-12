@@ -16,12 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>78 p. ; 20 cm.</dcterms:extent>
     <dcterms:publisher>O. Wilder and J. M. Campbell</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--History--French and Indian War, 1754-1763--Fiction</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Historical fiction, American.</edm:hasType>
-    <edm:hasType>American literature-1783-1850.</edm:hasType>
-    <dcterms:temporal>French and Indian War, 1754-1763</dcterms:temporal>
+    <dcterms:medium>Historical fiction, American.</dcterms:medium>
+    <dcterms:medium>American literature-1783-1850.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1824819/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1824819</edm:isShownAt>

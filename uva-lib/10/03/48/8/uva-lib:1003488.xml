@@ -15,11 +15,13 @@
     <dcterms:created>1910</dcterms:created>
     <dcterms:extent>1 map : col. ; 42 x 42 cm. (circular) on sheet 50 x 60 cm.</dcterms:extent>
     <dcterms:publisher>Issued by the Wytheville Development Co.</dcterms:publisher>
-    <dcterms:subject>Mines and mineral resources</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Mines and mineral resources--Virginia, Southwest--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--Virginia, Southwest--Maps</dcterms:subject>
+    <dcterms:subject>Virginia, Southwest--Maps</dcterms:subject>
+    <dcterms:subject>Wytheville (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003488/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003488</edm:isShownAt>

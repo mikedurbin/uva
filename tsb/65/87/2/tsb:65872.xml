@@ -19,8 +19,8 @@
     <dcterms:subject>International law</dcterms:subject>
     <dcterms:subject>Natural law</dcterms:subject>
     <dcterms:subject>Political science</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65872/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65872</edm:isShownAt>

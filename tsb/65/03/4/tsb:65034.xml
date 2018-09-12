@@ -12,14 +12,14 @@
     <dcterms:title>The war with the South, a history of the late rebellion,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Tomes, Robert, 1817-1882</dcterms:creator>
+    <dcterms:creator>Smith, Benjamin George.</dcterms:creator>
     <dcterms:created>1862/1867</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. fronts., plates, ports., maps. 29 cm.</dcterms:extent>
     <dcterms:publisher>Virture &amp; Yorston.</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--History--Civil War, 1861-1865</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65034/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65034</edm:isShownAt>

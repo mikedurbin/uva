@@ -12,15 +12,17 @@
     <dcterms:title>Plan of buildings at Rockbridge Alum Springs, Rockbridge Co., Virginia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hotchkiss, Jedediah, 1828-1899</dcterms:creator>
+    <dcterms:creator>Allen, Donald.</dcterms:creator>
     <dcterms:created>1869</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>2 maps on one sheet : b&amp;w ; sheet 59 x 21 cm.</dcterms:extent>
     <dcterms:publisher>lith. by Schmidt  &amp; Trawe</dcterms:publisher>
-    <dcterms:subject>Resorts</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Resorts--Virginia--Rockbridge County--Designs and plans</dcterms:subject>
+    <dcterms:subject>Rockbridge County (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003181/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003181</edm:isShownAt>

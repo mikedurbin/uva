@@ -12,17 +12,18 @@
     <dcterms:title>To blossoms : song</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Tours, Berthold, 1838-1897</dcterms:creator>
+    <dcterms:creator>Herrick, Robert, 1591-1674</dcterms:creator>
     <dcterms:created>186u</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.).</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
+    <dcterms:subject>Herrick, Robert, 1591-1674</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Flowers</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>Herrick, Robert</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Flowers--Songs and music</dcterms:subject>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1123252/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1123252</edm:isShownAt>

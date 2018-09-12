@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xi p., 1 l., 614 p. front. (port.) 23 cm.</dcterms:extent>
     <dcterms:publisher>Whittet &amp; Shepperson</dcterms:publisher>
-    <dcterms:subject>Thornwell, James Henley</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Thornwell, James Henley, 1812-1862</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65020/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65020</edm:isShownAt>

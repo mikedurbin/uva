@@ -11,14 +11,13 @@
     <dcterms:identifier>uva-lib:2440426</dcterms:identifier>
     <dcterms:title>Needles</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Burroughs Wellcome and Company</dcterms:creator>
     <dcterms:created>1900/1950</dcterms:created>
     <dcterms:description>5 needles and 2 bowed pieces of metal contained in box with label information: Dozen, No. 205, Rustless Steel Needles, Burroughs Wellcome &amp; Co. (U.S.A.) Inc., New York, Made in England.</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440426/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440426</edm:isShownAt>

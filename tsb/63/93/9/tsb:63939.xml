@@ -12,16 +12,17 @@
     <dcterms:title>Fragments of a political diary</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Baernreither, Josef Maria, 1845-1925</dcterms:creator>
+    <dcterms:creator>Redlich, Josef, 1869-1936</dcterms:creator>
     <dcterms:created>1930</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxxii, 322 p. front. (port.) 22 cm.</dcterms:extent>
     <dcterms:publisher>Macmillan</dcterms:publisher>
     <dcterms:subject>Eastern question (Balkan)</dcterms:subject>
     <dcterms:subject>Yugoslavs</dcterms:subject>
-    <dcterms:subject>Foreign relations</dcterms:subject>
-    <dcterms:subject>Foreign relations</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Austria--Foreign relations--Serbia</dcterms:subject>
+    <dcterms:subject>Serbia--Foreign relations--Austria</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63939/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63939</edm:isShownAt>

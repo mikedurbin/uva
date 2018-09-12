@@ -12,14 +12,16 @@
     <dcterms:title>Twilight ramble : variations for the piano</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Thilow, C. W.</dcterms:creator>
+    <dcterms:creator>Webb, L. W.</dcterms:creator>
+    <dcterms:creator>McCarthy, E.</dcterms:creator>
+    <dcterms:creator>Patton, Eliza W.</dcterms:creator>
     <dcterms:created>1857</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 p. of music ; 34 cm.</dcterms:extent>
     <dcterms:publisher>Miller &amp; Beacham</dcterms:publisher>
     <dcterms:subject>Variations (Piano)</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1126139/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1126139</edm:isShownAt>

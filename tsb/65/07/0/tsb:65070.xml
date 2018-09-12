@@ -12,15 +12,16 @@
     <dcterms:title>The patriarchal theory; based on the papers of the late John Ferguson McLennan.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>McLennan, John Ferguson, 1827-1881</dcterms:creator>
+    <dcterms:creator>McLennan, Donald</dcterms:creator>
     <dcterms:created>1885</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xvi, 355 p. 23 cm.</dcterms:extent>
     <dcterms:publisher>Macmillan and co.</dcterms:publisher>
     <dcterms:subject>Families</dcterms:subject>
     <dcterms:subject>Primitive societies</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65070/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65070</edm:isShownAt>

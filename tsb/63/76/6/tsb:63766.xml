@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 p.l., 3-387 p. front. (port.) 24 cm.</dcterms:extent>
     <dcterms:publisher>Priv. print.</dcterms:publisher>
-    <dcterms:subject>Telephone</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Telephone--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63766/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63766</edm:isShownAt>

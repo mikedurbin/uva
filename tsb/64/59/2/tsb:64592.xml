@@ -16,12 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 p.l., [v]-xxii p., 1 l., [25]-517 p. plates. 24 cm.</dcterms:extent>
     <dcterms:publisher>Alden, Beardsley &amp; co.; [etc., etc.]</dcterms:publisher>
-    <dcterms:subject>Discovery and exploration</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>United States Exploring Expedition (1838-1842)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Oceania--Discovery and exploration</dcterms:subject>
+    <dcterms:subject>South America--Description and travel</dcterms:subject>
+    <dcterms:subject>Palestine--Description and travel</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64592/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64592</edm:isShownAt>

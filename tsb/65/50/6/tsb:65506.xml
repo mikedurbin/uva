@@ -12,13 +12,14 @@
     <dcterms:title>L. Annaei Senecae opera quae supersunt</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Seneca, Lucius Annaeus, approximately 4 B.C.-65 A.D</dcterms:creator>
+    <dcterms:creator>Haase, Friedrich, 1808-1867</dcterms:creator>
     <dcterms:created>1852/1853</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. in 2 ; 17 cm.</dcterms:extent>
     <dcterms:publisher>Sumptibus et Typis B.G. Teubneri</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>lat</dcterms:language>
-    <edm:hasType>Marginalia (Provenance)</edm:hasType>
+    <dcterms:medium>Marginalia (Provenance)</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65506/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65506</edm:isShownAt>

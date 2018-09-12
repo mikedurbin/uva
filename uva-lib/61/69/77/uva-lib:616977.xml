@@ -12,14 +12,16 @@
     <dcterms:title>Royaume d'Irlande : divisé en ses quatre provinces, et subdivisé en comtés,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Robert de Vaugondy, Didier, 1723-1786</dcterms:creator>
+    <dcterms:creator>Santini, P.</dcterms:creator>
     <dcterms:created>1784</dcterms:created>
     <dcterms:extent>1 map : col. ; 48 x 54 cm. on sheet 53 x 73 cm.</dcterms:extent>
     <dcterms:publisher>Par P. Santini, chez Mr. Remondini</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Ireland--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>Italy</dcterms:spatial>
     <dcterms:spatial>Venice</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616977/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616977</edm:isShownAt>

@@ -11,15 +11,18 @@
     <dcterms:identifier>tsb:65971</dcterms:identifier>
     <dcterms:title>Archaionomia : sive De priscis Anglorum legibus libri, sermone Anglico, vestustate antiquissimo, aliquot ab hinc seculis conscripti ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Great Britain</dcterms:creator>
+    <dcterms:creator>Lambarde, William, 1536-1601</dcterms:creator>
+    <dcterms:creator>Nowell, Laurence, 1530-approximately 1570</dcterms:creator>
+    <dcterms:creator>Wheelocke, Abraham, 1593-1653</dcterms:creator>
+    <dcterms:creator>Twysden, Roger, Sir, 1597-1672</dcterms:creator>
     <dcterms:created>1644</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>8 p. of leaves, 152 p., 1 leaf, 153-226 [i.e. 228], [8] p., 1 leaf including map ; 36 cm.</dcterms:extent>
     <dcterms:publisher>ex officina R. Daniel</dcterms:publisher>
     <dcterms:subject>Law, Anglo-Saxon</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>lat</dcterms:language>
     <dcterms:language>ang</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65971/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65971</edm:isShownAt>

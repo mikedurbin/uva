@@ -12,15 +12,16 @@
     <dcterms:title>Oscar Wilde galop</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wilde, Oscar, 1854-1900</dcterms:creator>
+    <dcterms:creator>Snow, F. H. (Francis Huntington), 1840-1908</dcterms:creator>
     <dcterms:created>1880/1889</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 p. of music.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
+    <dcterms:subject>Wilde, Oscar, 1854-1900</dcterms:subject>
+    <dcterms:subject>Songs and music</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
     <dcterms:subject>Galops</dcterms:subject>
-    <dcterms:subject>Wilde, Oscar</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1125060/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125060</edm:isShownAt>

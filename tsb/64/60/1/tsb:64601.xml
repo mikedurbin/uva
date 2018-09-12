@@ -12,13 +12,14 @@
     <dcterms:title>National education in the United States of America</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Du Pont de Nemours, Pierre Samuel, 1739-1817</dcterms:creator>
+    <dcterms:creator>Du Pont, B. G. (Bessie Gardner), 1864-1949</dcterms:creator>
     <dcterms:created>1923</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 p.l., [v]-xxi, iv, 161 p. fold. tab. 23 cm.</dcterms:extent>
     <dcterms:publisher>University of Delaware press</dcterms:publisher>
-    <dcterms:subject>Education</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Education--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64601/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64601</edm:isShownAt>

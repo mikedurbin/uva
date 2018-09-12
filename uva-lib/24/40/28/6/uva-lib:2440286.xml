@@ -11,14 +11,13 @@
     <dcterms:identifier>uva-lib:2440286</dcterms:identifier>
     <dcterms:title>Capillary tubes</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Biological Research Incorporated</dcterms:creator>
     <dcterms:created>1960</dcterms:created>
     <dcterms:description>Contained in plastic bottle, label Information: Stock No. 6630-618-0072; Tube, Capillary, Blood sample; Glass, Heparinized, 1.17 to 1.50 mm O.D. 75 mm long, 100s; Contract No. N-32-7774; Manufacturer Biological Research Inc; Contractor - Aloe Scientific; Level - B - Date 1960-10; packed with cotton balls.</dcterms:description>
     <dcterms:medium>plastic (organic material)</dcterms:medium>
     <dcterms:subject>Medical laboratory technology</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440286/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440286</edm:isShownAt>

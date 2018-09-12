@@ -11,17 +11,17 @@
     <dcterms:identifier>tsb:18601</dcterms:identifier>
     <dcterms:title>Bounaparte's coronation : &amp; favorite marches for the piano forte.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Gillingham, Edwin.</dcterms:creator>
     <dcterms:created>1819</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 p. of music ; 34 cm.</dcterms:extent>
     <dcterms:publisher>George Willig</dcterms:publisher>
+    <dcterms:subject>Napoleon, I, Emperor of the French, 1769-1821</dcterms:subject>
+    <dcterms:subject>Songs and music</dcterms:subject>
     <dcterms:subject>Marches (Piano)</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:subject>Napoleon</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular instrumental music--United States--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18601/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18601</edm:isShownAt>

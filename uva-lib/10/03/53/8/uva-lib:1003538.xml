@@ -17,13 +17,14 @@
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : photocopy ; 93 x 71 cm.</dcterms:extent>
     <dcterms:publisher>Jed. Hotchkiss?]</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Roads</dcterms:subject>
-    <dcterms:subject>Hotchkiss, Jedediah</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Hotchkiss, Jedediah, 1828-1899</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>Railroads--Virginia--Warm Springs Valley--Maps</dcterms:subject>
+    <dcterms:subject>Roads--Virginia--Warm Springs Valley--Maps</dcterms:subject>
+    <dcterms:subject>Warm Springs Valley (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003538/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003538</edm:isShownAt>

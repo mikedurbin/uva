@@ -12,17 +12,20 @@
     <dcterms:title>Die Thraene = The tear : composed and respectfully dedicated to Madame James Gordon Bennett</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Stigelli, G. (Giorgio), 1815-1868</dcterms:creator>
+    <dcterms:creator>Brandes, Johann Christian, 1735-1799</dcterms:creator>
+    <dcterms:creator>Sprague, Charles J. (Charles James), 1823-1903</dcterms:creator>
+    <dcterms:creator>Bennett, James Gordon, Mrs</dcterms:creator>
     <dcterms:created>1860</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.).</dcterms:extent>
     <dcterms:publisher>Jordens &amp; Martens</dcterms:publisher>
+    <dcterms:subject>Brandes, Johann Christian, 1735-1799</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>Brandes, Johann Christian</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>ger</dcterms:language>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1124159/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1124159</edm:isShownAt>

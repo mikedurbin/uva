@@ -12,13 +12,14 @@
     <dcterms:title>I'd be a butterfly : as sung with great applause by Mrs. Sharp</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bayly, Thomas Haynes, 1797-1839</dcterms:creator>
+    <dcterms:creator>Gardner-Sharp, Abbie, Mrs, 1843-1921</dcterms:creator>
     <dcterms:created>1819/1853</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score ([3] p.).</dcterms:extent>
     <dcterms:publisher>George Willig</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1136831/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1136831</edm:isShownAt>

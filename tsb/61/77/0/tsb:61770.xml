@@ -16,15 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 p.l., 3-362 p. 21 cm.</dcterms:extent>
     <dcterms:publisher>The Neale publishing company</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Confederate States of America./</dcterms:subject>
-    <dcterms:subject>Army./</dcterms:subject>
-    <dcterms:subject>Virginia Cavalry./</dcterms:subject>
-    <dcterms:subject>Chew's Battery.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Personal narratives, Confederate</dcterms:subject>
+    <dcterms:subject>Charlottesville (Va.)--History</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61770/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61770</edm:isShownAt>

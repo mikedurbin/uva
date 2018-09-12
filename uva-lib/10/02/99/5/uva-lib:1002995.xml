@@ -16,16 +16,16 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>86 p. 21 cm.</dcterms:extent>
     <dcterms:publisher>Chez Cailleau</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Washington, George/</dcterms:subject>
-    <dcterms:subject>Asgill, Charles</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+    <dcterms:subject>Asgill, Charles, Sir, 1760?-1823</dcterms:subject>
+    <dcterms:subject>Drama</dcterms:subject>
+    <dcterms:subject>Drama</dcterms:subject>
+    <dcterms:subject>United States--History--Revolution, 1775-1783--Drama</dcterms:subject>
+    <dcterms:subject>Yorktown (Va.)--History--Siege, 1781--Drama</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
-    <dcterms:temporal>Revolution, 1775-1783</dcterms:temporal>
-    <dcterms:temporal>Siege, 1781</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1002995/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002995</edm:isShownAt>

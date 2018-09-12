@@ -15,11 +15,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>no. ; 44 cm.</dcterms:extent>
     <dcterms:publisher>Bowery News Company</dcterms:publisher>
-    <dcterms:subject>Tramps</dcterms:subject>
-    <dcterms:subject>Wayfaring life</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Tramps--United States--Newspapers</dcterms:subject>
+    <dcterms:subject>Wayfaring life--Newspapers</dcterms:subject>
+    <dcterms:subject>New York (N.Y.)--Newspapers</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>newspaper</edm:hasType>
+    <dcterms:medium>newspaper</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58765/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58765</edm:isShownAt>

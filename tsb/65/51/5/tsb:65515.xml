@@ -12,16 +12,17 @@
     <dcterms:title>Das buch der erziehung an leib und seele : für aeltern, erzieher und lehrer</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Schreber, Daniel Gottlieb Moritz, 1808-1861</dcterms:creator>
+    <dcterms:creator>Hennig, Carl, 1825-1911</dcterms:creator>
     <dcterms:created>1882</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xvi, 245 p. : ill. ; 24 cm.</dcterms:extent>
     <dcterms:publisher>F. Fleischer</dcterms:publisher>
     <dcterms:subject>Child development</dcterms:subject>
     <dcterms:subject>Child care</dcterms:subject>
-    <dcterms:subject>Children</dcterms:subject>
+    <dcterms:subject>Children--Health and hygiene</dcterms:subject>
     <dcterms:subject>Child psychology</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>ger</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65515/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65515</edm:isShownAt>

@@ -11,17 +11,18 @@
     <dcterms:identifier>uva-lib:1226496</dcterms:identifier>
     <dcterms:title>Horrid massacre in Virginia. : Just published, an Authentic and interesting narrative of the tragical scene which was witnessed in Southampton county (Virginia), on Monday the 22d of August last, when fifty five of its inhabitants (mostly women and children) were inhumanly massacred by the Blacks! ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Warner, Samuel</dcterms:creator>
     <dcterms:created>1831</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 40 x 28 cm.</dcterms:extent>
     <dcterms:publisher>Warner and West</dcterms:publisher>
-    <dcterms:subject>Southampton Insurrection, 1831</dcterms:subject>
-    <dcterms:subject>Slave insurrections</dcterms:subject>
-    <dcterms:subject>Slave insurrections</dcterms:subject>
     <dcterms:subject>Warner, Samuel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Southampton Insurrection, 1831</dcterms:subject>
+    <dcterms:subject>Slave insurrections--United States</dcterms:subject>
+    <dcterms:subject>Slave insurrections--Virginia--Southampton County</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-New York (State)-New York (City)-1831.</edm:hasType>
+    <dcterms:medium>Broadsides-New York (State)-New York (City)-1831.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1226496/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1226496</edm:isShownAt>

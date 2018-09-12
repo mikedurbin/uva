@@ -12,19 +12,20 @@
     <dcterms:title>Nellie, Wilt thou be my bride?</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Osborne, Charles.</dcterms:creator>
+    <dcterms:creator>Magnus, Charles.</dcterms:creator>
     <dcterms:created>1860/1867</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[4] p. : ill. ; 21 cm.</dcterms:extent>
     <dcterms:publisher>Published by Chas. Magnus, 12 Frankfort St. NY</dcterms:publisher>
-    <dcterms:subject>Marriage proposals</dcterms:subject>
-    <dcterms:subject>Marriage</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Marriage proposals--Songs and music--Texts</dcterms:subject>
+    <dcterms:subject>Marriage--Songs and music--Texts</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>New York (State)</dcterms:spatial>
     <dcterms:spatial>New York (City)</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-New York (State)-New York-1860-1870.</edm:hasType>
-    <edm:hasType>Song sheets-New York (State)-New York-1860-1870.</edm:hasType>
+    <dcterms:medium>Broadsides-New York (State)-New York-1860-1870.</dcterms:medium>
+    <dcterms:medium>Song sheets-New York (State)-New York-1860-1870.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1219610/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1219610</edm:isShownAt>

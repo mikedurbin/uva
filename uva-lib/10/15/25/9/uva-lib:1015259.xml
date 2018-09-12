@@ -16,13 +16,13 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[95] p. : 92 ill. (woodcuts) ; 20 cm. (4to)</dcterms:extent>
     <dcterms:publisher>Sub Scuto Coloniensi</dcterms:publisher>
+    <dcterms:subject>Illustrations</dcterms:subject>
     <dcterms:subject>Wood-engraving, German</dcterms:subject>
-    <dcterms:subject>Wood-engraving</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Wood-engraving--16th century--Germany</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
-    <dcterms:temporal>16th century</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1015259/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1015259</edm:isShownAt>

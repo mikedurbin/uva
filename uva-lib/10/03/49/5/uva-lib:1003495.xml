@@ -14,10 +14,12 @@
     <dcterms:created>1910</dcterms:created>
     <dcterms:extent>1 map : col. ; 46 x 38 cm. on sheet 54 x 44 cm.</dcterms:extent>
     <dcterms:publisher>The Norris Peters Co.</dcterms:publisher>
-    <dcterms:subject>Coalfields</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Coalfields--Virginia, Southwest--Maps</dcterms:subject>
+    <dcterms:subject>Virginia, Southwest--Surveys--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003495/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003495</edm:isShownAt>

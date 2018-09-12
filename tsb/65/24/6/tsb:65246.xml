@@ -19,8 +19,8 @@
     <dcterms:subject>Propaganda</dcterms:subject>
     <dcterms:subject>Public opinion</dcterms:subject>
     <dcterms:subject>Advertising</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>ger</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65246/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65246</edm:isShownAt>

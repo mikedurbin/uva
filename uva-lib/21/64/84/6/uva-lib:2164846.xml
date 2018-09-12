@@ -11,19 +11,16 @@
     <dcterms:identifier>uva-lib:2164846</dcterms:identifier>
     <dcterms:title>First Lady of Armenia visits UVa</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>McFadden, Tracy</dcterms:creator>
     <dcterms:created>1994-08-10</dcterms:created>
     <dcterms:description>First Lady of Armenia Ludmilla Ter-Petrossian, with University President John T. Casteen III, visits the University to thank volunteers and staff of the Kluge Children's Rehabilitation Center for the care they provided to four children injured in the 1988 Armenian earthquake.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:subject>Press coverage</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:subject>University of Virginia. News Office</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2164846/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2164846</edm:isShownAt>

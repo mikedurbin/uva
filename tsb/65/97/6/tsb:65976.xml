@@ -11,14 +11,15 @@
     <dcterms:identifier>tsb:65976</dcterms:identifier>
     <dcterms:title>Reports of divers resolutions in law, arising upon cases in the Court of Wards, and other courts at Westminster, in the reigns of the late kings, King James and King Charles. [1608-1629]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Marlborough, James Ley, Earl of, 1550-1629</dcterms:creator>
     <dcterms:created>1659</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 p. l., 83, [7], 27 p. 30 cm.</dcterms:extent>
     <dcterms:publisher>Printed by Tho. Roycroft for H. Twyford, Tho. Dring, and Jo. Place</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:subject>Land tenure</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+    <dcterms:subject>Land tenure--Law and legislation--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65976/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65976</edm:isShownAt>

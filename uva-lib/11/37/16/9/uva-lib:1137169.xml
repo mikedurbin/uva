@@ -12,13 +12,17 @@
     <dcterms:title>This afternoon at four</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Jakobowski, Edward, 1858-1927</dcterms:creator>
+    <dcterms:creator>Paulton, Harry, 1842-1917</dcterms:creator>
+    <dcterms:creator>Bellamy, Claxson</dcterms:creator>
+    <dcterms:creator>Jansen, Marie, 1857-1914</dcterms:creator>
+    <dcterms:creator>Freeman, Max</dcterms:creator>
     <dcterms:created>1888</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 vocal score (7 p.).</dcterms:extent>
     <dcterms:publisher>Richard A. Saalfield</dcterms:publisher>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1137169/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1137169</edm:isShownAt>

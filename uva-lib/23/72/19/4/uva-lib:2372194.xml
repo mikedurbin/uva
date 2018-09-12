@@ -15,7 +15,9 @@
     <dcterms:created>1929/1935</dcterms:created>
     <dcterms:description>Exterior, house. Building Date: 19th Century. Buckingham County, Virginia.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
-    <dcterms:subject>Historic buildings</dcterms:subject>
+    <dcterms:subject>Johnston, Frances Benjamin, 1864-1952</dcterms:subject>
+    <dcterms:subject>Jefferson, Thomas, 1743-1826</dcterms:subject>
+    <dcterms:subject>Historic buildings--Virginia</dcterms:subject>
     <dcterms:subject>Public buildings</dcterms:subject>
     <dcterms:subject>Taverns</dcterms:subject>
     <dcterms:subject>Courthouses</dcterms:subject>
@@ -25,15 +27,13 @@
     <dcterms:subject>Clapboard siding</dcterms:subject>
     <dcterms:subject>Porches</dcterms:subject>
     <dcterms:subject>Facades</dcterms:subject>
-    <dcterms:subject>Johnston, Frances Benjamin, 1864-1952</dcterms:subject>
-    <dcterms:subject>Jefferson, Thomas, 1743-1826</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Buckingham</dcterms:spatial>
     <dcterms:isPartOf>Frances Benjamin Johnston Photographs</dcterms:isPartOf>
-    <edm:hasType>Architectural photographs</edm:hasType>
-    <edm:hasType>gelatin silver prints</edm:hasType>
+    <dcterms:medium>Architectural photographs</dcterms:medium>
+    <dcterms:medium>gelatin silver prints</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2372194/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2372194</edm:isShownAt>

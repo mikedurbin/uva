@@ -17,16 +17,16 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Nottoway County (Va.)</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Wrigglesworth, W. R.</dcterms:subject>
-    <dcterms:subject>Domestic interiors</dcterms:subject>
-    <dcterms:subject>Servants</dcterms:subject>
-    <dcterms:subject>Men</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Nottoway County (Va.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Virginia--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Wrigglesworth, W. R.--People by name</dcterms:subject>
+    <dcterms:subject>Domestic interiors--Rooms and spaces</dcterms:subject>
+    <dcterms:subject>Servants--People by occupation</dcterms:subject>
+    <dcterms:subject>Men--People by gender</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:331021/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:331021</edm:isShownAt>

@@ -11,15 +11,16 @@
     <dcterms:identifier>tsb:65169</dcterms:identifier>
     <dcterms:title>Note di samisen; variazioni su motivi giapponesi.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Chini, Mario, 1876-</dcterms:creator>
     <dcterms:created>1915</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxix, 191 p. 18 cm.</dcterms:extent>
     <dcterms:publisher>Carabba</dcterms:publisher>
-    <dcterms:subject>Italian poetry</dcterms:subject>
-    <dcterms:subject>Japanese poetry</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Italian poetry--Translations from Japanese</dcterms:subject>
+    <dcterms:subject>Japanese poetry--Translations into Italian</dcterms:subject>
     <dcterms:language>ita</dcterms:language>
     <dcterms:language>jpn</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65169/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65169</edm:isShownAt>

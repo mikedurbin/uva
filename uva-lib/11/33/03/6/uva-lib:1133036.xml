@@ -16,12 +16,10 @@
     <dcterms:extent>17 p. of music.</dcterms:extent>
     <dcterms:publisher>T.A. Bacher</dcterms:publisher>
     <dcterms:subject>Potpourris (Piano)</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:subject>Sedan Campaign, 1870</dcterms:subject>
-    <dcterms:subject>Franco-Prussian War, 1870-1871</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:subject>Sedan Campaign, 1870--Songs and music</dcterms:subject>
+    <dcterms:subject>Franco-Prussian War, 1870-1871--Songs and music</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1133036/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1133036</edm:isShownAt>

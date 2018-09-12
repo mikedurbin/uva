@@ -17,13 +17,16 @@
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : hand col. ; 122 x 192 cm.</dcterms:extent>
     <dcterms:publisher>Published June 1st, 1803, by A. Arrowsmith, No. 24 Rathbone Place</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
     <dcterms:subject>Mellon, Paul</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>West Indies--Maps</dcterms:subject>
+    <dcterms:subject>Central America--Maps</dcterms:subject>
+    <dcterms:subject>Florida--Maps</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1563449/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1563449</edm:isShownAt>

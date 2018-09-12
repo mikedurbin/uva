@@ -14,11 +14,12 @@
     <dcterms:created>1913</dcterms:created>
     <dcterms:extent>1 map : blueprint ; 20 x 41 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Jetties</dcterms:subject>
-    <dcterms:subject>Navigation</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Jetties--Virginia--James River--Maps</dcterms:subject>
+    <dcterms:subject>James River (Va.)--Navigation--Maps</dcterms:subject>
+    <dcterms:subject>James River (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:705756/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:705756</edm:isShownAt>

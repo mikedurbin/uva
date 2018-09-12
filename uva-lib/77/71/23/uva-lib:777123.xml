@@ -11,18 +11,17 @@
     <dcterms:identifier>uva-lib:777123</dcterms:identifier>
     <dcterms:title>Officium Beatae Mariae Virginis : nuper reformatu[m] et Pii. V. Pont. Max iussu editum. ; Cui accessit Kale[n]d Gregor. perpetuu[m]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Catholic Church</dcterms:creator>
     <dcterms:created>1597</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[20], 232, 78, [2], 16, 40, [16] p. : ill. ; 20 cm.</dcterms:extent>
     <dcterms:publisher>Apud Sebastianum Niuellium, Michaëlem Sonnium, Guilelmum Chaudiere, Gulielmum de la Nouë, Claudium Chapelet, via Iacobaea. Ioannem Gorbon, sub signo Cordis boni, in monte D. Hilarij. Et Ioann. Mettayer &amp; P. L'huillier, Typographos &amp; Bibliopolas Regios</dcterms:publisher>
-    <dcterms:subject>Liturgy</dcterms:subject>
-    <dcterms:subject>Mary/</dcterms:subject>
-    <dcterms:subject>Catholic Church</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Mary, Blessed Virgin, Saint</dcterms:subject>
+    <dcterms:subject>Prayers and devotions</dcterms:subject>
+    <dcterms:subject>Liturgy--Texts</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>lat</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:777123/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:777123</edm:isShownAt>

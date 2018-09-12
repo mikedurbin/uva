@@ -11,16 +11,15 @@
     <dcterms:identifier>uva-lib:2569205</dcterms:identifier>
     <dcterms:title>X-ray tube</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Victor X-ray Corporation</dcterms:creator>
     <dcterms:created>1917</dcterms:created>
     <dcterms:description>Medium, Victor Coolidge X-ray Tube 67127, on stand.</dcterms:description>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>16 x 54 x 16 cm</dcterms:extent>
-    <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medical instruments or apparatus--X-rays--Equipment and supplies</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2569205/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2569205</edm:isShownAt>

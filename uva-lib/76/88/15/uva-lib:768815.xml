@@ -14,11 +14,12 @@
     <dcterms:created>1908</dcterms:created>
     <dcterms:extent>1 map : col. ; 112 x 75 cm.</dcterms:extent>
     <dcterms:publisher>U.S. Post Office Dept.</dcterms:publisher>
-    <dcterms:subject>Postal service</dcterms:subject>
-    <dcterms:subject>Post roads</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Postal service--Alabama--Maps</dcterms:subject>
+    <dcterms:subject>Post roads--Alabama--Maps</dcterms:subject>
+    <dcterms:subject>Alabama--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:768815/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:768815</edm:isShownAt>

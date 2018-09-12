@@ -16,9 +16,9 @@
     <dcterms:extent>v. : ill. ; 15-24 cm.</dcterms:extent>
     <dcterms:publisher>G. Banta Co. [etc.]</dcterms:publisher>
     <dcterms:subject>Greek letter societies</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>directory</edm:hasType>
+    <dcterms:medium>directory</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65310/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65310</edm:isShownAt>

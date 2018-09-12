@@ -18,9 +18,9 @@
     <dcterms:medium>cloth</dcterms:medium>
     <dcterms:extent>0.5 x 47.5 x 8 cm</dcterms:extent>
     <dcterms:subject>Medals</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medals</edm:hasType>
+    <dcterms:medium>medals</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2543689/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2543689</edm:isShownAt>

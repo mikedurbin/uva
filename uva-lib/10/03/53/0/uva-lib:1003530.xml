@@ -14,17 +14,19 @@
     <dcterms:created>1886</dcterms:created>
     <dcterms:extent>1 map ; 40 x 107 cm. on sheet 43 x 116 cm.</dcterms:extent>
     <dcterms:publisher>Norfolk &amp; Western Railroad Company</dcterms:publisher>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Landowners</dcterms:subject>
-    <dcterms:subject>Landowners</dcterms:subject>
-    <dcterms:subject>Norfolk and Western Railroad Company</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>Railroads--Virginia--Pulaski County--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--Virginia--Wythe County--Maps</dcterms:subject>
+    <dcterms:subject>Landowners--Virginia--Pulaski County--Maps</dcterms:subject>
+    <dcterms:subject>Landowners--Virginia--Wythe County--Maps</dcterms:subject>
+    <dcterms:subject>Pulaski County (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Wythe County (Va.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Roanoke</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003530/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003530</edm:isShownAt>

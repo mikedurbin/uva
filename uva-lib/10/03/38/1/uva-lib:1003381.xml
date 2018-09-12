@@ -12,17 +12,20 @@
     <dcterms:title>The Buena Vista property, Rockbridge County, Virginia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hurlbul, W. J.</dcterms:creator>
+    <dcterms:creator>Ruffner, William Henry, 1824-1908</dcterms:creator>
+    <dcterms:creator>Ruffner, William Henry, 1824-1908</dcterms:creator>
     <dcterms:created>1889</dcterms:created>
     <dcterms:extent>1 map : col. ; 77 x 69 cm. on sheet 82 x 74 cm.</dcterms:extent>
     <dcterms:publisher>Buena Vista Company</dcterms:publisher>
-    <dcterms:subject>Mines and mineral resources</dcterms:subject>
-    <dcterms:subject>Buena Vista Company (Lexington, Va.)</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>Mines and mineral resources--Virginia--Rockbridge County--Maps</dcterms:subject>
+    <dcterms:subject>Rockbridge County (Va.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Lexington</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003381/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003381</edm:isShownAt>

@@ -11,17 +11,19 @@
     <dcterms:identifier>uva-lib:1219395</dcterms:identifier>
     <dcterms:title>In Congress, July 4th, 1776 : The Unanimous Declaration of the thirteen United States of America.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>United States</dcterms:creator>
+    <dcterms:creator>Tyler, Benjamin Owen, 1789-</dcterms:creator>
+    <dcterms:creator>Maverick, Peter, 1780-1831</dcterms:creator>
+    <dcterms:creator>Trumbull, John, 1756-1843</dcterms:creator>
     <dcterms:created>1860</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : ill. ; 106 x 70 cm. (printed area)</dcterms:extent>
     <dcterms:publisher>Published by Horace Thayer</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>New York (State)</dcterms:spatial>
     <dcterms:spatial>New York</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-New York (State)-New York-1860.</edm:hasType>
+    <dcterms:medium>Broadsides-New York (State)-New York-1860.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1219395/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1219395</edm:isShownAt>

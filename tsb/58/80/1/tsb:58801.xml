@@ -12,19 +12,20 @@
     <dcterms:title>President Lincoln's grand march : respectfully dedicated to the Union Army</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Helmsmüller, F. B.</dcterms:creator>
+    <dcterms:creator>Clayton, Charles O.</dcterms:creator>
     <dcterms:created>1862</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>6 p. of music : col. ill. ; 33 cm.</dcterms:extent>
     <dcterms:publisher>Horace Waters</dcterms:publisher>
+    <dcterms:subject>Lincoln, Abraham, 1809-1865</dcterms:subject>
+    <dcterms:subject>Lincoln, Abraham, 1809-1865</dcterms:subject>
+    <dcterms:subject>Portraits</dcterms:subject>
+    <dcterms:subject>Songs and music</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Patriotic music</dcterms:subject>
+    <dcterms:subject>Patriotic music--United States</dcterms:subject>
     <dcterms:subject>Marches (Piano)</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Lincoln, Abraham/</dcterms:subject>
-    <dcterms:subject>Lincoln, Abraham</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Songs and music</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58801/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58801</edm:isShownAt>

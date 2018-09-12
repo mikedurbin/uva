@@ -11,17 +11,20 @@
     <dcterms:identifier>tsb:18817</dcterms:identifier>
     <dcterms:title>Official map of Washington : Fifteenth International Christian Endeavor Convention, July 8-13, 1896</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Taylor, Anson S.</dcterms:creator>
+    <dcterms:creator>Robison, Wm. B. (William B.)</dcterms:creator>
     <dcterms:created>1896</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : col. ; 46 x 58 cm.</dcterms:extent>
     <dcterms:publisher>The Norris Peters Co. Photolitho.</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Washington (D.C.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>District of Columbia</dcterms:spatial>
     <dcterms:spatial>Washington</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18817/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18817</edm:isShownAt>

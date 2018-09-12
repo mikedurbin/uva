@@ -16,14 +16,14 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vii, 202 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>Macmillan</dcterms:publisher>
-    <dcterms:subject>Trusts, Industrial</dcterms:subject>
-    <dcterms:subject>Labor</dcterms:subject>
-    <dcterms:subject>Working class</dcterms:subject>
-    <dcterms:subject>Labor movement</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Social conditions</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Trusts, Industrial--United States</dcterms:subject>
+    <dcterms:subject>Labor--United States</dcterms:subject>
+    <dcterms:subject>Working class--United States</dcterms:subject>
+    <dcterms:subject>Labor movement--United States</dcterms:subject>
+    <dcterms:subject>United States--Politics and government</dcterms:subject>
+    <dcterms:subject>United States--Social conditions</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65377/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65377</edm:isShownAt>

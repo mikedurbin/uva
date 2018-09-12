@@ -12,26 +12,21 @@
     <dcterms:title>James A. Harrison</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator valueURI="http://id.loc.gov/authorities/names/no94027701">Holsinger, Rufus W., 1866-1930</dcterms:creator>
-    <dcterms:creator>Holsinger's Studio (Charlottesville, Va.)</dcterms:creator>
     <dcterms:created>1911</dcterms:created>
     <dcterms:description>Sepia-toned photograph;  See the Baltimore Sun (31 Jan. 1911) for obituary.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
+    <dcterms:subject>Holsinger, Rufus W., 1866-1930</dcterms:subject>
     <dcterms:subject>Faculty</dcterms:subject>
     <dcterms:subject>Students</dcterms:subject>
     <dcterms:subject>Portraits</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:subject>Holsinger's Studio (Charlottesville, Va.)</dcterms:subject>
-    <dcterms:subject>Holsinger, Rufus W., 1866-1930</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2163154/iiif/manifest.json</dcterms:isReferencedBy>
-    <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2163154</edm:isShownAt>
     <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:2163154/full/!300,300/0/default.jpg</edm:preview>
 </mdRecord>

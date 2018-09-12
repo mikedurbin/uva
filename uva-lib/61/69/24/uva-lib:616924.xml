@@ -11,17 +11,16 @@
     <dcterms:identifier>uva-lib:616924</dcterms:identifier>
     <dcterms:title>E. Watts, book-binder, Charlottesville, Virginia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Watts, E. (Ebenezer), 1790-1862</dcterms:creator>
     <dcterms:created>1827</dcterms:created>
     <dcterms:description>E. Watts binder's label, with the earliest known printed view of the Rotunda of the University of Virginia. The image (60 mm. x 60 mm.) is enclosed in a border of type ornaments; text appears below the image, and is enclosed within a border of differently patterned type ornaments.</dcterms:description>
     <dcterms:extent>1 print ; 13 x 8 cm.</dcterms:extent>
     <dcterms:publisher>E. Watts</dcterms:publisher>
     <dcterms:subject>Buildings</dcterms:subject>
-    <dcterms:subject>Bookbinders</dcterms:subject>
-    <dcterms:subject>University of Virginia Rotunda (Charlottesville, Va.)/</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Bookbinders--Virginia--Charlottesville</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>picture</edm:hasType>
+    <dcterms:medium>picture</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616924/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616924</edm:isShownAt>

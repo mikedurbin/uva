@@ -16,10 +16,9 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. ; 19 cm.</dcterms:extent>
     <dcterms:publisher>Ticknor and Fields</dcterms:publisher>
-    <dcterms:subject>English poetry</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>English poetry--19th century</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>19th century</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64125/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64125</edm:isShownAt>

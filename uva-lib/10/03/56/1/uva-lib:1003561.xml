@@ -12,14 +12,20 @@
     <dcterms:title>A new map of Ireland : divided into its provinces, counties and baronies, wherein are distinguished the bishopricks, borroughs, barracks, bogs, passes, bridges &amp;c. with the principal roads, and the common reputed miles. According to the newest and most exact observations</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+    <dcterms:creator>Bowles, John, 1701-1779</dcterms:creator>
+    <dcterms:creator>Bowles, Thomas, -1767</dcterms:creator>
+    <dcterms:creator>Overton, Philip, -1751</dcterms:creator>
+    <dcterms:creator>King, John.</dcterms:creator>
+    <dcterms:creator>Pratt, Henry.</dcterms:creator>
     <dcterms:created>1730</dcterms:created>
     <dcterms:extent>1 map : col. ; 101 x 62 cm. on sheet 107 x 64 cm.</dcterms:extent>
     <dcterms:publisher>Printed for H. Moll over against Devereux Court in ye Strand, I Bowles at the Black Horse in Cornhill, P. Overton Map &amp; Printseller near St. Dunstans Church Fleetstreet, and T. Bowles Print &amp; Mapseller next to the Chapter House in St. Pauls Church Yard, And by I. King Map and Printseller at the Globe in the Poultry</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Ireland--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003561/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003561</edm:isShownAt>

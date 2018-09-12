@@ -16,10 +16,13 @@
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : col. ; 63 x 81 cm. on sheet 68 x 87 cm., folded in cover 19 x 11 cm.</dcterms:extent>
     <dcterms:publisher>Roanoke Automobile Association</dcterms:publisher>
-    <dcterms:subject>Roads</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Roads--Southern States--Maps</dcterms:subject>
+    <dcterms:subject>Southern States--Maps, Tourist</dcterms:subject>
+    <dcterms:subject>Roanoke (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003415/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003415</edm:isShownAt>

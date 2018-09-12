@@ -12,14 +12,15 @@
     <dcterms:title>Autobiography of Anton Rubinstein, 1829-1889</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Rubinstein, Anton, 1829-1894</dcterms:creator>
+    <dcterms:creator>Delano, Aline, 1845-</dcterms:creator>
     <dcterms:created>1890</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xii. 171 p. front. (port.) 18 cm.</dcterms:extent>
     <dcterms:publisher>Little, Brown, and company</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>rus</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64500/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64500</edm:isShownAt>

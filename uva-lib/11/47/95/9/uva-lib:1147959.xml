@@ -12,16 +12,17 @@
     <dcterms:title>Oh! strew these graves with flowers</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Gould, J. E. (John Edgar), approximately 1820-1875</dcterms:creator>
+    <dcterms:creator>Vinton, J. D.</dcterms:creator>
+    <dcterms:creator>Oakes, William H., -1890</dcterms:creator>
     <dcterms:created>1869</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.).</dcterms:extent>
     <dcterms:publisher>Oliver Ditson &amp; Co.</dcterms:publisher>
     <dcterms:subject>Vocal quartets with piano</dcterms:subject>
     <dcterms:subject>Death songs</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1147959/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1147959</edm:isShownAt>

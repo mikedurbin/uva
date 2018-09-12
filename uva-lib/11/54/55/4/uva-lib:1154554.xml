@@ -12,14 +12,15 @@
     <dcterms:title>Guillaume Tell : op. 39, no. 11</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Dorn, Edouard, 1838-1923</dcterms:creator>
+    <dcterms:creator>Schumann, Robert, 1810-1856</dcterms:creator>
     <dcterms:created>18uu</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>p. 94-102 of music.</dcterms:extent>
     <dcterms:publisher>J.M. Stoddart and Co.</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Operas--Excerpts, Arranged</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1154554/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1154554</edm:isShownAt>

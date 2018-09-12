@@ -17,10 +17,10 @@
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:extent>1 x 13.5 x 2.6 cm</dcterms:extent>
-    <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medical instruments or apparatus--Eyeglasses</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>eyeglasses</edm:hasType>
+    <dcterms:medium>eyeglasses</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2838170/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2838170</edm:isShownAt>

@@ -12,12 +12,13 @@
     <dcterms:title>The talisman : (condensed)</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Scott, Walter, 1771-1832</dcterms:creator>
+    <dcterms:creator>Gilliat, Edward, 1841-1915</dcterms:creator>
     <dcterms:created>1910/1919</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>96 p. : port. ; 17 cm.</dcterms:extent>
     <dcterms:publisher>C. E. Merrill Co.</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:62525/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:62525</edm:isShownAt>

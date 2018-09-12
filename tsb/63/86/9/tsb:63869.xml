@@ -12,16 +12,17 @@
     <dcterms:title>A history of currency in the United States</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hepburn, A. Barton (Alonzo Barton), 1846-1922</dcterms:creator>
+    <dcterms:creator>Hepburn, Emily Eaton.</dcterms:creator>
     <dcterms:created>1915</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxiv, 552 p. 23 cm.</dcterms:extent>
     <dcterms:publisher>The Macmillan co.</dcterms:publisher>
-    <dcterms:subject>Money</dcterms:subject>
-    <dcterms:subject>Coinage</dcterms:subject>
-    <dcterms:subject>Currency question</dcterms:subject>
+    <dcterms:subject>Money--United States--History</dcterms:subject>
+    <dcterms:subject>Coinage--United States--History</dcterms:subject>
+    <dcterms:subject>Currency question--United States</dcterms:subject>
     <dcterms:subject>Federal Reserve banks</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63869/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63869</edm:isShownAt>

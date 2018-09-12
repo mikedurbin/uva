@@ -11,15 +11,14 @@
     <dcterms:identifier>uva-lib:2440486</dcterms:identifier>
     <dcterms:title>Seabury's plaster</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Seabury &amp; Johnson</dcterms:creator>
     <dcterms:created>1870/1920</dcterms:created>
     <dcterms:description>Contained in red and green metal container; Seabury's rubber adhesive plaster, prepared at the Seabury pharmacal laboratories; directions for use.</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440486/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440486</edm:isShownAt>

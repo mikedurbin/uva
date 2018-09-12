@@ -15,12 +15,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[36] leaves ; 18 x 9 cm.</dcterms:extent>
     <dcterms:publisher>Ex officina libraria Joland e Bonho[m]me vidue spectabilis viri Thielmanni Keruer</dcterms:publisher>
-    <dcterms:subject>Latin</dcterms:subject>
-    <dcterms:subject>Catholic Church</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Prayers and devotions--Latin</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>lat</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:773537/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:773537</edm:isShownAt>

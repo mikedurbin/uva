@@ -13,11 +13,14 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:created>1922</dcterms:created>
     <dcterms:extent>Chicago : Rand McNally and Company, [1922], c1921.</dcterms:extent>
-    <dcterms:subject>Roads</dcterms:subject>
-    <dcterms:subject>Roads</dcterms:subject>
-    <dcterms:subject>Roads</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Roads--Southern States--Maps</dcterms:subject>
+    <dcterms:subject>Roads--Middle Atlantic States--Maps</dcterms:subject>
+    <dcterms:subject>Roads--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Southern States--Maps, Tourist</dcterms:subject>
+    <dcterms:subject>Southern States--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003377/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003377</edm:isShownAt>

@@ -12,14 +12,15 @@
     <dcterms:title>Aspects of child life and education</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hall, G. Stanley (Granville Stanley), 1844-1924</dcterms:creator>
+    <dcterms:creator>Smith, Theodate Louise, 1860-1914</dcterms:creator>
     <dcterms:created>1907</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>ix, 326 p. 22 cm.</dcterms:extent>
     <dcterms:publisher>Ginn</dcterms:publisher>
     <dcterms:subject>Child psychology</dcterms:subject>
     <dcterms:subject>Educational psychology</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64036/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64036</edm:isShownAt>

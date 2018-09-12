@@ -12,14 +12,18 @@
     <dcterms:title>Lost for ever = (Aÿ chiquita) : Spanish melody</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Yradier, Sebastián, 1809-1865</dcterms:creator>
+    <dcterms:creator>R., F. R.</dcterms:creator>
+    <dcterms:creator>Oakes, William H., -1890</dcterms:creator>
+    <dcterms:creator>Stackpole, Patrick M.</dcterms:creator>
+    <dcterms:creator>Parepa-Rosa, Euphrosyne, 1836-1874</dcterms:creator>
     <dcterms:created>1866</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.).</dcterms:extent>
     <dcterms:publisher>Beer &amp; Schirmer</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>spa</dcterms:language>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1135951/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1135951</edm:isShownAt>

@@ -12,15 +12,16 @@
     <dcterms:title>Shall we gather at the river? : with variations : melody from Happy voices</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wood, M. B.</dcterms:creator>
+    <dcterms:creator>Lowry, Robert, 1826-1899</dcterms:creator>
     <dcterms:created>1892</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>9 p. of music.</dcterms:extent>
     <dcterms:publisher>Walter D. Moses &amp; Co.</dcterms:publisher>
     <dcterms:subject>Variations (Piano)</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Sacred songs</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Sacred songs--Instrumental settings</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1149428/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1149428</edm:isShownAt>

@@ -14,13 +14,14 @@
     <dcterms:created>1917</dcterms:created>
     <dcterms:extent>1 map : col. ; 28 x 45 cm. folded into paper covers 16 x 9 cm.</dcterms:extent>
     <dcterms:publisher>Childrey Company</dcterms:publisher>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>World War, 1914-1918--Virginia</dcterms:subject>
+    <dcterms:subject>Petersburg (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Camp Lee (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Camp Lee (Va.)--History</dcterms:subject>
+    <dcterms:subject>Petersburg (Va.)--History--Siege, 1864-1865--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>Siege, 1864-1865</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1196858/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1196858</edm:isShownAt>

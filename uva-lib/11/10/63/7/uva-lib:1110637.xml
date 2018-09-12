@@ -11,14 +11,16 @@
     <dcterms:identifier>uva-lib:1110637</dcterms:identifier>
     <dcterms:title>Maîstre Pierre Pathelin restitue a son naturel. ; Le grant blason de faulses amours. ; Le loyer de folles amours</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Alexis, Guillaume, -1486?</dcterms:creator>
+    <dcterms:creator>Crétin, Guillaume, approximately 1450-1525</dcterms:creator>
     <dcterms:created>1532</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[248] p. ; 13 cm. (16mo)</dcterms:extent>
     <dcterms:publisher>Pour Galiot de Pre libraire</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1110637/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1110637</edm:isShownAt>

@@ -16,12 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>ix, [1] p., 1 l., 497, [1] p. 22 cm.</dcterms:extent>
     <dcterms:publisher>Harper &amp; Brothers</dcterms:publisher>
-    <dcterms:subject>Authors, American</dcterms:subject>
-    <dcterms:subject>Harland, Marion</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Harland, Marion, 1830-1922</dcterms:subject>
+    <dcterms:subject>Authors, American--19th century--Biography</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
-    <dcterms:temporal>19th century</dcterms:temporal>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64536/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64536</edm:isShownAt>

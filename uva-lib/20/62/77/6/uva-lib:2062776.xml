@@ -16,13 +16,14 @@
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : black line ; 31 x 47 cm, on sheet 35 x 53 cm, folded to 12 x 9 cm, in cover 17 x 11 cm. + 1 guide (17, [3] p. ; 17 cm.).</dcterms:extent>
     <dcterms:publisher>Rand McNally &amp; Company</dcterms:publisher>
-    <dcterms:subject>Hotels</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Distances</dcterms:subject>
-    <dcterms:subject>Industries</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Hotels--Florida--Directories</dcterms:subject>
+    <dcterms:subject>Railroads--Florida--Maps</dcterms:subject>
+    <dcterms:subject>Florida--Maps</dcterms:subject>
+    <dcterms:subject>Florida--Distances--Maps</dcterms:subject>
+    <dcterms:subject>Florida--Industries</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2062776/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2062776</edm:isShownAt>

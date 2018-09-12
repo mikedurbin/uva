@@ -15,11 +15,12 @@
     <dcterms:created>1880</dcterms:created>
     <dcterms:extent>1 map : col. ; 57 x 77 cm. on sheet 62 x 82 cm.</dcterms:extent>
     <dcterms:publisher>Powhatan County Court</dcterms:publisher>
-    <dcterms:subject>Judicial districts</dcterms:subject>
-    <dcterms:subject>Landowners</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Judicial districts--Virginia--Powhatan County--Maps</dcterms:subject>
+    <dcterms:subject>Landowners--Virginia--Powhatan County--Maps</dcterms:subject>
+    <dcterms:subject>Powhatan County (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003514/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003514</edm:isShownAt>

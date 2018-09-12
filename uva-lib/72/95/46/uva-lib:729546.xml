@@ -12,14 +12,18 @@
     <dcterms:title>Carte d'Amérique</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>L'Isle, Guillaume de, 1675-1726</dcterms:creator>
+    <dcterms:creator>Buache, Philippe, 1700-1773</dcterms:creator>
     <dcterms:created>1763</dcterms:created>
     <dcterms:extent>1 map : col.; 49 x 62 cm.</dcterms:extent>
     <dcterms:publisher>Chez l'auteur sur le Quay de l'Horloge avec privilége</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Western Hemisphere--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>South America--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:729546/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:729546</edm:isShownAt>

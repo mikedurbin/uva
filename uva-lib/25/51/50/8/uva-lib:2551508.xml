@@ -15,10 +15,10 @@
     <dcterms:description>The bottle has been flattened and damaged by heat. It has writing embossed on the bottom, but is difficult to decipher. It comes from the trash dump of the 8th Evacuation Hospital site near Pietramala.</dcterms:description>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:extent>2 x 6.8 x 4 cm</dcterms:extent>
-    <dcterms:subject>Penicillin</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Penicillin--Medicine bottles</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2551508/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2551508</edm:isShownAt>

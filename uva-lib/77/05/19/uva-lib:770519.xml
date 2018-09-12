@@ -15,15 +15,14 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 35 x 20 cm.</dcterms:extent>
     <dcterms:publisher>Methodist Episcopal Church</dcterms:publisher>
+    <dcterms:subject>Stowe, Harriet Beecher, 1811-1896</dcterms:subject>
+    <dcterms:subject>Stowe, Harriet Beecher, 1811-1896</dcterms:subject>
     <dcterms:subject>Stage history</dcterms:subject>
-    <dcterms:subject>Church fund raising</dcterms:subject>
-    <dcterms:subject>Stowe, Harriet Beecher/</dcterms:subject>
-    <dcterms:subject>Stowe, Harriet Beecher/</dcterms:subject>
-    <dcterms:subject>Methodist Episcopal Church (Hudson, N.H.)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Church fund raising--New Hampshire--Hudson</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-New Hampshire-Hudson-1879.</edm:hasType>
-    <edm:hasType>Playbills-New Hampshire-Hudson-1879.</edm:hasType>
+    <dcterms:medium>Broadsides-New Hampshire-Hudson-1879.</dcterms:medium>
+    <dcterms:medium>Playbills-New Hampshire-Hudson-1879.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:770519/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770519</edm:isShownAt>

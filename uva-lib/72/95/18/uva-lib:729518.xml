@@ -12,16 +12,19 @@
     <dcterms:title>The United States of North America, with the British territories</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wyld, James, 1812-1887</dcterms:creator>
+    <dcterms:creator>Faden, William, 1749-1836</dcterms:creator>
     <dcterms:created>1838</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : hand col. ; 53 x 63 cm.</dcterms:extent>
     <dcterms:publisher>Published by Jas. Wyld (successor to Mr. Faden) Geographer to Her Majesty, Charing Cross East</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
     <dcterms:subject>Mellon, Paul</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>United States--Maps</dcterms:subject>
+    <dcterms:subject>Canada--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:729518/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:729518</edm:isShownAt>

@@ -11,13 +11,15 @@
     <dcterms:identifier>tsb:61464</dcterms:identifier>
     <dcterms:title>London as it is</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Cunningham, Peter, 1816-1869</dcterms:creator>
     <dcterms:created>1860/1869</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>lvi, 312 p. : illus., plans, maps (some fold.) ; 16 cm.</dcterms:extent>
     <dcterms:publisher>John Murray</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>London (England)--Guidebooks</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>handbook</edm:hasType>
+    <dcterms:medium>handbook</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61464/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61464</edm:isShownAt>

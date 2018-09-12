@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. fronts. (ports.) plan. 20 cm.</dcterms:extent>
     <dcterms:publisher>Harper &amp; brothers</dcterms:publisher>
-    <dcterms:subject>Guyon, Jeanne Marie Bouvier de La Motte/</dcterms:subject>
-    <dcterms:subject>Fénelon, François de Salignac de La Mothe-</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Guyon, Jeanne Marie Bouvier de La Motte, 1648-1717</dcterms:subject>
+    <dcterms:subject>Fénelon, François de Salignac de La Mothe-, 1651-1715</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65540/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65540</edm:isShownAt>

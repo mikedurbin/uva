@@ -11,7 +11,6 @@
     <dcterms:identifier>uva-lib:2569220</dcterms:identifier>
     <dcterms:title>Red goggles</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>James Picker Company</dcterms:creator>
     <dcterms:created>1940/1949</dcterms:created>
     <dcterms:description>The goggles have 2 small view holes in the lenses and 6 black disk-shaped air vents around the sides; the plastic is deteriorating and slightly sticky.
       The googles are marked Picker, Buzzards Bay, Mass. The James Picker Company was formed in 1915 and went through several name changes. Picker International, Inc. became Marconi medical Systems in 1999, 
@@ -23,9 +22,9 @@
     <dcterms:medium>wood (plant material)</dcterms:medium>
     <dcterms:extent>13 x 24 x 13.6 cm</dcterms:extent>
     <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2569220/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2569220</edm:isShownAt>

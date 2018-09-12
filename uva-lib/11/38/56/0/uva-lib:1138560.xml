@@ -12,15 +12,16 @@
     <dcterms:title>Houston Light Guard : march</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bujac, C. A., Mrs</dcterms:creator>
+    <dcterms:creator>Schmidt, F. W.</dcterms:creator>
+    <dcterms:creator>Grunewald, C.</dcterms:creator>
     <dcterms:created>1892</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 p. of music.</dcterms:extent>
     <dcterms:publisher>C. Grunewald</dcterms:publisher>
+    <dcterms:subject>Songs and music</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
     <dcterms:subject>Marches (Piano)</dcterms:subject>
-    <dcterms:subject>Houston Light Guards</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1138560/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1138560</edm:isShownAt>

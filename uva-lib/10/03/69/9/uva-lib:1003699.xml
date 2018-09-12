@@ -11,20 +11,23 @@
     <dcterms:identifier>uva-lib:1003699</dcterms:identifier>
     <dcterms:title>Index map for sheets : extract of Military map of n.e. Virginia showing forts and roads.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Barnard, J. G. (John Gross), 1815-1882</dcterms:creator>
     <dcterms:created>1865</dcterms:created>
     <dcterms:extent>1 map : b&amp;w ; 32 x 26 cm.</dcterms:extent>
     <dcterms:publisher>Govt. Print. Off.</dcterms:publisher>
-    <dcterms:subject>Fortification</dcterms:subject>
-    <dcterms:subject>Fortification</dcterms:subject>
-    <dcterms:subject>Roads</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Fortification--Washington (D.C.)--Maps</dcterms:subject>
+    <dcterms:subject>Fortification--Washington Metropolitan Area--Maps</dcterms:subject>
+    <dcterms:subject>Roads--Washington Metropolitan Area--Maps</dcterms:subject>
+    <dcterms:subject>Washington (D.C.)--Index maps</dcterms:subject>
+    <dcterms:subject>Washington Metropolitan Area--Index maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>District of Columbia</dcterms:spatial>
     <dcterms:spatial>Washington</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003699/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003699</edm:isShownAt>

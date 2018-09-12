@@ -12,17 +12,22 @@
     <dcterms:title>La mesnagerie de Xenophon ; Les regles de mariage, de Plutarque ; Lettre de consolation, de Plutarque à sa femme</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Xenophon.</dcterms:creator>
+    <dcterms:creator>La Boétie, Estienne de, 1530-1563</dcterms:creator>
+    <dcterms:creator>Montaigne, Michel de, 1533-1592</dcterms:creator>
+    <dcterms:creator>Plutarch.</dcterms:creator>
+    <dcterms:creator>Plutarch.</dcterms:creator>
+    <dcterms:creator>La Boétie, Estienne de, 1530-1563</dcterms:creator>
     <dcterms:created>1572</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>131, 19 leaves ; 17 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>De l'Imprimerie de Federic Morel, rue S. Ian de Beauuais, au Franc Meurier</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Viollet Le Duc, (Emmanuel-Louis-Nicolas)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Viollet Le Duc, (Emmanuel-Louis-Nicolas), M, 1781-1857</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
     <dcterms:language>gre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1017844/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1017844</edm:isShownAt>

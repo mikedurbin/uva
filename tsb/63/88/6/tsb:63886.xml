@@ -17,10 +17,11 @@
     <dcterms:extent>2 p l., [iii]-iv, 342 p. 29 cm.</dcterms:extent>
     <dcterms:publisher>Clarendon press</dcterms:publisher>
     <dcterms:subject>Aristophanes</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Concordances</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>grc</dcterms:language>
-    <edm:hasType>dictionary</edm:hasType>
+    <dcterms:medium>dictionary</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63886/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63886</edm:isShownAt>

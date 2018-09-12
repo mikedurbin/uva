@@ -15,12 +15,15 @@
     <dcterms:created>1661/1668</dcterms:created>
     <dcterms:extent>1 map : hand col. ; 43 x53 cm.</dcterms:extent>
     <dcterms:publisher>By Iohannes van Loon, Plaetsnyder en Zee caertmaecker</dcterms:publisher>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Nautical charts--Early works to 1800</dcterms:subject>
+    <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>New England--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Virginia--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>Netherlands</dcterms:spatial>
     <dcterms:spatial>Amsterdam</dcterms:spatial>
     <dcterms:language>dut</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616866/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616866</edm:isShownAt>

@@ -16,12 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>298 p. 21 cm.</dcterms:extent>
     <dcterms:publisher>Harcourt, Brace and Howe</dcterms:publisher>
-    <dcterms:subject>Economic history</dcterms:subject>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Economic history--1918-1945</dcterms:subject>
+    <dcterms:subject>World War, 1914-1918--Economic aspects</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Marginalia (Provenance)</edm:hasType>
-    <dcterms:temporal>1918-1945</dcterms:temporal>
+    <dcterms:medium>Marginalia (Provenance)</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61615/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61615</edm:isShownAt>

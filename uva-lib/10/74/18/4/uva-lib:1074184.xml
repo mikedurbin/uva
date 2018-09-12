@@ -16,15 +16,14 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[3], 54, [1], 55-107 leaves ; 21 cm. (4to)</dcterms:extent>
     <dcterms:publisher>Pour Vincent Sertenas ...</dcterms:publisher>
-    <dcterms:subject>Antiquities</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>France--Antiquities</dcterms:subject>
+    <dcterms:subject>Gaul--History</dcterms:subject>
+    <dcterms:subject>France--History--Francis I, 1515-1547</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <dcterms:temporal>Francis I, 1515-1547</dcterms:temporal>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1074184/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1074184</edm:isShownAt>

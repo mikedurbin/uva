@@ -17,12 +17,11 @@
     <dcterms:extent>[39] p. ; 14 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>par Jehan Loe</dcterms:publisher>
     <dcterms:subject>Translating and interpreting</dcterms:subject>
-    <dcterms:subject>French language</dcterms:subject>
-    <dcterms:subject>French language</dcterms:subject>
-    <dcterms:subject>French language</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>French language--Punctuation</dcterms:subject>
+    <dcterms:subject>French language--Middle French, 1300-1600</dcterms:subject>
+    <dcterms:subject>French language--Diacritics</dcterms:subject>
     <dcterms:language>frm</dcterms:language>
-    <dcterms:temporal>Middle French, 1300-1600</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730699/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730699</edm:isShownAt>

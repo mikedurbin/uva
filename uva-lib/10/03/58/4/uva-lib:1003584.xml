@@ -15,11 +15,14 @@
     <dcterms:created>1715</dcterms:created>
     <dcterms:extent>1 map ; 18 x 25 cm. on sheet 22 x 29 cm.</dcterms:extent>
     <dcterms:publisher>Printed by J.H. for J. Nicholson, A. Bell, R. Smith, and J. Round</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>British Isles--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Great Britain--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Ireland--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003584/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003584</edm:isShownAt>

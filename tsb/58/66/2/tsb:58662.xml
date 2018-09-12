@@ -11,7 +11,6 @@
     <dcterms:identifier>tsb:58662</dcterms:identifier>
     <dcterms:title>Home treatment for colds kit</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>American Druggists Syndicate, Inc.</dcterms:creator>
     <dcterms:created>1900/1950</dcterms:created>
     <dcterms:description>Front of the box reads "A.D.S., Home Treatment for colds, Price $1.00, 
       American Druggists Syndicate, Inc. New York, N.Y." Four objects are inside the box: one unopened can of Aseptum for oral hygiene, a palatable 
@@ -22,11 +21,11 @@
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:medium>cardboard</dcterms:medium>
     <dcterms:extent>9.3 x 10.2 x 06 cm</dcterms:extent>
-    <dcterms:subject>Medicine</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medicine--Drugs-Packaging</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
-    <edm:hasType>medicine bottles</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:medium>medicine bottles</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58662/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58662</edm:isShownAt>

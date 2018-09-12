@@ -12,16 +12,20 @@
     <dcterms:title>Carte generale de toutes les costes du monde : et les pays nouvellement decouvert</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Cóvens, Jean.</dcterms:creator>
+    <dcterms:creator>Mortier, Corneille.</dcterms:creator>
+    <dcterms:creator>Ruyter, Baltasar.</dcterms:creator>
     <dcterms:created>1765</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : hand col. ; 59 x 50 cm.</dcterms:extent>
     <dcterms:publisher>Chez Iean et Corneille Mortier Libraries</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>South America--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>Netherlands</dcterms:spatial>
     <dcterms:spatial>Amsterdam</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616842/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616842</edm:isShownAt>

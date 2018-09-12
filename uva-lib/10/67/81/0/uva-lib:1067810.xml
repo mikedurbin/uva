@@ -15,10 +15,12 @@
     <dcterms:created>1909</dcterms:created>
     <dcterms:extent>map. 38 x 55 cm. fold. to 19 x 12 cm.</dcterms:extent>
     <dcterms:publisher>Arundel Press</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Annapolis (Md.)--History</dcterms:subject>
+    <dcterms:subject>Annapolis (Md.)--Maps</dcterms:subject>
+    <dcterms:subject>Maryland--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1067810/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1067810</edm:isShownAt>

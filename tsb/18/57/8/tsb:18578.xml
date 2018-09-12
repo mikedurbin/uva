@@ -11,16 +11,15 @@
     <dcterms:identifier>tsb:18578</dcterms:identifier>
     <dcterms:title>The favorite Scotch melodies Auld lang syne ; &amp; The Highland laddie</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Wallace, William Vincent, 1812-1865</dcterms:creator>
     <dcterms:created>1848/1858</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 p. of  music ; 35 cm.</dcterms:extent>
     <dcterms:publisher>William Hall &amp; Son</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Songs</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Songs--Instrumental settings</dcterms:subject>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18578/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18578</edm:isShownAt>

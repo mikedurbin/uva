@@ -11,15 +11,14 @@
     <dcterms:identifier>uva-lib:2440607</dcterms:identifier>
     <dcterms:title>U.S. Army Medical Department cup and saucer</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Greenwood Pottery Company</dcterms:creator>
     <dcterms:created>1917</dcterms:created>
     <dcterms:description>The following text is printed on the cup with a caduceus: "U.S. Army Medical Department". The following text is stamped on the booton of the saucer: "1862 GREENWOOD CHINA TRENTON, N.J. 1876 REG U.S. PAT. OFF.".</dcterms:description>
     <dcterms:medium>porcelain (material)</dcterms:medium>
     <dcterms:subject>United States. Army Medical Department</dcterms:subject>
     <dcterms:subject>Drinking cups</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>cups (drinking vessels)</edm:hasType>
+    <dcterms:medium>cups (drinking vessels)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440607/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440607</edm:isShownAt>

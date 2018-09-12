@@ -11,16 +11,15 @@
     <dcterms:identifier>uva-lib:2440576</dcterms:identifier>
     <dcterms:title>Hypodermic syringe set</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Parke, Davis &amp; Company</dcterms:creator>
     <dcterms:created>1890</dcterms:created>
     <dcterms:description>Contained in metal case with retractable top, Pat'd Oct. 10 1899, Parke, Davis &amp; Co. Detroit &amp; New York; set includes: hypodermic syringe, [graded 5-15]; 2 syringe needles; 6 glass vials with paper labels, cork stoppers: 3 vials of hypodermatic tablets, No.136 -  Nitroglycerine, Digitalin and Strychnine; hypodermatic tablets Number 136 Nitroglycerine Digitalin and Strychnine; hypodermatic tablets, No. 2 - Apomorphine hydrochloride 1-10 grain; hypodermatic tablets, No. []6 - Morphine and atropine; hypodermic tablets, No. 3 - Atropine sulphate, 1-50 gr.</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:medium>glass</dcterms:medium>
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440576/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440576</edm:isShownAt>

@@ -11,15 +11,14 @@
     <dcterms:identifier>uva-lib:2440288</dcterms:identifier>
     <dcterms:title>Acetone test tablets</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Ames Company</dcterms:creator>
     <dcterms:created>1960</dcterms:created>
     <dcterms:description>Clear bottle with purple metal cap, filled with tablets. Label Information: Acetone Test Tablets, 100s; Acetest (brand) Reagent Tablets; Active ingredients: Sodium Nitroprusside, Aminoacetic Acid, Disodium Phosphate, Lactose; Ames Company, Inc., Elkhart, Indiana, U.S.A. Manufactured: 1960-07. Instructions on back of bottle and separate sheet included.</dcterms:description>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:subject>Medical laboratory technology</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440288/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440288</edm:isShownAt>

@@ -15,14 +15,13 @@
     <dcterms:description>Depiction of the Battle of the Thames, in which Tecumseh was killed: Col. Johnson, mounted, fights with an unmounted Indian; unmounted American and Indian engage in hand-to-hand combat; Indian attempts to scalp a soldier; Tecumseh trys to rally his men, while American infantrymen and cavalry pursue the Indians in the background.</dcterms:description>
     <dcterms:extent>1 print : hand colored ; image 16 x 34 cm. on sheet 20 x 37 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
+    <dcterms:subject>Tecumseh, Shawnee Chief, 1768-1813</dcterms:subject>
+    <dcterms:subject>Johnson, Richard M. (Richard Mentor), 1780-1850</dcterms:subject>
     <dcterms:subject>Thames, Battle of the, Ont., 1813</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Tecumseh/</dcterms:subject>
-    <dcterms:subject>Johnson, Richard M. (Richard Mentor)</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>United States--History--War of 1812--Campaigns</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>picture</edm:hasType>
-    <dcterms:temporal>War of 1812</dcterms:temporal>
+    <dcterms:medium>picture</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2151080/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2151080</edm:isShownAt>

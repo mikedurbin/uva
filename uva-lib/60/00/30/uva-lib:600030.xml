@@ -11,12 +11,15 @@
     <dcterms:identifier>uva-lib:600030</dcterms:identifier>
     <dcterms:title>Topography area surrounding city of Richmond</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Holland, W. C.</dcterms:creator>
     <dcterms:created>1922</dcterms:created>
     <dcterms:extent>1 map in sheets ; 51 x 67 cm., on 48 sheets 61 x 77 cm.</dcterms:extent>
     <dcterms:publisher>R.H. Randall &amp; Co.</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Richmond (Va.)--Maps, Topographic</dcterms:subject>
+    <dcterms:subject>Richmond Metropolitan Area (Va.)--Maps, Topographic</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:600030/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:600030</edm:isShownAt>

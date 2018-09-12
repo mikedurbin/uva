@@ -11,15 +11,15 @@
     <dcterms:identifier>tsb:63767</dcterms:identifier>
     <dcterms:title>Recent economic changes in the United States; report of the Committee on recent economic changes, of the President's conference on unemployment, Herbert Hoover, chairman, including the reports of a special staff of the National bureau of economic research, inc. ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hunt, Edward E. (Edward Eyre), 1885-1953</dcterms:creator>
     <dcterms:created>1929</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. diagrs. 24 cm.</dcterms:extent>
     <dcterms:publisher>McGraw-Hill book company, inc.</dcterms:publisher>
-    <dcterms:subject>Economic conditions</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--Economic conditions--1918-1945</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>conference publication</edm:hasType>
-    <dcterms:temporal>1918-1945</dcterms:temporal>
+    <dcterms:medium>conference publication</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63767/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63767</edm:isShownAt>

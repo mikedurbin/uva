@@ -14,16 +14,14 @@
     <dcterms:created>1861</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] unnumbered page) : illustrations ; 31 x 16 cm</dcterms:extent>
-    <dcterms:subject>Bull Run, 1st Battle of, Va., 1861</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Bull Run, 1st Battle of, Va., 1861--Poetry</dcterms:subject>
+    <dcterms:subject>Virginia--History--Civil War, 1861-1865--Poetry</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Poetry</dcterms:subject>
     <dcterms:spatial>Confederate States of America</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Virginiay1861.</edm:hasType>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:medium>Broadsides-Virginiay1861.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18865/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18865</edm:isShownAt>

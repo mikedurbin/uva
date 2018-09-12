@@ -11,15 +11,14 @@
     <dcterms:identifier>uva-lib:2532366</dcterms:identifier>
     <dcterms:title>Mustard plaster</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>J. Ellwood Lee Co.</dcterms:creator>
     <dcterms:created>1800/1899</dcterms:created>
     <dcterms:description>Empty mustard plaster packet and instructions; instructions title page reads: "How. When. Where. To Apply Mustard Plaster So It Will Do The Most Good. By Doctors Who Use Them. A Good Thing. Johnson &amp; Johnson Mustard Plasters."</dcterms:description>
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:extent>9 x 11.7 x 0.2 cm</dcterms:extent>
-    <dcterms:subject>Pharmaceutical technology</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Pharmaceutical technology--Plaster (Pharmacy)</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>pharmacy</edm:hasType>
+    <dcterms:medium>pharmacy</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2532366/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2532366</edm:isShownAt>

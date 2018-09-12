@@ -11,6 +11,8 @@
     <dcterms:identifier>uva-lib:1219815</dcterms:identifier>
     <dcterms:title>Declaration of Independence, July 4th, 1776</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Rogers, J.</dcterms:creator>
+    <dcterms:creator>Trumbull, John, 1756-1843</dcterms:creator>
     <dcterms:created>1850/1859</dcterms:created>
     <dcterms:medium>graphic</dcterms:medium>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
@@ -18,18 +20,16 @@
     <dcterms:extent>1 print : engraving, b&amp;w ; 19 x 28 cm.</dcterms:extent>
     <dcterms:publisher>J. &amp; F. Tallis</dcterms:publisher>
     <dcterms:subject>Fort Moultrie, Battle of, S.C., 1776</dcterms:subject>
-    <dcterms:subject>Document signings</dcterms:subject>
-    <dcterms:subject>United States.</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Document signings--Pennsylvania--Philadelphia--1770-1780</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>graphic</edm:hasType>
-    <edm:hasType>Group portraits-1850-1860.</edm:hasType>
-    <edm:hasType>Portrait prints-1850-1860.</edm:hasType>
-    <edm:hasType>Paintings-Reproductions-1850-1860.</edm:hasType>
-    <edm:hasType>Engravings-1850-1860.</edm:hasType>
-    <dcterms:temporal>1770-1780</dcterms:temporal>
+    <dcterms:medium>graphic</dcterms:medium>
+    <dcterms:medium>Group portraits-1850-1860.</dcterms:medium>
+    <dcterms:medium>Portrait prints-1850-1860.</dcterms:medium>
+    <dcterms:medium>Paintings-Reproductions-1850-1860.</dcterms:medium>
+    <dcterms:medium>Engravings-1850-1860.</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1219815/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1219815</edm:isShownAt>

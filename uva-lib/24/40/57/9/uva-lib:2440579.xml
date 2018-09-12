@@ -13,9 +13,9 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:created>1800/1900</dcterms:created>
     <dcterms:medium>wood (plant material)</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>mortars (grinding tools)</edm:hasType>
+    <dcterms:medium>mortars (grinding tools)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440579/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440579</edm:isShownAt>

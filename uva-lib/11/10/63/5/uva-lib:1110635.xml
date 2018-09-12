@@ -16,12 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[16] p. : ill. ; 16 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Par G. de Nyuerd, Imprimeur du Roy</dcterms:publisher>
-    <dcterms:subject>Charles/</dcterms:subject>
-    <dcterms:subject>Elisabeth</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Charles, IX, King of France, 1550-1574</dcterms:subject>
+    <dcterms:subject>Elisabeth, of Austria, Queen, consort of Charles IX, King of France, 1554-1592</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1110635/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1110635</edm:isShownAt>

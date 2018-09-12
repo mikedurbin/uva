@@ -14,12 +14,15 @@
     <dcterms:created>1895</dcterms:created>
     <dcterms:extent>2 maps on 1 sheet : col. ; on sheet  36 x 29 cm.</dcterms:extent>
     <dcterms:publisher>Rand McNally &amp; Co.</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Kentucky--Maps</dcterms:subject>
+    <dcterms:subject>Tennessee--Maps</dcterms:subject>
+    <dcterms:subject>Mississippi--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Illinois</dcterms:spatial>
     <dcterms:spatial>Chicago</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003352/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003352</edm:isShownAt>

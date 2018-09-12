@@ -12,16 +12,15 @@
     <dcterms:title>La France parlementaire (1834-1851); œuvres oratoires et écrits politiques,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Lamartine, Alphonse de, 1790-1869</dcterms:creator>
+    <dcterms:creator>Ulbach, Louis.</dcterms:creator>
     <dcterms:created>1864/1865</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>6 v. 23 cm.</dcterms:extent>
     <dcterms:publisher>A. Lacroix, Verboeckhoven</dcterms:publisher>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>France--Politics and government--Louis Philip, 1830-1848</dcterms:subject>
+    <dcterms:subject>France--Politics and government--Second Republic, 1848-1852</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
-    <dcterms:temporal>Louis Philip, 1830-1848</dcterms:temporal>
-    <dcterms:temporal>Second Republic, 1848-1852</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61575/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61575</edm:isShownAt>

@@ -11,12 +11,21 @@
     <dcterms:identifier>uva-lib:1067774</dcterms:identifier>
     <dcterms:title>Album of Currier &amp; Ives' Civil War lithographs</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Newman, F.</dcterms:creator>
     <dcterms:created>1861/1863</dcterms:created>
     <dcterms:description>A collection of small folio hand-colored lithographs of different scenes of Civil War Engagements.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 album (40 prints) : lithographs, hand-colored ; 41 cm</dcterms:extent>
     <dcterms:publisher>Currier &amp; Ives</dcterms:publisher>
+    <dcterms:subject>Farragut, David Glasgow, 1801-1870</dcterms:subject>
+    <dcterms:subject>Grant, Ulysses S. (Ulysses Simpson), 1822-1885</dcterms:subject>
+    <dcterms:subject>Shaw, Robert Gould, 1837-1863</dcterms:subject>
+    <dcterms:subject>Stoneman, George, 1822-1894</dcterms:subject>
+    <dcterms:subject>Pictorial works</dcterms:subject>
+    <dcterms:subject>Pictorial works</dcterms:subject>
+    <dcterms:subject>Pictorial works</dcterms:subject>
+    <dcterms:subject>1800 - 1899</dcterms:subject>
     <dcterms:subject>Bull Run, 1st Battle of, Va., 1861</dcterms:subject>
     <dcterms:subject>Cedar Mountain, Battle of, Va., 1862</dcterms:subject>
     <dcterms:subject>Chancellorsville, Battle of, Chancellorsville, Va., 1863</dcterms:subject>
@@ -33,76 +42,42 @@
     <dcterms:subject>Shiloh, Battle of, Tenn., 1862</dcterms:subject>
     <dcterms:subject>Stones River, Battle of, Murfreesboro, Tenn., 1862-1863</dcterms:subject>
     <dcterms:subject>Williamsburg, Battle of, Williamsburg, Va., 1862</dcterms:subject>
-    <dcterms:subject>Bombardment</dcterms:subject>
-    <dcterms:subject>Campaigns &amp; battles</dcterms:subject>
-    <dcterms:subject>Campaigns &amp; battles</dcterms:subject>
-    <dcterms:subject>Campaigns &amp; battles</dcterms:subject>
-    <dcterms:subject>Campaigns &amp; battles</dcterms:subject>
-    <dcterms:subject>Campaigns &amp; battles</dcterms:subject>
-    <dcterms:subject>Military personnel</dcterms:subject>
-    <dcterms:subject>Naval warfare</dcterms:subject>
-    <dcterms:subject>Naval warfare</dcterms:subject>
+    <dcterms:subject>Bombardment--Louisiana--Port Hudson--1860-1870</dcterms:subject>
+    <dcterms:subject>Campaigns &amp; battles--Louisiana--Port Hudson--1860-1870</dcterms:subject>
+    <dcterms:subject>Campaigns &amp; battles--Pennsylvania--Gettysburg--1860-1870</dcterms:subject>
+    <dcterms:subject>Campaigns &amp; battles--Tennessee--Murfreesboro--1860-1870</dcterms:subject>
+    <dcterms:subject>Campaigns &amp; battles--Virginia--Culpeper County--1860-1870</dcterms:subject>
+    <dcterms:subject>Campaigns &amp; battles--Virginia--Williamsburg--1860-1870</dcterms:subject>
+    <dcterms:subject>Military personnel--Virginia--Culpeper County--1860-1870</dcterms:subject>
+    <dcterms:subject>Naval warfare--Virginia--Hampton Roads--1860-1870</dcterms:subject>
+    <dcterms:subject>Naval warfare--Mississippi River--1860-1870</dcterms:subject>
+    <dcterms:subject>Lithography, American--19th century--Specimens</dcterms:subject>
     <dcterms:subject>Lithography, American</dcterms:subject>
-    <dcterms:subject>Lithography, American</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Siege, 1861</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Farragut, David Glasgow/</dcterms:subject>
-    <dcterms:subject>Grant, Ulysses S. (Ulysses Simpson)/</dcterms:subject>
-    <dcterms:subject>Shaw, Robert Gould/</dcterms:subject>
-    <dcterms:subject>Stoneman, George/</dcterms:subject>
-    <dcterms:subject>United States./</dcterms:subject>
-    <dcterms:subject>Army./</dcterms:subject>
-    <dcterms:subject>Massachusetts Infantry Regiment, 54th (1863-1865)/</dcterms:subject>
-    <dcterms:subject>Merrimack (Frigate)/</dcterms:subject>
-    <dcterms:subject>Monitor (Ironclad)/</dcterms:subject>
-    <dcterms:subject>Virginia (Ironclad)/</dcterms:subject>
-    <dcterms:subject>Merrimack (Frigate)/</dcterms:subject>
-    <dcterms:subject>Monitor (Ironclad)/</dcterms:subject>
-    <dcterms:subject>Virginia (Ironclad)/</dcterms:subject>
-    <dcterms:subject>American Civil War (1861-1865)/</dcterms:subject>
-    <dcterms:subject>Hampton Roads, Battle of (Virginia : 1862)</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Charleston (S.C.)--History--Civil War, 1861-1865</dcterms:subject>
+    <dcterms:subject>Fort Sumter (Charleston, S.C.)--Siege, 1861</dcterms:subject>
+    <dcterms:subject>Mississippi River Valley--History--Civil War, 1861-1865--Campaigns</dcterms:subject>
+    <dcterms:subject>North Carolina--History--Civil War, 1861-1865</dcterms:subject>
+    <dcterms:subject>Port Hudson (La.)--History--Siege, 1863</dcterms:subject>
+    <dcterms:subject>South Carolina--History--Civil War, 1861-1865</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Naval operations</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Pictorial works</dcterms:subject>
+    <dcterms:subject>Vicksburg (Miss.)--History--Siege, 1863</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--African Americans</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Campaigns</dcterms:subject>
+    <dcterms:subject>United States</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>New York</dcterms:spatial>
     <dcterms:spatial>New York</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>art reproduction</edm:hasType>
-    <edm:hasType>Lithographs-Hand-colored-1850-1910.</edm:hasType>
-    <edm:hasType>Drawings-American-1850-1910.</edm:hasType>
-    <edm:hasType>Lithographs-Hand-colored-1860-1870.</edm:hasType>
-    <edm:hasType>History.</edm:hasType>
-    <edm:hasType>Pictorial works.</edm:hasType>
-    <edm:hasType>Specimens.</edm:hasType>
-    <dcterms:temporal>1800 - 1899</dcterms:temporal>
-    <dcterms:temporal>1860-1870</dcterms:temporal>
-    <dcterms:temporal>1860-1870</dcterms:temporal>
-    <dcterms:temporal>1860-1870</dcterms:temporal>
-    <dcterms:temporal>1860-1870</dcterms:temporal>
-    <dcterms:temporal>1860-1870</dcterms:temporal>
-    <dcterms:temporal>1860-1870</dcterms:temporal>
-    <dcterms:temporal>1860-1870</dcterms:temporal>
-    <dcterms:temporal>1860-1870</dcterms:temporal>
-    <dcterms:temporal>1860-1870</dcterms:temporal>
-    <dcterms:temporal>19th century</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
-    <dcterms:temporal>Siege, 1863</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
-    <dcterms:temporal>Siege, 1863</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:medium>art reproduction</dcterms:medium>
+    <dcterms:medium>Lithographs-Hand-colored-1850-1910.</dcterms:medium>
+    <dcterms:medium>Drawings-American-1850-1910.</dcterms:medium>
+    <dcterms:medium>Lithographs-Hand-colored-1860-1870.</dcterms:medium>
+    <dcterms:medium>History.</dcterms:medium>
+    <dcterms:medium>Pictorial works.</dcterms:medium>
+    <dcterms:medium>Specimens.</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1067774/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1067774</edm:isShownAt>

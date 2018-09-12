@@ -16,14 +16,13 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[5]-19 (i.e. 23) p. 20.5 cm.</dcterms:extent>
     <dcterms:publisher>Re-printed for J. Almon.</dcterms:publisher>
-    <dcterms:subject>Colonies</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Grenville, George</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Grenville, George, 1712-1770</dcterms:subject>
+    <dcterms:subject>Great Britain--Colonies--America--Financial questions</dcterms:subject>
+    <dcterms:subject>United States--History--Revolution, 1775-1783--Causes</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Revolution, 1775-1783</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2175852/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2175852</edm:isShownAt>

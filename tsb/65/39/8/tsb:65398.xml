@@ -12,14 +12,15 @@
     <dcterms:title>Allen and Greenough's Latin grammar : for schools and colleges : founded on comparative grammar</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Allen, Joseph Henry, 1820-1898</dcterms:creator>
+    <dcterms:creator>Greenough, J. B. (James Bradstreet), 1833-1901</dcterms:creator>
+    <dcterms:creator>Kittredge, George Lyman, 1860-1941</dcterms:creator>
     <dcterms:created>1892/1888</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xiii, 488 p. ; 19 cm.</dcterms:extent>
     <dcterms:publisher>Ginn and Company</dcterms:publisher>
-    <dcterms:subject>Latin language</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Latin language--Grammar--1870-1975</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1870-1975</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65398/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65398</edm:isShownAt>

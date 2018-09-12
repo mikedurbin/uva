@@ -16,8 +16,8 @@
     <dcterms:extent>24 p. 16.5 cm.</dcterms:extent>
     <dcterms:publisher>Printed and Sold by John Miller</dcterms:publisher>
     <dcterms:subject>Chapbooks</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:605562/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:605562</edm:isShownAt>

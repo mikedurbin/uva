@@ -11,7 +11,6 @@
     <dcterms:identifier>tsb:58679</dcterms:identifier>
     <dcterms:title>Alcaroid box</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>American Ferment Co. (Buffalo, N.Y.)</dcterms:creator>
     <dcterms:created>1900/1950</dcterms:created>
     <dcterms:description>The box reads: "Physician's specimen, Al-Caroid, A highly efficient Antacid containing the 
       vegetable digestive ferment-caroid, The American Ferment Co. Buffalo, N.Y., U.S.A., Carter, Cummings &amp; Co. 
@@ -20,9 +19,9 @@
     <dcterms:medium>cardboard</dcterms:medium>
     <dcterms:extent>6 x 4.9 x 4.9 cm</dcterms:extent>
     <dcterms:subject>Drugs-Packaging</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>pillboxes (containers)</edm:hasType>
+    <dcterms:medium>pillboxes (containers)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58679/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58679</edm:isShownAt>

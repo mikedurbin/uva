@@ -12,16 +12,16 @@
     <dcterms:title>Washington Post : march for piano</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Sousa, John Philip, 1854-1932</dcterms:creator>
+    <dcterms:creator>Hatton, Frank, 1861-1883</dcterms:creator>
+    <dcterms:creator>Wilkins, Beriah, 1846-1905</dcterms:creator>
     <dcterms:created>1889</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 p. of music.</dcterms:extent>
     <dcterms:publisher>Harry Coleman</dcterms:publisher>
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
     <dcterms:subject>Marches (Piano), Arranged</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1146892/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1146892</edm:isShownAt>

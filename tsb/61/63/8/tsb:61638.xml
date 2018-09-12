@@ -12,13 +12,14 @@
     <dcterms:title>By the fireside</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wagner, Charles, 1852-1918</dcterms:creator>
+    <dcterms:creator>Hendee, Mary Louise, 1859-</dcterms:creator>
     <dcterms:created>1904</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>x, 300 p. 18 cm.</dcterms:extent>
     <dcterms:publisher>McClure, Phillips</dcterms:publisher>
     <dcterms:subject>Families</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61638/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61638</edm:isShownAt>

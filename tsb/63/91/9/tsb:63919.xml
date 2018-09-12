@@ -12,15 +12,15 @@
     <dcterms:title>History of the rise and fall of the slave power in America</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wilson, Henry, 1812-1875</dcterms:creator>
+    <dcterms:creator>Hunt, Samuel, 1810-1878</dcterms:creator>
     <dcterms:created>1874/1877</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. 24 cm.</dcterms:extent>
     <dcterms:publisher>Houghton, Mifflin and company.</dcterms:publisher>
-    <dcterms:subject>Slavery</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Slavery--United States</dcterms:subject>
+    <dcterms:subject>United States--History--1783-1865</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1783-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63919/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63919</edm:isShownAt>

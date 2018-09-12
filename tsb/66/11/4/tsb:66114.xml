@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66114</dcterms:identifier>
+    <dcterms:title>Lex parliamentaria: or, A treatise of the law and custom of parliaments.  Shewing their antiquity, names, kinds, and qualities. OF the three Estates; and of the Dignity and Excellency of Parliaments, their Power and Authority. Of the Election of Members of the House of Commons in general, their Privilege, Qualifications, and Duties. Of the Electors; and their Rights, Duties; and Manner of Elections. Of the Returns to Parliament; the Sheriff's and other Officers Duty therein. Of the Manner of the Election of the Speaker; and of his Business and Duty. Of the Manner of passing Bills, and the Orders to be observed in the House of Commons. Of Sessions of Parliament; as also Prorogations and Adjournments: Together with the porper Laws and Custums of Parliaments. With an appendix of a case in Parliament between Sir Francis Goodwyn and Sir John Fortescue, for the Knights Place for the County of Bucks, I. Jac. I.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Philips, George, 1599?-1696</dcterms:creator>
+    <dcterms:created>1690</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>4 p. l., 434 p. 21 cm.</dcterms:extent>
+    <dcterms:publisher>Printed for J. Stagg, in Westminster-Hall</dcterms:publisher>
+    <dcterms:subject>Rules and practice</dcterms:subject>
+    <dcterms:subject>Legislative bodies</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66114/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66114</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2535673/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

@@ -11,14 +11,17 @@
     <dcterms:identifier>tsb:66006</dcterms:identifier>
     <dcterms:title>Reports of cases argued and adjudged in the courts of King's Bench and Common Pleas, in the reigns of the late King William, Queen Anne, King George the first, and King George the Second.  [1694-1732] Taken and collected by the Right Honourable Robert lord Raymond</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Raymond, Robert Raymond, Baron, 1673-1733</dcterms:creator>
+    <dcterms:creator>Bayley, John, 1763-1841</dcterms:creator>
+    <dcterms:creator>Wilson, George, -1778</dcterms:creator>
     <dcterms:created>1790</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. 24 cm.</dcterms:extent>
     <dcterms:publisher>Printed by His Majesty's law-printers, for A. Strahan [etc.]</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:subject>Pleading</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+    <dcterms:subject>Pleading--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66006/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66006</edm:isShownAt>

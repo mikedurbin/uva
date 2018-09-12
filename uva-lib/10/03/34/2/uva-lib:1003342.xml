@@ -12,15 +12,19 @@
     <dcterms:title>The state of South Carolina : from the best authorities</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Lewis, Samuel, 1753 or 1754-1822</dcterms:creator>
+    <dcterms:creator>Carey, Mathew, 1760-1839</dcterms:creator>
+    <dcterms:creator>Barker, W. (William), active 1795-1803</dcterms:creator>
+    <dcterms:creator>Guthrie, William, 1708-1770</dcterms:creator>
     <dcterms:created>1796</dcterms:created>
     <dcterms:extent>1 map ; 39 x 44 cm. on sheet 41 x 51 cm.</dcterms:extent>
     <dcterms:publisher>Mathew Carey</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>South Carolina--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Pennsylvania</dcterms:spatial>
     <dcterms:spatial>Philadelphia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003342/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003342</edm:isShownAt>

@@ -11,16 +11,15 @@
     <dcterms:identifier>uva-lib:2440552</dcterms:identifier>
     <dcterms:title>Sterilizer</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>American Sundries Company</dcterms:creator>
     <dcterms:created>1900/1950</dcterms:created>
     <dcterms:description>With sterilizer basket; American Sundries Company, Brooklyn New York model #18 starting 6 amps, running 3 amps, 120 volts A.C only; Patented.</dcterms:description>
     <dcterms:medium>porcelain (material)</dcterms:medium>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:medium>wood (plant material)</dcterms:medium>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440552/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440552</edm:isShownAt>

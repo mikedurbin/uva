@@ -12,14 +12,14 @@
     <dcterms:title>Middle England from the accession of Henry II. to the death of Elizabeth .</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Williams, John Francon.</dcterms:creator>
+    <dcterms:creator>Crowley, John C.</dcterms:creator>
     <dcterms:created>1884</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vi, [2], [9]-255 p. incl. front., illus., ports., maps, geneal. tables. 18 cm.</dcterms:extent>
     <dcterms:publisher>Boston school supply company</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Great Britain--History--1154-1603</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1154-1603</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63747/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63747</edm:isShownAt>

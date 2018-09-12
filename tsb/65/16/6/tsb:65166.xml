@@ -16,16 +16,14 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xi p., 2 l., 559 p. front., ports. 23 cm.</dcterms:extent>
     <dcterms:publisher>Yale university press</dcterms:publisher>
-    <dcterms:subject>Cuban question</dcterms:subject>
-    <dcterms:subject>Foreign relations</dcterms:subject>
-    <dcterms:subject>Foreign relations</dcterms:subject>
-    <dcterms:subject>Foreign relations</dcterms:subject>
-    <dcterms:subject>Soulé, Pierre</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Soulé, Pierre, 1801-1870</dcterms:subject>
+    <dcterms:subject>Cuban question--To 1895</dcterms:subject>
+    <dcterms:subject>United States--Foreign relations--Spain</dcterms:subject>
+    <dcterms:subject>Spain--Foreign relations--United States</dcterms:subject>
+    <dcterms:subject>United States--Foreign relations--1853-1857</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
-    <dcterms:temporal>To 1895</dcterms:temporal>
-    <dcterms:temporal>1853-1857</dcterms:temporal>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65166/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65166</edm:isShownAt>

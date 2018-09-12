@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xiii, 312 p. port. 19 cm.</dcterms:extent>
     <dcterms:publisher>Scribner</dcterms:publisher>
-    <dcterms:subject>Lee, Robert E. (Robert Edward)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Lee, Robert E. (Robert Edward), 1807-1870</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64473/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64473</edm:isShownAt>

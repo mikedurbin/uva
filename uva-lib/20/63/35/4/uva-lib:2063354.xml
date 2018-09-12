@@ -14,10 +14,14 @@
     <dcterms:created>1918</dcterms:created>
     <dcterms:extent>1 map : col. ; 70 x 51 cm. on sheet 76 x 54 cm.</dcterms:extent>
     <dcterms:publisher>Printed at Base Printing Plant, 29th. Engineers, U.S. Army</dcterms:publisher>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>World War, 1914-1918--France--Maps, Topographic</dcterms:subject>
+    <dcterms:subject>Meuse (France)--Maps, Topographic</dcterms:subject>
+    <dcterms:subject>Meuse River Valley--Maps, Topographic</dcterms:subject>
+    <dcterms:subject>Montfaucon (Meuse, France)--Maps</dcterms:subject>
+    <dcterms:subject>France--Maps, Topographic</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2063354/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2063354</edm:isShownAt>

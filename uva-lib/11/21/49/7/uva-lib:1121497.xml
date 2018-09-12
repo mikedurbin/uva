@@ -12,16 +12,16 @@
     <dcterms:title>Over the waves = Sobre las olas : Mexican waltz : for violin and piano</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Rosas, Juventino, 1868-1894</dcterms:creator>
+    <dcterms:creator>Keck, C. L.</dcterms:creator>
+    <dcterms:creator>Earl, Harry</dcterms:creator>
     <dcterms:created>1892</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (3 p.) : ill.</dcterms:extent>
     <dcterms:publisher>National Music Co.</dcterms:publisher>
     <dcterms:subject>Violin and piano music</dcterms:subject>
     <dcterms:subject>Waltzes</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1121497/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1121497</edm:isShownAt>

@@ -16,12 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>x p., 2 l., 250 p., 1 l. front. (port.)plates. 21 cm.</dcterms:extent>
     <dcterms:publisher>Houghton Mifflin company; [etc., etc.]</dcterms:publisher>
-    <dcterms:subject>Rhodes, Cecil/</dcterms:subject>
-    <dcterms:subject>University of Oxford./</dcterms:subject>
-    <dcterms:subject>Rhodes Scholarships.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Rhodes, Cecil, 1853-1902</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63805/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63805</edm:isShownAt>

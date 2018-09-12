@@ -12,12 +12,13 @@
     <dcterms:title>Letters on demonology and witchcraft</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Scott, Walter, 1771-1832</dcterms:creator>
+    <dcterms:creator>Morley, Henry, 1822-1894</dcterms:creator>
     <dcterms:created>1885</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>320 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>G. Routledge andsons</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65439/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65439</edm:isShownAt>

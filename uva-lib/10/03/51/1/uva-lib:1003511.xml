@@ -12,19 +12,20 @@
     <dcterms:title>Map showing the railroad connections with the city of Norfolk, Virginia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Sharp, Walter.</dcterms:creator>
+    <dcterms:creator>Mason, M. W.</dcterms:creator>
     <dcterms:created>1890</dcterms:created>
     <dcterms:extent>1 map : col. ; 67 x 60 cm. on sheet 72 x 64 cm.</dcterms:extent>
     <dcterms:publisher>Matthews, Northrup &amp; Co., Art-Printing works</dcterms:publisher>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Railroads--Virginia--Norfolk--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--Atlantic Coast (U.S.)--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--East (U.S.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>New York (State)</dcterms:spatial>
     <dcterms:spatial>Buffalo</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003511/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003511</edm:isShownAt>

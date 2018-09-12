@@ -12,16 +12,15 @@
     <dcterms:title>Grand commandery march : ... as a souvenir of the 26th triennial conclave of the Knights Templar of Boston in 1895</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Missud, Jean M., 1852-1941</dcterms:creator>
+    <dcterms:creator>Lawrence, Samuel C. (Samuel Crocker), 1832-1911</dcterms:creator>
     <dcterms:created>1898</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[7] p. of music.</dcterms:extent>
     <dcterms:publisher>F. Trifet</dcterms:publisher>
+    <dcterms:subject>Songs and music</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
     <dcterms:subject>Marches (Piano)</dcterms:subject>
-    <dcterms:subject>Knights Templar (Masonic order)./</dcterms:subject>
-    <dcterms:subject>Grand Commandery (Mass. and R.I.)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1135142/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1135142</edm:isShownAt>

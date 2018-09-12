@@ -12,17 +12,16 @@
     <dcterms:title>The speeches of the Right Honourable Richard Lalor Sheil</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Sheil, Richard Lalor, 1791-1851</dcterms:creator>
+    <dcterms:creator>MacNevin, Thomas</dcterms:creator>
     <dcterms:created>1867</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xliv, 471 p. 18 cm.</dcterms:extent>
     <dcterms:publisher>J. Duffy</dcterms:publisher>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Great Britain--Politics and government--19th century</dcterms:subject>
+    <dcterms:subject>Ireland--Politics and government--19th century</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
-    <dcterms:temporal>19th century</dcterms:temporal>
-    <dcterms:temporal>19th century</dcterms:temporal>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64254/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64254</edm:isShownAt>

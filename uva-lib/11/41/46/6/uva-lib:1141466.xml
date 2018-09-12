@@ -12,17 +12,19 @@
     <dcterms:title>The milkmaid's marriage song : as sung with great success by Mrs. H.M. Smith</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Keller, M. (Matthias), 1813-1875</dcterms:creator>
+    <dcterms:creator>Smith, H. M., Mrs</dcterms:creator>
+    <dcterms:creator>Cary, Alice, 1820-1871</dcterms:creator>
     <dcterms:created>1869</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.)</dcterms:extent>
     <dcterms:publisher>Published by the author</dcterms:publisher>
+    <dcterms:subject>Cary, Alice, 1820-1871</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Marriage</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>Cary, Alice</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Marriage--Songs and music</dcterms:subject>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1141466/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1141466</edm:isShownAt>

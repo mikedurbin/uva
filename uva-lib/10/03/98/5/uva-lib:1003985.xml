@@ -12,15 +12,19 @@
     <dcterms:title>West Indies</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Tanner, Henry Schenck, 1786-1858</dcterms:creator>
+    <dcterms:creator>Smiley, Thomas T. (Thomas Tucker), -1879</dcterms:creator>
+    <dcterms:creator>Knight, J., (Engraver)</dcterms:creator>
     <dcterms:created>1835</dcterms:created>
     <dcterms:extent>1 map : hand col. ; 26 x 40 cm. on sheet 29 x 46 cm.</dcterms:extent>
     <dcterms:publisher>J. Grigg</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>West Indies--Maps</dcterms:subject>
+    <dcterms:subject>Caribbean Area--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Pennsylvania</dcterms:spatial>
     <dcterms:spatial>Philadelphia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003985/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003985</edm:isShownAt>

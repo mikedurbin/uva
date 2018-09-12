@@ -12,6 +12,7 @@
     <dcterms:title>Webster and Hayne's speeches in the United States Senate, on Mr. Foot's resolution of January, 1830. Also, Daniel Webster's speech, in the United States Senate, March 7, 1850, on the slavery compromise ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Webster, Daniel, 1782-1852</dcterms:creator>
+    <dcterms:creator>Hayne, Robert Young, 1791-1839</dcterms:creator>
     <dcterms:created>1863</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 p.l., [3]-115 p. 24 cm.</dcterms:extent>
@@ -19,11 +20,10 @@
     <dcterms:subject>Compromise of 1850</dcterms:subject>
     <dcterms:subject>Nullification (States' rights)</dcterms:subject>
     <dcterms:subject>Foot's resolution, 1829</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--Politics and government--1829-1837</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
-    <dcterms:temporal>1829-1837</dcterms:temporal>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61500/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61500</edm:isShownAt>

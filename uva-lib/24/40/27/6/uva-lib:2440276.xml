@@ -11,15 +11,14 @@
     <dcterms:identifier>uva-lib:2440276</dcterms:identifier>
     <dcterms:title>Anti-human serum</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Ortho Pharmaceutical Corporation</dcterms:creator>
     <dcterms:created>1950/1959</dcterms:created>
     <dcterms:description>Empty clear glass bottle with black and white rubber cap, and liquid dispense attached. Label Information: Anti-Human Serum 5cc. for Coombs Test. Expiration date 1959-09-24. By the Ortho Pharmaceudical Corporation, Raritan, New Jersey.</dcterms:description>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:medium>rubber (material)</dcterms:medium>
     <dcterms:subject>Medical laboratory technology</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440276/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440276</edm:isShownAt>

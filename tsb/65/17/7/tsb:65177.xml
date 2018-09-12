@@ -16,14 +16,15 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. tables. 22 cm.</dcterms:extent>
     <dcterms:publisher>The office of De Bow's review</dcterms:publisher>
-    <dcterms:subject>Slavery</dcterms:subject>
-    <dcterms:subject>Manufacturing industries</dcterms:subject>
-    <dcterms:subject>Industries</dcterms:subject>
-    <dcterms:subject>Economic conditions</dcterms:subject>
-    <dcterms:subject>Economic conditions</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Slavery--United States</dcterms:subject>
+    <dcterms:subject>Manufacturing industries--United States</dcterms:subject>
+    <dcterms:subject>Southern States--Industries</dcterms:subject>
+    <dcterms:subject>West (U.S.)--Economic conditions</dcterms:subject>
+    <dcterms:subject>United States--Statistics</dcterms:subject>
+    <dcterms:subject>Southern States--Economic conditions</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>statistics</edm:hasType>
+    <dcterms:medium>statistics</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65177/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65177</edm:isShownAt>

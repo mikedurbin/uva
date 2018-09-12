@@ -12,12 +12,14 @@
     <dcterms:title>Historia de Gil Blas de Santillana</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Le Sage, Alain René, 1668-1747</dcterms:creator>
+    <dcterms:creator>Isla, José Francisco de, 1703-1781</dcterms:creator>
+    <dcterms:creator>Peña y Marín, Evaristo</dcterms:creator>
     <dcterms:created>1859</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 p.l., 472 p. front. (port.) 22 cm.</dcterms:extent>
     <dcterms:publisher>Baudry</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>spa</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65249/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65249</edm:isShownAt>

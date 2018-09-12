@@ -16,18 +16,18 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>332 p. front. (port.) 20 cm.</dcterms:extent>
     <dcterms:publisher>The Century Co.</dcterms:publisher>
+    <dcterms:subject>Dewey, George, 1837-1917</dcterms:subject>
+    <dcterms:subject>Grant, Ulysses S. (Ulysses Simpson), 1822-1885</dcterms:subject>
     <dcterms:subject>Politics, Practical</dcterms:subject>
     <dcterms:subject>Character</dcterms:subject>
     <dcterms:subject>Success</dcterms:subject>
     <dcterms:subject>Conduct of life</dcterms:subject>
-    <dcterms:subject>Defenses</dcterms:subject>
-    <dcterms:subject>Colonial question</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Dewey, George/</dcterms:subject>
-    <dcterms:subject>Grant, Ulysses S. (Ulysses Simpson)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--Defenses</dcterms:subject>
+    <dcterms:subject>United States--Colonial question</dcterms:subject>
+    <dcterms:subject>United States--Politics and government</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Marginalia (Provenance)</edm:hasType>
+    <dcterms:medium>Marginalia (Provenance)</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64019/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64019</edm:isShownAt>

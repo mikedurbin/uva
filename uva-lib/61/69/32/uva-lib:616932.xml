@@ -11,25 +11,29 @@
     <dcterms:identifier>uva-lib:616932</dcterms:identifier>
     <dcterms:title>In Congress, July 4, 1776. A declaration by the representatives of the United States of America, in General Congress assembled. ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>United States</dcterms:creator>
+    <dcterms:creator>Dunlap, John, 1747-1812</dcterms:creator>
+    <dcterms:creator>Washington, George, 1732-1799</dcterms:creator>
+    <dcterms:creator>Lear, Tobias, 1762-1816</dcterms:creator>
+    <dcterms:creator>Storer, George Washington</dcterms:creator>
+    <dcterms:creator>Decatur, Stephen, 1886-</dcterms:creator>
+    <dcterms:creator>Martin, H. Bradley  (Henry Bradley), 1906-1988</dcterms:creator>
+    <dcterms:creator>Small, Albert H.  (Albert Harrison)</dcterms:creator>
     <dcterms:created>1776</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 48 x 35.5 cm</dcterms:extent>
     <dcterms:publisher>Printed by John Dunlap.</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Washington, George/</dcterms:subject>
-    <dcterms:subject>Washington, George</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+    <dcterms:subject>Washington, George, 1732-1799</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>Library--Personal Copy</dcterms:subject>
+    <dcterms:subject>United States--Politics and government--1775-1783</dcterms:subject>
+    <dcterms:subject>United States--History--Revolution, 1775-1783</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Pennsylvania</dcterms:spatial>
     <dcterms:spatial>Philadelphia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Pennsylvania-Philadelphia-1776.</edm:hasType>
-    <dcterms:temporal>1775-1783</dcterms:temporal>
-    <dcterms:temporal>Revolution, 1775-1783</dcterms:temporal>
+    <dcterms:medium>Broadsides-Pennsylvania-Philadelphia-1776.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616932/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616932</edm:isShownAt>

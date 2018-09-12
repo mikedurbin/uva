@@ -11,17 +11,17 @@
     <dcterms:identifier>uva-lib:1222345</dcterms:identifier>
     <dcterms:title>The United Estates of Labor, Agriculture, Commerce, the Mechanic and Liberal Arts, and all other professions and occupations of life, in Congress Assembled, promulgate the following unanimous Declaration of Temperance</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Ellms, Charles.</dcterms:creator>
     <dcterms:created>1842/1844</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : ill. ; 71 x 53 cm.</dcterms:extent>
     <dcterms:publisher>Engraved by Devereux &amp; Brown, 116 Washington St. ;Wm. White and H.P. Lewis, Printers, Spring Lane</dcterms:publisher>
     <dcterms:subject>Temperance</dcterms:subject>
-    <dcterms:subject>United States.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Massachusetts</dcterms:spatial>
     <dcterms:spatial>Boston</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1222345/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1222345</edm:isShownAt>

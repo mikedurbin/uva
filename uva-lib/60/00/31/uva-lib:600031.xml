@@ -14,11 +14,11 @@
     <dcterms:created>1907/1937</dcterms:created>
     <dcterms:extent>&lt;30&gt; maps : photocopies ; 128 x 128 cm. or smaller</dcterms:extent>
     <dcterms:publisher>U.S. Post Office Dept.</dcterms:publisher>
-    <dcterms:subject>Postal service</dcterms:subject>
-    <dcterms:subject>Rural free delivery</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Postal service--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Rural free delivery--Virginia--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:600031/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:600031</edm:isShownAt>

@@ -12,21 +12,21 @@
     <dcterms:title>When this cruel war is over</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Sawyer, Charles Carroll.</dcterms:creator>
+    <dcterms:creator>Magnus, Charles.</dcterms:creator>
     <dcterms:created>186u</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : ill. ; 21 x 14 cm.</dcterms:extent>
     <dcterms:publisher>Charles Magnus</dcterms:publisher>
-    <dcterms:subject>War songs</dcterms:subject>
-    <dcterms:subject>Death songs</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>War songs--United States--Texts</dcterms:subject>
+    <dcterms:subject>Death songs--Texts</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Songs and music--Texts</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>new York (State)</dcterms:spatial>
     <dcterms:spatial>New York (City)</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-New York (State)-New York-1860-1870.</edm:hasType>
-    <edm:hasType>Song sheets-New York (State)-New York-1860-1870.</edm:hasType>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:medium>Broadsides-New York (State)-New York-1860-1870.</dcterms:medium>
+    <dcterms:medium>Song sheets-New York (State)-New York-1860-1870.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1219609/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1219609</edm:isShownAt>

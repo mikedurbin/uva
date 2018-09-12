@@ -12,20 +12,21 @@
     <dcterms:title>London labour and the London poor</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Mayhew, Henry, 1812-1887</dcterms:creator>
+    <dcterms:creator>Tuckniss, William.</dcterms:creator>
     <dcterms:created>1861/1862</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 v. fronts. (v. 1, 3-4) plates, maps, tables. 23 cm.</dcterms:extent>
     <dcterms:publisher>Griffin, Bohn, and company</dcterms:publisher>
-    <dcterms:subject>Labor</dcterms:subject>
-    <dcterms:subject>Crime</dcterms:subject>
-    <dcterms:subject>Prostitution</dcterms:subject>
-    <dcterms:subject>Criminals</dcterms:subject>
-    <dcterms:subject>Working class</dcterms:subject>
-    <dcterms:subject>Labor movement</dcterms:subject>
-    <dcterms:subject>Poor</dcterms:subject>
-    <dcterms:subject>Benevolent and moral institutions and societies</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Labor--England--London</dcterms:subject>
+    <dcterms:subject>Crime--England--London</dcterms:subject>
+    <dcterms:subject>Prostitution--England--London</dcterms:subject>
+    <dcterms:subject>Criminals--England--London</dcterms:subject>
+    <dcterms:subject>Working class--England--London</dcterms:subject>
+    <dcterms:subject>Labor movement--England--London</dcterms:subject>
+    <dcterms:subject>London (England)--Poor</dcterms:subject>
+    <dcterms:subject>London (England)--Benevolent and moral institutions and societies</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63906/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63906</edm:isShownAt>

@@ -12,18 +12,20 @@
     <dcterms:title>Simple aveu = Love-token : mezzo-soprano, or baritone</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Thomé, Francis, 1850-1909</dcterms:creator>
+    <dcterms:creator>Bordèse, Stéphan, 1847-</dcterms:creator>
+    <dcterms:creator>Baker, Theodore, 1851-1934</dcterms:creator>
     <dcterms:created>1894</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.).</dcterms:extent>
     <dcterms:publisher>G. Schirmer</dcterms:publisher>
+    <dcterms:subject>Bordèse, Stéphan, 1847-</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
     <dcterms:subject>Songs (Medium voice) with piano</dcterms:subject>
     <dcterms:subject>Love songs</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>Bordèse, Stéphan</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1122122/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1122122</edm:isShownAt>

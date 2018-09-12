@@ -15,11 +15,11 @@
     <dcterms:created>1929</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>x, 134 p. [28] p. (music) 21 cm.</dcterms:extent>
-    <dcterms:subject>Music</dcterms:subject>
-    <dcterms:subject>Bach, Carl Philipp Emanuel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Bach, Carl Philipp Emanuel, 1714-1788</dcterms:subject>
+    <dcterms:subject>Music--Germany--Hamburg</dcterms:subject>
     <dcterms:language>ger</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65548/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65548</edm:isShownAt>

@@ -12,14 +12,23 @@
     <dcterms:title>A new map of Germany, Hungary, Transilvania &amp; the Suisse cantons. : with many remarks not extant in any map.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+    <dcterms:creator>Overton, Philip, -1751</dcterms:creator>
+    <dcterms:creator>Bowles, John, 1701-1779</dcterms:creator>
+    <dcterms:creator>Bowles, Thomas, -1767</dcterms:creator>
+    <dcterms:creator>King, John.</dcterms:creator>
+    <dcterms:creator>Marlborough, John Churchill, Duke of, 1650-1722</dcterms:creator>
     <dcterms:created>1730</dcterms:created>
     <dcterms:extent>1 map : col. ; 61 x 100 on sheet 63 x 107.</dcterms:extent>
     <dcterms:publisher>Printed for H. Moll between Temple Bar &amp; St Clements Church in ye Strand, I Bowles Print and Map Seller at the Black Horse in Cornhill and by P Overton Mapp &amp; Print seller near St. Dunstans Church in Fleet Street, and T. Boules Print &amp; Mapp seller next to ye Chapter house in St. Pauls Church Yard and by Iohn King Print and Map Seller at the Globe in the Poultry.</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Europe, Central--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Germany--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Switzerland--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Hungary--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003631/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003631</edm:isShownAt>

@@ -12,16 +12,20 @@
     <dcterms:title>Plan of the city of New York</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>J. A.</dcterms:creator>
+    <dcterms:creator>Maverick, Peter, 1780-1831</dcterms:creator>
+    <dcterms:creator>Longworth, David, 1765?-1821</dcterms:creator>
     <dcterms:created>1804</dcterms:created>
     <dcterms:extent>1 map ; 39 x 56 cm.</dcterms:extent>
     <dcterms:publisher>Drawn and engrav'd for D. Longworth, Map &amp; Print Seller, Shakspeare Gallery</dcterms:publisher>
-    <dcterms:subject>Administrative and political divisions</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>New York (N.Y.)--Maps</dcterms:subject>
+    <dcterms:subject>Manhattan (New York, N.Y.)--Maps</dcterms:subject>
+    <dcterms:subject>New York (N.Y.)--Administrative and political divisions--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>New York (State)</dcterms:spatial>
     <dcterms:spatial>New York (City)</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:729524/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:729524</edm:isShownAt>

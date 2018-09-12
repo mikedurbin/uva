@@ -11,15 +11,19 @@
     <dcterms:identifier>tsb:64221</dcterms:identifier>
     <dcterms:title>The University of Virginia in the life of the nation; academic addresses delivered on the occasion of the installation of Edwin Anderson Alderman as president of the University of Virginia.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Coolidge, Archibald Cary, 1866-1928</dcterms:creator>
+    <dcterms:creator>Butler, Nicholas Murray, 1862-1947</dcterms:creator>
+    <dcterms:creator>Hill, Walter B. (Walter Barnard), 1851-1905</dcterms:creator>
+    <dcterms:creator>Jesse, Richard Henry, 1853-1921</dcterms:creator>
+    <dcterms:creator>Alderman, Edwin Anderson, 1861-1931</dcterms:creator>
     <dcterms:created>1905</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>121 p. 22 cm.</dcterms:extent>
     <dcterms:publisher>Eagle Press</dcterms:publisher>
-    <dcterms:subject>Universities and colleges</dcterms:subject>
-    <dcterms:subject>University of Virginia.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Universities and colleges--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>festschrift</edm:hasType>
+    <dcterms:medium>festschrift</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64221/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64221</edm:isShownAt>

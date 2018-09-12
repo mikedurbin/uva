@@ -11,16 +11,14 @@
     <dcterms:identifier>uva-lib:2161603</dcterms:identifier>
     <dcterms:title>Engineering School - Graduate Division</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Thompson, Ralph R.</dcterms:creator>
     <dcterms:description>From excerpt:  Explaining a problem at the close of his advanced calculus class, Edward J. McShane discusses a problem in differential equations with William F. Lankford, second-year man from Farmville, VA, and Richard A. Jesser, third-year student from Waynesboro, VA.  McShane, professor and acting chairman of the University mathematics department, is also president elect of the American Mathematics Society and former president of the Mathematical Association of America.  Lankford is the son of a former University of Virginia professor, now president of Longwood College in Farmville.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2161603/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2161603</edm:isShownAt>

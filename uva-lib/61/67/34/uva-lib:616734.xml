@@ -11,18 +11,21 @@
     <dcterms:identifier>uva-lib:616734</dcterms:identifier>
     <dcterms:title>A chart of the West India from New Foundland to the River Oronoque</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Mount, Richard, -1722</dcterms:creator>
+    <dcterms:creator>Page, Thomas, d. 1733</dcterms:creator>
     <dcterms:created>1702</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : hand col. ; 45 x 56 cm.</dcterms:extent>
     <dcterms:publisher>Sold by Richd. Mount and Tho. Page at the Postern on Great Tower hill, London</dcterms:publisher>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Nautical charts--Atlantic Coast (North America)--To 1800</dcterms:subject>
+    <dcterms:subject>Atlantic Coast (North America)--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Caribbean Area--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>To 1800</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616734/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616734</edm:isShownAt>

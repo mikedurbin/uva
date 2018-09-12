@@ -16,11 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>246 p. 6 pl., 2 port. (incl. front.) map. 20 cm.</dcterms:extent>
     <dcterms:publisher>Appleton</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Champlain, Samuel de</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Champlain, Samuel de, 1574-1635</dcterms:subject>
+    <dcterms:subject>Canada--History--To 1763 (New France)</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1763 (New France)</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63928/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63928</edm:isShownAt>

@@ -12,6 +12,7 @@
     <dcterms:title>Dampier's Voyages</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Dampier, William, 1652-1715</dcterms:creator>
+    <dcterms:creator>Masefield, John, 1878-1967</dcterms:creator>
     <dcterms:created>1906</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. front. (port.) 15 pl., 11 fold. maps. 23 cm.</dcterms:extent>
@@ -21,9 +22,9 @@
     <dcterms:subject>Buccaneers</dcterms:subject>
     <dcterms:subject>Winds</dcterms:subject>
     <dcterms:subject>Tides</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Latin America--Description and travel</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63754/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63754</edm:isShownAt>

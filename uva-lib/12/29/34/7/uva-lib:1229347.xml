@@ -11,14 +11,14 @@
     <dcterms:identifier>uva-lib:1229347</dcterms:identifier>
     <dcterms:title>In Congress, July 4, 1776. : A declaration by the representatives of the United States of America, in General Congress assembled. ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>United States</dcterms:creator>
+    <dcterms:creator>Gaine, Hugh, 1726 or 1727-1807</dcterms:creator>
     <dcterms:created>1776</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 46 x 30 cm.</dcterms:extent>
     <dcterms:publisher>Printed by Hugh Gaine, in Hanover-Square.</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-New York (State)-New York-1776.</edm:hasType>
+    <dcterms:medium>Broadsides-New York (State)-New York-1776.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1229347/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1229347</edm:isShownAt>

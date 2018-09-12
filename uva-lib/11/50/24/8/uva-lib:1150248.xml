@@ -12,18 +12,20 @@
     <dcterms:title>The conquered banner</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>La Hache, Théod. von, (Théodor), 1823-1867</dcterms:creator>
+    <dcterms:creator>Moina</dcterms:creator>
+    <dcterms:creator>Boehler, J. E.</dcterms:creator>
+    <dcterms:creator>Wehrmann, Henry, 1871-1956</dcterms:creator>
     <dcterms:created>1866</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (9 p.) : ill.</dcterms:extent>
     <dcterms:publisher>A.E. Blackmar</dcterms:publisher>
     <dcterms:subject>Songs (Medium voice) with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>War songs</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
+    <dcterms:subject>War songs--Confederate States of America</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Songs and music</dcterms:subject>
+    <dcterms:subject>Confederate States of America--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1150248/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1150248</edm:isShownAt>

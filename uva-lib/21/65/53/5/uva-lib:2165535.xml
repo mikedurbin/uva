@@ -11,17 +11,15 @@
     <dcterms:identifier>uva-lib:2165535</dcterms:identifier>
     <dcterms:title>Law School Law Day 1968</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Thompson, Ralph R.</dcterms:creator>
     <dcterms:created>1968</dcterms:created>
     <dcterms:description>Law School alumni banquet.  Identified: Edgar F. Shannon, Jr., Fourth President of Uva [1959-1974] (far left); Hardy C. Dillard, Class of 1927, fourth Dean of the School of Law [1963-1968] with Charles P. Light, Dean of the Washington and Lee Law School.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2165535/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2165535</edm:isShownAt>

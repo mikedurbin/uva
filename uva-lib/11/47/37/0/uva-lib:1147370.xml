@@ -12,16 +12,19 @@
     <dcterms:title>When sparrows build : a romance</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Sprint, Lizzie Allen.</dcterms:creator>
+    <dcterms:creator>Ingelow, Jean, 1820-1897</dcterms:creator>
+    <dcterms:creator>Isenman, Emil</dcterms:creator>
+    <dcterms:creator>Pepper, J. W.</dcterms:creator>
+    <dcterms:creator>Genese, D.</dcterms:creator>
     <dcterms:created>1897</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.) : ill.</dcterms:extent>
     <dcterms:publisher>Lizzie Allen Sprint</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Sparrows</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Sparrows--Songs and music</dcterms:subject>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1147370/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1147370</edm:isShownAt>

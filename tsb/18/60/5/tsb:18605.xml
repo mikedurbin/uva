@@ -12,16 +12,16 @@
     <dcterms:title>Baden Baden polka : Das Bohemian</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Strauss, Isaac, 1806-1888</dcterms:creator>
+    <dcterms:creator>Musard, Philippe, 1793-1859</dcterms:creator>
     <dcterms:created>1844/1845</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[2] leaves of music ; 33 cm.</dcterms:extent>
     <dcterms:publisher>F.D. Benteen</dcterms:publisher>
     <dcterms:subject>Polkas</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular instrumental music--United States--To 1901</dcterms:subject>
+    <dcterms:subject>Baden-Baden (Germany)--Songs and music</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18605/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18605</edm:isShownAt>

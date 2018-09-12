@@ -17,10 +17,9 @@
     <dcterms:extent>118 p. illus. 19 cm.</dcterms:extent>
     <dcterms:publisher>W. L. Borland</dcterms:publisher>
     <dcterms:subject>Gettysburg, Battle of, Gettysburg, Pa., 1863</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Gettysburg (Pa.)--History--Civil War, 1861-1865</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64329/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64329</edm:isShownAt>

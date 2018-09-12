@@ -12,14 +12,17 @@
     <dcterms:title>Good night, beloved : serenade</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Balfe, M. W. (Michael William), 1808-1870</dcterms:creator>
+    <dcterms:creator>Squires, Henry</dcterms:creator>
+    <dcterms:creator>Longfellow, Henry Wadsworth, 1807-1882</dcterms:creator>
     <dcterms:created>1859/1865</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (9 p.).</dcterms:extent>
     <dcterms:publisher>S. Brainard &amp; Co.</dcterms:publisher>
+    <dcterms:subject>Longfellow, Henry Wadsworth, 1807-1882</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Longfellow, Henry Wadsworth</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1118962/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1118962</edm:isShownAt>

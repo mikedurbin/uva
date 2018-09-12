@@ -13,13 +13,14 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:created>1874</dcterms:created>
     <dcterms:extent>1 manuscript map : col. ; 54 x 81 cm.</dcterms:extent>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Valley Railroad (Va.)/</dcterms:subject>
-    <dcterms:subject>Chesapeake and Ohio Railroad Company</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Maps, Manuscript</dcterms:subject>
+    <dcterms:subject>Maps, Manuscript</dcterms:subject>
+    <dcterms:subject>Real property--Virginia--Staunton--Maps, Manuscript</dcterms:subject>
+    <dcterms:subject>Railroads--Virginia--Staunton--Maps, Manuscript</dcterms:subject>
+    <dcterms:subject>Staunton (Va.)--Maps, Manuscript</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:735046/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:735046</edm:isShownAt>

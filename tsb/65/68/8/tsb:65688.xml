@@ -12,16 +12,18 @@
     <dcterms:title>The travels of Marco Polo, the Venetian.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Polo, Marco, 1254-1323?</dcterms:creator>
+    <dcterms:creator>Wright, Thomas, 1810-1877</dcterms:creator>
+    <dcterms:creator>Marsden, William, 1754-1836</dcterms:creator>
     <dcterms:created>1880</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxviii, 508 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>Bohn</dcterms:publisher>
     <dcterms:subject>Voyages and travels</dcterms:subject>
-    <dcterms:subject>Mongols</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Mongols--History</dcterms:subject>
+    <dcterms:subject>Asia--Description and travel</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65688/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65688</edm:isShownAt>

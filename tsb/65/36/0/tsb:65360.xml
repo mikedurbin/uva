@@ -11,15 +11,18 @@
     <dcterms:identifier>tsb:65360</dcterms:identifier>
     <dcterms:title>Vocational education, its theory, administration and practice: The problem of vocational education,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Snedden, David, 1868-1951</dcterms:creator>
+    <dcterms:creator>Weeks, Ruth Mary, 1886-1969</dcterms:creator>
+    <dcterms:creator>Cubberley, Ellwood Patterson, 1868-1941</dcterms:creator>
     <dcterms:created>1912</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3v. in 1. 18 cm.</dcterms:extent>
     <dcterms:publisher>Houghton Mifflin company</dcterms:publisher>
     <dcterms:subject>Technical education</dcterms:subject>
     <dcterms:subject>Professional education</dcterms:subject>
-    <dcterms:subject>Public schools</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Public schools--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65360/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65360</edm:isShownAt>

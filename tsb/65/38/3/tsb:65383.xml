@@ -11,12 +11,13 @@
     <dcterms:identifier>tsb:65383</dcterms:identifier>
     <dcterms:title>Haileybury register, 1862-1910</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Milford, Lionel Sumner, 1855-</dcterms:creator>
     <dcterms:created>1910</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>liv, 844 p. front. (fold. plan) 23 cm.</dcterms:extent>
     <dcterms:publisher>Printed by R. Clay and sons, limited</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>ger</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65383/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65383</edm:isShownAt>

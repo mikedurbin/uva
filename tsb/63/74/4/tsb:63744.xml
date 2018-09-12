@@ -16,12 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>x p., 1 l.  : 226, v-viii p. front., plates, ports., plans. ; 24 cm.</dcterms:extent>
     <dcterms:publisher>The H. W. Wilson company</dcterms:publisher>
-    <dcterms:subject>Libraries</dcterms:subject>
+    <dcterms:subject>Carnegie, Andrew, 1835-1919</dcterms:subject>
+    <dcterms:subject>Libraries--United States</dcterms:subject>
     <dcterms:subject>Library architecture</dcterms:subject>
-    <dcterms:subject>Carnegie, Andrew</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63744/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63744</edm:isShownAt>

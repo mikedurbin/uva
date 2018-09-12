@@ -11,21 +11,21 @@
     <dcterms:identifier>uva-lib:1003647</dcterms:identifier>
     <dcterms:title>Annual report of the President and Directors to the stockholders of the Virginia and Tennessee Rail Road Company</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Blackford, W. W. (William Willis), 1831-1905</dcterms:creator>
     <dcterms:created>1848/9999</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>v. ill. 24 cm.</dcterms:extent>
     <dcterms:publisher>Virginian Job Printing Office.</dcterms:publisher>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Virginia and Tennessee Railroad Company./</dcterms:subject>
-    <dcterms:subject>Virginia and Tennessee Railroad Company</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>Railroads--Virginia</dcterms:subject>
+    <dcterms:subject>Railroads--Tennessee</dcterms:subject>
+    <dcterms:subject>Railroads--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--Tennessee--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Lynchburg</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003647/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003647</edm:isShownAt>

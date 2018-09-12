@@ -17,18 +17,18 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>2 x 3 in.</dcterms:extent>
-    <dcterms:subject>Clarke County (Ga.)</dcterms:subject>
-    <dcterms:subject>Georgia</dcterms:subject>
-    <dcterms:subject>Model and Training School (Clarke County (Ga.))</dcterms:subject>
-    <dcterms:subject>South (U.S.)</dcterms:subject>
-    <dcterms:subject>Dressers (cupboards)</dcterms:subject>
-    <dcterms:subject>Sideboards (furniture)</dcterms:subject>
-    <dcterms:subject>Chairs</dcterms:subject>
-    <dcterms:subject>Pedestal tables</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Clarke County (Ga.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Georgia--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Model and Training School (Clarke County (Ga.))--Single built works</dcterms:subject>
+    <dcterms:subject>South (U.S.)--Regions and states</dcterms:subject>
+    <dcterms:subject>Dressers (cupboards)--Furniture</dcterms:subject>
+    <dcterms:subject>Sideboards (furniture)--Furniture</dcterms:subject>
+    <dcterms:subject>Chairs--Furniture</dcterms:subject>
+    <dcterms:subject>Pedestal tables--Furniture</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Lantern slides</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Lantern slides</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:328655/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:328655</edm:isShownAt>

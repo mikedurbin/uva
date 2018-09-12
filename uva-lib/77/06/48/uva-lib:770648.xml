@@ -15,14 +15,14 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([2] p.) ; 30 x 22 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Suffrage</dcterms:subject>
-    <dcterms:subject>Suffrage</dcterms:subject>
-    <dcterms:subject>African Americans</dcterms:subject>
+    <dcterms:subject>Suffrage--Louisiana</dcterms:subject>
+    <dcterms:subject>Suffrage--North Carolina</dcterms:subject>
+    <dcterms:subject>African Americans--Suffrage</dcterms:subject>
     <dcterms:subject>Literacy tests (Election law)</dcterms:subject>
-    <dcterms:subject>Election law</dcterms:subject>
-    <dcterms:subject>Election law</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Election law--Louisiana</dcterms:subject>
+    <dcterms:subject>Election law--North Carolina</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:770648/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:770648</edm:isShownAt>

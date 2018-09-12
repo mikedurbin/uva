@@ -16,11 +16,9 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. 20 cm.</dcterms:extent>
     <dcterms:publisher>Longman, Brown, Green, and Longmans</dcterms:publisher>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Whig Party (Great Britain)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Great Britain--Politics and government--1800-1837</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1800-1837</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64417/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64417</edm:isShownAt>

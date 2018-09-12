@@ -12,20 +12,20 @@
     <dcterms:title>The analogy of religion, natural and revealed, to the constitution and course of nature : to which are added, two brief dissertations: on personal identity, and on the nature of virtue; and fifteen sermons</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Butler, Joseph, 1692-1752</dcterms:creator>
+    <dcterms:creator>Haallifax, Samuel, Bp. of St. Asaph, 1733-1790</dcterms:creator>
     <dcterms:created>1856</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vi, 546 p. : port. ; 19 cm.</dcterms:extent>
     <dcterms:publisher>H. G. Bohn</dcterms:publisher>
     <dcterms:subject>Analogy (Religion)</dcterms:subject>
     <dcterms:subject>Natural theology</dcterms:subject>
-    <dcterms:subject>Apologetics</dcterms:subject>
+    <dcterms:subject>Apologetics--Early works to 1800</dcterms:subject>
     <dcterms:subject>Revelation</dcterms:subject>
     <dcterms:subject>Eschatology</dcterms:subject>
-    <dcterms:subject>Apologetics</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Apologetics--History--18th century</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <dcterms:temporal>18th century</dcterms:temporal>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65299/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65299</edm:isShownAt>

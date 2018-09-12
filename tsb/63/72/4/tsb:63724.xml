@@ -16,9 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>iv, 5-371 p. front., illus., plates. 23 cm.</dcterms:extent>
     <dcterms:publisher>The Union Press&gt;$c 1900</dcterms:publisher>
-    <dcterms:subject>N.T</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Commentaries</dcterms:subject>
+    <dcterms:subject>Commentaries--N.T--Acts</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63724/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63724</edm:isShownAt>

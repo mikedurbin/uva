@@ -12,14 +12,16 @@
     <dcterms:title>The mirror dance</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Ebert, George E.</dcterms:creator>
+    <dcterms:creator>Herrmann, Adelaide, 1853-1932</dcterms:creator>
+    <dcterms:creator>Armstrong, E. W.</dcterms:creator>
     <dcterms:created>1898</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 p. of music : ill.</dcterms:extent>
     <dcterms:publisher>Model Music Store</dcterms:publisher>
+    <dcterms:subject>Herrmann, Adelaide, 1853-1932</dcterms:subject>
+    <dcterms:subject>Portraits</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Herrmann, Adelaide</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1125181/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125181</edm:isShownAt>

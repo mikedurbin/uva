@@ -16,10 +16,9 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 pts. 32 cm.</dcterms:extent>
     <dcterms:publisher>J.J. Hummel</dcterms:publisher>
-    <dcterms:subject>Trio sonatas</dcterms:subject>
-    <dcterms:subject>Quartets (Harpsichord, violins (2), cello)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:subject>Trio sonatas--Parts</dcterms:subject>
+    <dcterms:subject>Quartets (Harpsichord, violins (2), cello)--Parts</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:606291/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:606291</edm:isShownAt>

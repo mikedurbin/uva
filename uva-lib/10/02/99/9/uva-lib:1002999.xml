@@ -15,12 +15,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 broadside. 48 x 32 cm.</dcterms:extent>
     <dcterms:publisher>Printed by the Assigns of John Bill and Christopher Barker, Printers to the Kings Most Excellent Majesty</dcterms:publisher>
+    <dcterms:subject>Bacon, Nathaniel, 1648-1676</dcterms:subject>
     <dcterms:subject>Bacon's Rebellion, 1676</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Bacon, Nathaniel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Virginia--History--Colonial period, ca. 1600-1775</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Colonial period, ca. 1600-1775</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1002999/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002999</edm:isShownAt>

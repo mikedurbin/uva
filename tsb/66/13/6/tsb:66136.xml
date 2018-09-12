@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66136</dcterms:identifier>
+    <dcterms:title>Consuetudo, vel, Lex mercatoria, or, The ancient law-merchant : in three parts, according to the essentials of traffick : necessary for statesmen, judges, magistrates, temporal and civil lawyers, mint-men, merchants, mariners, and all others negotiating in any parts of the world</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Malynes, Gerard, active 1586-1641</dcterms:creator>
+    <dcterms:creator>Miege, Guy, 1644-1718?</dcterms:creator>
+    <dcterms:creator>Welwood, William, active 1578-1622</dcterms:creator>
+    <dcterms:creator>Marius, John.</dcterms:creator>
+    <dcterms:creator>Dafforne, Richard.</dcterms:creator>
+    <dcterms:creator>Collins, John, 1625-1683</dcterms:creator>
+    <dcterms:creator>Liset, Abraham.</dcterms:creator>
+    <dcterms:creator>Zouch, Richard, 1590-1661</dcterms:creator>
+    <dcterms:creator>Borough, John, Sir, -1643</dcterms:creator>
+    <dcterms:created>1686</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>[16], 340, 43-78, [8], 87-130, 28, 22, [8], 42, [20], 54, [14], 19, [12], 13, 13, [6], 3, 3, [49], 7, [52], 9, [286] p. ; 35 cm. (fol.)</dcterms:extent>
+    <dcterms:publisher>Printed for T. Basset ... R. Chiswell ... T. Horne and E. Smith ...</dcterms:publisher>
+    <dcterms:subject>Law merchant--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Commercial law--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Accounting--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Maritime law--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Bills of exchange--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Law merchant--Great Britain--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Commercial law--Great Britain--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Accounting</dcterms:subject>
+    <dcterms:subject>Bills of exchange</dcterms:subject>
+    <dcterms:subject>Commercial law</dcterms:subject>
+    <dcterms:subject>Law merchant</dcterms:subject>
+    <dcterms:subject>Maritime law</dcterms:subject>
+    <dcterms:subject>Great Britain</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:medium>Early works.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66136/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66136</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2547503/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

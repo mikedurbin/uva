@@ -12,15 +12,19 @@
     <dcterms:title>Oh! wilt thou leave thy tranquil home : from the opera, Nebuchadnezzar, performed in London under the title of Nino</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Verdi, Giuseppe, 1813-1901</dcterms:creator>
+    <dcterms:creator>Solera, Temistocle, 1815-1878</dcterms:creator>
+    <dcterms:creator>Mordant, P.</dcterms:creator>
+    <dcterms:creator>Webb, L. W.</dcterms:creator>
     <dcterms:created>1845/1851</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.) ; 31 cm.</dcterms:extent>
     <dcterms:publisher>F.D. Benteen</dcterms:publisher>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:subject>Nebuchadnezzar</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Nebuchadnezzar, II, King of Babylonia, -562 B.C</dcterms:subject>
+    <dcterms:subject>Drama</dcterms:subject>
+    <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>ita</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1126200/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1126200</edm:isShownAt>

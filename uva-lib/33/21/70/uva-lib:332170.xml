@@ -17,17 +17,17 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Monrovia (Liberia)</dcterms:subject>
-    <dcterms:subject>Fish</dcterms:subject>
-    <dcterms:subject>Marketplaces</dcterms:subject>
-    <dcterms:subject>Markets (events)</dcterms:subject>
-    <dcterms:subject>Men</dcterms:subject>
-    <dcterms:subject>Women</dcterms:subject>
-    <dcterms:subject>Infants</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Monrovia (Liberia)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Fish--Aquatic animals</dcterms:subject>
+    <dcterms:subject>Marketplaces--Built complexes and districts</dcterms:subject>
+    <dcterms:subject>Markets (events)--Sales events</dcterms:subject>
+    <dcterms:subject>Men--People by gender</dcterms:subject>
+    <dcterms:subject>Women--People by gender</dcterms:subject>
+    <dcterms:subject>Infants--People by age group</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332170/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332170</edm:isShownAt>

@@ -17,14 +17,12 @@
     <dcterms:extent>[3] p. ; 21 cm.</dcterms:extent>
     <dcterms:publisher>Union Theological Seminary</dcterms:publisher>
     <dcterms:subject>Finances</dcterms:subject>
-    <dcterms:subject>Theological seminaries</dcterms:subject>
-    <dcterms:subject>Union Theological Seminary in Virginia./</dcterms:subject>
-    <dcterms:subject>Union Theological Seminary in Virginia</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Theological seminaries--Virginia</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Prince Edward County</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2174034/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174034</edm:isShownAt>

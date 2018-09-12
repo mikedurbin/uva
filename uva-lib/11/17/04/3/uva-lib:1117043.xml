@@ -12,15 +12,16 @@
     <dcterms:title>Overture, Martha : Oper in vier Aufzügen</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Flotow, Friedrich von, 1812-1883</dcterms:creator>
+    <dcterms:creator>Friedrich, W., approximately 1820-1879</dcterms:creator>
+    <dcterms:creator>Czerny, Carl, 1791-1857</dcterms:creator>
     <dcterms:created>1885</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>17 p. of music.</dcterms:extent>
     <dcterms:publisher>Richard A. Saalfield</dcterms:publisher>
     <dcterms:subject>Overtures (Piano, 4 hands), Arranged</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <edm:hasType>ov-op</edm:hasType>
+    <dcterms:subject>Operas--Excerpts, Arranged</dcterms:subject>
+    <dcterms:medium>ov-op</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1117043/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1117043</edm:isShownAt>

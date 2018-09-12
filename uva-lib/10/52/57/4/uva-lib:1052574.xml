@@ -12,14 +12,16 @@
     <dcterms:title>Figure del Nuouo Testamento, : illustrate da versi vulgari italiani..</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Maraffi, Damiano, active 16th century</dcterms:creator>
+    <dcterms:creator>Salomon, Bernard, approximately 1506-approximately 1561</dcterms:creator>
     <dcterms:created>1554</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[104] p. : ill. ; 17 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Per Giovanni di Tournes</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Illustrations</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>ita</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1052574/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1052574</edm:isShownAt>

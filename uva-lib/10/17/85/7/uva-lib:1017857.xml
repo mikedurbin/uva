@@ -12,18 +12,20 @@
     <dcterms:title>Discours merueilleux de la vie, actions &amp; deportemens de Catherine de Medicis Royne mere, : auquel sont recitez les moyens qu'elle a tenu pour vsurper le gouuernement du Royaume de France, &amp; ruiner l'estat d'iceluy.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Estienne, Henri, 1531-1598</dcterms:creator>
+    <dcterms:creator>Serres, Jean de, 1540?-1598</dcterms:creator>
+    <dcterms:creator>Bèze, Théodore de, 1519-1605</dcterms:creator>
+    <dcterms:creator>Gentillet, Innocent, approximately 1535-approximately 1595</dcterms:creator>
     <dcterms:created>1575</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>164 p. ; 18 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>s.n.]</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Catherine de Médicis</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Catherine de Médicis, Queen, consort of Henry II, King of France, 1519-1589</dcterms:subject>
+    <dcterms:subject>France--History--Charles IX, 1560-1574</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
-    <dcterms:temporal>Charles IX, 1560-1574</dcterms:temporal>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1017857/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1017857</edm:isShownAt>

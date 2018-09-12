@@ -12,15 +12,16 @@
     <dcterms:title>Horace Mann and the public school in the United States</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Compayré, Gabriel, 1843-1913</dcterms:creator>
+    <dcterms:creator>Frost, Mary D.</dcterms:creator>
     <dcterms:created>1907</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 p.l., iii-vi, 3-134 p. front. (port.) 20 cm.</dcterms:extent>
     <dcterms:publisher>T. Y. Crowell &amp; co.</dcterms:publisher>
-    <dcterms:subject>Public schools</dcterms:subject>
-    <dcterms:subject>Mann, Horace</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Mann, Horace, 1796-1859</dcterms:subject>
+    <dcterms:subject>Public schools--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63716/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63716</edm:isShownAt>

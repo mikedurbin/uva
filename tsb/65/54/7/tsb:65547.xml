@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 p.l., viii p., 1 l., 284 p. front., plates, ports. 25 cm.</dcterms:extent>
     <dcterms:publisher>G. P. Putnam's sons</dcterms:publisher>
-    <dcterms:subject>Emerson, Ralph Waldo</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Emerson, Ralph Waldo, 1803-1882</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65547/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65547</edm:isShownAt>

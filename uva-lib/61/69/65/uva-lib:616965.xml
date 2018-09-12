@@ -12,17 +12,23 @@
     <dcterms:title>To the right honourable John Lord Sommers Baron of Evesham in ye county of Worcester President of Her Majety's most honourable Privy Council &amp;c.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+    <dcterms:creator>Lens, Bernard, 1659-1725</dcterms:creator>
+    <dcterms:creator>Vertue, George, 1684-1756</dcterms:creator>
+    <dcterms:creator>Bowles, Thomas, -1767</dcterms:creator>
+    <dcterms:creator>Overton, Philip, -1751</dcterms:creator>
     <dcterms:created>1712</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : hand col. ; 58 x 96 cm.</dcterms:extent>
     <dcterms:publisher>Printed for H. Moll, D. Midwinter at ye 3 Crowns in St. Pauls Church yard and T. Bowles Print and Mapselle next to the chapter house in St. Pauls Church yard, and over against Devereux Court, without Temple Bar. And by P. Overton Map and Printseller near S. Dunstans Church Fleetstreet</dcterms:publisher>
-    <dcterms:subject>Cod fisheries</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Cod fisheries--Newfoundland and Labrador--Illustrations--Early works to 1800</dcterms:subject>
+    <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Canada--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616965/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616965</edm:isShownAt>

@@ -17,8 +17,8 @@
     <dcterms:extent>x p., 1 l., 359 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>D. Appleton and company</dcterms:publisher>
     <dcterms:subject>Recreation centers</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65524/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65524</edm:isShownAt>

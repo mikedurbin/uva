@@ -11,12 +11,14 @@
     <dcterms:identifier>uva-lib:2144926</dcterms:identifier>
     <dcterms:title>The Committee appointed to report what further provisions are necessary for the more general promulgation of the laws, report: ... [December 23, 1794</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Moore, Andrew, 1752-1821</dcterms:creator>
     <dcterms:created>1794</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 broadside. 32x20cm.</dcterms:extent>
-    <dcterms:subject>Printing, Public</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Printing, Public--United States</dcterms:subject>
+    <dcterms:subject>United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2144926/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2144926</edm:isShownAt>

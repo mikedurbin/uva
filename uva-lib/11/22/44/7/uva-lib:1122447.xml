@@ -12,15 +12,16 @@
     <dcterms:title>La traviata : easy amusement without octaves : op. 40</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Burgmüller, Friedrich, 1806-1874</dcterms:creator>
+    <dcterms:creator>Verdi, Giuseppe, 1813-1901</dcterms:creator>
+    <dcterms:creator>Meyer, Leopold von, 1816-1883</dcterms:creator>
     <dcterms:created>1880</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>11 p. of music.</dcterms:extent>
     <dcterms:publisher>F.A. North &amp; Co.</dcterms:publisher>
-    <dcterms:subject>Operas</dcterms:subject>
+    <dcterms:subject>Operas--Excerpts--Piano scores</dcterms:subject>
     <dcterms:subject>Musical parodies</dcterms:subject>
     <dcterms:subject>Piano music (4 hands), Arranged</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1122447/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1122447</edm:isShownAt>

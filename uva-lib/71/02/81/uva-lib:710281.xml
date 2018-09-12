@@ -17,10 +17,13 @@
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map ; 112 x 103 cm. on sheet 153 x 108 cm.</dcterms:extent>
     <dcterms:publisher>Owned and published by the Virginia School Company</dcterms:publisher>
-    <dcterms:subject>Railroad stations</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Railroad stations--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Albemarle County (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Albemarle County (Va.)--Statistics</dcterms:subject>
+    <dcterms:subject>Charlottesville (Va.)--Statistics</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:710281/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:710281</edm:isShownAt>

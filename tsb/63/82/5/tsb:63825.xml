@@ -12,13 +12,15 @@
     <dcterms:title>Anecdotes of the English language; chiefly regarding the local dialect of London and its environs;</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Pegge, Samuel, 1733-1800</dcterms:creator>
+    <dcterms:creator>Grose, Francis, 1731?-1791</dcterms:creator>
+    <dcterms:creator>Christmas, Henry, 1811-1868</dcterms:creator>
     <dcterms:created>1844</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>p. cm.</dcterms:extent>
     <dcterms:publisher>Printed by J. B. Nicholos and son</dcterms:publisher>
-    <dcterms:subject>English language</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>English language--Dialects--England--London</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63825/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63825</edm:isShownAt>

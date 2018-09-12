@@ -17,18 +17,12 @@
     <dcterms:extent>1 sheet ([1] p.) ; 58 x 13 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
     <dcterms:subject>Reconstruction (U.S. history, 1865-1877)</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Virginia./</dcterms:subject>
-    <dcterms:subject>Constitutional Convention/</dcterms:subject>
-    <dcterms:subject>(1867-1868)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Virginia--Description and travel--19th century</dcterms:subject>
+    <dcterms:subject>Southern States--Description and travel--19th century</dcterms:subject>
+    <dcterms:subject>United States--Politics and government--1865-1869</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-United States-1868.</edm:hasType>
-    <dcterms:temporal>19th century</dcterms:temporal>
-    <dcterms:temporal>19th century</dcterms:temporal>
-    <dcterms:temporal>1865-1869</dcterms:temporal>
+    <dcterms:medium>Broadsides-United States-1868.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1017056/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1017056</edm:isShownAt>

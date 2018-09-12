@@ -11,16 +11,14 @@
     <dcterms:identifier>uva-lib:2162816</dcterms:identifier>
     <dcterms:title>Local Government Officials Conference</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Thompson, Ralph R.</dcterms:creator>
     <dcterms:description>From excerpt on photo:  City and county officers meet to plan the annual Local Government Officials Conference which will be held August 29 to 31 at the University of Virginia.  In the planning group are, left to right, William E. Sandidge, court clerk, Amherst County; William R. Moore, commissioner of revenur, Norfolk; University President Colgate W. Darden Jr.; Charles C. Stone, commonwealth's attorney, Fauquier County; Edgar L. Winstead, city sergeant, Roanoke city; Charles Covington, treasurer, city of Warwick; William B. Speck, field secretary, League of Virginia Counties, and Harold I. Baumes, executive secretary, League of Virginia Municipalities.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2162816/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2162816</edm:isShownAt>

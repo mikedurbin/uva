@@ -14,13 +14,11 @@
     <dcterms:created>1774</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 folded sheet ([1] p.) 18 x 19 cm.</dcterms:extent>
-    <dcterms:subject>Tariff</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Tariff--United States</dcterms:subject>
+    <dcterms:subject>Virginia--History--Colonial period, ca. 1600-1775</dcterms:subject>
+    <dcterms:subject>United States--History--Revolution, 1775-1783--Sources</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Colonial period, ca. 1600-1775</dcterms:temporal>
-    <dcterms:temporal>Revolution, 1775-1783</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2144916/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2144916</edm:isShownAt>

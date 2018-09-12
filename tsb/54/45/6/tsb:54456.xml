@@ -12,39 +12,61 @@
     <dcterms:title>The American atlas; or, A geographical description of the whole continent of America. : Wherein are delineated at large, its several regions, countries, states, and islands; and chiefly the British colonies.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Jefferys, Thomas, -1771</dcterms:creator>
+    <dcterms:creator>Anville, Jean Baptiste Bourguignon d', 1697-1782</dcterms:creator>
+    <dcterms:creator>Bougainville, Louis-Antoine de, comte, 1729-1811</dcterms:creator>
+    <dcterms:creator>Bowen, Emanuel, 1693 or 1694-1767</dcterms:creator>
+    <dcterms:creator>Byron, John, 1723-1786</dcterms:creator>
+    <dcterms:creator>Wallis, Samuel, 1728-1795</dcterms:creator>
+    <dcterms:creator>Carteret, Philip, -1796</dcterms:creator>
+    <dcterms:creator>Chabert, Joseph Bernard, marquis de, 1724-1805</dcterms:creator>
+    <dcterms:creator>Cook, James, 1728-1779</dcterms:creator>
+    <dcterms:creator>Cruz Cano y Olmedilla, Juan de la, -1790</dcterms:creator>
+    <dcterms:creator>Dunn, Samuel, -1794</dcterms:creator>
+    <dcterms:creator>Fleurieu, C. P. Claret (Charles Pierre Claret), comte de, 1738-1810</dcterms:creator>
+    <dcterms:creator>Fry, Joshua, approximately 1700-1754</dcterms:creator>
+    <dcterms:creator>Gibson, J. (John), active 1750-1792</dcterms:creator>
+    <dcterms:creator>Green, John, -1757</dcterms:creator>
+    <dcterms:creator>Holland, Samuel, 1728-1801</dcterms:creator>
+    <dcterms:creator>Jefferson, Peter, 1708-1757</dcterms:creator>
+    <dcterms:creator>Jefferys, Thomas, -1771</dcterms:creator>
+    <dcterms:creator>Jefferys, Thomas, -1771</dcterms:creator>
+    <dcterms:creator>Lane, Michael, active 1768-1784</dcterms:creator>
+    <dcterms:creator>Mouzon, Henry</dcterms:creator>
+    <dcterms:creator>Ross, John, active 1762-1789</dcterms:creator>
+    <dcterms:creator>Scull, William, active 1765</dcterms:creator>
     <dcterms:created>1775</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>atlas</dcterms:medium>
     <dcterms:extent>[4] p., 29 sheets : 22 maps (all folding or double-page except one), copperplate engraving, hand-colored in outline ; 57 cm (fol.)</dcterms:extent>
     <dcterms:publisher>Printed and sold by R. Sayer and J. Bennett, map and print sellers, No. 53, Fleet-Street.</dcterms:publisher>
-    <dcterms:subject>Indians</dcterms:subject>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:subject>Discovery and exploration</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Indians--Land tenure--Maps--1775</dcterms:subject>
+    <dcterms:subject>Nautical charts--Grand Banks of Newfoundland--1775</dcterms:subject>
+    <dcterms:subject>Nautical charts--Saint Lawrence, Gulf of--1775</dcterms:subject>
+    <dcterms:subject>North America--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>America--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>America--Discovery and exploration--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Central America--Maps--1775</dcterms:subject>
+    <dcterms:subject>Gulf Coast (Fla.)--Maps--1775</dcterms:subject>
+    <dcterms:subject>Gulf Coast (La.)--Maps--1775</dcterms:subject>
+    <dcterms:subject>Honduras, Gulf of--Maps--1775</dcterms:subject>
+    <dcterms:subject>Magellan, Strait of (Chile and Argentina)--Maps--1775</dcterms:subject>
+    <dcterms:subject>Maritime Provinces--Maps--1775</dcterms:subject>
+    <dcterms:subject>Middle Atlantic States--Maps--1775</dcterms:subject>
+    <dcterms:subject>Mississippi River Valley--Maps--1775</dcterms:subject>
+    <dcterms:subject>Newfoundland and Labrador--Maps--1775</dcterms:subject>
+    <dcterms:subject>North Pacific Ocean--Maps--1775</dcterms:subject>
+    <dcterms:subject>Northwest Passage--Maps--1775</dcterms:subject>
+    <dcterms:subject>Siberia (Russia)--Maps--1775</dcterms:subject>
+    <dcterms:subject>Prince Edward Island--Maps--1775</dcterms:subject>
+    <dcterms:subject>Southern States--Maps--1775</dcterms:subject>
+    <dcterms:subject>Virginia--Maps--1775</dcterms:subject>
     <dcterms:spatial>Great Britain</dcterms:spatial>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>atlas</edm:hasType>
-    <dcterms:temporal>1775</dcterms:temporal>
-    <dcterms:temporal>1775</dcterms:temporal>
-    <dcterms:temporal>1775</dcterms:temporal>
-    <dcterms:temporal>1775</dcterms:temporal>
-    <dcterms:temporal>1775</dcterms:temporal>
-    <dcterms:temporal>1775</dcterms:temporal>
-    <dcterms:temporal>1775</dcterms:temporal>
-    <dcterms:temporal>1775</dcterms:temporal>
-    <dcterms:temporal>1775</dcterms:temporal>
-    <dcterms:temporal>1775</dcterms:temporal>
-    <dcterms:temporal>1775</dcterms:temporal>
-    <dcterms:temporal>1775</dcterms:temporal>
-    <dcterms:temporal>1775</dcterms:temporal>
-    <dcterms:temporal>1775</dcterms:temporal>
-    <dcterms:temporal>1775</dcterms:temporal>
-    <dcterms:temporal>1775</dcterms:temporal>
-    <dcterms:temporal>1775</dcterms:temporal>
-    <dcterms:temporal>1775</dcterms:temporal>
+    <dcterms:medium>atlas</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:54456/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:54456</edm:isShownAt>

@@ -12,14 +12,17 @@
     <dcterms:title>Say not farewell : song</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Millard, H. (Harrison), 1830-1895</dcterms:creator>
+    <dcterms:creator>Clayton, Charles O.</dcterms:creator>
+    <dcterms:creator>Teller, R. (Robert)</dcterms:creator>
+    <dcterms:creator>Ronalds, M. F., Made</dcterms:creator>
     <dcterms:created>1877</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (6 p.) : ill.</dcterms:extent>
     <dcterms:publisher>Spear &amp; Dehnhoff</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1136347/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1136347</edm:isShownAt>

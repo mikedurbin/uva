@@ -11,18 +11,20 @@
     <dcterms:identifier>uva-lib:1151509</dcterms:identifier>
     <dcterms:title>Coming thro' the rye</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Parry, John, 1776-1851</dcterms:creator>
+    <dcterms:creator>Burns, Robert, 1759-1796</dcterms:creator>
     <dcterms:created>1895</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (2 p.).</dcterms:extent>
     <dcterms:publisher>Emerson Drug Co.</dcterms:publisher>
+    <dcterms:subject>Burns, Robert, 1759-1796</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
     <dcterms:subject>Songs with piano</dcterms:subject>
     <dcterms:subject>Songs with organ</dcterms:subject>
-    <dcterms:subject>Ballads, English</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>Burns, Robert</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Ballads, English--Scotland</dcterms:subject>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1151509/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1151509</edm:isShownAt>

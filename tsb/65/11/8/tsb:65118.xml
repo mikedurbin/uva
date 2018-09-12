@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>160 p.</dcterms:extent>
     <dcterms:publisher>Longmans, Green, Reader and Dyer</dcterms:publisher>
-    <dcterms:subject>Names, Personal</dcterms:subject>
+    <dcterms:subject>Names, Personal--England--Cornwall</dcterms:subject>
     <dcterms:subject>Onomastics</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65118/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65118</edm:isShownAt>

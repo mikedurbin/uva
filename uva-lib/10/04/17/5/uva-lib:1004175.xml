@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>18 p. 21 cm.</dcterms:extent>
     <dcterms:publisher>Printed by Watson &amp; Tompkins</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
+    <dcterms:subject>Madison, James, 1751-1836</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
     <dcterms:subject>Medicine</dcterms:subject>
-    <dcterms:subject>Madison, James</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004175/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004175</edm:isShownAt>

@@ -12,15 +12,16 @@
     <dcterms:title>Sketch of the life of J. F. D. Lanier</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Lanier, J. F. D. (James Franklin Doughty), 1800-1881</dcterms:creator>
+    <dcterms:creator>Lanier, Sidney, 1842-1881</dcterms:creator>
     <dcterms:created>1877</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>87 p. front. (port.) 24 cm.</dcterms:extent>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Winslow, Richard H/</dcterms:subject>
+    <dcterms:subject>Winslow, Richard H, d. 1861</dcterms:subject>
     <dcterms:subject>Lanier family</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Indiana--Politics and government</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63752/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63752</edm:isShownAt>

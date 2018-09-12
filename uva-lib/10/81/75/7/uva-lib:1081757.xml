@@ -14,13 +14,14 @@
     <dcterms:created>1855/1870</dcterms:created>
     <dcterms:extent>1 map ; 39 x 61 cm.</dcterms:extent>
     <dcterms:publisher>Louisville Journal</dcterms:publisher>
-    <dcterms:subject>Election districts</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Election districts--Kentucky--Louisville--Maps</dcterms:subject>
+    <dcterms:subject>Louisville (Ky.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Kentucky</dcterms:spatial>
     <dcterms:spatial>Louisville</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1081757/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1081757</edm:isShownAt>

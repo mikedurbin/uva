@@ -12,15 +12,15 @@
     <dcterms:title>The Christian education of children and youth</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Miller, Samuel, 1769-1850</dcterms:creator>
+    <dcterms:creator>Janeway, J. J. (Jacob Jones), 1774-1858</dcterms:creator>
     <dcterms:created>1840</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>66 p., 15 cm.</dcterms:extent>
     <dcterms:publisher>Presbyterian board of publication</dcterms:publisher>
     <dcterms:subject>Education</dcterms:subject>
-    <dcterms:subject>Church schools</dcterms:subject>
-    <dcterms:subject>Presbyterian Church in the U.S.A.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Church schools--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64377/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64377</edm:isShownAt>

@@ -12,15 +12,17 @@
     <dcterms:title>Map showing the Boyd coal &amp; iron lands : with a sketch of the country, including Wytheville, Va.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Boyd, Charles Rufus, 1841-1903</dcterms:creator>
+    <dcterms:creator>Boyd, Thomas Jefferson, 1804-1893</dcterms:creator>
+    <dcterms:creator>Noble, John S., 1806-1887</dcterms:creator>
     <dcterms:created>1878</dcterms:created>
     <dcterms:extent>1 map ; 50 x 36 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Mines and mineral resources</dcterms:subject>
-    <dcterms:subject>Coal lands</dcterms:subject>
-    <dcterms:subject>Iron mines and mining</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Mines and mineral resources--Virginia--Wythe County--Maps</dcterms:subject>
+    <dcterms:subject>Coal lands--Virginia--Wythe County--Maps</dcterms:subject>
+    <dcterms:subject>Iron mines and mining--Virginia--Wythe County--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003490/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003490</edm:isShownAt>

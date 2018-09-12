@@ -17,20 +17,20 @@
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : col. ; 34 x 97 cm. on sheet 42 x 104 cm.</dcterms:extent>
     <dcterms:publisher>Jed. Hotchkiss?]</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Coalfields</dcterms:subject>
-    <dcterms:subject>Coalfields</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:subject>Hotchkiss, Jedediah/</dcterms:subject>
-    <dcterms:subject>Flat-Top Coal Land Association/</dcterms:subject>
-    <dcterms:subject>Guyandot Coal Land Association/</dcterms:subject>
-    <dcterms:subject>Norfolk and Western Railroad</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Hotchkiss, Jedediah, 1828-1899</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>Coalfields--West Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Coalfields--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--West Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Real property--West Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Real property--Virginia--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003374/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003374</edm:isShownAt>

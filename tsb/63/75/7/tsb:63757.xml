@@ -12,14 +12,15 @@
     <dcterms:title>Characters and events</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Dewey, John, 1859-1952</dcterms:creator>
+    <dcterms:creator>Ratner, Joseph, 1901-</dcterms:creator>
     <dcterms:created>1929</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. front. (port.) 21 cm.</dcterms:extent>
     <dcterms:publisher>H. Holt and company</dcterms:publisher>
     <dcterms:subject>Social sciences</dcterms:subject>
     <dcterms:subject>Political science</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63757/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63757</edm:isShownAt>

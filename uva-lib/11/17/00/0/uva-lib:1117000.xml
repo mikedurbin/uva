@@ -12,14 +12,17 @@
     <dcterms:title>Come into the garden Maud : cavatina, as sung by Henry Squires, Esq.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Balfe, M. W. (Michael William), 1808-1870</dcterms:creator>
+    <dcterms:creator>Tennyson, Alfred Tennyson, Baron, 1809-1892</dcterms:creator>
+    <dcterms:creator>Squires, Henry</dcterms:creator>
     <dcterms:created>1857/1860</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (6 p.)</dcterms:extent>
     <dcterms:publisher>Balmer &amp; Weber</dcterms:publisher>
+    <dcterms:subject>Tennyson, Alfred Tennyson, Baron, 1809-1892</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
     <dcterms:subject>Songs with guitar, Arranged</dcterms:subject>
-    <dcterms:subject>Tennyson, Alfred Tennyson</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1117000/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1117000</edm:isShownAt>

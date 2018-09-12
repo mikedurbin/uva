@@ -12,16 +12,18 @@
     <dcterms:title>An account of the families of Lennard and Barrett. Compiled largely from original documents.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Barrett-Lennard, Thomas, 1853-1923</dcterms:creator>
+    <dcterms:creator>Dacre, Thomas Barrett-Lennard, baron, 1717-1786</dcterms:creator>
+    <dcterms:creator>Barrett-Lennard, Henry, 1818-1899</dcterms:creator>
     <dcterms:created>1908</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xvii, 681 p.  front., illus. (facsims.) ports., plates. 24 cm.</dcterms:extent>
     <dcterms:publisher>Printed by Spottiswoode &amp; co. ltd.]</dcterms:publisher>
-    <dcterms:subject>Leonard family/</dcterms:subject>
-    <dcterms:subject>Barrett family/</dcterms:subject>
-    <dcterms:subject>Dacre family/</dcterms:subject>
+    <dcterms:subject>Leonard family</dcterms:subject>
+    <dcterms:subject>Barrett family</dcterms:subject>
+    <dcterms:subject>Dacre family</dcterms:subject>
     <dcterms:subject>Fynes family</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65566/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65566</edm:isShownAt>

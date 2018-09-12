@@ -15,13 +15,13 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>22 v. : ill., maps ; 23-30 cm.</dcterms:extent>
     <dcterms:publisher>G.P.O.</dcterms:publisher>
-    <dcterms:subject>Geology</dcterms:subject>
-    <dcterms:subject>Water-supply</dcterms:subject>
-    <dcterms:subject>Forest reserves</dcterms:subject>
-    <dcterms:subject>Mines and mineral resources</dcterms:subject>
-    <dcterms:subject>Geological Survey (U.S.)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Periodicals</dcterms:subject>
+    <dcterms:subject>Geology--United States--Periodicals</dcterms:subject>
+    <dcterms:subject>Water-supply--United States--Periodicals</dcterms:subject>
+    <dcterms:subject>Forest reserves--United States--Periodicals</dcterms:subject>
+    <dcterms:subject>Mines and mineral resources--United States--Periodicals</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65219/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65219</edm:isShownAt>

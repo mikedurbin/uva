@@ -16,11 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xii, 238 p. 26 cm.</dcterms:extent>
     <dcterms:publisher>W. Heinemann</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Conselheiro, Antônio</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Conselheiro, Antônio, 1830-1897</dcterms:subject>
+    <dcterms:subject>Brazil--History--Canudos Campaign, 1893-1897</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Canudos Campaign, 1893-1897</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64596/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64596</edm:isShownAt>

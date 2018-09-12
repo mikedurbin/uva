@@ -11,14 +11,14 @@
     <dcterms:identifier>tsb:18643</dcterms:identifier>
     <dcterms:title>Strauss' much admired waltzes : as performed in Europe by his celebrated band and in America by the Prague Company.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Strauss, Johann, 1804-1849</dcterms:creator>
     <dcterms:created>1839</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>10 p. of music ; 34 cm.</dcterms:extent>
     <dcterms:publisher>Published by F.D. Benteen</dcterms:publisher>
     <dcterms:subject>Waltzes</dcterms:subject>
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18643/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18643</edm:isShownAt>

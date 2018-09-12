@@ -12,15 +12,17 @@
     <dcterms:title>Who is Sylvia? = Was ist Sylvia : op. 106, no. 4, (original key)</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Schubert, Franz, 1797-1828</dcterms:creator>
+    <dcterms:creator>Shakespeare, William, 1564-1616</dcterms:creator>
     <dcterms:created>1889/1899</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.)</dcterms:extent>
     <dcterms:publisher>Oliver Ditson Co.</dcterms:publisher>
+    <dcterms:subject>Shakespeare, William, 1564-1616</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
     <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
-    <dcterms:subject>Shakespeare, William</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>ger</dcterms:language>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1121001/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1121001</edm:isShownAt>

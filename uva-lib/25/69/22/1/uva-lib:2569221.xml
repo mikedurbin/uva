@@ -11,17 +11,16 @@
     <dcterms:identifier>uva-lib:2569221</dcterms:identifier>
     <dcterms:title>Coolidge X-ray tube</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>General Electric Company</dcterms:creator>
     <dcterms:created>1930/1949</dcterms:created>
     <dcterms:description>Coolidge oil-immersed type X-ray tube. 
       This item was given in honor of Theodore E. Keats, M.D., F.A.C.R., Chair of the UVa Department of Radiology from 1963-1991.</dcterms:description>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>5 x 14.3 x 5 cm</dcterms:extent>
-    <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medical instruments or apparatus--X-rays--Equipment and supplies</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2569221/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2569221</edm:isShownAt>

@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>ix, 260 p. 21 cm.</dcterms:extent>
     <dcterms:publisher>Harvard University Press</dcterms:publisher>
-    <dcterms:subject>French language</dcterms:subject>
-    <dcterms:subject>Language and languages</dcterms:subject>
-    <dcterms:subject>Education</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>French language--Study and teaching</dcterms:subject>
+    <dcterms:subject>Language and languages--Study and teaching</dcterms:subject>
+    <dcterms:subject>Education--France</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63751/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63751</edm:isShownAt>

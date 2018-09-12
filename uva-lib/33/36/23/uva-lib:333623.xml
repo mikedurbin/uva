@@ -17,16 +17,16 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Schools</dcterms:subject>
-    <dcterms:subject>Crowds</dcterms:subject>
-    <dcterms:subject>Walking</dcterms:subject>
-    <dcterms:subject>Fences</dcterms:subject>
-    <dcterms:subject>Agricultural Land</dcterms:subject>
-    <dcterms:subject>Trees</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Schools--Single built works by function</dcterms:subject>
+    <dcterms:subject>Crowds--Groups of people</dcterms:subject>
+    <dcterms:subject>Walking--Locomotion</dcterms:subject>
+    <dcterms:subject>Fences--Open spaces and site elements</dcterms:subject>
+    <dcterms:subject>Agricultural Land--Cultural landscapes</dcterms:subject>
+    <dcterms:subject>Trees--Trees and shrubs</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Photographs</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:333623/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333623</edm:isShownAt>

@@ -12,14 +12,15 @@
     <dcterms:title>A treatise of the laws of nature</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Cumberland, Richard, 1631-1718</dcterms:creator>
+    <dcterms:creator>Maxwell, John.</dcterms:creator>
     <dcterms:created>1727</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[28], clxviii, [1], 377, 167, [24], xxviii p. fold. plates. 26 cm.</dcterms:extent>
     <dcterms:publisher>Printed by R. Phillips</dcterms:publisher>
     <dcterms:subject>Ethics</dcterms:subject>
     <dcterms:subject>Christian ethics</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65894/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65894</edm:isShownAt>

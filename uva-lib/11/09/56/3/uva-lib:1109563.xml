@@ -11,14 +11,15 @@
     <dcterms:identifier>uva-lib:1109563</dcterms:identifier>
     <dcterms:title>Map of the Western &amp; Atlantic Railway &amp; conns</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Wrenn, B. W.</dcterms:creator>
     <dcterms:created>1870</dcterms:created>
     <dcterms:extent>1 map ; 27 x 46 cm.</dcterms:extent>
     <dcterms:publisher>Native Virginian</dcterms:publisher>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Western &amp; Atlantic Railroad</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>Railroads--United States--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1109563/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1109563</edm:isShownAt>

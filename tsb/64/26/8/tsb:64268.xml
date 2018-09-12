@@ -12,15 +12,16 @@
     <dcterms:title>Civilization and society; an account of the development and behavior of human society,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Giddings, Franklin Henry, 1855-1931</dcterms:creator>
+    <dcterms:creator>Odum, Howard Washington, 1884-1954</dcterms:creator>
     <dcterms:created>1932</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>x, 412 p. front. (port.) 22 cm.</dcterms:extent>
     <dcterms:publisher>Holt</dcterms:publisher>
     <dcterms:subject>Sociology</dcterms:subject>
     <dcterms:subject>Social psychology</dcterms:subject>
-    <dcterms:subject>Civilization</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Civilization--History</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64268/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64268</edm:isShownAt>

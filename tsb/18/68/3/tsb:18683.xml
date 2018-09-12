@@ -14,11 +14,11 @@
     <dcterms:created>1850</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[4] p. 31 x 20 cm.</dcterms:extent>
-    <dcterms:subject>Bounties, Military</dcterms:subject>
-    <dcterms:subject>Public lands</dcterms:subject>
-    <dcterms:subject>Public lands</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Bounties, Military--Virginia</dcterms:subject>
+    <dcterms:subject>Public lands--Virginia</dcterms:subject>
+    <dcterms:subject>Public lands--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18683/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18683</edm:isShownAt>

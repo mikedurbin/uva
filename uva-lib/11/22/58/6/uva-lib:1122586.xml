@@ -12,14 +12,15 @@
     <dcterms:title>Dreams : study to Tristan und Isolde = Träume : Studie zu Tristan und Isolde</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Wagner, Richard, 1813-1883</dcterms:creator>
+    <dcterms:creator>Wagner, Richard, 1813-1883</dcterms:creator>
     <dcterms:created>18uu</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.)</dcterms:extent>
     <dcterms:publisher>E. Franklin</dcterms:publisher>
     <dcterms:subject>Songs (High voice) with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>ger</dcterms:language>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1122586/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1122586</edm:isShownAt>

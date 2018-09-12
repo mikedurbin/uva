@@ -12,16 +12,19 @@
     <dcterms:title>The daisy</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Gounod, Charles, 1818-1893</dcterms:creator>
+    <dcterms:creator>Dumas, Alexandre, 1824-1895</dcterms:creator>
+    <dcterms:creator>Hunter, Thomas, (Lithographer)</dcterms:creator>
     <dcterms:created>1881</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.) : ill.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
+    <dcterms:subject>Dumas, Alexandre, 1824-1895</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Flowers</dcterms:subject>
-    <dcterms:subject>Dumas, Alexandre</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Flowers--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1149718/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1149718</edm:isShownAt>

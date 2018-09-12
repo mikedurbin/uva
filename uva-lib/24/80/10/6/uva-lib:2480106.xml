@@ -15,13 +15,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>114 p. 21 cm.</dcterms:extent>
     <dcterms:publisher>Published by Gilmer, Davis &amp; Co.</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Davis, John A. G. (John Anthony Gardner)/</dcterms:subject>
-    <dcterms:subject>University of Virginia./</dcterms:subject>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Davis, John A. G. (John Anthony Gardner), 1801-1840</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>Catalogs</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>catalog</edm:hasType>
+    <dcterms:medium>catalog</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2480106/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2480106</edm:isShownAt>

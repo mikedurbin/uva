@@ -11,14 +11,17 @@
     <dcterms:identifier>tsb:65888</dcterms:identifier>
     <dcterms:title>Cases determined in the courts of equity, from 1783 to 1796 inclusive.  With a few of an earlier date by Lord Hardwicke and Lord Northington ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Cox, Samuel Compton</dcterms:creator>
+    <dcterms:creator>Hardwicke, Philip Yorke, Earl of, 1690-1764</dcterms:creator>
+    <dcterms:creator>Northington, Robert Henley, Earl of, 1708?-1772</dcterms:creator>
     <dcterms:created>1816</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. 25 cm.</dcterms:extent>
     <dcterms:publisher>Reed and Hunter</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:subject>Equity</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+    <dcterms:subject>Equity--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65888/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65888</edm:isShownAt>

@@ -12,16 +12,17 @@
     <dcterms:title>Life and times of Petrarch. With notices of Boccacio and his illustrious contemporaries.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Campbell, Thomas, 1777-1844</dcterms:creator>
+    <dcterms:creator>Pfister, J. G. (Johann Georg)</dcterms:creator>
     <dcterms:created>1843</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. fronts. (ports.) plates. 23 cm.</dcterms:extent>
     <dcterms:publisher>H. Colburn</dcterms:publisher>
+    <dcterms:subject>Petrarca, Francesco, 1304-1374</dcterms:subject>
+    <dcterms:subject>Petrarca, Francesco, 1304-1374</dcterms:subject>
     <dcterms:subject>Contemporary Italy</dcterms:subject>
-    <dcterms:subject>Numismatics</dcterms:subject>
-    <dcterms:subject>Petrarca, Francesco/</dcterms:subject>
-    <dcterms:subject>Petrarca, Francesco</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Numismatics--Italy</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65195/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65195</edm:isShownAt>

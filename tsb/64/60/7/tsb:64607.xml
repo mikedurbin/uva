@@ -12,14 +12,17 @@
     <dcterms:title>Ravennatis Anonymi Cosmographia et Gvidonis Geographica</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Geographus Ravennas.</dcterms:creator>
+    <dcterms:creator>Guido, di Ravenna</dcterms:creator>
+    <dcterms:creator>Parthey, G. (Gustav), 1798-1872</dcterms:creator>
+    <dcterms:creator>Pinder, Moritz, 1807-1871</dcterms:creator>
     <dcterms:created>1860</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xviii, [3] p., 1 l., 674, [2] p. fold. map. 20 cm.</dcterms:extent>
     <dcterms:publisher>in aedibvs Friderici Nicolai</dcterms:publisher>
     <dcterms:subject>Geography, Ancient</dcterms:subject>
     <dcterms:subject>Geography, Medieval</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>lat</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64607/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64607</edm:isShownAt>

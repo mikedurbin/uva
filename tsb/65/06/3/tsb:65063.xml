@@ -16,11 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vii, 292 p. ; 20 cm.</dcterms:extent>
     <dcterms:publisher>Hachette</dcterms:publisher>
-    <dcterms:subject>French literature</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>French literature--To 1500--History and criticism</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <dcterms:temporal>To 1500</dcterms:temporal>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65063/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65063</edm:isShownAt>

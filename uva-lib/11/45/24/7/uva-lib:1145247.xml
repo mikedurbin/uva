@@ -12,17 +12,17 @@
     <dcterms:title>Boulanger's grand march</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Desormes, L. C. (Louis César), 1841-1898</dcterms:creator>
+    <dcterms:creator>Brandeis, Frederick, 1835-1899</dcterms:creator>
     <dcterms:created>1887</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 p. of music.</dcterms:extent>
     <dcterms:publisher>Richard A. Saalfield</dcterms:publisher>
+    <dcterms:subject>Boulanger, Georges-Ernest-Jean-Marie, 1837-1891</dcterms:subject>
+    <dcterms:subject>Songs and music</dcterms:subject>
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
     <dcterms:subject>Marches (Piano), Arranged</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:subject>Boulanger, Georges-Ernest-Jean-Marie</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1145247/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1145247</edm:isShownAt>

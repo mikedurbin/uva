@@ -11,16 +11,14 @@
     <dcterms:identifier>uva-lib:2160952</dcterms:identifier>
     <dcterms:title>Child Guidance Clinic</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Thompson, Ralph R.</dcterms:creator>
     <dcterms:description>From clipping: The clinic celebrates first anniversary of its opening.  Inspecting the doll house is, left to right: Linda Carter, chief clinical psychologist; Dr. Frank J. Curran, clinic director and associate professor of neurology and psychiatry in the University's medical school; Dr. George S. Stevenson of NY, medical director of the National Committee for Mental Hygiene and president-elect of the American Psychiatric Association; Isabelle A. Nunnelley, member of the executive committee; Dr. David C. Wilson, chairman of the executive committee and professor of neurology and psychiatry; and Jane Hashagan, chief psyciatric social worker.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2160952/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2160952</edm:isShownAt>

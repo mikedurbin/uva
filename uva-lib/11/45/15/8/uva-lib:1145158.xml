@@ -12,14 +12,17 @@
     <dcterms:title>Annie Laurie : an admired Scotch ballad</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Scott, John, Lady, 1810-1900</dcterms:creator>
+    <dcterms:creator>Dun, Finlay, 1795-1853</dcterms:creator>
+    <dcterms:creator>Swain, George F.</dcterms:creator>
+    <dcterms:creator>Gaw, R. M. (Robert M.), b. ca. 1805</dcterms:creator>
     <dcterms:created>1857/1862</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score ([2] p.) ; 36 cm.</dcterms:extent>
     <dcterms:publisher>Beck &amp; Lawton, Successors to J.E. Gould</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
     <dcterms:subject>Songs, Scots</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1145158/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1145158</edm:isShownAt>

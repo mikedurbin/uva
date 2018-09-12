@@ -12,6 +12,9 @@
     <dcterms:title>Adult learning</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Thorndike, Edward L. (Edward Lee), 1874-1949</dcterms:creator>
+    <dcterms:creator>Woodyard, Ella, 1878-</dcterms:creator>
+    <dcterms:creator>Tilton, John Warren, 1891-</dcterms:creator>
+    <dcterms:creator>Bregman, Elsie Oschrin, 1896-</dcterms:creator>
     <dcterms:created>1928</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>p. cm.</dcterms:extent>
@@ -19,8 +22,8 @@
     <dcterms:subject>Psychophysiology</dcterms:subject>
     <dcterms:subject>Ability, Influence of age on</dcterms:subject>
     <dcterms:subject>Adult education</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64220/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64220</edm:isShownAt>

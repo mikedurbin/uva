@@ -16,12 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>p. cm.</dcterms:extent>
     <dcterms:publisher>R. Clarke &amp; co.</dcterms:publisher>
-    <dcterms:subject>Antislavery movements</dcterms:subject>
-    <dcterms:subject>Slavery</dcterms:subject>
-    <dcterms:subject>Slavery</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Antislavery movements--United States</dcterms:subject>
+    <dcterms:subject>Slavery--United States--Controversial literature--1774-1800</dcterms:subject>
+    <dcterms:subject>Slavery--United States--Societies, etc</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1774-1800</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61572/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61572</edm:isShownAt>

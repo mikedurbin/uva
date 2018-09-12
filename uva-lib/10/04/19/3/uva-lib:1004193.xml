@@ -12,15 +12,17 @@
     <dcterms:title>Sweden, Denmark, Norway and Finland : from the best authorities</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Carey, Mathew, 1760-1839</dcterms:creator>
+    <dcterms:creator>Hill, Samuel, approximately 1766-1804</dcterms:creator>
     <dcterms:created>1814</dcterms:created>
     <dcterms:extent>1 map : col. ; 33 x 36 cm. on sheet 43 x 54 cm.</dcterms:extent>
     <dcterms:publisher>Matthew Carey</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Scandinavia--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Pennsylvania</dcterms:spatial>
     <dcterms:spatial>Philadelphia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004193/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004193</edm:isShownAt>

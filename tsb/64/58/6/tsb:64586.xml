@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>79 p. port. 27 cm.</dcterms:extent>
     <dcterms:publisher>Fischbacher</dcterms:publisher>
+    <dcterms:subject>Duiffoprugear, Gaspard, 16th cent</dcterms:subject>
     <dcterms:subject>Violin makers</dcterms:subject>
-    <dcterms:subject>Duiffoprugear, Gaspard</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64586/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64586</edm:isShownAt>

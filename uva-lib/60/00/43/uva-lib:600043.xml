@@ -13,11 +13,13 @@
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:created>1918</dcterms:created>
     <dcterms:extent>1 map : ms., col. ; 98 x 80 cm.</dcterms:extent>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:subject>World War, 1914-1918</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>World War, 1914-1918--Campaigns--Western Front--Maps</dcterms:subject>
+    <dcterms:subject>World War, 1914-1918--Campaigns--Western Front--Maps, Manuscript</dcterms:subject>
+    <dcterms:subject>France--Maps</dcterms:subject>
+    <dcterms:subject>Europe, Western--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:600043/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:600043</edm:isShownAt>

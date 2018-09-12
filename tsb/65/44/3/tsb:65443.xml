@@ -12,15 +12,17 @@
     <dcterms:title>Japan in art and industry</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Régamey, Félix, 1844-1907</dcterms:creator>
+    <dcterms:creator>Sheldon, M. French</dcterms:creator>
+    <dcterms:creator>Lemon, Don</dcterms:creator>
     <dcterms:created>1893</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>349 p., 20 cm.</dcterms:extent>
     <dcterms:publisher>F.A. Stokes co.</dcterms:publisher>
-    <dcterms:subject>Art</dcterms:subject>
-    <dcterms:subject>Industries</dcterms:subject>
-    <dcterms:subject>Social life and customs</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Art--Japan</dcterms:subject>
+    <dcterms:subject>Industries--Japan</dcterms:subject>
+    <dcterms:subject>Japan--Social life and customs</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65443/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65443</edm:isShownAt>

@@ -11,13 +11,14 @@
     <dcterms:identifier>uva-lib:1219394</dcterms:identifier>
     <dcterms:title>Declaration of Independence of the United States of America. : In Congress, July 4th, 1776.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>United States</dcterms:creator>
+    <dcterms:creator>Trumbull, John, 1756-1843</dcterms:creator>
+    <dcterms:creator>Black, S. H.</dcterms:creator>
     <dcterms:created>1859</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 plaque : ill. ; 21 x 19 cm.</dcterms:extent>
     <dcterms:publisher>S.N. Black</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1219394/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1219394</edm:isShownAt>

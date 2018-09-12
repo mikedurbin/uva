@@ -15,9 +15,9 @@
     <dcterms:description>Measures liquid in the defunct "minim" unit of measurement. Rolled up in cloth for protection; [symbol] [graded 1/2 - 2] [symbol] [graded 10]</dcterms:description>
     <dcterms:medium>glass</dcterms:medium>
     <dcterms:subject>Measuring instruments</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>measuring devices (instruments)</edm:hasType>
+    <dcterms:medium>measuring devices (instruments)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440419/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440419</edm:isShownAt>

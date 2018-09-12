@@ -14,8 +14,9 @@
     <dcterms:created>1848</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 broadside. 34 x 25 cm.</dcterms:extent>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Mount Vernon (Va. : Estate)</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18710/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18710</edm:isShownAt>

@@ -16,12 +16,9 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>x p., 2 l., 250 p. 1 l. front. (port.) plates. 21 cm.</dcterms:extent>
     <dcterms:publisher>Constable</dcterms:publisher>
-    <dcterms:subject>Rhodes, Cecil/</dcterms:subject>
-    <dcterms:subject>Oxford (England)./</dcterms:subject>
-    <dcterms:subject>University./</dcterms:subject>
-    <dcterms:subject>Rhodes scholarships.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Rhodes, Cecil, 1853-1902</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64205/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64205</edm:isShownAt>

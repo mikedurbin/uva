@@ -17,15 +17,15 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>2 x 3 in.</dcterms:extent>
-    <dcterms:subject>Couples</dcterms:subject>
-    <dcterms:subject>Porches</dcterms:subject>
-    <dcterms:subject>Dwellings</dcterms:subject>
-    <dcterms:subject>Steps</dcterms:subject>
-    <dcterms:subject>Shrubs</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Couples--People by family relationship</dcterms:subject>
+    <dcterms:subject>Porches--Rooms and spaces</dcterms:subject>
+    <dcterms:subject>Dwellings--Single built works</dcterms:subject>
+    <dcterms:subject>Steps--Components by specific context</dcterms:subject>
+    <dcterms:subject>Shrubs--Trees and shrubs</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Photographs</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:333663/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333663</edm:isShownAt>

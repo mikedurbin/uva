@@ -12,17 +12,19 @@
     <dcterms:title>Roses and thorns = (Rosas y abrojos)</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Riderique.</dcterms:creator>
+    <dcterms:creator>Francis, W. T. (William T.)</dcterms:creator>
+    <dcterms:creator>Wehrmann, Henri, 1827-1905</dcterms:creator>
+    <dcterms:creator>Landry, N.</dcterms:creator>
+    <dcterms:creator>Landry, N., Mme</dcterms:creator>
     <dcterms:created>1885</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>6 p. of music : ill.</dcterms:extent>
     <dcterms:publisher>Junius Hart</dcterms:publisher>
+    <dcterms:subject>Songs and music</dcterms:subject>
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
     <dcterms:subject>Marches (Piano), Arranged</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:subject>World's Industrial and Cotton Centennial Exposition (1884-1885 : New Orleans, La.)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1145337/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1145337</edm:isShownAt>

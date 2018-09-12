@@ -12,13 +12,14 @@
     <dcterms:title>Thême de Lucrezia Borgia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Donizetti, Gaetano, 1797-1848</dcterms:creator>
+    <dcterms:creator>Czerny, Carl, 1791-1857</dcterms:creator>
+    <dcterms:creator>Gaw, Robert M., approximately 1805-</dcterms:creator>
     <dcterms:created>1840/1855</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7p. of music.</dcterms:extent>
     <dcterms:publisher>A. Fiot</dcterms:publisher>
     <dcterms:subject>Piano music (4 hands)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1125099/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125099</edm:isShownAt>

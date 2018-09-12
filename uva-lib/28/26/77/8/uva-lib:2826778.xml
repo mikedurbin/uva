@@ -18,9 +18,9 @@
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>31 x 45 x 16 cm</dcterms:extent>
     <dcterms:subject>Bags</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>suitcases</edm:hasType>
+    <dcterms:medium>suitcases</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2826778/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2826778</edm:isShownAt>

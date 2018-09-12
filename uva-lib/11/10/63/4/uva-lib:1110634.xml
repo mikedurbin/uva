@@ -11,19 +11,19 @@
     <dcterms:identifier>uva-lib:1110634</dcterms:identifier>
     <dcterms:title>La vie et faits notables de Henry de Valois. : Maintenant toute au long, sans rien requerir. : Où sont contenues les trahisons, perfidies, sacrileges, exactions, cruautez &amp; honets de cét hypocrite, ennemy de la religion Catholique.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Boucher, Jean, approximately 1548-1644</dcterms:creator>
     <dcterms:created>1589</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>79 p. : ill. ; 16 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Chez Didier Millot, demeurant pres la porte sainct Iacques</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Henry/</dcterms:subject>
-    <dcterms:subject>Catholic Church</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Henry, IV, King of France, 1553-1610</dcterms:subject>
+    <dcterms:subject>France</dcterms:subject>
+    <dcterms:subject>France--History--Wars of the Huguenots, 1562-1598</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
-    <dcterms:temporal>Wars of the Huguenots, 1562-1598</dcterms:temporal>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1110634/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1110634</edm:isShownAt>

@@ -11,14 +11,18 @@
     <dcterms:identifier>uva-lib:1003436</dcterms:identifier>
     <dcterms:title>Post route map of the states of North Carolina and South Carolina : showing post offices with the intermediate distances on mail routes in operation on the 1st of March, 1910</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hitchcock, Frank H. (Frank Harris), 1867-1935</dcterms:creator>
+    <dcterms:creator>Von Haake, A.</dcterms:creator>
     <dcterms:created>1910</dcterms:created>
     <dcterms:extent>1 map (4 sheets) : col. ; 109 x 169 cm.</dcterms:extent>
     <dcterms:publisher>U.S. Post Office Dept.</dcterms:publisher>
-    <dcterms:subject>Postal service</dcterms:subject>
-    <dcterms:subject>Postal service</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Postal service--North Carolina--Maps</dcterms:subject>
+    <dcterms:subject>Postal service--South Carolina--Maps</dcterms:subject>
+    <dcterms:subject>North Carolina--Maps</dcterms:subject>
+    <dcterms:subject>South Carolina--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003436/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003436</edm:isShownAt>

@@ -12,15 +12,18 @@
     <dcterms:title>I cannot sing the old songs : ballad : sung by Madlle. Parepa</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Claribel, 1830-1869</dcterms:creator>
+    <dcterms:creator>Parepa-Rosa, Euphrosyne, 1836-1874</dcterms:creator>
+    <dcterms:creator>Claribel, 1830-1869</dcterms:creator>
+    <dcterms:creator>Clayton, Charles O.</dcterms:creator>
+    <dcterms:creator>Gillingham, Edwin</dcterms:creator>
     <dcterms:created>1865/1872</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.)</dcterms:extent>
     <dcterms:publisher>William C. Miller</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1133324/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1133324</edm:isShownAt>

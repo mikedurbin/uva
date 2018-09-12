@@ -11,16 +11,15 @@
     <dcterms:identifier>uva-lib:2826759</dcterms:identifier>
     <dcterms:title>Microscope</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Bausch &amp; Lomb Optical Company</dcterms:creator>
     <dcterms:created>1919/1975</dcterms:created>
     <dcterms:description>Binocular microscope (serial number 266487) with heavy cast tilt base, bi-directional field frame for slides, macro and micro vernier focus, swivel optical head with removable pieces, interchangeable 5x and 10x eye pieces, lower field pieces, and adjustable flat and concave mirror for light source.</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:extent>33 x 19 x 11.5 cm</dcterms:extent>
-    <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medical instruments or apparatus--Microscopes</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>microscopes</edm:hasType>
+    <dcterms:medium>microscopes</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2826759/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2826759</edm:isShownAt>

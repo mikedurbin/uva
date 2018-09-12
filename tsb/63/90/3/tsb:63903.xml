@@ -12,17 +12,19 @@
     <dcterms:title>A course of lectures on dramatic art and literature</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Schlegel, August Wilhelm von, 1767-1845</dcterms:creator>
+    <dcterms:creator>Black, John, 1783-1855</dcterms:creator>
+    <dcterms:creator>Morrison, A. J. W. (Alexander James William), 1806-1865</dcterms:creator>
     <dcterms:created>1846</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 preliminary leaf, [v]-viii, 535, [1] pages frontispiece (portrait) 18 cm</dcterms:extent>
     <dcterms:publisher>Henry G. Bohn</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Drama</dcterms:subject>
-    <dcterms:subject>Drama</dcterms:subject>
-    <dcterms:subject>Holliday, Fred W. M. (Frederick William Mackey)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Holliday, Fred W. M. (Frederick William Mackey), 1828-1899</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>Drama--History and criticism</dcterms:subject>
+    <dcterms:subject>Drama--Technique</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>ger</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63903/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63903</edm:isShownAt>

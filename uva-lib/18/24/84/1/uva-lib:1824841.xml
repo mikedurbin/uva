@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>238 p. ; 18 cm.</dcterms:extent>
     <dcterms:publisher>Burgess, Stringer and Company</dcterms:publisher>
-    <dcterms:subject>Social life and customs</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--Social life and customs--Fiction</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>American literature-1783-1850.</edm:hasType>
-    <edm:hasType>American fiction-19th century.</edm:hasType>
+    <dcterms:medium>American literature-1783-1850.</dcterms:medium>
+    <dcterms:medium>American fiction-19th century.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1824841/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1824841</edm:isShownAt>

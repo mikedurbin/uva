@@ -12,15 +12,17 @@
     <dcterms:title>The nature and practice of real actions, in their writs and process; both original and judicial; together with some records in the court before the justice of the county palatine of Chester; proving the antiquity of the jurisdiction of that court, and of some families.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Booth, George, 1635-1719</dcterms:creator>
+    <dcterms:creator>Hill, George, 1716-1808</dcterms:creator>
     <dcterms:created>1811</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xvi, 319 (i.e. 382) p. 23 cm.</dcterms:extent>
     <dcterms:publisher>W. Clarke and Sons</dcterms:publisher>
-    <dcterms:subject>Actions and defenses</dcterms:subject>
-    <dcterms:subject>Writs</dcterms:subject>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Actions and defenses--Great Britain</dcterms:subject>
+    <dcterms:subject>Writs--Great Britain</dcterms:subject>
+    <dcterms:subject>Real property--Great Britain</dcterms:subject>
+    <dcterms:subject>Cheshire (England)</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65865/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65865</edm:isShownAt>

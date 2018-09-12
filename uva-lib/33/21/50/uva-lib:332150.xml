@@ -17,18 +17,18 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Africa</dcterms:subject>
-    <dcterms:subject>Kenya</dcterms:subject>
-    <dcterms:subject>Africans</dcterms:subject>
-    <dcterms:subject>Metals</dcterms:subject>
-    <dcterms:subject>Forges</dcterms:subject>
-    <dcterms:subject>Anvils</dcterms:subject>
-    <dcterms:subject>Workshops (work spaces)</dcterms:subject>
-    <dcterms:subject>Men</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Africa--Continents</dcterms:subject>
+    <dcterms:subject>Kenya--Countries by name</dcterms:subject>
+    <dcterms:subject>Africans--People by ethnic group</dcterms:subject>
+    <dcterms:subject>Metals--Metal and metal products</dcterms:subject>
+    <dcterms:subject>Forges--Equipment by material processed</dcterms:subject>
+    <dcterms:subject>Anvils--Metalworking equipment</dcterms:subject>
+    <dcterms:subject>Workshops (work spaces)--Rooms and spaces</dcterms:subject>
+    <dcterms:subject>Men--People by gender</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332150/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332150</edm:isShownAt>

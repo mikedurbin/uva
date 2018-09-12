@@ -16,12 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxv p., 1 l., 264 p., 1 l. 18 cm.</dcterms:extent>
     <dcterms:publisher>E. Stock</dcterms:publisher>
-    <dcterms:subject>Fishing</dcterms:subject>
-    <dcterms:subject>Walton, Izaak</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Walton, Izaak, 1593-1683</dcterms:subject>
+    <dcterms:subject>Fishing--Bibliography</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65308/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65308</edm:isShownAt>

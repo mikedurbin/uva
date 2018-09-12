@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>146 p.</dcterms:extent>
     <dcterms:publisher>Assoc. charities of Pittsburgh</dcterms:publisher>
-    <dcterms:subject>Poor laws</dcterms:subject>
-    <dcterms:subject>Domestic relations</dcterms:subject>
-    <dcterms:subject>Social conditions</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Poor laws--Pennsylvania</dcterms:subject>
+    <dcterms:subject>Domestic relations--Pennsylvania</dcterms:subject>
+    <dcterms:subject>Pennsylvania--Social conditions</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61552/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61552</edm:isShownAt>

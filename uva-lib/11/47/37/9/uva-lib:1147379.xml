@@ -12,15 +12,16 @@
     <dcterms:title>Ad regem pastorum : Christmas hymn</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Gounod, Charles, 1818-1893</dcterms:creator>
+    <dcterms:creator>Hale, F. X.</dcterms:creator>
     <dcterms:created>1896</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.).</dcterms:extent>
     <dcterms:publisher>P.J. Lammers</dcterms:publisher>
     <dcterms:subject>Sacred songs with piano</dcterms:subject>
     <dcterms:subject>Christmas music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>lat</dcterms:language>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1147379/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1147379</edm:isShownAt>

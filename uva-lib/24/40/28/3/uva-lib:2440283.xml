@@ -11,16 +11,15 @@
     <dcterms:identifier>uva-lib:2440283</dcterms:identifier>
     <dcterms:title>Combistix reagent strips</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Ames Company</dcterms:creator>
     <dcterms:created>1958/1970</dcterms:created>
     <dcterms:description>White and orange box containing brown glass bottle of Combistix Strips. Label Information: Test for urinary protein, glucose, and pH; 125; No. 2865; Patent pending; Ames Company, Inc. Elkhart, Indiana, U.S.A. Instructions included.</dcterms:description>
     <dcterms:medium>paper (fiber product)</dcterms:medium>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:subject>Medical laboratory technology</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440283/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440283</edm:isShownAt>

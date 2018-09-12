@@ -15,11 +15,10 @@
     <dcterms:created>1861</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 broadside. 23 x 15 cm.</dcterms:extent>
-    <dcterms:subject>Bull Run, 1st Battle of, Va., 1861</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Bull Run, 1st Battle of, Va., 1861--Poetry</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Songs and music--Confederate</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2173843/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2173843</edm:isShownAt>

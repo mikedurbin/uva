@@ -12,15 +12,17 @@
     <dcterms:title>The mellow horn : a very popular song</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Jones, J. (John), 1796-1861</dcterms:creator>
+    <dcterms:creator>Hyatt, C. W.</dcterms:creator>
+    <dcterms:creator>Eastburn, John Henry, 1804 or 1805-1873</dcterms:creator>
     <dcterms:created>1829/1867</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (4 p.) : ill. ; 33 cm.</dcterms:extent>
     <dcterms:publisher>George Willig Junr.</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
     <dcterms:subject>Songs with instrumental ensemble</dcterms:subject>
-    <dcterms:subject>Hunting</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Hunting--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1121917/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1121917</edm:isShownAt>

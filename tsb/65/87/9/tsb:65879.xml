@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>89, [1] p. ; 27 cm.</dcterms:extent>
     <dcterms:publisher>Printed by C. Eyre and W. Strahan ; and sold by M. Folingsby</dcterms:publisher>
-    <dcterms:subject>Fines and recoveries</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Fines and recoveries--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65879/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65879</edm:isShownAt>

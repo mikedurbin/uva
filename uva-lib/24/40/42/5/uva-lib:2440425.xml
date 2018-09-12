@@ -11,14 +11,13 @@
     <dcterms:identifier>uva-lib:2440425</dcterms:identifier>
     <dcterms:title>Hypodermic syringe</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Burroughs Wellcome and Company</dcterms:creator>
     <dcterms:created>1930/1940</dcterms:created>
     <dcterms:description>Glass hypodermic syringe in three parts: top, syringe, and holder; contained in box with label information: The Burroughs Wellcome &amp; Co., All-Glass Aseptic Hypodermic Needle, London (Eng.).</dcterms:description>
     <dcterms:medium>glass</dcterms:medium>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440425/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440425</edm:isShownAt>

@@ -17,17 +17,17 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>South (U.S.)</dcterms:subject>
-    <dcterms:subject>Decks (watercraft components)</dcterms:subject>
-    <dcterms:subject>Delegates</dcterms:subject>
-    <dcterms:subject>Ships</dcterms:subject>
-    <dcterms:subject>Coastlines</dcterms:subject>
-    <dcterms:subject>Men's hats</dcterms:subject>
-    <dcterms:subject>Derbies (hats)</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>South (U.S.)--Regions and states</dcterms:subject>
+    <dcterms:subject>Decks (watercraft components)--Components by specific context</dcterms:subject>
+    <dcterms:subject>Delegates--People in government and administration</dcterms:subject>
+    <dcterms:subject>Ships--Watercraft</dcterms:subject>
+    <dcterms:subject>Coastlines--Landforms</dcterms:subject>
+    <dcterms:subject>Men's hats--Accessories worn on the head</dcterms:subject>
+    <dcterms:subject>Derbies (hats)--Accessories worn on the head</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:328449/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:328449</edm:isShownAt>

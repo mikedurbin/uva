@@ -11,16 +11,15 @@
     <dcterms:identifier>tsb:58938</dcterms:identifier>
     <dcterms:title>Invalid's drinking cup</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Whitall Tatum Company</dcterms:creator>
     <dcterms:created>1910</dcterms:created>
     <dcterms:description>Box reads "Ideal invalid's drinking cup for giving liquid food or medicine to the patient in a recumbent position."</dcterms:description>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:medium>cardboard</dcterms:medium>
     <dcterms:extent>11 x 7.5 x 7 cm</dcterms:extent>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58938/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58938</edm:isShownAt>

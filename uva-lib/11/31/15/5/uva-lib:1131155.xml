@@ -12,14 +12,17 @@
     <dcterms:title>Pity for one in childhood torn : in the opera of the Bohemian girl</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Balfe, M. W. (Michael William), 1808-1870</dcterms:creator>
+    <dcterms:creator>Seguin, Arthur Edward Shelden, 1809-1852</dcterms:creator>
+    <dcterms:creator>Seguin, Anne, 1814-1888</dcterms:creator>
+    <dcterms:creator>Fraser, Mr</dcterms:creator>
     <dcterms:created>18uu</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 vocal score (5 p.)</dcterms:extent>
     <dcterms:publisher>F. Perring</dcterms:publisher>
-    <dcterms:subject>Operas</dcterms:subject>
+    <dcterms:subject>Operas--Excerpts--Vocal scores with piano</dcterms:subject>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1131155/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1131155</edm:isShownAt>

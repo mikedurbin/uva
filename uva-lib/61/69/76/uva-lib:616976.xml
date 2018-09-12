@@ -15,11 +15,12 @@
     <dcterms:created>1800</dcterms:created>
     <dcterms:extent>1 map : col. ; 49 x 36 cm. on sheet 70 x 48 cm.</dcterms:extent>
     <dcterms:publisher>Presso la Calcografia Camle.</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Italy--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>Italy</dcterms:spatial>
     <dcterms:spatial>Rome</dcterms:spatial>
     <dcterms:language>ita</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616976/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616976</edm:isShownAt>

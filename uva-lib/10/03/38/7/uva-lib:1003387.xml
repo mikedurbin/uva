@@ -15,10 +15,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>12 p. : ill. ; 18 cm. + 1 map.</dcterms:extent>
     <dcterms:publisher>G. H. Walker</dcterms:publisher>
-    <dcterms:subject>Parks</dcterms:subject>
-    <dcterms:subject>Gardens</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Parks--Massachusetts--Boston--Common</dcterms:subject>
+    <dcterms:subject>Gardens--Massachusetts--Boston</dcterms:subject>
+    <dcterms:subject>Boston Common (Boston, Mass.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003387/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003387</edm:isShownAt>

@@ -12,14 +12,15 @@
     <dcterms:title>Health work in the schools</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hoag, Ernest Bryant, 1868-1924</dcterms:creator>
+    <dcterms:creator>Terman, Lewis M. (Lewis Madison), 1877-1956</dcterms:creator>
     <dcterms:created>1914</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xiii, [1], 321 p. plates, forms, tables (1 fold.) diagrs. 20 cm.</dcterms:extent>
     <dcterms:publisher>Houghton Mifflin company</dcterms:publisher>
-    <dcterms:subject>Schools</dcterms:subject>
+    <dcterms:subject>Schools--Medical inspection</dcterms:subject>
     <dcterms:subject>School hygiene</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65213/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65213</edm:isShownAt>

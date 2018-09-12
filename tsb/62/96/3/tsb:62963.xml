@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[i-xiv], [15]-144 p. : ill. ; 18 cm.</dcterms:extent>
     <dcterms:publisher>T. Nelson and Sons</dcterms:publisher>
-    <dcterms:subject>Characters</dcterms:subject>
-    <dcterms:subject>Spenser, Edmund</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Spenser, Edmund, 1552?-1599</dcterms:subject>
+    <dcterms:subject>Characters--Red Cross knight</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Presentation inscriptions (Provenance)</edm:hasType>
+    <dcterms:medium>Presentation inscriptions (Provenance)</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:62963/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:62963</edm:isShownAt>

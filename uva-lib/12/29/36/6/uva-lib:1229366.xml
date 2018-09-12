@@ -11,21 +11,20 @@
     <dcterms:identifier>uva-lib:1229366</dcterms:identifier>
     <dcterms:title>Pulling down the statue of George III by the "Sons of Freedom," at the Bowling Green, City of New York, July 1776</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>McRae, John C.</dcterms:creator>
+    <dcterms:creator>Oertel, Johannes Adam Simon, 1823-1909</dcterms:creator>
     <dcterms:created>1876</dcterms:created>
     <dcterms:medium>graphic</dcterms:medium>
     <dcterms:extent>1 print : b&amp;w ; image 52 x 77 cm. on sheet 65 x 89 cm.</dcterms:extent>
     <dcterms:publisher>Published by John C. Mcrae?</dcterms:publisher>
+    <dcterms:subject>George, III, King of Great Britain, 1738-1820</dcterms:subject>
     <dcterms:subject>Statues</dcterms:subject>
-    <dcterms:subject>Riots</dcterms:subject>
-    <dcterms:subject>Crowds</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>George</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Riots--New York (State)--New York--1770-1780</dcterms:subject>
+    <dcterms:subject>Crowds--New York (State)--New York--1770-1780</dcterms:subject>
+    <dcterms:subject>United States--History--Revolution, 1775-1783--Destruction &amp; pillage</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>graphic</edm:hasType>
-    <dcterms:temporal>1770-1780</dcterms:temporal>
-    <dcterms:temporal>1770-1780</dcterms:temporal>
-    <dcterms:temporal>Revolution, 1775-1783</dcterms:temporal>
+    <dcterms:medium>graphic</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1229366/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1229366</edm:isShownAt>

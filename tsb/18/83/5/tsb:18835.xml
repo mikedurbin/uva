@@ -15,17 +15,14 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 30 x 22 cm.</dcterms:extent>
     <dcterms:publisher>Culpeper Medical Society</dcterms:publisher>
-    <dcterms:subject>Medical care, Cost of</dcterms:subject>
-    <dcterms:subject>Physicians</dcterms:subject>
-    <dcterms:subject>Culpeper Medical Society (Culpeper County, Va.)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Medical care, Cost of--Virginia--Culpeper County--19th century</dcterms:subject>
+    <dcterms:subject>Physicians--Virginia--Culpeper County--19th century</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Culpeper</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Virginia-Culpeper-1852.</edm:hasType>
-    <dcterms:temporal>19th century</dcterms:temporal>
-    <dcterms:temporal>19th century</dcterms:temporal>
+    <dcterms:medium>Broadsides-Virginia-Culpeper-1852.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18835/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18835</edm:isShownAt>

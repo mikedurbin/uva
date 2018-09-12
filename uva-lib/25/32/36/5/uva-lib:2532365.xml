@@ -11,7 +11,6 @@
     <dcterms:identifier>uva-lib:2532365</dcterms:identifier>
     <dcterms:title>Cystoscope</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>American Cystoscope Makers, Inc.</dcterms:creator>
     <dcterms:created>1900/1949</dcterms:created>
     <dcterms:description>Cystoscope with lamp, A.C.M.I. No. 51.</dcterms:description>
     <dcterms:medium>wood (plant material)</dcterms:medium>
@@ -19,9 +18,9 @@
     <dcterms:medium>rubber (material)</dcterms:medium>
     <dcterms:extent>5.5 x 34.7 x 16 cm</dcterms:extent>
     <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2532365/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2532365</edm:isShownAt>

@@ -12,17 +12,20 @@
     <dcterms:title>The sweetest flower = Die schönste Blume : alto or bass</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Van der Stucken, Frank V., 1858-1929</dcterms:creator>
+    <dcterms:creator>Peterson, Frederick, 1859-1938</dcterms:creator>
+    <dcterms:creator>Rockar, F. A.</dcterms:creator>
+    <dcterms:creator>Blauvelt, Lillian, 1873-1947</dcterms:creator>
     <dcterms:created>1890</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.) : port.</dcterms:extent>
     <dcterms:publisher>F.A. Rockar</dcterms:publisher>
+    <dcterms:subject>Van der Stucken, Frank V, 1858-1929</dcterms:subject>
+    <dcterms:subject>Portraits</dcterms:subject>
     <dcterms:subject>Songs (Low voice) with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:subject>Van der Stucken, Frank V</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>ger</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1123940/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1123940</edm:isShownAt>

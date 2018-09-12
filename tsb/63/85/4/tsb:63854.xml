@@ -12,15 +12,15 @@
     <dcterms:title>The fifth book of Thucydides</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Thucydides.</dcterms:creator>
+    <dcterms:creator>Graves, C. E. (Charles Edward), 1839-1920</dcterms:creator>
     <dcterms:created>1891</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>ix, 276 p. ; 17 cm.</dcterms:extent>
     <dcterms:publisher>Macmillan</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Greece--History--Peloponnesian War, 431-404 B.C</dcterms:subject>
     <dcterms:language>grc</dcterms:language>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Peloponnesian War, 431-404 B.C</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63854/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63854</edm:isShownAt>

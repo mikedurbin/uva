@@ -14,12 +14,16 @@
     <dcterms:created>1854</dcterms:created>
     <dcterms:extent>1 map : col. ; 45 x 59 cm. on sheet 51 x 67 cm. folded to 18 x 12 cm.</dcterms:extent>
     <dcterms:publisher>George Routledge &amp; Co. Farrington St.</dcterms:publisher>
-    <dcterms:subject>Crimean War, 1853-1856</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Crimean War, 1853-1856--Maps</dcterms:subject>
+    <dcterms:subject>Europe, Central--Maps</dcterms:subject>
+    <dcterms:subject>Turkey--Maps</dcterms:subject>
+    <dcterms:subject>Austria--Maps</dcterms:subject>
+    <dcterms:subject>Russia--Maps</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004223/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004223</edm:isShownAt>

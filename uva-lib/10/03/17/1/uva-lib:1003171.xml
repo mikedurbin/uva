@@ -12,11 +12,12 @@
     <dcterms:title>The mystery of Marie Roget. A sequel to "The murders in the Rue Morgue."</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Poe, Edgar Allan, 1809-1849</dcterms:creator>
+    <dcterms:creator>Wimsatt, William K. (William Kurtz), 1907-1975</dcterms:creator>
     <dcterms:created>1842/1843</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 pts. 28 cm.</dcterms:extent>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003171/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003171</edm:isShownAt>

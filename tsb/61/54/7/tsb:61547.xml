@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 p.l., iii-viii p., 1 l., 303 p. front., illus., plates, ports., fold. map, plan. 20 cm.</dcterms:extent>
     <dcterms:publisher>G. P. Putnam's sons</dcterms:publisher>
-    <dcterms:subject>Louis</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Louis, IX, King of France, 1214-1270</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61547/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61547</edm:isShownAt>

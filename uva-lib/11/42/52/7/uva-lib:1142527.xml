@@ -12,17 +12,17 @@
     <dcterms:title>Com'e gentil : (Don Pasquale)</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Donizetti, Gaetano, 1797-1848</dcterms:creator>
+    <dcterms:creator>Smith, Sydney, 1839-1889</dcterms:creator>
+    <dcterms:creator>Swain, George F.</dcterms:creator>
     <dcterms:created>1872/1875</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 p. of music ; 35 cm.</dcterms:extent>
     <dcterms:publisher>Lee &amp; Walker</dcterms:publisher>
     <dcterms:subject>Piano music, Arranged</dcterms:subject>
-    <dcterms:subject>Operas</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <edm:hasType>ft-st-op</edm:hasType>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Operas--Excerpts, Arranged</dcterms:subject>
+    <dcterms:subject>Popular instrumental music--United States--To 1901</dcterms:subject>
+    <dcterms:medium>ft-st-op</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1142527/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1142527</edm:isShownAt>

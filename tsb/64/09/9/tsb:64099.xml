@@ -12,14 +12,15 @@
     <dcterms:title>The last of the Masai</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hinde, Sidney Langford, 1863-1930</dcterms:creator>
+    <dcterms:creator>Hinde, Hildegarde Beatrice Ginsburg</dcterms:creator>
     <dcterms:created>1901</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xix, 180 p. incl. front., illus., plates. col. pl. 26 cm.</dcterms:extent>
     <dcterms:publisher>W. Heinemann</dcterms:publisher>
     <dcterms:subject>Maasai (African people)</dcterms:subject>
-    <dcterms:subject>Hunting</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Hunting--Africa, East</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64099/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64099</edm:isShownAt>

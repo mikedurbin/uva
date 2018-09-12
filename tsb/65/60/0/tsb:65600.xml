@@ -16,12 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 p. l., 7-393 p. incl. plates, ports. front., ports. 18 cm.</dcterms:extent>
     <dcterms:publisher>D. Lothrop and Company</dcterms:publisher>
-    <dcterms:subject>Public life</dcterms:subject>
-    <dcterms:subject>Social life and customs</dcterms:subject>
-    <dcterms:subject>Frémont, John Charles</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Frémont, John Charles, 1813-1890</dcterms:subject>
+    <dcterms:subject>Washington (D.C.)--Public life</dcterms:subject>
+    <dcterms:subject>United States--Social life and customs</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65600/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65600</edm:isShownAt>

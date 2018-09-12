@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[30] p. ; 17 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Au Palais par Gilles Corrozet &amp; Iehan Andre</dcterms:publisher>
-    <dcterms:subject>Marot, Clément</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Marot, Clément, 1496-1544</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1002971/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002971</edm:isShownAt>

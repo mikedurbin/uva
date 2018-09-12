@@ -12,15 +12,16 @@
     <dcterms:title>The palms = Les rameaux : Tagliapietra's great song</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Faure, J. (Jean), 1830-1914</dcterms:creator>
+    <dcterms:creator>Peck, Mamie E.</dcterms:creator>
     <dcterms:created>1882</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.)</dcterms:extent>
     <dcterms:publisher>Richard A. Saalfield</dcterms:publisher>
     <dcterms:subject>Sacred songs with piano</dcterms:subject>
-    <dcterms:subject>Palm Sunday</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Palm Sunday--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1140133/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1140133</edm:isShownAt>

@@ -15,11 +15,11 @@
     <dcterms:created>1791</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[2] p. 17 x 21 cm.</dcterms:extent>
-    <dcterms:subject>Cities and towns</dcterms:subject>
-    <dcterms:subject>Population</dcterms:subject>
-    <dcterms:subject>Population</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Cities and towns--United States--Statistics</dcterms:subject>
+    <dcterms:subject>United States--Population</dcterms:subject>
+    <dcterms:subject>South America--Population</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2144925/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2144925</edm:isShownAt>

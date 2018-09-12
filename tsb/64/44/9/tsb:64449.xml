@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxiii, 440 p. illus., iv col. pl. 24 cm.</dcterms:extent>
     <dcterms:publisher>W. Wood and company</dcterms:publisher>
-    <dcterms:subject>Blood</dcterms:subject>
+    <dcterms:subject>Blood--Analysis</dcterms:subject>
     <dcterms:subject>Diagnosis</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64449/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64449</edm:isShownAt>

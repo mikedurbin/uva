@@ -11,14 +11,16 @@
     <dcterms:identifier>tsb:65908</dcterms:identifier>
     <dcterms:title>Reports of cases argued and determined in the High Court of Chancery : in the time of Lord Chancellor Hardwicke [1736-1754]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Atkyns, John Tracy, approximately 1710-1773</dcterms:creator>
+    <dcterms:creator>Hardwicke, Philip Yorke, Earl of, 1690-1764</dcterms:creator>
     <dcterms:created>1781/1782</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. ; 25 cm.</dcterms:extent>
     <dcterms:publisher>Printed by the King's law-printers, and sold by Messrs. Payne [etc.]</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:subject>Equity</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
+    <dcterms:subject>Equity--Great Britain--Cases</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65908/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65908</edm:isShownAt>

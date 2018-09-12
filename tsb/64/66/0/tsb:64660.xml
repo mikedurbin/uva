@@ -11,13 +11,19 @@
     <dcterms:identifier>tsb:64660</dcterms:identifier>
     <dcterms:title>Report of the Commission appointed to investigate the zinc resources of British Columbia and the conditions affecting their exploitation</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Ingalls, Walter Renton, 1865-</dcterms:creator>
+    <dcterms:creator>Argall, Philip Henry, 1877-</dcterms:creator>
+    <dcterms:creator>Gardé, Alfred C.</dcterms:creator>
+    <dcterms:creator>Barlow, Alfred E. (Alfred Ernest), 1861-1914</dcterms:creator>
+    <dcterms:creator>Harris, Henry.</dcterms:creator>
+    <dcterms:creator>Wood, Henry E.</dcterms:creator>
     <dcterms:created>1906</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xvii, 399 p. photos., fold. maps, fold. plans. 27 cm.</dcterms:extent>
-    <dcterms:subject>Zinc industry and trade</dcterms:subject>
-    <dcterms:subject>Zinc mines and mining</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Zinc industry and trade--British Columbia</dcterms:subject>
+    <dcterms:subject>Zinc mines and mining--British Columbia</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64660/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64660</edm:isShownAt>

@@ -11,13 +11,14 @@
     <dcterms:identifier>tsb:63778</dcterms:identifier>
     <dcterms:title>Selling forces</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Walsh, Richard J. (Richard John), 1886-1960</dcterms:creator>
     <dcterms:created>1913</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 p.l., 13-280, [4] p. front., illus. (part col., incl. maps, facsims., diagrs.) 24 cm.</dcterms:extent>
     <dcterms:publisher>The Curtis publishing company</dcterms:publisher>
     <dcterms:subject>Advertising</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63778/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63778</edm:isShownAt>

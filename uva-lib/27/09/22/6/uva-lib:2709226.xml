@@ -15,9 +15,9 @@
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:extent>11.8 x 3.4 x 3.4 cm</dcterms:extent>
     <dcterms:subject>Bottles</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>bottles</edm:hasType>
+    <dcterms:medium>bottles</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2709226/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2709226</edm:isShownAt>

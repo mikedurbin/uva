@@ -17,21 +17,21 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Manassas (Va.)</dcterms:subject>
-    <dcterms:subject>Prince William County (Va.)</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Phenix, George P., 1863-1930</dcterms:subject>
-    <dcterms:subject>Round, George Carr, 1839-1918</dcterms:subject>
-    <dcterms:subject>Jones, Thomas Jesse, 1873-1950</dcterms:subject>
-    <dcterms:subject>Manassas Industrial School for Colored and for Youth (Manassas (Va.))</dcterms:subject>
-    <dcterms:subject>Schools</dcterms:subject>
-    <dcterms:subject>South (U.S.)</dcterms:subject>
-    <dcterms:subject>African Americans</dcterms:subject>
-    <dcterms:subject>Education</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Manassas (Va.)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Prince William County (Va.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Virginia--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Phenix, George P., 1863-1930--People by name</dcterms:subject>
+    <dcterms:subject>Round, George Carr, 1839-1918--People by name</dcterms:subject>
+    <dcterms:subject>Jones, Thomas Jesse, 1873-1950--People by name</dcterms:subject>
+    <dcterms:subject>Manassas Industrial School for Colored and for Youth (Manassas (Va.))--Single built works by name</dcterms:subject>
+    <dcterms:subject>Schools--Single built works by function</dcterms:subject>
+    <dcterms:subject>South (U.S.)--Regions and states</dcterms:subject>
+    <dcterms:subject>African Americans--People by ethnic group</dcterms:subject>
+    <dcterms:subject>Education--Social sciences</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:330350/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:330350</edm:isShownAt>

@@ -11,16 +11,17 @@
     <dcterms:identifier>uva-lib:2174051</dcterms:identifier>
     <dcterms:title>No-session signals</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Willard, Everett C.</dcterms:creator>
     <dcterms:created>1907</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 21 x 13 cm.</dcterms:extent>
     <dcterms:publisher>Stamford Superintendent of Schools</dcterms:publisher>
-    <dcterms:subject>Schools</dcterms:subject>
-    <dcterms:subject>School management and organization</dcterms:subject>
-    <dcterms:subject>Schedules, School</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Schools--Connecticut--Stamford</dcterms:subject>
+    <dcterms:subject>School management and organization--Connecticut--Stamford</dcterms:subject>
+    <dcterms:subject>Schedules, School--Connecticut--Stamford</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Connecticut-1907.</edm:hasType>
+    <dcterms:medium>Broadsides-Connecticut-1907.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2174051/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174051</edm:isShownAt>

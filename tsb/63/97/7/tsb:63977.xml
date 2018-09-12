@@ -12,14 +12,15 @@
     <dcterms:title>An illustrated history of the state of Indiana; being a full and authentic civil and political history of the state from its first exploration down to 1875.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Goodrich, De Witt C.</dcterms:creator>
+    <dcterms:creator>Tuttle, Charles R. (Charles Richard), 1848-</dcterms:creator>
     <dcterms:created>1875</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>736 p. incl. front. (5 port.) illus. 23 cm.</dcterms:extent>
     <dcterms:publisher>Peale</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History, Local</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Indiana--History</dcterms:subject>
+    <dcterms:subject>Indiana--History, Local</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63977/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63977</edm:isShownAt>

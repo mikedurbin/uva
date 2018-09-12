@@ -14,11 +14,10 @@
     <dcterms:description>Map shows water pipes on the central grounds of the University.</dcterms:description>
     <dcterms:medium>manuscript</dcterms:medium>
     <dcterms:extent>1 item.</dcterms:extent>
-    <dcterms:subject>Water-pipes</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>mixed material</dcterms:type>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>Water-pipes--Virginia--Charlottesville</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Maps.</edm:hasType>
+    <dcterms:medium>Maps.</dcterms:medium>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1812602/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1812602</edm:isShownAt>

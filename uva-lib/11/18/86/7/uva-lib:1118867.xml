@@ -12,17 +12,17 @@
     <dcterms:title>Gen'l Persifor F. Smith's march</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Martin, T. J. (Thomas J.)</dcterms:creator>
+    <dcterms:creator>Hounslow</dcterms:creator>
     <dcterms:created>1860/1869</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 p. of music : ill.</dcterms:extent>
     <dcterms:publisher>K. Dehnhoff</dcterms:publisher>
+    <dcterms:subject>Smith, Persifor Fraser, 1798-1858</dcterms:subject>
+    <dcterms:subject>Songs and music</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
     <dcterms:subject>Marches (Piano)</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Smith, Persifor Fraser</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>War with Mexico, 1845-1848</dcterms:temporal>
+    <dcterms:subject>United States--History--War with Mexico, 1845-1848--Songs and music</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1118867/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1118867</edm:isShownAt>

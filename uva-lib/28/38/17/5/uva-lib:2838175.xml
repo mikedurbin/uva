@@ -11,18 +11,17 @@
     <dcterms:identifier>uva-lib:2838175</dcterms:identifier>
     <dcterms:title>Veterinary syringe with box</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Becton-Dickinson</dcterms:creator>
     <dcterms:created>1950</dcterms:created>
     <dcterms:description>Hollow needle syringe, graded 0 to 10. Box label reads, "B-D Champion Veterinary Syringe, No. 507/25 with Luer slip Adapter, 25 cc., Becton, Dickinson &amp; Co., Rutherford, N.J., Made in U.S.A., B-D &amp; Champion T.M Reg. U.S. Pat. Off."</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:medium>cardboard</dcterms:medium>
     <dcterms:extent>3.8 x 17.3 x 9 cm</dcterms:extent>
-    <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medical instruments or apparatus--Veterinary medicine</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
-    <edm:hasType>veterinary medicine</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:medium>veterinary medicine</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2838175/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2838175</edm:isShownAt>

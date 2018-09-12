@@ -14,11 +14,10 @@
     <dcterms:created>1932</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>111 p. 23 cm.</dcterms:extent>
-    <dcterms:subject>American poetry</dcterms:subject>
-    <dcterms:subject>American poetry</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>American poetry--20th century</dcterms:subject>
+    <dcterms:subject>American poetry--Georgia</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>20th century</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65265/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65265</edm:isShownAt>

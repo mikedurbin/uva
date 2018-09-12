@@ -14,10 +14,12 @@
     <dcterms:created>1857</dcterms:created>
     <dcterms:extent>1 map ; 50 x 84 cm.</dcterms:extent>
     <dcterms:publisher>U.S. Coast Survey</dcterms:publisher>
-    <dcterms:subject>Nautical charts</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Nautical charts--Mexico, Gulf of</dcterms:subject>
+    <dcterms:subject>Gulf Coast (U.S.)--Maps</dcterms:subject>
+    <dcterms:subject>Mexico, Gulf of--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1081756/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1081756</edm:isShownAt>

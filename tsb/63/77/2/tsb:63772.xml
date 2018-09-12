@@ -17,11 +17,11 @@
     <dcterms:extent>v, 266 p. ; 20 cm.</dcterms:extent>
     <dcterms:publisher>Macmillan</dcterms:publisher>
     <dcterms:subject>Democracy</dcterms:subject>
-    <dcterms:subject>Social conditions</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--Social conditions</dcterms:subject>
+    <dcterms:subject>United States--Politics and government</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63772/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63772</edm:isShownAt>

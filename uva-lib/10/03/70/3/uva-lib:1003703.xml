@@ -12,14 +12,19 @@
     <dcterms:title>Key map : showing arrangement of sheets of Hotchkiss' 1-200,000 map of the Virginias, Maryland, Delaware, and parts of adjacent states</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hotchkiss, Jedediah, 1828-1899</dcterms:creator>
+    <dcterms:creator>Bien, Julius, 1826-1909</dcterms:creator>
     <dcterms:created>1876</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : b&amp;w ; 15 x 23 cm on sheet 22 x 29 cm.</dcterms:extent>
     <dcterms:publisher>Julius Bien</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Virginia--Index maps</dcterms:subject>
+    <dcterms:subject>West Virginia--Index maps</dcterms:subject>
+    <dcterms:subject>Maryland--Index maps</dcterms:subject>
+    <dcterms:subject>Delaware--Index maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003703/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003703</edm:isShownAt>

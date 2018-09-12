@@ -16,13 +16,15 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xi, 674 p. illus. (incl. ports., maps, facsims.) 23 cm.</dcterms:extent>
     <dcterms:publisher>Houghton, Mifflin and company</dcterms:publisher>
-    <dcterms:subject>Discovery and exploration</dcterms:subject>
-    <dcterms:subject>Columbus, Christopher/</dcterms:subject>
-    <dcterms:subject>Columbus, Christopher/</dcterms:subject>
     <dcterms:subject>Columbus, Christopher</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Columbus, Christopher</dcterms:subject>
+    <dcterms:subject>Columbus, Christopher</dcterms:subject>
+    <dcterms:subject>Bibliography</dcterms:subject>
+    <dcterms:subject>Pictorial works</dcterms:subject>
+    <dcterms:subject>America--Discovery and exploration</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61739/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61739</edm:isShownAt>

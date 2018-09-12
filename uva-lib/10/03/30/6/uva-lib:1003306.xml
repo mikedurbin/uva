@@ -15,15 +15,16 @@
     <dcterms:created>1874</dcterms:created>
     <dcterms:extent>1 map : col. ; 39 x 101 cm.</dcterms:extent>
     <dcterms:publisher>Taintor Bros. Publishers</dcterms:publisher>
-    <dcterms:subject>Geology</dcterms:subject>
-    <dcterms:subject>Agriculture</dcterms:subject>
-    <dcterms:subject>Mines and mineral resources</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Geology--Tennessee--Maps</dcterms:subject>
+    <dcterms:subject>Agriculture--Tennessee--Maps</dcterms:subject>
+    <dcterms:subject>Mines and mineral resources--Tennessee--Maps</dcterms:subject>
+    <dcterms:subject>Tennessee--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>New York (State)</dcterms:spatial>
     <dcterms:spatial>New York (City)</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003306/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003306</edm:isShownAt>

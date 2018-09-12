@@ -11,13 +11,12 @@
     <dcterms:identifier>uva-lib:2440580</dcterms:identifier>
     <dcterms:title>Mortar and pestle</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Thomas Maddock's Sons Company</dcterms:creator>
     <dcterms:created>1920</dcterms:created>
     <dcterms:description>The following text is printed on the artifact: "Warranted T.M.S Company, acid proof" "Thomas Maddock's Sons Company Trenton New Jersey".</dcterms:description>
     <dcterms:medium>porcelain (material)</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>mortars (grinding tools)</edm:hasType>
+    <dcterms:medium>mortars (grinding tools)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440580/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440580</edm:isShownAt>

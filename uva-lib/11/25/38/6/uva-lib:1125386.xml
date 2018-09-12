@@ -12,14 +12,16 @@
     <dcterms:title>La cracovienne</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bochsa, Robert Nicolas Charles, 1789-1856</dcterms:creator>
+    <dcterms:creator>Thomas, Ambroise, 1811-1896</dcterms:creator>
+    <dcterms:creator>Schmitz, N.</dcterms:creator>
+    <dcterms:creator>Elssler, Fanny, 1810-1884</dcterms:creator>
     <dcterms:created>1839/1860</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[2] p. of music.</dcterms:extent>
     <dcterms:publisher>Millet's Music Saloon</dcterms:publisher>
     <dcterms:subject>Guitar music, Arranged</dcterms:subject>
-    <dcterms:subject>Ballets</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:subject>Ballets--Excerpts, Arranged</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1125386/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1125386</edm:isShownAt>

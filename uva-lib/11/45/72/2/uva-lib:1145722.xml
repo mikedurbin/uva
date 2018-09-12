@@ -12,14 +12,15 @@
     <dcterms:title>Angels ever bright and fair : gems of sacred music</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Handel, George Frideric, 1685-1759</dcterms:creator>
+    <dcterms:creator>Nilsson, Christine</dcterms:creator>
     <dcterms:created>1874</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 vocal score (5 p.) : port.</dcterms:extent>
     <dcterms:publisher>Lee &amp; Walker</dcterms:publisher>
-    <dcterms:subject>Sacred songs (High voice) with orchestra</dcterms:subject>
-    <dcterms:subject>Oratorios</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Sacred songs (High voice) with orchestra--Vocal scores with piano</dcterms:subject>
+    <dcterms:subject>Oratorios--Excerpts--Vocal scores with piano</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1145722/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1145722</edm:isShownAt>

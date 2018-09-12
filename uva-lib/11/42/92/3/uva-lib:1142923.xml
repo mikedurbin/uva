@@ -12,15 +12,16 @@
     <dcterms:title>The wish : song</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Horn, Charles E. (Charles Edward), 1786-1849</dcterms:creator>
+    <dcterms:creator>Armstrong, W. H. (William Henry)</dcterms:creator>
+    <dcterms:creator>Quidor, George W., approximately 1817-</dcterms:creator>
     <dcterms:created>1835/1837</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (4 p.) ; 34 cm.</dcterms:extent>
     <dcterms:publisher>Dubois &amp; Bacon</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1142923/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1142923</edm:isShownAt>

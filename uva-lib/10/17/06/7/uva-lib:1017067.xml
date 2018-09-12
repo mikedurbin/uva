@@ -11,19 +11,19 @@
     <dcterms:identifier>uva-lib:1017067</dcterms:identifier>
     <dcterms:title>Memorial of 100 years a republic : Declaration of Independence.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>United States</dcterms:creator>
+    <dcterms:creator>Berry, T. J.</dcterms:creator>
+    <dcterms:creator>Loag, Samuel.</dcterms:creator>
     <dcterms:created>1876</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) : ill. ; 62 x 47 cm. on sheet 71 x 54 cm.</dcterms:extent>
     <dcterms:publisher>T.J. Berry</dcterms:publisher>
     <dcterms:subject>Liberty Bell</dcterms:subject>
-    <dcterms:subject>Centennial Exhibition (1876 : Philadelphia, Pa.)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Pennsylvania</dcterms:spatial>
     <dcterms:spatial>Philadelphia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Pennsylvania-Philadelphia-1876.</edm:hasType>
+    <dcterms:medium>Broadsides-Pennsylvania-Philadelphia-1876.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1017067/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1017067</edm:isShownAt>

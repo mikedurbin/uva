@@ -18,8 +18,8 @@
     <dcterms:publisher>W. Tegg</dcterms:publisher>
     <dcterms:subject>Sin</dcterms:subject>
     <dcterms:subject>Conscience, Examination of</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65049/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65049</edm:isShownAt>

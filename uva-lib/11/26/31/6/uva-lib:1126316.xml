@@ -12,14 +12,17 @@
     <dcterms:title>Christmas hymn, or, Nazareth</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Gounod, Charles, 1818-1893</dcterms:creator>
+    <dcterms:creator>Chorley, Henry Fothergill, 1808-1872</dcterms:creator>
+    <dcterms:creator>Peters, H. J. (Henry J.), 1816-1878</dcterms:creator>
+    <dcterms:creator>Reed, J. S.</dcterms:creator>
     <dcterms:created>1869</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.)</dcterms:extent>
     <dcterms:publisher>D.P. Faulds</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1126316/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1126316</edm:isShownAt>

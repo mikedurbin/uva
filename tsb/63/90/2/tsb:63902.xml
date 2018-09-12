@@ -11,12 +11,14 @@
     <dcterms:identifier>tsb:63902</dcterms:identifier>
     <dcterms:title>Saint Paul's Epistle to the Philippians</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Lightfoot, J. B. (Joseph Barber), 1828-1889</dcterms:creator>
     <dcterms:created>1913</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>346 p., 23 cm.</dcterms:extent>
     <dcterms:publisher>Macmillan and co.</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Commentaries</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63902/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63902</edm:isShownAt>

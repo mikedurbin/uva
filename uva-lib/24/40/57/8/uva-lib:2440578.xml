@@ -15,9 +15,9 @@
     <dcterms:description>UVA School of Nursing; note inside from Ellen Stout about the possible uses of the cup</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:subject>Chalices</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>cups (drinking vessels)</edm:hasType>
+    <dcterms:medium>cups (drinking vessels)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440578/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440578</edm:isShownAt>

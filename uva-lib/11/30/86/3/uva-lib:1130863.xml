@@ -12,15 +12,16 @@
     <dcterms:title>A kiss in the rain : ballad</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Pease, Jessie L.</dcterms:creator>
+    <dcterms:creator>Peck, Samuel Minturn, 1854-1938</dcterms:creator>
+    <dcterms:creator>Thorburn, John, 1675-1758</dcterms:creator>
     <dcterms:created>1888</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score ([5] p.)</dcterms:extent>
     <dcterms:publisher>Detroit Music Co.</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1130863/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1130863</edm:isShownAt>

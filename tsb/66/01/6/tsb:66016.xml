@@ -11,13 +11,17 @@
     <dcterms:identifier>tsb:66016</dcterms:identifier>
     <dcterms:title>Reports of cases adjudged in the Court of King's Bench: with some special cases in the courts of Chancery, Common Pleas, and Exchequer, alphabetically digested under proper heads; from the first year of King William and Queen Mary, to the tenth year of Queen Anne [1689-1712]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Wilson, George, -1778</dcterms:creator>
+    <dcterms:creator>Salkeld, William, 1671-1715</dcterms:creator>
+    <dcterms:creator>D'Anvers, Knightley, -1740</dcterms:creator>
+    <dcterms:creator>Evans, William David, 1767-1821</dcterms:creator>
     <dcterms:created>1795</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. 24 cm.</dcterms:extent>
     <dcterms:publisher>Printed by A. Strahan and W. Woodfall for E. and R. Brooke and J. Butterworth</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66016/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66016</edm:isShownAt>

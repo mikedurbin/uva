@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. ; 24 cm.</dcterms:extent>
     <dcterms:publisher>Printed for the reporter at the Aurora Office</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--United States</dcterms:subject>
+    <dcterms:subject>Law reports, digests, etc--Pennsylvania</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>legal case and case notes</edm:hasType>
+    <dcterms:medium>legal case and case notes</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65932/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65932</edm:isShownAt>

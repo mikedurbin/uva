@@ -14,14 +14,15 @@
     <dcterms:creator>Dezendorf, J. F. (John F.)</dcterms:creator>
     <dcterms:created>1879</dcterms:created>
     <dcterms:extent>1 map (p. [1]) ; 41 x 39 cm.</dcterms:extent>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Holliday, Fred W. M. (Frederick William Mackey)</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Holliday, Fred W. M. (Frederick William Mackey), 1828-1899</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>Norfolk (Va.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Norfolk</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003625/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003625</edm:isShownAt>

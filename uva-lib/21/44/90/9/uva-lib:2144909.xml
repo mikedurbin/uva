@@ -15,12 +15,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([2] p.) 32 x 21 cm.</dcterms:extent>
     <dcterms:subject>Privateering</dcterms:subject>
-    <dcterms:subject>Commerce</dcterms:subject>
-    <dcterms:subject>Commerce</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--Commerce--Great Britain</dcterms:subject>
+    <dcterms:subject>Great Britain--Commerce--United States</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2144909/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2144909</edm:isShownAt>

@@ -12,15 +12,16 @@
     <dcterms:title>Harvey's Scenes of the primitive forest of America, at the four periods of the year : spring, summer, autumn &amp; winter</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Harvey, George, approximately 1800-1878</dcterms:creator>
+    <dcterms:creator>Irving, Washington, 1783-1859</dcterms:creator>
     <dcterms:created>1841</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[7] leaves, [4] leaves of plates : col. ill. ; 50 x 42 cm.</dcterms:extent>
     <dcterms:publisher>Published by George Harvey, 16 Foley Place, Great Portland Street, &amp; Messrs. Ackermann &amp; Co., Strand ; Printed by Johnson &amp; Co., 10, Brooke Street, Holborn</dcterms:publisher>
-    <dcterms:subject>Library</dcterms:subject>
-    <dcterms:subject>Description and travel</dcterms:subject>
     <dcterms:subject>Mellon, Paul</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
+    <dcterms:subject>United States--Description and travel--Pictorial works</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:616920/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:616920</edm:isShownAt>

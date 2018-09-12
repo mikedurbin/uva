@@ -11,13 +11,15 @@
     <dcterms:identifier>tsb:65848</dcterms:identifier>
     <dcterms:title>Reports of cases argued and adjudged in the Court of King's Bench, in the eleventh and twelfth years of the reign of King George the Second. [1737-1738]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Andrews, George, Esq</dcterms:creator>
+    <dcterms:creator>Vernon, G. W. (George William), 1762-1792</dcterms:creator>
     <dcterms:created>1792</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>397, xiv, [42] p. 22 cm.</dcterms:extent>
     <dcterms:publisher>Printed for G. G. J. Robinson, Whieldon and Butterworth, W. Clarke and Son</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65848/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65848</edm:isShownAt>

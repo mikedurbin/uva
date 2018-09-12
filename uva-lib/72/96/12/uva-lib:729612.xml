@@ -12,15 +12,16 @@
     <dcterms:title>Dialogo dell' imprese militari et amorose di Monsignor Giovio Vescouo di Nocera; : con vn Ragionamento di Messer Lodouico Domenichi, nel medesimo soggetto. : Con la tauola.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Giovio, Paolo, 1483-1552</dcterms:creator>
+    <dcterms:creator>Domenichi, Lodovico, 1515-1564</dcterms:creator>
     <dcterms:created>1559</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>194, [9] p. : ill. ; 22 cm. (4to)</dcterms:extent>
     <dcterms:publisher>Appresso Guglielmo Rouiglio [sic]</dcterms:publisher>
-    <dcterms:subject>Emblems</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Emblems--Italy--Early works to 1800</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>ita</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:729612/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:729612</edm:isShownAt>

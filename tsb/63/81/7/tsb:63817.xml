@@ -12,14 +12,15 @@
     <dcterms:title>The theological works of Thomas Paine. To which are added the Profession of faith of a Savoyard vicar,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Paine, Thomas, 1737-1809</dcterms:creator>
+    <dcterms:creator>Rousseau, Jean-Jacques, 1712-1778</dcterms:creator>
     <dcterms:created>1840</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>384 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>J. P. Mendum</dcterms:publisher>
     <dcterms:subject>Rationalism</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63817/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63817</edm:isShownAt>

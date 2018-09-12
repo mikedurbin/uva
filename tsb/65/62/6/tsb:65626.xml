@@ -12,13 +12,15 @@
     <dcterms:title>American charities</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Warner, Amos Griswold, 1861-1900</dcterms:creator>
+    <dcterms:creator>Howard, George Elliott, 1849-1928</dcterms:creator>
+    <dcterms:creator>Coolidge, Mary Roberts, 1860-1945</dcterms:creator>
     <dcterms:created>1919</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxii, 541 p. ; 22 cm.</dcterms:extent>
     <dcterms:publisher>Thomas Y. Crowell company</dcterms:publisher>
-    <dcterms:subject>Charities</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Charities--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65626/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65626</edm:isShownAt>

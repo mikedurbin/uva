@@ -11,7 +11,6 @@
     <dcterms:identifier>uva-lib:2440575</dcterms:identifier>
     <dcterms:title>Baumanometer</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>W.A. Baum Co. Inc.</dcterms:creator>
     <dcterms:created>1935/1960</dcterms:created>
     <dcterms:description>The following text is stamped on a metal plate: "Baumanometer REG. U.S. PAT. OFF. STANDARD FOR ACCURACY THE WORLD OVER U.S. PATS. NOS. 1594039 &amp; 1821902 MADE IN U.S.A. W.A. BAUM Co. Inc. - NEW YORK KOMPAK MODEL". The following text is on a nameplate attached to the device: "J.C Hortenstein".</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
@@ -19,9 +18,9 @@
     <dcterms:medium>rubber (material)</dcterms:medium>
     <dcterms:medium>cloth</dcterms:medium>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440575/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440575</edm:isShownAt>

@@ -15,10 +15,12 @@
     <dcterms:created>1876</dcterms:created>
     <dcterms:extent>1 map : col. ; 25 x 48 cm.</dcterms:extent>
     <dcterms:publisher>R.F. Walker, Superintendent of Public Printing</dcterms:publisher>
-    <dcterms:subject>Physical geography</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Physical geography--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps, Physical</dcterms:subject>
+    <dcterms:subject>West Virginia--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:744446/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:744446</edm:isShownAt>

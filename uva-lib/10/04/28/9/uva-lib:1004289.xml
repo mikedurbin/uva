@@ -12,14 +12,19 @@
     <dcterms:title>Nouveau royaume de Pologne</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Delamarche, Charles François, 1740-1817</dcterms:creator>
+    <dcterms:creator>Robert de Vaugondy, Didier, 1723-1786</dcterms:creator>
+    <dcterms:creator>Robert de Vaugondy, Gilles, 1688-1766</dcterms:creator>
+    <dcterms:creator>Dien, Charles, l'ainé</dcterms:creator>
     <dcterms:created>1817</dcterms:created>
     <dcterms:extent>1 map : col. ; 49 x 61 cm. on sheet 57 x 81 cm.</dcterms:extent>
     <dcterms:publisher>Chez Fr'x. Delamarche et Chles. Dien Ingénieurs, Mécaniciens pour les Globes et Sphères Rue du Jardinet No. 13</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Poland--Maps</dcterms:subject>
+    <dcterms:subject>Europe, Central--Maps</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004289/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004289</edm:isShownAt>

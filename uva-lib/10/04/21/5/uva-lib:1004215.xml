@@ -12,15 +12,17 @@
     <dcterms:title>Jamaica : divided into counties &amp; parishes.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Tanner, Benjamin, 1775-1848</dcterms:creator>
+    <dcterms:creator>Edwards, Bryan, 1743-1800</dcterms:creator>
     <dcterms:created>1810</dcterms:created>
     <dcterms:extent>1 map ; 26 x 60 cm. on sheet 28 x 62 cm.</dcterms:extent>
     <dcterms:publisher>Levis &amp; Weaver</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Jamaica--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Pennsylvania</dcterms:spatial>
     <dcterms:spatial>Philadelphia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004215/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004215</edm:isShownAt>

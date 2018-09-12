@@ -17,14 +17,14 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>2 x 3 in.</dcterms:extent>
-    <dcterms:subject>Grocery stores</dcterms:subject>
-    <dcterms:subject>Food</dcterms:subject>
-    <dcterms:subject>Interiors</dcterms:subject>
-    <dcterms:subject>Roofs</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Grocery stores--Single built works by function</dcterms:subject>
+    <dcterms:subject>Food--Food by consumer type</dcterms:subject>
+    <dcterms:subject>Interiors--Rooms and spaces</dcterms:subject>
+    <dcterms:subject>Roofs--Structural elements</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Lantern slides</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Lantern slides</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:333656/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333656</edm:isShownAt>

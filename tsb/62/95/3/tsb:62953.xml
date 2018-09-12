@@ -12,12 +12,13 @@
     <dcterms:title>Poems</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Keats, John, 1795-1821</dcterms:creator>
+    <dcterms:creator>Symons, Arthur, 1865-1945</dcterms:creator>
     <dcterms:created>1907</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxxix, 240 p. : ill. ; 18 cm.</dcterms:extent>
     <dcterms:publisher>G.W. Jacobs</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:62953/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:62953</edm:isShownAt>

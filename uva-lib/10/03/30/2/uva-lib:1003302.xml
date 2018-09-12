@@ -12,15 +12,17 @@
     <dcterms:title>Map of Cumberland &amp; Franklin : as refered to in Ramsey's Annals of Tennessee</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Keenan, William, approximately 1810-</dcterms:creator>
+    <dcterms:creator>Ramsey, J. G. M. (James Gettys McGready), 1797-1884</dcterms:creator>
     <dcterms:created>1853</dcterms:created>
     <dcterms:extent>1 map ; 20 x 43 cm.</dcterms:extent>
     <dcterms:publisher>John Russell</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Tennessee--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>South Carolina</dcterms:spatial>
     <dcterms:spatial>Charleston</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003302/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003302</edm:isShownAt>

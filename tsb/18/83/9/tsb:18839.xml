@@ -15,15 +15,15 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[4] p. ; 22 cm.</dcterms:extent>
     <dcterms:publisher>Maurice Strakosch</dcterms:publisher>
-    <dcterms:subject>Concert programs</dcterms:subject>
+    <dcterms:subject>Patti, Adelina, 1843-1919</dcterms:subject>
+    <dcterms:subject>Strakosch, Moritz, -1887</dcterms:subject>
+    <dcterms:subject>Concert programs--Maryland--Baltimore</dcterms:subject>
     <dcterms:subject>Gifted children</dcterms:subject>
-    <dcterms:subject>Patti, Adelina/</dcterms:subject>
-    <dcterms:subject>Strakosch, Moritz</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Maryland</dcterms:spatial>
     <dcterms:spatial>Baltimore</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18839/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18839</edm:isShownAt>

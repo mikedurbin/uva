@@ -15,9 +15,9 @@
     <dcterms:description>Contained in yellow box with English and Chinese text. Paper instructions in Chinese and English in the box. The following text is printed on the front of the bottle label: "WATSON'S SARSPARILLA No. 64 Cools and purifies the blood making it both rich and red. Directions, One dessert spoonful to be taken in a little water three times a day Manufactured by A.S. Watsons LTD. LONDON, HONG KONG, &amp; CHINA". Chinese text is printed on the back of the label.</dcterms:description>
     <dcterms:medium>glass</dcterms:medium>
     <dcterms:subject>Soft drinks</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>bottles</edm:hasType>
+    <dcterms:medium>bottles</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440588/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440588</edm:isShownAt>

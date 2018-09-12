@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xiii, 564 p. : ill. ; 24 cm.</dcterms:extent>
     <dcterms:publisher>Harvard Univ. Press</dcterms:publisher>
-    <dcterms:subject>Lowell, A. Lawrence (Abbott Lawrence)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Lowell, A. Lawrence (Abbott Lawrence), 1856-1943</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64049/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64049</edm:isShownAt>

@@ -16,10 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xiv p., 2 l.,3-110, [2] p. front., 11 pl. 20 cm.</dcterms:extent>
     <dcterms:publisher>Houghton Mifflin</dcterms:publisher>
-    <dcterms:subject>Roosevelt, Theodore</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Roosevelt, Theodore, 1858-1919</dcterms:subject>
+    <dcterms:subject>Yellowstone National Park</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64397/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64397</edm:isShownAt>

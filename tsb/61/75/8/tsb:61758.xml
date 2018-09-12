@@ -12,15 +12,15 @@
     <dcterms:title>Biographical register of Christ's college, 1505-1905, and of the earlier foundation, God's house, 1448-1505</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Peile, John, 1838-1910</dcterms:creator>
+    <dcterms:creator>Venn, J. A. (John Archibald), 1883-</dcterms:creator>
     <dcterms:created>1910/1913</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. 27 cm.</dcterms:extent>
     <dcterms:publisher>University press</dcterms:publisher>
-    <dcterms:subject>Christ's College (University of Cambridge)/</dcterms:subject>
-    <dcterms:subject>University of Cambridge</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Biography</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61758/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61758</edm:isShownAt>

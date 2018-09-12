@@ -15,13 +15,13 @@
     <dcterms:created>1921-02-23</dcterms:created>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:extent>8 x 10 in.</dcterms:extent>
+    <dcterms:subject>University of Virginia Lawn (Charlottesville, Va.)</dcterms:subject>
+    <dcterms:subject>Charlottesville (Va.)</dcterms:subject>
     <dcterms:subject>Architecture</dcterms:subject>
     <dcterms:subject>Snow</dcterms:subject>
-    <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:isPartOf>Holsinger Studio Collection</dcterms:isPartOf>
-    <edm:hasType>Film negatives</edm:hasType>
+    <dcterms:medium>Film negatives</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1051225/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1051225</edm:isShownAt>

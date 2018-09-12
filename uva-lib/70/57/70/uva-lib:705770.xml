@@ -12,18 +12,20 @@
     <dcterms:title>Reconnaissance of the secession works at Yorktown, Va</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Abbot, Henry L.</dcterms:creator>
+    <dcterms:creator>Comstock, C. B. (Cyrus Ballou), 1831-1910</dcterms:creator>
+    <dcterms:creator>Humphreys, A. A. (Andrew Atkinson), 1810-1883</dcterms:creator>
+    <dcterms:creator>Hall, Norman J.</dcterms:creator>
     <dcterms:created>1891/1895</dcterms:created>
     <dcterms:extent>4 maps on 1 sheet : col. ; 41 x 69 cm.</dcterms:extent>
-    <dcterms:subject>Fortification</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Fortification--Virginia--Yorktown--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--History--Civil War, 1861-1865--Maps</dcterms:subject>
+    <dcterms:subject>Yorktown (Va.)--History--Maps</dcterms:subject>
+    <dcterms:subject>Gloucester (Va.)--History--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:705770/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:705770</edm:isShownAt>

@@ -12,14 +12,15 @@
     <dcterms:title>Les tragedies de Rob. Garnier conseiller du roy et de monseigneur frere vnique de sa maiesté, lieutenāt general criminel au siege presidial &amp; senechaussee du Maine</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Garnier, Robert, 1544-1590</dcterms:creator>
+    <dcterms:creator>Garnier, Robert, 1544-1590</dcterms:creator>
     <dcterms:created>1580</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[4], 206, 51 leaves ; 14 cm. (12mo)</dcterms:extent>
     <dcterms:publisher>Par Mamert Patisson Imprimeur du Roy, au logis de Robert Estienne</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1078945/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1078945</edm:isShownAt>

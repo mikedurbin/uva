@@ -12,15 +12,16 @@
     <dcterms:title>South Warrenton, Va. : property of East Virginia Mineral and Warrenton Improvement Co.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Lee, A. Y., engineer</dcterms:creator>
+    <dcterms:creator>Lee, W. McDonald.</dcterms:creator>
     <dcterms:created>1890</dcterms:created>
     <dcterms:extent>1 map : blueprint ; 53 x 68 cm.</dcterms:extent>
     <dcterms:publisher>East Virginia Mineral and Warrenton Improvement Co.</dcterms:publisher>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:subject>Real estate development</dcterms:subject>
-    <dcterms:subject>East Virginia Mineral and Warrenton Improvement Co.</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Real property--Virginia--Warrenton--Maps</dcterms:subject>
+    <dcterms:subject>Real estate development--Virginia--Warrenton--Maps</dcterms:subject>
+    <dcterms:subject>Warrenton (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:743730/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:743730</edm:isShownAt>

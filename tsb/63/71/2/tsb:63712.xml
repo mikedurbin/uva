@@ -11,17 +11,21 @@
     <dcterms:identifier>tsb:63712</dcterms:identifier>
     <dcterms:title>A documentary history of American industrial society</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Commons, John R. (John Rogers), 1862-1945</dcterms:creator>
+    <dcterms:creator>Phillips, Ulrich Bonnell, 1877-1934</dcterms:creator>
+    <dcterms:creator>Gilmore, Eugene Allen, 1871-1953</dcterms:creator>
+    <dcterms:creator>Sumner, Helen Laura, 1876-</dcterms:creator>
+    <dcterms:creator>Andrews, John B. (John Bertram), 1880-1943</dcterms:creator>
     <dcterms:created>1910/1911</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>11 v. fronts. (v. 5-10) ports., chart, facsims. (1 fold.) fold. tab. 25 cm.</dcterms:extent>
     <dcterms:publisher>The A. H. Clark company</dcterms:publisher>
-    <dcterms:subject>Labor</dcterms:subject>
-    <dcterms:subject>Working class</dcterms:subject>
-    <dcterms:subject>Labor movement</dcterms:subject>
-    <dcterms:subject>Economic conditions</dcterms:subject>
-    <dcterms:subject>American Bureau of Industrial Research.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Labor--United States</dcterms:subject>
+    <dcterms:subject>Working class--United States</dcterms:subject>
+    <dcterms:subject>Labor movement--United States</dcterms:subject>
+    <dcterms:subject>United States--Economic conditions</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63712/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63712</edm:isShownAt>

@@ -11,14 +11,16 @@
     <dcterms:identifier>tsb:18677</dcterms:identifier>
     <dcterms:title>General specifications for bridges on the South-Western Turnpike Road : Masonry. I. The foundation for the abutments, wing, walls and piers shall be upon rock when that can be obtained ...  : Superstructures. I. These shall conform, in figure and general dimensions, as well as the size and quality of the scantling, to the special plans, drawings and bills of timber furnished by the engineer ...</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Shaw, Chas. B. (Charles Brion), 1800-1870</dcterms:creator>
     <dcterms:created>1850</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 40 x 25 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Toll roads</dcterms:subject>
-    <dcterms:subject>Roads</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Toll roads--Virginia</dcterms:subject>
+    <dcterms:subject>Roads--Virginia</dcterms:subject>
+    <dcterms:subject>Southwestern Turnpike Road (Va.)</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18677/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18677</edm:isShownAt>

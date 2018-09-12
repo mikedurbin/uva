@@ -17,15 +17,15 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Steps</dcterms:subject>
-    <dcterms:subject>Doors</dcterms:subject>
-    <dcterms:subject>Dwellings</dcterms:subject>
-    <dcterms:subject>Group portraits</dcterms:subject>
-    <dcterms:subject>Rocks</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Steps--Components by specific context</dcterms:subject>
+    <dcterms:subject>Doors--Architectural elements</dcterms:subject>
+    <dcterms:subject>Dwellings--Single built works</dcterms:subject>
+    <dcterms:subject>Group portraits--Visual works by subject types</dcterms:subject>
+    <dcterms:subject>Rocks--Materials by composition</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Photographs</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:333579/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333579</edm:isShownAt>

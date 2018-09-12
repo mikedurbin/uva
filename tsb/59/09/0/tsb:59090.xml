@@ -17,10 +17,11 @@
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>2 maps on 1 sheet : b&amp;w ; sheet 61 x 48 cm.</dcterms:extent>
     <dcterms:publisher>Commissioners?]</dcterms:publisher>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Real property--Virginia--Staunton--Maps</dcterms:subject>
+    <dcterms:subject>Oak Hill (Staunton, Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:59090/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:59090</edm:isShownAt>

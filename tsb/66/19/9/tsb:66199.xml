@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66199</dcterms:identifier>
+    <dcterms:title>The rules of evidence on pleas of the crown : illustrated from printed and manuscript trials and cases</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>MacNally, Leonard, 1752-1820</dcterms:creator>
+    <dcterms:created>1802</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>2 v. in 1 ; 22 cm.</dcterms:extent>
+    <dcterms:publisher>Printed for J. Butterworth, London, and J. Cooke, Dublin, by H. Fitzpatrick, 1802.</dcterms:publisher>
+    <dcterms:subject>Evidence, Criminal--Great Britain</dcterms:subject>
+    <dcterms:subject>Pleas of the crown</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66199/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66199</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2577463/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

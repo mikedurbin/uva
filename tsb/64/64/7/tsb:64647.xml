@@ -17,8 +17,8 @@
     <dcterms:extent>x, 500 p. front., illus., diagrs. 25 cm.</dcterms:extent>
     <dcterms:publisher>Scott, Greenwood &amp; son</dcterms:publisher>
     <dcterms:subject>Bricks</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64647/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64647</edm:isShownAt>

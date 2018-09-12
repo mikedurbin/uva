@@ -17,19 +17,19 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Smithfield (Va.)</dcterms:subject>
-    <dcterms:subject>Isle of Wight County (Va.)</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Waterfronts</dcterms:subject>
-    <dcterms:subject>Riverfronts</dcterms:subject>
-    <dcterms:subject>Architecture</dcterms:subject>
-    <dcterms:subject>Buildings</dcterms:subject>
-    <dcterms:subject>South (U.S.)</dcterms:subject>
-    <dcterms:subject>Wharves</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Smithfield (Va.)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Isle of Wight County (Va.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Virginia--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Waterfronts--Open spaces and site elements</dcterms:subject>
+    <dcterms:subject>Riverfronts--Open spaces by location or context</dcterms:subject>
+    <dcterms:subject>Architecture--Arts and related disciplines</dcterms:subject>
+    <dcterms:subject>Buildings--Single built works</dcterms:subject>
+    <dcterms:subject>South (U.S.)--Regions and states</dcterms:subject>
+    <dcterms:subject>Wharves--Single built works</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:328409/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:328409</edm:isShownAt>

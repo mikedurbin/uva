@@ -14,13 +14,14 @@
     <dcterms:created>1910</dcterms:created>
     <dcterms:extent>1 map ; 19 x 57 cm.</dcterms:extent>
     <dcterms:publisher>Government Printing Office</dcterms:publisher>
-    <dcterms:subject>Marine terminals</dcterms:subject>
-    <dcterms:subject>Harbors</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Shipping</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Marine terminals--Louisiana--New Orleans--Maps</dcterms:subject>
+    <dcterms:subject>Harbors--Louisiana--New Orleans--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--Louisiana--New Orleans--Maps</dcterms:subject>
+    <dcterms:subject>Shipping--Louisiana--New Orleans--Maps</dcterms:subject>
+    <dcterms:subject>New Orleans (La.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:777189/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:777189</edm:isShownAt>

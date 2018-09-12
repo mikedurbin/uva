@@ -12,12 +12,13 @@
     <dcterms:title>The poetical works</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Shelley, Percy Bysshe, 1792-1822</dcterms:creator>
+    <dcterms:creator>Dowden, Edward, 1843-1913</dcterms:creator>
     <dcterms:created>1910/1919</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>viii, 705 p. : ill. ; 20 cm.</dcterms:extent>
     <dcterms:publisher>T. J. Corwell</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65000/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65000</edm:isShownAt>

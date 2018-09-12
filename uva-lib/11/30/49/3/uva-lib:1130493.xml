@@ -12,16 +12,19 @@
     <dcterms:title>Sweet Nola Shannon : a pretty home song</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Williams, W. R.</dcterms:creator>
+    <dcterms:creator>Haight, Pearle</dcterms:creator>
+    <dcterms:creator>Williams, W. R.</dcterms:creator>
+    <dcterms:creator>Beebe, Warren</dcterms:creator>
     <dcterms:created>1897</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.) : ill.</dcterms:extent>
     <dcterms:publisher>Will Rossiter</dcterms:publisher>
-    <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
     <dcterms:subject>Haight, Pearle</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Portraits</dcterms:subject>
+    <dcterms:subject>Songs with piano</dcterms:subject>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1130493/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1130493</edm:isShownAt>

@@ -12,15 +12,15 @@
     <dcterms:title>The letters of Cassiodorus, being a condensed translation of the Variae epistolae of Magnus Aurelius Cassiodorus Senator with an introduction</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Cassiodorus, Senator, approximately 487-approximately 580</dcterms:creator>
+    <dcterms:creator>Hodgkin, Thomas, 1831-1913</dcterms:creator>
     <dcterms:created>1886</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxviii, 560 p. incl. illus., map. 23 cm.</dcterms:extent>
     <dcterms:publisher>H. Frowde</dcterms:publisher>
-    <dcterms:subject>Goths</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Goths--Italy</dcterms:subject>
+    <dcterms:subject>Italy--History--476-1268</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>476-1268</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63943/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63943</edm:isShownAt>

@@ -16,8 +16,8 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>135 p. ; 18 cm.</dcterms:extent>
     <dcterms:publisher>A. Flanagan Co.</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:62517/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:62517</edm:isShownAt>

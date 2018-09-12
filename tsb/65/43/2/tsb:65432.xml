@@ -11,13 +11,16 @@
     <dcterms:identifier>tsb:65432</dcterms:identifier>
     <dcterms:title>A hand-book of the history, organization, and methods of work of the Young Men's Christian Associations</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Ninde, H. S. (Henry Summerfield), 1835-</dcterms:creator>
+    <dcterms:creator>Bowne, J. T. (Jacob Titus), 1847-1925</dcterms:creator>
+    <dcterms:creator>Uhl, Erskine</dcterms:creator>
     <dcterms:created>1892</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>448 [64] p. charts, tables. 20 cm.</dcterms:extent>
     <dcterms:publisher>International Committee of Young Men's Christian Associations</dcterms:publisher>
     <dcterms:subject>Young Men's Christian associations</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65432/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65432</edm:isShownAt>

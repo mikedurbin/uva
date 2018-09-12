@@ -12,11 +12,15 @@
     <dcterms:title>The works of Francis Beaumont and John Fletcher</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Beaumont, Francis, 1584-1616</dcterms:creator>
+    <dcterms:creator>Fletcher, John, 1579-1625</dcterms:creator>
+    <dcterms:creator>Glover, Arnold, 1865-1905</dcterms:creator>
+    <dcterms:creator>Waller, A. R. (Alfred Rayney), 1867-1922</dcterms:creator>
+    <dcterms:created>1905</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>10 v. 20 cm.</dcterms:extent>
     <dcterms:publisher>University Press</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64398/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64398</edm:isShownAt>

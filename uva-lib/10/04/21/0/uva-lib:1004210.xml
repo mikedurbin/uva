@@ -15,9 +15,10 @@
     <dcterms:created>1876</dcterms:created>
     <dcterms:extent>1 map ; 27 x 46 cm. on sheet 38 x 48 cm.</dcterms:extent>
     <dcterms:publisher>Lithographed by F. Geese and Published by Sheriff &amp; Co. for the Richmond, Va. City directory 1875-76</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Richmond (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004210/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004210</edm:isShownAt>

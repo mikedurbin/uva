@@ -12,14 +12,15 @@
     <dcterms:title>Les secondes oeuures de Mes-dames Des Roches de Poictiers, mere &amp; fille</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Des Roches, Catherine Fredonnoit, dame, 1542-1587</dcterms:creator>
+    <dcterms:creator>Des Roches, Madeleine Fredonnoit, 1530?-1587</dcterms:creator>
     <dcterms:created>1583</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>87 leaves ; 22 cm. (4to)</dcterms:extent>
     <dcterms:publisher>Pour Nicolas Courtoys</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Poitiers</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:738686/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:738686</edm:isShownAt>

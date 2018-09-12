@@ -14,12 +14,13 @@
     <dcterms:created>1913</dcterms:created>
     <dcterms:extent>1 map ; 41 x 29 cm.</dcterms:extent>
     <dcterms:publisher>Virginia Geological Survey</dcterms:publisher>
-    <dcterms:subject>Gold mines and mining</dcterms:subject>
-    <dcterms:subject>Mines and mineral resources</dcterms:subject>
-    <dcterms:subject>Young American Mine (Goochland County, Va.)</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>Gold mines and mining--Virginia--Goochland County--Maps</dcterms:subject>
+    <dcterms:subject>Mines and mineral resources--Virginia--Goochland County--Maps</dcterms:subject>
+    <dcterms:subject>Goochland County (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:712489/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:712489</edm:isShownAt>

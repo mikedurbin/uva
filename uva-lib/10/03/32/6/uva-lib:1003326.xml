@@ -14,14 +14,15 @@
     <dcterms:created>1890</dcterms:created>
     <dcterms:extent>1 map ; 34 x 56 cm. on sheet 36 x 58 cm. folded to 19 x 8 cm.</dcterms:extent>
     <dcterms:publisher>Issued by Eakle, August &amp; Donovan, Agents, Chesapeake &amp; Ohio Development Co.</dcterms:publisher>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:subject>Real estate development</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Real property--Virginia--Clifton Forge--Maps</dcterms:subject>
+    <dcterms:subject>Real estate development--Virginia--Clifton Forge--Maps</dcterms:subject>
+    <dcterms:subject>Clifton Forge (Va.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Clifton Forge</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003326/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003326</edm:isShownAt>

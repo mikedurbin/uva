@@ -12,15 +12,19 @@
     <dcterms:title>Map of the cities of Norfolk and Portsmouth : adjoining towns and suburbs</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Dezendorf, J. F. (John F.)</dcterms:creator>
+    <dcterms:creator>Neumann, Louis E.</dcterms:creator>
+    <dcterms:creator>Hart, Charles.</dcterms:creator>
     <dcterms:created>1876</dcterms:created>
     <dcterms:extent>1 map on 4 sheets : col. ; each sheet image measures approximately 73 x 53 cm. on sheets 85 x 70 cm.</dcterms:extent>
     <dcterms:publisher>Published by F.W. Beers &amp; Co.</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Norfolk (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Portsmouth (Va.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>New York (State)</dcterms:spatial>
     <dcterms:spatial>New York (City)</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003608/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003608</edm:isShownAt>

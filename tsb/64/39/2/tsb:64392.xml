@@ -15,13 +15,13 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>26 v. : ill. ; 25 cm.</dcterms:extent>
     <dcterms:publisher>The Association</dcterms:publisher>
-    <dcterms:subject>Railroad engineering</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Locomotives</dcterms:subject>
-    <dcterms:subject>Fuel</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Railroad engineering--Periodicals</dcterms:subject>
+    <dcterms:subject>Railroads--Fuel--Periodicals</dcterms:subject>
+    <dcterms:subject>Locomotives--Fuel consumption--Periodicals</dcterms:subject>
+    <dcterms:subject>Fuel--Periodicals</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>conference publication</edm:hasType>
+    <dcterms:medium>conference publication</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64392/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64392</edm:isShownAt>

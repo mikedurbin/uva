@@ -12,12 +12,13 @@
     <dcterms:title>The spell, an extravaganza, an unpublished novel</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Brontë, Charlotte, 1816-1855</dcterms:creator>
+    <dcterms:creator>MacLean, George Edwin, 1850-1938</dcterms:creator>
     <dcterms:created>1931</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xlii p., 2 l., [3]-146 p., 1 l. incl. facsims. 20 cm.</dcterms:extent>
     <dcterms:publisher>H. Milford, Oxford university press</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61636/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61636</edm:isShownAt>

@@ -12,17 +12,20 @@
     <dcterms:title>Carte de la partie françoise de St. Domingue = A map of the French part of St. Domingo</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Varlé, P. C.</dcterms:creator>
+    <dcterms:creator>Bellin, Jacques Nicolas, 1703-1772</dcterms:creator>
+    <dcterms:creator>Carey, Mathew, 1760-1839</dcterms:creator>
+    <dcterms:creator>Scott, J. T. (Joseph T.)</dcterms:creator>
     <dcterms:created>1811</dcterms:created>
     <dcterms:extent>1 map : b&amp;w ; 37 x 48 cm.</dcterms:extent>
     <dcterms:publisher>Mathew Carey</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Haiti--Maps</dcterms:subject>
+    <dcterms:subject>Haiti--History--Revolution, 1791-1804--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Pennsylvania</dcterms:spatial>
     <dcterms:spatial>Philadelphia</dcterms:spatial>
     <dcterms:language>fre</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>Revolution, 1791-1804</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004184/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004184</edm:isShownAt>

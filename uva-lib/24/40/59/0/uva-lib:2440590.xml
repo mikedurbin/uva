@@ -15,9 +15,9 @@
     <dcterms:description>A tag with the following text accompanies the artifact: "Pill mould, Dr. Albert Worthington". Dr. Albert Brownell Worthington (1819-1898) graduated from Yale Medical School (1847) and practiced medicine in Middle Haddam, Connecticut from 1847 to 1898. The pill roller may have been owned by earlier physicians. N. Laws[  ].</dcterms:description>
     <dcterms:medium>wood (plant material)</dcterms:medium>
     <dcterms:subject>Pharmaceutical technology</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>instruments</edm:hasType>
+    <dcterms:medium>instruments</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440590/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440590</edm:isShownAt>

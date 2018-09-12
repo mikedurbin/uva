@@ -12,14 +12,15 @@
     <dcterms:title>Les oeuures et meslanges poetiques d'Estienne Iodelle, sieur du Lymodin</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Jodelle, Etienne, 1532-1573</dcterms:creator>
+    <dcterms:creator>La Mothe, Charles de.</dcterms:creator>
     <dcterms:created>1574</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[8], 308 (i.e. 310), [2] leaves ; 24 cm. (4to)</dcterms:extent>
     <dcterms:publisher>Chez Nicolas Chesneau, rue sainct Iacques ... et Mamert Patisson, rue sainct Iean de Beauuais ...</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1002819/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1002819</edm:isShownAt>

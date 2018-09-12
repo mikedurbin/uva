@@ -12,14 +12,16 @@
     <dcterms:title>Researches into the mathematical principles of the theory of wealth</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Cournot, A. A. (Antoine Augustin), 1801-1877</dcterms:creator>
+    <dcterms:creator>Bacon, Nathaniel Terry, 1858-1926</dcterms:creator>
+    <dcterms:creator>Fisher, Irving, 1867-1947</dcterms:creator>
     <dcterms:created>1897</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>ix, 213 p. fold., diagrs. 18 cm.</dcterms:extent>
     <dcterms:publisher>Macmillan</dcterms:publisher>
     <dcterms:subject>Economics, Mathematical</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61565/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61565</edm:isShownAt>

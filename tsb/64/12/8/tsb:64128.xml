@@ -16,16 +16,13 @@
     <dcterms:extent>viii, 296 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>Association press</dcterms:publisher>
     <dcterms:subject>Christian sociology</dcterms:subject>
-    <dcterms:subject>Labor</dcterms:subject>
+    <dcterms:subject>Labor--1914-</dcterms:subject>
     <dcterms:subject>Reconstruction (1914-1939)</dcterms:subject>
-    <dcterms:subject>Working class</dcterms:subject>
-    <dcterms:subject>Labor movement</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Working class--1914-</dcterms:subject>
+    <dcterms:subject>Labor movement--1914-</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
-    <dcterms:temporal>1914-</dcterms:temporal>
-    <dcterms:temporal>1914-</dcterms:temporal>
-    <dcterms:temporal>1914-</dcterms:temporal>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64128/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64128</edm:isShownAt>

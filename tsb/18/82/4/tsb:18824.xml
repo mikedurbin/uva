@@ -11,10 +11,18 @@
     <dcterms:identifier>tsb:18824</dcterms:identifier>
     <dcterms:title>The Friends and acquaintances of ... : [a collection of funeral invitations from Clarksville, Tennessee, 1851-1854]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hendrick, J. T. (John Thilman), 1815-1898</dcterms:creator>
     <dcterms:created>1851/1854</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>&lt;7&gt; pieces ; 18 x 12 cm. or smaller.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
+    <dcterms:subject>Baird, James, d. 1851</dcterms:subject>
+    <dcterms:subject>Robb, Anna Conrad, d. 1851</dcterms:subject>
+    <dcterms:subject>Dick, William, d. 1851</dcterms:subject>
+    <dcterms:subject>House, Sarah Elizabeth, d. 1851</dcterms:subject>
+    <dcterms:subject>Hendrick, Jane, d. 1852</dcterms:subject>
+    <dcterms:subject>Hinch, Eliza Jane, d. 1852</dcterms:subject>
+    <dcterms:subject>Howard, Edward, d. 1854</dcterms:subject>
     <dcterms:subject>Death and burial</dcterms:subject>
     <dcterms:subject>Death and burial</dcterms:subject>
     <dcterms:subject>Death and burial</dcterms:subject>
@@ -22,16 +30,10 @@
     <dcterms:subject>Death and burial</dcterms:subject>
     <dcterms:subject>Death and burial</dcterms:subject>
     <dcterms:subject>Death and burial</dcterms:subject>
-    <dcterms:subject>Funeral rites and ceremonies</dcterms:subject>
-    <dcterms:subject>Baird, James/</dcterms:subject>
-    <dcterms:subject>Robb, Anna Conrad/</dcterms:subject>
-    <dcterms:subject>Dick, William/</dcterms:subject>
-    <dcterms:subject>House, Sarah Elizabeth/</dcterms:subject>
-    <dcterms:subject>Hendrick, Jane/</dcterms:subject>
-    <dcterms:subject>Hinch, Eliza Jane/</dcterms:subject>
-    <dcterms:subject>Howard, Edward</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Funeral rites and ceremonies--Tennessee--Clarksville</dcterms:subject>
+    <dcterms:subject>Clarksville (Tenn.)--Biography</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18824/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18824</edm:isShownAt>

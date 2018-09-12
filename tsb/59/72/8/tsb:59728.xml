@@ -11,16 +11,15 @@
     <dcterms:identifier>tsb:59728</dcterms:identifier>
     <dcterms:title>Syringe case</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Parke, Davis &amp; Company</dcterms:creator>
     <dcterms:created>1900</dcterms:created>
     <dcterms:description>Empty case intended to hold a phylacogen syringe.</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>2.4 x 14.3 x 6.3 cm</dcterms:extent>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>cases (containers)</edm:hasType>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>cases (containers)</dcterms:medium>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:59728/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:59728</edm:isShownAt>

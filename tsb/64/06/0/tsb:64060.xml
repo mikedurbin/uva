@@ -12,13 +12,14 @@
     <dcterms:title>The Constitution of the United States</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Tucker, John Randolph, 1823-1897</dcterms:creator>
+    <dcterms:creator>Tucker, Henry St. George, 1853-1932</dcterms:creator>
     <dcterms:created>1899</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. 24 cm.</dcterms:extent>
     <dcterms:publisher>Callaghan &amp; co.</dcterms:publisher>
-    <dcterms:subject>Constitutional law</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Constitutional law--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64060/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64060</edm:isShownAt>

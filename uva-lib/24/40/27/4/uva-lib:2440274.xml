@@ -11,16 +11,15 @@
     <dcterms:identifier>uva-lib:2440274</dcterms:identifier>
     <dcterms:title>Light bulb</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>General Electric Company - solr Test</dcterms:creator>
     <dcterms:created>1930/1970</dcterms:created>
     <dcterms:description>Contained in paper case, label information: General Electric Mazda Lamps, Small 15W lightbulb, By the General Electric Company, Nela Park, Cleveland, Ohio.</dcterms:description>
     <dcterms:medium>paper (material)</dcterms:medium>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:medium>glass(material)</dcterms:medium>
     <dcterms:subject>Light bulbs</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>light bulbs</edm:hasType>
+    <dcterms:medium>light bulbs</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440274/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440274</edm:isShownAt>

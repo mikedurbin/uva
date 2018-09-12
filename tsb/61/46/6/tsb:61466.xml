@@ -12,13 +12,14 @@
     <dcterms:title>Xenophon's minor works, comprising the Agesilaus, Hiero, Oeconomicus, Banquet, Apology of Socrates, The treatises on the Lacedaemonian and Athenian governments, On revenues of Athens, On horsemanship, On the duties of a cavalry officer, and On hunting.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Xenophon.</dcterms:creator>
+    <dcterms:creator>Watson, J. S. (John Selby), 1804-1884</dcterms:creator>
     <dcterms:created>1857</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>384 p. 19 cm.</dcterms:extent>
     <dcterms:publisher>H.G. Bohn</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>grc</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61466/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61466</edm:isShownAt>

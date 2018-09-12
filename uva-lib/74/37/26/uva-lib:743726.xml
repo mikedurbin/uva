@@ -12,16 +12,19 @@
     <dcterms:title>Map of Virginia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hotchkiss, Jedediah, 1828-1899</dcterms:creator>
+    <dcterms:creator>Rogers, William Barton, 1804-1882</dcterms:creator>
     <dcterms:created>1876</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map : col. ; 25 x 55 cm.</dcterms:extent>
     <dcterms:publisher>R. F. Walker, Superintendent of Public Printing</dcterms:publisher>
-    <dcterms:subject>Geology</dcterms:subject>
-    <dcterms:subject>Geology</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Geology--Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Geology--West Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--Maps</dcterms:subject>
+    <dcterms:subject>West Virginia--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:743726/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:743726</edm:isShownAt>

@@ -19,11 +19,11 @@
     <dcterms:subject>Christian life</dcterms:subject>
     <dcterms:subject>Christianity and other religions</dcterms:subject>
     <dcterms:subject>Christianity</dcterms:subject>
-    <dcterms:subject>Religion</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Religion--Philosophy</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Inscriptions (Provenance)</edm:hasType>
-    <edm:hasType>Marginalia (Provenance)</edm:hasType>
+    <dcterms:medium>Inscriptions (Provenance)</dcterms:medium>
+    <dcterms:medium>Marginalia (Provenance)</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65783/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65783</edm:isShownAt>

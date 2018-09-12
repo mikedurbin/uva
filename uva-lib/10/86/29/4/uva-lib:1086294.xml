@@ -16,13 +16,13 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[62] leaves : ill. ; 19 cm. (4to)</dcterms:extent>
     <dcterms:publisher>Imprime a paris le xxii. iour de nouembre ... pour Anthoine Verard libraire demourant a Paris</dcterms:publisher>
+    <dcterms:subject>Mary, Blessed Virgin, Saint</dcterms:subject>
     <dcterms:subject>Virgin birth</dcterms:subject>
     <dcterms:subject>Virginity</dcterms:subject>
-    <dcterms:subject>Mary</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1086294/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1086294</edm:isShownAt>

@@ -12,14 +12,14 @@
     <dcterms:title>6e. air varié : sur un thême de Mercadante : [from] 6 petits airs variés : pour violon avec accompt. de piano, op. 89</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Dancla, Charles, 1817-1907</dcterms:creator>
+    <dcterms:creator>Mercadante, Saverio, 1795-1870</dcterms:creator>
     <dcterms:created>1870/1884</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.) + 1 part (3 p.)</dcterms:extent>
     <dcterms:publisher>John Church &amp; Co.</dcterms:publisher>
-    <dcterms:subject>Violin and piano music</dcterms:subject>
-    <dcterms:subject>Variations (Violin and piano)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:subject>Violin and piano music--Scores and parts</dcterms:subject>
+    <dcterms:subject>Variations (Violin and piano)--Scores and parts</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1139812/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1139812</edm:isShownAt>

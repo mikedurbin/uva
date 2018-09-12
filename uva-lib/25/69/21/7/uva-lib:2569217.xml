@@ -11,17 +11,16 @@
     <dcterms:identifier>uva-lib:2569217</dcterms:identifier>
     <dcterms:title>Anode X-ray tube</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>General Electric Company</dcterms:creator>
     <dcterms:created>1960/1969</dcterms:created>
     <dcterms:description>Rotating anode tube. Metal inside tube is engraved: "1405, 12 63881." Glass is marked "GE HRT Made in U.S.A." 
       This item was given in honor of Theodore E. Keats, M.D., F.A.C.R., Chair of the UVa Department of Radiology from 1963-1991.</dcterms:description>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>10 x 17 x 10 cm</dcterms:extent>
-    <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Medical instruments or apparatus--X-rays--Equipment and supplies</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2569217/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2569217</edm:isShownAt>

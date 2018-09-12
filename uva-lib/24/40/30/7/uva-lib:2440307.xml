@@ -11,14 +11,13 @@
     <dcterms:identifier>uva-lib:2440307</dcterms:identifier>
     <dcterms:title>Fisher regular pinchcock scientific clamp</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Fisher Scientific (Firm)</dcterms:creator>
     <dcterms:created>1940/1970</dcterms:created>
     <dcterms:description>The clamp belonged to Dr. K.W. Howard. It is stamped with the following text: "FISHER" and "CASTALOY".</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:subject>Medical laboratory technology</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440307/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440307</edm:isShownAt>

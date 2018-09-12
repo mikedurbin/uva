@@ -17,16 +17,16 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Girls</dcterms:subject>
-    <dcterms:subject>Boys</dcterms:subject>
-    <dcterms:subject>Children (people by age group)</dcterms:subject>
-    <dcterms:subject>Children playing</dcterms:subject>
-    <dcterms:subject>Birthdays</dcterms:subject>
-    <dcterms:subject>Parties</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Girls--People by gender</dcterms:subject>
+    <dcterms:subject>Boys--People by gender</dcterms:subject>
+    <dcterms:subject>Children (people by age group)--People by age group</dcterms:subject>
+    <dcterms:subject>Children playing--People by age group and activity</dcterms:subject>
+    <dcterms:subject>Birthdays--Events by type</dcterms:subject>
+    <dcterms:subject>Parties--Entertainment events</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:332857/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:332857</edm:isShownAt>

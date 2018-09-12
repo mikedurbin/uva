@@ -11,7 +11,6 @@
     <dcterms:identifier>tsb:59730</dcterms:identifier>
     <dcterms:title>Nasal insufflator</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Parke, Davis and Company</dcterms:creator>
     <dcterms:created>1900/1920</dcterms:created>
     <dcterms:description>Insufflation device used for the inhalation of medicinals.</dcterms:description>
     <dcterms:medium>glass (material)</dcterms:medium>
@@ -19,9 +18,9 @@
     <dcterms:medium>cork (bark)</dcterms:medium>
     <dcterms:extent>13.7 x 4.6 x 4.6 cm</dcterms:extent>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:59730/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:59730</edm:isShownAt>

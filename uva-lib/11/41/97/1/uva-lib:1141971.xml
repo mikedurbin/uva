@@ -12,18 +12,19 @@
     <dcterms:title>Pan : op. 50</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Godard, Benjamin, 1849-1895</dcterms:creator>
+    <dcterms:creator>Parsons, A. R. (Albert Ross), 1847-1933</dcterms:creator>
+    <dcterms:creator>Hounslow, William E</dcterms:creator>
     <dcterms:created>1894</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 p. of music.</dcterms:extent>
     <dcterms:publisher>Albert Ross Parsons</dcterms:publisher>
+    <dcterms:subject>Pan, (Greek deity)</dcterms:subject>
+    <dcterms:subject>Songs and music</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Syrinx (Greek deity)</dcterms:subject>
-    <dcterms:subject>Panpipes</dcterms:subject>
-    <dcterms:subject>Popular instrumental music</dcterms:subject>
-    <dcterms:subject>Pan</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:subject>Syrinx (Greek deity)--Songs and music</dcterms:subject>
+    <dcterms:subject>Panpipes--Songs and music</dcterms:subject>
+    <dcterms:subject>Popular instrumental music--To 1901</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1141971/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1141971</edm:isShownAt>

@@ -11,13 +11,15 @@
     <dcterms:identifier>tsb:65890</dcterms:identifier>
     <dcterms:title>Reports of Sr George Croke kt. Late one of the justices of the Court of Kings-bench, and formerly one of the justices of the Court of Common-bench; of such select cases as were adjudged in the said courts ... [1582-1641]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Croke, George, approximately 1560-1642</dcterms:creator>
+    <dcterms:creator>Grimston, Harbottle, 1603-1685</dcterms:creator>
     <dcterms:created>1683</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. fronts. (engr. ports.) 30 cm.</dcterms:extent>
     <dcterms:publisher>Printed by W. Rawlins, S. Roycroft, and H. Sawbridge, assigns of Richard and Edward Atkins, esquires; and are to be sold by H. Twyford [etc.]</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65890/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65890</edm:isShownAt>

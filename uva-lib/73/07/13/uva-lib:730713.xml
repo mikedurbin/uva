@@ -16,14 +16,12 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>17 leaves ; 23 cm. (4to)</dcterms:extent>
     <dcterms:publisher>Chez Gabriel Buon ...</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>France--History--Wars of the Huguenots, 1562-1598--Poetry</dcterms:subject>
+    <dcterms:subject>France--History--Wars of the Huguenots, 1562-1598--Pamphlets</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
-    <dcterms:temporal>Wars of the Huguenots, 1562-1598</dcterms:temporal>
-    <dcterms:temporal>Wars of the Huguenots, 1562-1598</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:730713/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:730713</edm:isShownAt>

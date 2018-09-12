@@ -12,12 +12,15 @@
     <dcterms:title>The poetical works of Gavin Douglas, bishop of Dunkeld, with memoir, notes, and glossary,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Douglas, Gawin, 1474?-1522</dcterms:creator>
+    <dcterms:creator>Virgil.</dcterms:creator>
+    <dcterms:creator>Vegio, Maffeo, 1406 or 1407-1458</dcterms:creator>
+    <dcterms:creator>Small, John, 1828-1886</dcterms:creator>
     <dcterms:created>1874</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 v. fronts. (v. 1-3) illus., pl., facsims. 21 cm.</dcterms:extent>
     <dcterms:publisher>W. Paterson; [etc., etc.]</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:63721/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:63721</edm:isShownAt>

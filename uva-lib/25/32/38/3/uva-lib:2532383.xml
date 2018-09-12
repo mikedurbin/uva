@@ -11,15 +11,14 @@
     <dcterms:identifier>uva-lib:2532383</dcterms:identifier>
     <dcterms:title>Sentinel utility first aid kit</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>The Forst City Rubber Co.</dcterms:creator>
     <dcterms:created>1940/1949</dcterms:created>
     <dcterms:description>Contents list: "Adhesive plaster Mercurochrome (H.W. &amp; D.), gauze, handy bandages, cotton." Distributed by Sentinel Products Division. Container is empty</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>2.8 x 15.5 x 8 cm</dcterms:extent>
-    <dcterms:subject>First aid in illness and injury</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>First aid in illness and injury--Bandages and bandaging</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>first aid kits</edm:hasType>
+    <dcterms:medium>first aid kits</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2532383/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2532383</edm:isShownAt>

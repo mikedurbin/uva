@@ -11,14 +11,18 @@
     <dcterms:identifier>tsb:66035</dcterms:identifier>
     <dcterms:title>Cobbett's complete collection of state trials and proceedings for high treason and other crimes and misdemeanors from the earliest period [1163] to the present time [1820]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Howell, Thomas Bayly, 1768-1815</dcterms:creator>
+    <dcterms:creator>Howell, Thomas Jones, 1793-1858</dcterms:creator>
+    <dcterms:creator>Cobbett, William, 1763-1835</dcterms:creator>
+    <dcterms:creator>Jardine, David, 1794-1860</dcterms:creator>
     <dcterms:created>1809/1828</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>34 v. ; 24 cm.</dcterms:extent>
     <dcterms:publisher>R. Bagshaw</dcterms:publisher>
-    <dcterms:subject>Trials</dcterms:subject>
-    <dcterms:subject>Trials (Treason)</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Trials--Great Britain</dcterms:subject>
+    <dcterms:subject>Trials (Treason)--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66035/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66035</edm:isShownAt>

@@ -12,6 +12,7 @@
     <dcterms:title>Labor problems; a book of materials for their study,</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Furniss, Edgar S. (Edgar Stevenson), 1890-1972</dcterms:creator>
+    <dcterms:creator>Gould, Lawrence Ridge</dcterms:creator>
     <dcterms:created>1925</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>x, 621 p. diagrs. 21 cm.</dcterms:extent>
@@ -21,8 +22,8 @@
     <dcterms:subject>Arbitration, Industrial</dcterms:subject>
     <dcterms:subject>Working class</dcterms:subject>
     <dcterms:subject>Labor movement</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65533/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65533</edm:isShownAt>

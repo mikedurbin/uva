@@ -16,16 +16,14 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 27 x 21 cm.</dcterms:extent>
     <dcterms:publisher>J. Elliot</dcterms:publisher>
+    <dcterms:subject>Jackson, Andrew, 1767-1845</dcterms:subject>
+    <dcterms:subject>Jackson, Andrew, 1767-1845</dcterms:subject>
     <dcterms:subject>Military leadership</dcterms:subject>
-    <dcterms:subject>Presidents</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Jackson, Andrew/</dcterms:subject>
-    <dcterms:subject>Jackson, Andrew</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Presidents--United States--Election--1828</dcterms:subject>
+    <dcterms:subject>United States--History--War of 1812--Desertions</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-District of Columbia-1828.</edm:hasType>
-    <dcterms:temporal>1828</dcterms:temporal>
-    <dcterms:temporal>War of 1812</dcterms:temporal>
+    <dcterms:medium>Broadsides-District of Columbia-1828.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2180960/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2180960</edm:isShownAt>

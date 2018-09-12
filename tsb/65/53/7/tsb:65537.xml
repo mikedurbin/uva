@@ -11,13 +11,15 @@
     <dcterms:identifier>tsb:65537</dcterms:identifier>
     <dcterms:title>Installation of the first president of the University of Virginia, Dr. Edwin Anderson Alderman, April 13, 1905</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Doswell, Sallie J., 1857-1943</dcterms:creator>
+    <dcterms:creator>Patton, John S. (John Shelton), 1857-1932</dcterms:creator>
     <dcterms:created>1905</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>72 p. illus. (incl. ports.) 23 cm.</dcterms:extent>
     <dcterms:publisher>Printed by The Eddy press corporation</dcterms:publisher>
-    <dcterms:subject>Alderman, Edwin Anderson</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Alderman, Edwin Anderson, 1861-1931</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65537/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65537</edm:isShownAt>

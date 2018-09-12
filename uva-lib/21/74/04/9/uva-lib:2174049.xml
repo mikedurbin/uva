@@ -11,14 +11,15 @@
     <dcterms:identifier>uva-lib:2174049</dcterms:identifier>
     <dcterms:title>Reminiscences of my army life with the First South Carolina Volunteers, later called 33d U.S.C.T. : a very interesting little volume and the only war book written by a woman</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Taylor, Susie King, 1848-1912</dcterms:creator>
     <dcterms:created>1902</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 19 x 13 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>Taylor, Susie King</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Taylor, Susie King, 1848-1912</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Massachusetts-Boston-1902.</edm:hasType>
+    <dcterms:medium>Broadsides-Massachusetts-Boston-1902.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2174049/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174049</edm:isShownAt>

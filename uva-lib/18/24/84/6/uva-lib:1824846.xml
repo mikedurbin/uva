@@ -16,10 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[vii], 158 p. ; 16 cm.</dcterms:extent>
     <dcterms:publisher>James Munroe and Company</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>New England--Fiction</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>American literature-1783-1850.</edm:hasType>
-    <edm:hasType>Christian fiction, American.</edm:hasType>
+    <dcterms:medium>American literature-1783-1850.</dcterms:medium>
+    <dcterms:medium>Christian fiction, American.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1824846/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1824846</edm:isShownAt>

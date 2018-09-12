@@ -12,14 +12,16 @@
     <dcterms:title>Le second volume des oeuures d'Amadis Iamin .</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Jamyn, Amadis, -1592 or 1593</dcterms:creator>
+    <dcterms:creator>Jamyn, Amadis, -1592 or 1593</dcterms:creator>
+    <dcterms:creator>Jamyn, Amadis, -1592 or 1593</dcterms:creator>
     <dcterms:created>1584</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[3], 182 (i.e. 176), [4] leaves. 14 cm. (12mo)</dcterms:extent>
     <dcterms:publisher>Pour Robert le Mangnier ...</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Paris</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003178/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003178</edm:isShownAt>

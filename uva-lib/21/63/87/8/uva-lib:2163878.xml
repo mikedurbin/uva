@@ -11,19 +11,16 @@
     <dcterms:identifier>uva-lib:2163878</dcterms:identifier>
     <dcterms:title>E-Summit</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Gross, Stephanie</dcterms:creator>
     <dcterms:created>1999-11-12</dcterms:created>
     <dcterms:description>E-Summit panel called Reconceptualizing Commerce. Participants included Ryan R. Nelson, University of Virginia McIntire School of Commerce; William Battino, from PricewaterhouseCoopers; Shelby W. Bonnie, from CNET Inc.; Robert W. Harris, from About.com Inc.;  Sonja L. Hoel, from Menlo Ventures; Timothy A. Koogle, from Yahoo! Inc.; David G. Smith, from University of Virginia McIntire School of Commerce; Randall R. Smith, from University of Virginia Darden School; Joel G. Ramin, University student; and  Jeffrey C. Walker, from Chase Capital Partners.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:subject>Press coverage</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:subject>University of Virginia. News Office</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>color photographs</edm:hasType>
+    <dcterms:medium>color photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2163878/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2163878</edm:isShownAt>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66173</dcterms:identifier>
+    <dcterms:title>The law of evidence</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Gilbert, Geoffrey, 1674-1726</dcterms:creator>
+    <dcterms:creator>Lofft, Capel, 1751-1824</dcterms:creator>
+    <dcterms:created>1795/1797</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>4 v. in 3. fold. tab. 24 cm.</dcterms:extent>
+    <dcterms:publisher>P. Byrne [etc.]</dcterms:publisher>
+    <dcterms:subject>Evidence (Law)--Great Britain</dcterms:subject>
+    <dcterms:subject>Homicide--Ireland</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66173/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66173</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2565553/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

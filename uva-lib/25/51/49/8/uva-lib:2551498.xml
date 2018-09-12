@@ -16,9 +16,9 @@
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>1 x 10 x 8.4 cm</dcterms:extent>
     <dcterms:subject>Wallets</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>wallets</edm:hasType>
+    <dcterms:medium>wallets</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2551498/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2551498</edm:isShownAt>

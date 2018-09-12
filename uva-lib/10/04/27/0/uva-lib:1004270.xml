@@ -12,14 +12,18 @@
     <dcterms:title>Virginiae item et Floridae Americae provinciarum, nova descriptio</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hondius, Jodocus, 1563-1612</dcterms:creator>
+    <dcterms:creator>Mercator, Gerhard, 1512-1594</dcterms:creator>
     <dcterms:created>1613/1616</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map ; 33 x 47 cm. on sheet 42 x 57 cm.</dcterms:extent>
     <dcterms:publisher>Hondius</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>South Atlantic States--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Virginia--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Florida--Maps--Early works to 1800</dcterms:subject>
     <dcterms:language>lat</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004270/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004270</edm:isShownAt>

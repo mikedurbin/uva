@@ -12,12 +12,14 @@
     <dcterms:title>Oh whisper what thou feelest</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Richards, Brinley, 1819-1885</dcterms:creator>
+    <dcterms:creator>Auber, D. F. E. (Daniel François Esprit), 1782-1871</dcterms:creator>
+    <dcterms:creator>Clayton, Charles O.</dcterms:creator>
     <dcterms:created>1852/1869</dcterms:created>
     <dcterms:extent>1 score (5 p.)</dcterms:extent>
     <dcterms:publisher>John F. Ellis</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
-    <dcterms:type>sound recording-musical</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Sound</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1117036/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1117036</edm:isShownAt>

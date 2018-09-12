@@ -11,13 +11,16 @@
     <dcterms:identifier>tsb:65899</dcterms:identifier>
     <dcterms:title>Reports of cases argued and determined in the Court of King's Bench, in the nineteenth, twentieth, and twenty-first [twenty-second, twenty-third, twenty-fourth, and twenty-fifth] years of the reign of George III. [1778-1785]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Glenbervie, Sylvester Douglas, Baron, 1743-1823</dcterms:creator>
+    <dcterms:creator>Frere, William, 1775-1836</dcterms:creator>
+    <dcterms:creator>Roscoe, Henry, 1800-1836</dcterms:creator>
     <dcterms:created>1813/1831</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 v. 25 cm.</dcterms:extent>
     <dcterms:publisher>Reed and Hunter</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65899/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65899</edm:isShownAt>

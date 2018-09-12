@@ -12,14 +12,16 @@
     <dcterms:title>The dear little shamrock : beautiful Irish song &amp; chorus</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Jackson, William, 1828-1876</dcterms:creator>
+    <dcterms:creator>Cherry, A. (Andrew), 1762-1812</dcterms:creator>
     <dcterms:created>1870</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.)</dcterms:extent>
     <dcterms:publisher>Whittemore, Swan &amp; Stephens</dcterms:publisher>
-    <dcterms:subject>Shamrock (Emblem)</dcterms:subject>
-    <dcterms:subject>Cherry, A. (Andrew)</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Cherry, A. (Andrew), 1762-1812</dcterms:subject>
+    <dcterms:subject>Musical settings</dcterms:subject>
+    <dcterms:subject>Shamrock (Emblem)--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1121132/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1121132</edm:isShownAt>

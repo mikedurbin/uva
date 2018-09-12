@@ -12,14 +12,16 @@
     <dcterms:title>La couronne imperiale : grand valse : de L'etoile du Nord</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Lehmann, Heinz E. (Heinz Edgar), 1911-1999</dcterms:creator>
+    <dcterms:creator>Clayton, Charles O.</dcterms:creator>
+    <dcterms:creator>Clary, Aline du</dcterms:creator>
+    <dcterms:creator>Meyerbeer, Giacomo, 1791-1864</dcterms:creator>
     <dcterms:created>1866</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[8?] p. of music.</dcterms:extent>
     <dcterms:publisher>A.E. Blackmar</dcterms:publisher>
     <dcterms:subject>Piano music</dcterms:subject>
     <dcterms:subject>Waltzes</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1129929/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1129929</edm:isShownAt>

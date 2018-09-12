@@ -11,7 +11,6 @@
     <dcterms:identifier>uva-lib:2826784</dcterms:identifier>
     <dcterms:title>Ophthalmoscope in case</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Loring</dcterms:creator>
     <dcterms:created>1890/1920</dcterms:created>
     <dcterms:description>The case contains the scope (01785a) and an ivory handle (01785b). In a hidden compartment there is an additional lens. The box is constructed in such a way as to let the scope and handle be placed in the box and the lid closed without disassembling the scope.</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
@@ -20,9 +19,9 @@
     <dcterms:medium>ivory (material)</dcterms:medium>
     <dcterms:extent>2.5 x 9.5 x 6.5 cm</dcterms:extent>
     <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2826784/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2826784</edm:isShownAt>

@@ -16,11 +16,11 @@
     <dcterms:medium>plaster</dcterms:medium>
     <dcterms:medium>paint (coating)</dcterms:medium>
     <dcterms:extent>23.1 x 8.5 x 11 cm</dcterms:extent>
-    <dcterms:subject>Libations</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:subject>Libations--Art, Sumerian--models (representations)</dcterms:subject>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>replicas</edm:hasType>
-    <edm:hasType>Sumerian (culture or style)</edm:hasType>
+    <dcterms:medium>replicas</dcterms:medium>
+    <dcterms:medium>Sumerian (culture or style)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2524248/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2524248</edm:isShownAt>

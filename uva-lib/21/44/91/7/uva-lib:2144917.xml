@@ -12,22 +12,20 @@
     <dcterms:title>To the publick</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Smith, Meriwether, 1730-1790</dcterms:creator>
+    <dcterms:creator>Purdie, Alexander, -1779</dcterms:creator>
     <dcterms:created>1777</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet (2 p.) ; 34 x 21 cm.</dcterms:extent>
     <dcterms:publisher>Printed by Alexander Purdie for  Meriwether Smith</dcterms:publisher>
-    <dcterms:subject>Misconduct in office</dcterms:subject>
-    <dcterms:subject>American loyalists</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:subject>Smith, Meriwether/</dcterms:subject>
-    <dcterms:subject>Virginia./</dcterms:subject>
-    <dcterms:subject>Council of State.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Smith, Meriwether, 1730-1790</dcterms:subject>
+    <dcterms:subject>Misconduct in office--Virginia</dcterms:subject>
+    <dcterms:subject>American loyalists--Virginia</dcterms:subject>
+    <dcterms:subject>Virginia--Politics and government--1775-1783</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Williamsburg</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1775-1783</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2144917/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2144917</edm:isShownAt>

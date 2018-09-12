@@ -11,14 +11,13 @@
     <dcterms:identifier>uva-lib:2440564</dcterms:identifier>
     <dcterms:title>Chisel</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>George Tiemann &amp; Co.</dcterms:creator>
     <dcterms:created>1850/1970</dcterms:created>
     <dcterms:description>The following text is stamped on the chisel: "4" and "C[T] Tiemann".</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:subject>Chisels</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>chisels</edm:hasType>
+    <dcterms:medium>chisels</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440564/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440564</edm:isShownAt>

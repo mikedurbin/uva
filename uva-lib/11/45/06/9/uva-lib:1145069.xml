@@ -12,17 +12,19 @@
     <dcterms:title>Venetian boat song = duet for soprano and contralto</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Blumenthal, Jacques.</dcterms:creator>
+    <dcterms:creator>Merivale, Herman Charles, 1839-1906</dcterms:creator>
+    <dcterms:creator>Magni, A.</dcterms:creator>
     <dcterms:created>1883</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (7 p.) : ill.</dcterms:extent>
     <dcterms:publisher>G. Schirmer</dcterms:publisher>
     <dcterms:subject>Vocal duets with piano</dcterms:subject>
-    <dcterms:subject>Gondolas</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Gondolas--Songs and music</dcterms:subject>
+    <dcterms:subject>Popular music--To 1901</dcterms:subject>
+    <dcterms:subject>Venice (Italy)--Songs and music</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:language>ita</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1145069/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1145069</edm:isShownAt>

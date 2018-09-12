@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xx, 377 p., [17] p. of plates : ill., geneal. tables, ports. ; 22 cm.</dcterms:extent>
     <dcterms:publisher>Brentano's</dcterms:publisher>
-    <dcterms:subject>Court and courtiers</dcterms:subject>
-    <dcterms:subject>Orléans, Philippe</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Orléans, Philippe, duc d', 1640-1701</dcterms:subject>
+    <dcterms:subject>France--Court and courtiers</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65163/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65163</edm:isShownAt>

@@ -11,14 +11,16 @@
     <dcterms:identifier>tsb:65212</dcterms:identifier>
     <dcterms:title>Educational adaptions</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Jones, Thomas Jesse, 1873-1950</dcterms:creator>
+    <dcterms:creator>Stokes, Olivia Egleston Phelps, 1847-1927</dcterms:creator>
     <dcterms:created>1920</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>92 p. front. (port.) diagrs. 26 cm.</dcterms:extent>
     <dcterms:publisher>Phelps-Stokes fund</dcterms:publisher>
-    <dcterms:subject>African Americans</dcterms:subject>
-    <dcterms:subject>Stokes, Caroline Phelps</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Stokes, Caroline Phelps, 1854-1909</dcterms:subject>
+    <dcterms:subject>African Americans--Education</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65212/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65212</edm:isShownAt>

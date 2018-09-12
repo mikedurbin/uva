@@ -16,14 +16,12 @@
     <dcterms:description>From excerpt: UVa doctoral student Carter Hailey, right, shows his new, simpler collator, one of four kinds of devices used to compare different copies of texts. Kathleen Ferguson Jump, left, an editor in the Darden School who is taking a bibliographical studies course from English professor David Vander Meulen, sits at an earlier machine. University Professor and rare books expert Terry Belanger, center, demonstrates the first collator, built by UVa alumnus Charlton Hinman. Behind them, another UVa doctoral student, Dave Gants, uses the fourth type of collator.</dcterms:description>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:subject>Press coverage</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:subject>University of Virginia. News Office</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Visual History Collection</dcterms:isPartOf>
-    <edm:hasType>color photographs</edm:hasType>
+    <dcterms:medium>color photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2164397/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2164397</edm:isShownAt>

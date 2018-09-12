@@ -11,14 +11,13 @@
     <dcterms:identifier>uva-lib:2440587</dcterms:identifier>
     <dcterms:title>Jefferson cup</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Keller and George</dcterms:creator>
     <dcterms:created>1978</dcterms:created>
     <dcterms:description>The following text is engraved on the cup: "MEDICAL SOFTBALL CHAMPS 1978 PEDUNCLES" and "Keller and George".</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:subject>Awards</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>cups (drinking vessels)</edm:hasType>
+    <dcterms:medium>cups (drinking vessels)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440587/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440587</edm:isShownAt>

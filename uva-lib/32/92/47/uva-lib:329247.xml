@@ -17,20 +17,20 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>4 x 6 in.</dcterms:extent>
-    <dcterms:subject>Elizabeth City County (Va.)</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:subject>Frissell, Hollis Burke, 1851-1917</dcterms:subject>
-    <dcterms:subject>Dwellings</dcterms:subject>
-    <dcterms:subject>South (U.S.)</dcterms:subject>
-    <dcterms:subject>Luncheons</dcterms:subject>
-    <dcterms:subject>Houses</dcterms:subject>
-    <dcterms:subject>Porches</dcterms:subject>
-    <dcterms:subject>Tables</dcterms:subject>
-    <dcterms:subject>Chairs</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Elizabeth City County (Va.)--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Virginia--Regions and states by name</dcterms:subject>
+    <dcterms:subject>Frissell, Hollis Burke, 1851-1917--People by name</dcterms:subject>
+    <dcterms:subject>Dwellings--Single built works</dcterms:subject>
+    <dcterms:subject>South (U.S.)--Regions and states</dcterms:subject>
+    <dcterms:subject>Luncheons--Generic events</dcterms:subject>
+    <dcterms:subject>Houses--Single built works by function</dcterms:subject>
+    <dcterms:subject>Porches--Rooms and spaces</dcterms:subject>
+    <dcterms:subject>Tables--Furniture</dcterms:subject>
+    <dcterms:subject>Chairs--Furniture</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:329247/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:329247</edm:isShownAt>

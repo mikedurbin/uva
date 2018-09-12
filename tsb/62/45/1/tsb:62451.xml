@@ -12,12 +12,14 @@
     <dcterms:title>Coleridge's The ancient mariner, Lowell's The vision of Sir Launfal [and] Burns' The cotter's Saturday night</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Coleridge, Samuel Taylor, 1772-1834</dcterms:creator>
+    <dcterms:creator>Burns, Robert, 1759-1796</dcterms:creator>
+    <dcterms:creator>Lowell, James Russell, 1819-1891</dcterms:creator>
     <dcterms:created>1900/1909</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. in 1. : ports. ; 16 cm.</dcterms:extent>
     <dcterms:publisher>Sibley</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:62451/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:62451</edm:isShownAt>

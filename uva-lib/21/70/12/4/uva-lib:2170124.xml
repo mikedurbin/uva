@@ -11,17 +11,18 @@
     <dcterms:identifier>uva-lib:2170124</dcterms:identifier>
     <dcterms:title>Louisville, Ky</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hill, J. W. (John William), 1812-1879</dcterms:creator>
     <dcterms:created>1854</dcterms:created>
     <dcterms:medium>graphic</dcterms:medium>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 print : engraving, b&amp;w ; image 13 x 21 cm. on sheet 16 x 25 cm.</dcterms:extent>
     <dcterms:publisher>Methodist Episcopal Church</dcterms:publisher>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Louisville (Ky.)--19th century--Pictorial works</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>graphic</edm:hasType>
-    <edm:hasType>Engravings-United States-19th century.</edm:hasType>
-    <dcterms:temporal>19th century</dcterms:temporal>
+    <dcterms:medium>graphic</dcterms:medium>
+    <dcterms:medium>Engravings-United States-19th century.</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2170124/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2170124</edm:isShownAt>

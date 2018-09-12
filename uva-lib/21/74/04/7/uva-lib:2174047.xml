@@ -16,10 +16,10 @@
     <dcterms:extent>1 sheet ([1] p.) ; 26 x 13 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
     <dcterms:subject>Memorial Day</dcterms:subject>
-    <dcterms:subject>Parades</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Parades--Connecticut--Stamford</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>Broadsides-Connecticut-1882.</edm:hasType>
+    <dcterms:medium>Broadsides-Connecticut-1882.</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2174047/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2174047</edm:isShownAt>

@@ -17,18 +17,18 @@
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:medium>photography</dcterms:medium>
     <dcterms:extent>2 x 3 in.</dcterms:extent>
-    <dcterms:subject>Gaspe (Quebec)</dcterms:subject>
-    <dcterms:subject>Canada</dcterms:subject>
-    <dcterms:subject>Fish</dcterms:subject>
-    <dcterms:subject>Birds</dcterms:subject>
-    <dcterms:subject>Oceans</dcterms:subject>
-    <dcterms:subject>Wheelbarrows</dcterms:subject>
-    <dcterms:subject>Beaches</dcterms:subject>
-    <dcterms:subject>Men</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
+    <dcterms:subject>Gaspe (Quebec)--Cities and towns by name</dcterms:subject>
+    <dcterms:subject>Canada--Countries</dcterms:subject>
+    <dcterms:subject>Fish--Aquatic animals</dcterms:subject>
+    <dcterms:subject>Birds--Birds</dcterms:subject>
+    <dcterms:subject>Oceans--Bodies of water and components</dcterms:subject>
+    <dcterms:subject>Wheelbarrows--Land vehicles</dcterms:subject>
+    <dcterms:subject>Beaches--Landforms</dcterms:subject>
+    <dcterms:subject>Men--People by gender</dcterms:subject>
     <dcterms:isPartOf>Jackson Davis Collection of African American Photographs</dcterms:isPartOf>
-    <edm:hasType>Negatives</edm:hasType>
-    <edm:hasType>black-and-white photographs</edm:hasType>
+    <dcterms:medium>Negatives</dcterms:medium>
+    <dcterms:medium>black-and-white photographs</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:333971/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:333971</edm:isShownAt>

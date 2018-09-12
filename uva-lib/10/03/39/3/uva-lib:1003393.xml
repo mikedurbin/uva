@@ -12,14 +12,16 @@
     <dcterms:title>Map showing location of coal operations, railroad extensions, and developments in the counties of Putnam, Kanawha, Fayette, Nicholas, Clay, and Braxton, state of West Virginia, 1895</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Robson, Houghton A.</dcterms:creator>
+    <dcterms:creator>Nichol, Thomas.</dcterms:creator>
     <dcterms:created>1895</dcterms:created>
     <dcterms:extent>1 map : col. ; 112 x 66 cm.</dcterms:extent>
     <dcterms:publisher>Mine Inspector's Office</dcterms:publisher>
-    <dcterms:subject>Coal mines and mining</dcterms:subject>
-    <dcterms:subject>Mines and mineral resources</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Coal mines and mining--West Virginia--Maps</dcterms:subject>
+    <dcterms:subject>Mines and mineral resources--West Virginia--Maps</dcterms:subject>
+    <dcterms:subject>West Virginia--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003393/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003393</edm:isShownAt>

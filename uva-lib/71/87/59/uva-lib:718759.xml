@@ -15,9 +15,11 @@
     <dcterms:medium>microfilm</dcterms:medium>
     <dcterms:extent>42 double col. maps ; 55 x 34 cm.</dcterms:extent>
     <dcterms:publisher>Sanborn Map Company</dcterms:publisher>
-    <dcterms:subject>Fire risk assessment</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Fire risk assessment--Maps</dcterms:subject>
+    <dcterms:subject>Charlottesville (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Albemarle County (Va.)--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:718759/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:718759</edm:isShownAt>

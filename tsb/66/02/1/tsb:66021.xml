@@ -11,13 +11,14 @@
     <dcterms:identifier>tsb:66021</dcterms:identifier>
     <dcterms:title>Cases in Parliament resolved and adjudged, upon petitions and writs of error ... [1694-1698]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Shower, Bartholomew, Sir, 1658-1701</dcterms:creator>
     <dcterms:created>1698</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>6 p. l., 224, [2] p. 33 cm.</dcterms:extent>
     <dcterms:publisher>A. and J. Churchill</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66021/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66021</edm:isShownAt>

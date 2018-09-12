@@ -12,16 +12,16 @@
     <dcterms:title>Richmond [1862-1865]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Michler, N. (Nathaniel), 1827-1881</dcterms:creator>
+    <dcterms:creator>Humphreys, A. A. (Andrew Atkinson), 1810-1883</dcterms:creator>
     <dcterms:created>1867</dcterms:created>
     <dcterms:extent>1 map : b&amp;w ; 37 x 54 cm.</dcterms:extent>
     <dcterms:publisher>s.n.</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Richmond (Va.)--Maps</dcterms:subject>
+    <dcterms:subject>Virginia--History--Civil War, 1861-1865--Maps</dcterms:subject>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:59084/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:59084</edm:isShownAt>

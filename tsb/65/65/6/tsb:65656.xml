@@ -12,14 +12,16 @@
     <dcterms:title>Healthful schools: how to build, equip, and maintain them</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Burgess, May Ayres, 1888-</dcterms:creator>
+    <dcterms:creator>Williams, Jesse Feiring, 1886-1966</dcterms:creator>
+    <dcterms:creator>Wood, Thomas D. (Thomas Denison), 1865-1951</dcterms:creator>
     <dcterms:created>1918</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xii, 292 p. front., plates, plans. 19 cm.</dcterms:extent>
     <dcterms:publisher>Houghton Mifflin company</dcterms:publisher>
     <dcterms:subject>School buildings</dcterms:subject>
     <dcterms:subject>School hygiene</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65656/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65656</edm:isShownAt>

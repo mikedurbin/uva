@@ -11,15 +11,15 @@
     <dcterms:identifier>tsb:65895</dcterms:identifier>
     <dcterms:title>Le grant coustumier du pays et duche de Normandie ... avec plusieurs additions, allegations et concordances tant du droit canon que civil.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Normandy (France)</dcterms:creator>
+    <dcterms:creator>Le Rouillé, Guillaume, 1491-ca. 1550</dcterms:creator>
     <dcterms:created>1534</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>cxlvi, lxxxii, [4] l. illus. 32 cm.</dcterms:extent>
     <dcterms:publisher>F. Regnault</dcterms:publisher>
-    <dcterms:subject>Customary law</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Customary law--France--Normandy</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
     <dcterms:language>lat</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65895/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65895</edm:isShownAt>

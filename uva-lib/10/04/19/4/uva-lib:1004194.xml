@@ -12,15 +12,18 @@
     <dcterms:title>Poland</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Carey, Mathew, 1760-1839</dcterms:creator>
+    <dcterms:creator>Barker, W. (William), active 1795-1803</dcterms:creator>
     <dcterms:created>1814</dcterms:created>
     <dcterms:extent>1 map : col. ; 31 x 37 cm. on sheet 43 x 54 cm.</dcterms:extent>
     <dcterms:publisher>Matthew Carey</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Poland--Maps</dcterms:subject>
+    <dcterms:subject>Europe, Eastern--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Pennsylvania</dcterms:spatial>
     <dcterms:spatial>Philadelphia</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004194/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004194</edm:isShownAt>

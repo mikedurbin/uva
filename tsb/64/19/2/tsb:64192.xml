@@ -12,13 +12,14 @@
     <dcterms:title>The civil wars of Granada</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Pérez de Hita, Ginés, 1544?-1619?</dcterms:creator>
+    <dcterms:creator>Rodd, Thomas, 1763-1822</dcterms:creator>
     <dcterms:created>1803</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>438 p., 23 cm.</dcterms:extent>
     <dcterms:publisher>T. Ostell</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Granada (Spain : Reino)--History</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64192/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64192</edm:isShownAt>

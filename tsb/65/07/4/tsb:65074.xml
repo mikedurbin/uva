@@ -15,11 +15,11 @@
     <dcterms:created>1898</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 p.l., [41]-216 p., 1 l. front., illus., plates (1 fold.) maps (1 fold.) 26 cm.</dcterms:extent>
-    <dcterms:subject>Geology</dcterms:subject>
-    <dcterms:subject>Physical geography</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Geology--Maryland</dcterms:subject>
+    <dcterms:subject>Physical geography--Maryland</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65074/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65074</edm:isShownAt>

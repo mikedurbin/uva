@@ -12,15 +12,17 @@
     <dcterms:title>Invocation : (mezzo-soprano, or baritone)</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Hardelot, Guy d', 1858-1936</dcterms:creator>
+    <dcterms:creator>Barbier, Jules, 1825-1901</dcterms:creator>
+    <dcterms:creator>Baker, Theodore, 1851-1934</dcterms:creator>
     <dcterms:created>1894</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (5 p.) + 3 parts.</dcterms:extent>
     <dcterms:publisher>G. Schirmer</dcterms:publisher>
     <dcterms:subject>Songs (Medium voice) with piano</dcterms:subject>
-    <dcterms:subject>Songs (Medium voice) with instrumental ensemble</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Songs (Medium voice) with instrumental ensemble--Scores and parts</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1139789/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1139789</edm:isShownAt>

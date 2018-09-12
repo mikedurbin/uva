@@ -11,13 +11,16 @@
     <dcterms:identifier>tsb:65964</dcterms:identifier>
     <dcterms:title>The reports of that reverend and learned judge, the Right Honourable Sr Henry Hobart, knight and baronet, lord chief justice of his Majesty's Court of Common Pleas, and chancellor to both their highnesses Henry and Charles, princes of Wales. [1603-1625]</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hobart, Henry, Sir, -1625</dcterms:creator>
+    <dcterms:creator>Chilton, Edward.</dcterms:creator>
+    <dcterms:creator>Nottingham, Heneage Finch, Earl of, 1621-1682</dcterms:creator>
     <dcterms:created>1724</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>7 p. l., 350, [63] p. 35 cm.</dcterms:extent>
     <dcterms:publisher>Printed by E. and R. Nutt and R. Gosling, for R. Gosling and T. Ward</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65964/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65964</edm:isShownAt>

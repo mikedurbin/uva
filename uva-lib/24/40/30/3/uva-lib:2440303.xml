@@ -11,14 +11,13 @@
     <dcterms:identifier>uva-lib:2440303</dcterms:identifier>
     <dcterms:title>Hemacytometer</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>American Optical Company</dcterms:creator>
     <dcterms:created>1920/1970</dcterms:created>
     <dcterms:description>Spencer Bright Line improved neubauer 1/10mm deep hemacytometer. U.S Pat No. 1,994,483. Belonging to Dr. K.W. Howard. Contained in clear and white plastic box with "Syntex" on outside.</dcterms:description>
     <dcterms:medium>glass (material)</dcterms:medium>
     <dcterms:subject>Medical laboratory technology</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440303/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440303</edm:isShownAt>

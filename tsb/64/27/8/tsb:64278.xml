@@ -12,6 +12,7 @@
     <dcterms:title>Hermeneutic interpretation of the origin of the social state of man and of the destiny of the Adamic race</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Fabre d'Olivet, Antoine, 1767-1825</dcterms:creator>
+    <dcterms:creator>Redfield, Nayán Louise</dcterms:creator>
     <dcterms:created>1915</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>lix, 548 p., 1 l. front. (port.) 2 diagr. 24 cm.</dcterms:extent>
@@ -19,9 +20,9 @@
     <dcterms:subject>Human beings</dcterms:subject>
     <dcterms:subject>Sociology</dcterms:subject>
     <dcterms:subject>Political science</dcterms:subject>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>History--Philosophy</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64278/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64278</edm:isShownAt>

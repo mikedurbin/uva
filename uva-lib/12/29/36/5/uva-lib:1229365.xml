@@ -16,11 +16,12 @@
     <dcterms:medium>cartographic material</dcterms:medium>
     <dcterms:extent>col. map. 133 x 193 cm. fold. to 34 x 24 cm.</dcterms:extent>
     <dcterms:publisher>Printed for Jefferys and Faden. Pub. by the Author</dcterms:publisher>
-    <dcterms:subject>Colonies</dcterms:subject>
-    <dcterms:subject>Colonies</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>North America--Maps</dcterms:subject>
+    <dcterms:subject>Great Britain--Colonies--America--Maps</dcterms:subject>
+    <dcterms:subject>France--Colonies--North America--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1229365/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1229365</edm:isShownAt>

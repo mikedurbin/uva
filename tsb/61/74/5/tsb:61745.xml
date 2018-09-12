@@ -12,12 +12,13 @@
     <dcterms:title>Essays, plays and sundry verses</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Cowley, Abraham, 1618-1667</dcterms:creator>
+    <dcterms:creator>Waller, A. R. (Alfred Rayney), 1867-1922</dcterms:creator>
     <dcterms:created>1906</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vii,499p. 19cm.</dcterms:extent>
     <dcterms:publisher>The University Press</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61745/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61745</edm:isShownAt>

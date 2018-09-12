@@ -17,9 +17,9 @@
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>8.2 x 22.7 x 9.5 cm</dcterms:extent>
     <dcterms:subject>Wooden boxes</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>boxes (containers)</edm:hasType>
+    <dcterms:medium>boxes (containers)</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2551505/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2551505</edm:isShownAt>

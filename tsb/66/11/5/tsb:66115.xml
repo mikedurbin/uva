@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:66115</dcterms:identifier>
+    <dcterms:title>Registrum brevium tam originalium, quam judicialium: correctum &amp; emendatum ad vetus exemplar manuscriptum,, cujus beneficio, à multis erroribus purgatum, ad usus, quibus inservit redditur accommodatius.</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hengham, Ralph de, -1311</dcterms:creator>
+    <dcterms:creator>Theloall, Simon.</dcterms:creator>
+    <dcterms:created>1687</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>10 p. l., 321, 85 numb. l., 2 l., 59, [4] p., 1 l., [6], 239 p. 33 cm.</dcterms:extent>
+    <dcterms:publisher>Printed by the assigns of Richard and Edward Atkins for Thomas Bassett [etc.]</dcterms:publisher>
+    <dcterms:subject>Writs--Great Britain</dcterms:subject>
+    <dcterms:language>lat</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66115/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66115</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2536131/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

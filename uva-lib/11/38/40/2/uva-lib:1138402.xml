@@ -12,16 +12,18 @@
     <dcterms:title>All that glitters is not gold : motto song : sung by E.H. Harding</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Heaton, Theodore.</dcterms:creator>
+    <dcterms:creator>Harding, E. H.</dcterms:creator>
+    <dcterms:creator>Vawn, Welford</dcterms:creator>
+    <dcterms:creator>Perring, F.</dcterms:creator>
     <dcterms:created>1871/1874</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (3 p.) : ill.</dcterms:extent>
     <dcterms:publisher>Harding's Music For The Million</dcterms:publisher>
     <dcterms:subject>Songs with piano</dcterms:subject>
     <dcterms:subject>Waltzes</dcterms:subject>
-    <dcterms:subject>Popular music</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Popular music--United States--To 1901</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>To 1901</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1138402/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1138402</edm:isShownAt>

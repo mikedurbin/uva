@@ -12,15 +12,16 @@
     <dcterms:title>The Vera Cruz grand march</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Buck, Francis.</dcterms:creator>
+    <dcterms:creator>Webb, L. W.</dcterms:creator>
+    <dcterms:creator>Scott, Winfield, 1786-1866</dcterms:creator>
     <dcterms:created>1847</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[2] leaves of music ; 35 cm.</dcterms:extent>
     <dcterms:publisher>F.D. Benteen</dcterms:publisher>
     <dcterms:subject>Marches (Piano)</dcterms:subject>
     <dcterms:subject>Piano music</dcterms:subject>
-    <dcterms:subject>Mexican War, 1846-1848</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
-    <dcterms:language>zxx</dcterms:language>
+    <dcterms:subject>Mexican War, 1846-1848--Songs and music</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1124845/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1124845</edm:isShownAt>

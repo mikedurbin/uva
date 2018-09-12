@@ -20,9 +20,9 @@
     <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>13.5 x 25.5 x 16.5 cm</dcterms:extent>
     <dcterms:subject>Medicine--Research</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>card files</edm:hasType>
+    <dcterms:medium>card files</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2569200/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2569200</edm:isShownAt>

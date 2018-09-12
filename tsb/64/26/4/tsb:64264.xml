@@ -16,11 +16,11 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xvi, 594 p. illus. 24 cm.</dcterms:extent>
     <dcterms:publisher>R. Bemporad &amp; figlio; [etc., etc.]</dcterms:publisher>
-    <dcterms:subject>Opera</dcterms:subject>
-    <dcterms:subject>Italian drama</dcterms:subject>
     <dcterms:subject>Medici, House of</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Opera--Italy</dcterms:subject>
+    <dcterms:subject>Italian drama--History and criticism</dcterms:subject>
     <dcterms:language>ita</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64264/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64264</edm:isShownAt>

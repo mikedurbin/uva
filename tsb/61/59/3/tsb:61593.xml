@@ -12,13 +12,13 @@
     <dcterms:title>Vassar</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Taylor, James Monroe, 1848-1916</dcterms:creator>
+    <dcterms:creator>Haight, Elizabeth Hazelton, 1872-1964</dcterms:creator>
     <dcterms:created>1915</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>5 p.l., 232 p. front., 1 illus., plates, port. 20 cm.</dcterms:extent>
     <dcterms:publisher>Oxford university press, American branch; [etc., etc.]</dcterms:publisher>
-    <dcterms:subject>Vassar College.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61593/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61593</edm:isShownAt>

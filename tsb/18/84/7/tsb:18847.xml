@@ -11,14 +11,14 @@
     <dcterms:identifier>tsb:18847</dcterms:identifier>
     <dcterms:title>You are respectfully invited to attend the anniversary celebration of the Jefferson Society, to be held in the Chapel of the University, on the 13th of April, at 7 o'clock P.M.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Hutcheson, J. W.</dcterms:creator>
+    <dcterms:creator>Holman, B. O. (Burette O.)</dcterms:creator>
     <dcterms:created>1852</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([1] p.) ; 14 x 20 cm. folded to 14 x 10 cm.</dcterms:extent>
     <dcterms:publisher>Jefferson Society</dcterms:publisher>
-    <dcterms:subject>University of Virginia./</dcterms:subject>
-    <dcterms:subject>Jefferson Society.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18847/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:18847</edm:isShownAt>

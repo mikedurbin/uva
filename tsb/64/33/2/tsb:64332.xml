@@ -12,13 +12,14 @@
     <dcterms:title>Hellenic civilization</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Botsford, George Willis, 1862-1917</dcterms:creator>
+    <dcterms:creator>Sihler, E. G. (Ernest Gottlieb), 1853-1942</dcterms:creator>
     <dcterms:created>1915</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xiii, 719 p. 24 cm.</dcterms:extent>
     <dcterms:publisher>Columbia university press</dcterms:publisher>
-    <dcterms:subject>Civilization</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Greece--Civilization</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64332/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64332</edm:isShownAt>

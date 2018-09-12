@@ -15,10 +15,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 p.l., [xi]-xix, 357, [1] p. tables (part fold.) 20 cm.</dcterms:extent>
     <dcterms:publisher>The Riverside press</dcterms:publisher>
-    <dcterms:subject>Taxation</dcterms:subject>
-    <dcterms:subject>Internal revenue</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Taxation--United States</dcterms:subject>
+    <dcterms:subject>Internal revenue--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65526/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65526</edm:isShownAt>

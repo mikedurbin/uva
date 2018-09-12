@@ -12,12 +12,14 @@
     <dcterms:title>M. Tullii Ciceronis De natura deorum libri tres</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Cicero, Marcus Tullius.</dcterms:creator>
+    <dcterms:creator>Mayor, Joseph B. (Joseph Bickersteth), 1828-1916</dcterms:creator>
+    <dcterms:creator>Swainson, John Houghton, 1841-</dcterms:creator>
     <dcterms:created>1883/1891</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>3 v. 23 cm.</dcterms:extent>
     <dcterms:publisher>University press</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>lat</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64492/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64492</edm:isShownAt>

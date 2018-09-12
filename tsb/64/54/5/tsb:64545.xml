@@ -16,13 +16,9 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>312 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>Kelly, Piet &amp; company</dcterms:publisher>
-    <dcterms:subject>History</dcterms:subject>
-    <dcterms:subject>Confederate States of America./</dcterms:subject>
-    <dcterms:subject>Army./</dcterms:subject>
-    <dcterms:subject>Virginia Infantry Regiment, 17th.</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>United States--History--Civil War, 1861-1865--Regimental histories--Virginia Infantry--17th</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>Civil War, 1861-1865</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64545/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64545</edm:isShownAt>

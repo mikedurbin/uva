@@ -12,23 +12,21 @@
     <dcterms:title>Art poëtique françois, : pour l'instruction des ieunes studieux, &amp; encor' peu auancez en la poësie françoise. : Auec le Quintil Horatian, sur la defense &amp; illustration de la langue françoise.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Sebillet, Thomas, 1512-1589</dcterms:creator>
+    <dcterms:creator>Aneau, Barthélemy, -1561</dcterms:creator>
     <dcterms:created>1556</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>292, [11] p. ; 12 cm.  (16mo)</dcterms:extent>
     <dcterms:publisher>Par Iean Temporal</dcterms:publisher>
-    <dcterms:subject>French language</dcterms:subject>
-    <dcterms:subject>French poetry</dcterms:subject>
-    <dcterms:subject>Poetry</dcterms:subject>
-    <dcterms:subject>Rhetoric</dcterms:subject>
+    <dcterms:subject>French language--Middle French, 1300-1600--Versification</dcterms:subject>
+    <dcterms:subject>French poetry--16th century--History and criticism--Theory, etc</dcterms:subject>
+    <dcterms:subject>Poetry--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Rhetoric--16th century</dcterms:subject>
     <dcterms:subject>Poetics</dcterms:subject>
-    <dcterms:subject>Rhetoric</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Rhetoric--Early works to 1800</dcterms:subject>
     <dcterms:spatial>France</dcterms:spatial>
     <dcterms:spatial>Lyon</dcterms:spatial>
     <dcterms:language>frm</dcterms:language>
-    <dcterms:temporal>Middle French, 1300-1600</dcterms:temporal>
-    <dcterms:temporal>16th century</dcterms:temporal>
-    <dcterms:temporal>16th century</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:729624/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:729624</edm:isShownAt>

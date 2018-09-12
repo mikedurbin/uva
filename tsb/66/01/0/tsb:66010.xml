@@ -11,13 +11,14 @@
     <dcterms:identifier>tsb:66010</dcterms:identifier>
     <dcterms:title>Les reports de Henry Rolle .. de divers cases en le Court del' banke le roy. En le temps del' reign de roy Jacques [1614-1625].</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Rolle, Henry, 1589?-1656</dcterms:creator>
     <dcterms:created>1675/1676</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>2 v. front. (port.) 33 cm.</dcterms:extent>
     <dcterms:publisher>Printed for A. Roper, F. Titon, J. Starkey, T. Basset</dcterms:publisher>
-    <dcterms:subject>Law reports, digests, etc</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Law reports, digests, etc--Great Britain</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:66010/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:66010</edm:isShownAt>

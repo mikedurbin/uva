@@ -15,11 +15,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 sheet ([2] p.) ; 28 x 21 cm.</dcterms:extent>
     <dcterms:publisher>Association Against the Prohibition Amendment</dcterms:publisher>
-    <dcterms:subject>Prohibition</dcterms:subject>
-    <dcterms:subject>Politics and government</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Prohibition--United States</dcterms:subject>
+    <dcterms:subject>United States--Politics and government--1919-1933</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:temporal>1919-1933</dcterms:temporal>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61701/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61701</edm:isShownAt>

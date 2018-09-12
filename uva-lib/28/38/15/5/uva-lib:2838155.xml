@@ -11,15 +11,14 @@
     <dcterms:identifier>uva-lib:2838155</dcterms:identifier>
     <dcterms:title>Ceramic slide</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>Milton Bradley Company</dcterms:creator>
     <dcterms:created>1900/1975</dcterms:created>
     <dcterms:description>Slide or palette with three wells.</dcterms:description>
     <dcterms:medium>ceramic (material)</dcterms:medium>
     <dcterms:extent>1.7 x 12.8 x 4.5 cm</dcterms:extent>
     <dcterms:subject>Medical instruments or apparatus</dcterms:subject>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>medical equipment</edm:hasType>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2838155/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2838155</edm:isShownAt>

@@ -12,13 +12,15 @@
     <dcterms:title>Erasmus in praise of folly</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Erasmus, Desiderius, -1536</dcterms:creator>
+    <dcterms:creator>Kennett, White, 1660-1728</dcterms:creator>
+    <dcterms:creator>Holbein, Hans, 1497-1543</dcterms:creator>
     <dcterms:created>1876</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>xxiv, 206 p., 1 l. front. (port.) plates (part fold.) 22 cm.</dcterms:extent>
     <dcterms:publisher>Reeves &amp; Turner</dcterms:publisher>
     <dcterms:subject>Folly</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61626/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61626</edm:isShownAt>

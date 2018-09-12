@@ -14,13 +14,14 @@
     <dcterms:created>1887</dcterms:created>
     <dcterms:extent>1 map : col. ; 80 x 51 cm., on sheet 82 x 53 cm.</dcterms:extent>
     <dcterms:publisher>Florida Southern Railway Co.</dcterms:publisher>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:subject>Railroads</dcterms:subject>
-    <dcterms:subject>Steamboat lines</dcterms:subject>
-    <dcterms:subject>Florida Southern Railway Co.</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Maps</dcterms:subject>
+    <dcterms:subject>Real property--Florida--Maps</dcterms:subject>
+    <dcterms:subject>Railroads--Florida--Maps</dcterms:subject>
+    <dcterms:subject>Steamboat lines--Florida--Maps</dcterms:subject>
+    <dcterms:subject>Florida--Maps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2063355/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2063355</edm:isShownAt>

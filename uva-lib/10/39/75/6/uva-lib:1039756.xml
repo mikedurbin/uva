@@ -15,19 +15,16 @@
     <dcterms:created>191u</dcterms:created>
     <dcterms:medium>nonprojected graphic</dcterms:medium>
     <dcterms:extent>8 x 10 in.</dcterms:extent>
+    <dcterms:subject>Jefferson, Thomas, 1743-1826</dcterms:subject>
     <dcterms:subject>Soliders</dcterms:subject>
     <dcterms:subject>Statues</dcterms:subject>
     <dcterms:subject>World War I</dcterms:subject>
-    <dcterms:subject>United States. Army. Students' Army Training Corps</dcterms:subject>
-    <dcterms:subject>Jefferson, Thomas, 1743-1826</dcterms:subject>
-    <dcterms:subject>Holsinger Studio (Charlottesville, Va.)</dcterms:subject>
-    <dcterms:subject>University of Virginia</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>Holsinger Studio Collection</dcterms:isPartOf>
-    <edm:hasType>Glass negatives</edm:hasType>
+    <dcterms:medium>Glass negatives</dcterms:medium>
+    <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1039756/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1039756</edm:isShownAt>

@@ -12,17 +12,20 @@
     <dcterms:title>Map of a route from Austin-City to Paso del Norte &amp;c.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Ford, John Salmon.</dcterms:creator>
+    <dcterms:creator>Creuzbaur, Robert.</dcterms:creator>
+    <dcterms:creator>Neighbors, Robert Simpson, 1815-1859</dcterms:creator>
     <dcterms:created>1849</dcterms:created>
     <dcterms:extent>1 map ; on sheet 75 x 54 cm.</dcterms:extent>
     <dcterms:publisher>H. Long &amp; Brother]</dcterms:publisher>
-    <dcterms:subject>Roads</dcterms:subject>
-    <dcterms:subject>Trails</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Roads--Texas--Maps</dcterms:subject>
+    <dcterms:subject>Trails--Texas--Maps</dcterms:subject>
+    <dcterms:subject>Texas--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>New York (State)</dcterms:spatial>
     <dcterms:spatial>New York (City)</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003290/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003290</edm:isShownAt>

@@ -12,14 +12,23 @@
     <dcterms:title>Les provinces des Pays-Bas Catholiques ou A most exact map of Flanders or ye Austrian Netherlands &amp;c. : It comprehends all the towns, villages, abbeys, monasteries throughout all these provinces &amp;c.</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Moll, Herman, -1732</dcterms:creator>
+    <dcterms:creator>Bowles, Thomas, -1767</dcterms:creator>
+    <dcterms:creator>Bowles, John, 1701-1779</dcterms:creator>
+    <dcterms:creator>King, John.</dcterms:creator>
+    <dcterms:creator>Ormonde, James Butler, Duke of, 1665-1745</dcterms:creator>
+    <dcterms:creator>Fricx, Eugène-Henri, 1644-1730</dcterms:creator>
     <dcterms:created>1730</dcterms:created>
     <dcterms:extent>1 map : col. ; 61 x 100 cm. on sheet 64 x 106 cm.</dcterms:extent>
     <dcterms:publisher>Sold by H. Moll over against Devereux Court between Temple Bar and St. Clements Church in ye Strand. I. Bowles Print and Map seller at the Black Horse in Cornhill &amp; T. Bowles Print and mapseller next to ye Chapter house in S. Pauls Ch. yard. And John King at the Globe in the Poultry.</dcterms:publisher>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Benelux countries--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Belgium--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Luxembourg--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Netherlands--Maps--Early works to 1800</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003634/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003634</edm:isShownAt>

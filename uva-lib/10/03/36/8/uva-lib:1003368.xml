@@ -15,15 +15,15 @@
     <dcterms:created>1880/1889</dcterms:created>
     <dcterms:extent>1 map : col. ; 56 x 80 cm. on sheet 60 x 84 cm.</dcterms:extent>
     <dcterms:publisher>West Lynchburg Land Company</dcterms:publisher>
-    <dcterms:subject>Real property</dcterms:subject>
-    <dcterms:subject>Real estate development</dcterms:subject>
-    <dcterms:subject>West Lynchburg Land Company (Lynchburg, Va.)</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Real property--Virginia--Lynchburg--Maps</dcterms:subject>
+    <dcterms:subject>Real estate development--Virginia--Lynchburg--Maps</dcterms:subject>
+    <dcterms:subject>Lynchburg (Va.)--Maps</dcterms:subject>
     <dcterms:spatial>United States</dcterms:spatial>
     <dcterms:spatial>Virginia</dcterms:spatial>
     <dcterms:spatial>Lynchburg</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003368/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1003368</edm:isShownAt>

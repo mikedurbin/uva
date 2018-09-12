@@ -12,16 +12,17 @@
     <dcterms:title>Chart of the discoveries and route of His Majesty's Ships Hecla and Griper in search of a North West Passage, under the command of Lieutt. (now Captain) Parry, in the years 1819 and 1820</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Bushman, John.</dcterms:creator>
+    <dcterms:creator>Parry, William Edward, Sir, 1790-1855</dcterms:creator>
     <dcterms:created>1820</dcterms:created>
     <dcterms:extent>1 map ; 22 x 63 cm.</dcterms:extent>
     <dcterms:publisher>Published according to Act of Parliament at the Hydrographical Office Admiralty</dcterms:publisher>
-    <dcterms:subject>Hecla (Ship)/</dcterms:subject>
-    <dcterms:subject>Griper (Ship)</dcterms:subject>
-    <dcterms:type>cartographic</dcterms:type>
+    <dcterms:subject>Arctic Archipelago (Nunavut and N.W.T.)--Maps</dcterms:subject>
+    <dcterms:subject>Northwest Passage--Maps</dcterms:subject>
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>map</edm:hasType>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1004219/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1004219</edm:isShownAt>

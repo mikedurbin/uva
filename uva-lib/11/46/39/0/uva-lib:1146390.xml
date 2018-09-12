@@ -12,15 +12,17 @@
     <dcterms:title>The gipsies = Les bohémiennes : duet for soprano and mezzo soprano</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Brahms, Johannes, 1833-1897</dcterms:creator>
+    <dcterms:creator>Coursen, Charlotte H.</dcterms:creator>
+    <dcterms:creator>Viardot-García, Pauline, 1821-1910</dcterms:creator>
     <dcterms:created>1883</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 score (11 p.) : ill.</dcterms:extent>
     <dcterms:publisher>G. Schirmer</dcterms:publisher>
     <dcterms:subject>Vocal duets with piano, Arranged</dcterms:subject>
-    <dcterms:subject>Romanies</dcterms:subject>
-    <dcterms:type>notated music</dcterms:type>
+    <dcterms:subject>Romanies--Songs and music</dcterms:subject>
     <dcterms:language>fre</dcterms:language>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1146390/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1146390</edm:isShownAt>

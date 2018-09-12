@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vi, 334 p. 20 cm.</dcterms:extent>
     <dcterms:publisher>Macmillan &amp; Co.</dcterms:publisher>
-    <dcterms:subject>Pattison, Mark</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Pattison, Mark, 1813-1884</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>biography</edm:hasType>
+    <dcterms:medium>biography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65122/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65122</edm:isShownAt>

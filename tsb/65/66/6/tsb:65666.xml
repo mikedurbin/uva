@@ -16,8 +16,13 @@
     <dcterms:extent>xi, 358 p. illus. 21 cm.</dcterms:extent>
     <dcterms:publisher>C. Scribner's Sons</dcterms:publisher>
     <dcterms:subject>Mountaineering</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>Washington, Mount (N.H.)</dcterms:subject>
+    <dcterms:subject>Etna, Mount (Italy)</dcterms:subject>
+    <dcterms:subject>Ararat, Mount (Turkey)</dcterms:subject>
+    <dcterms:subject>Saint Elias, Mount (Alaska and Yukon)</dcterms:subject>
+    <dcterms:subject>Alps</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65666/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:65666</edm:isShownAt>

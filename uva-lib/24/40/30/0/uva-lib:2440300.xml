@@ -14,9 +14,9 @@
     <dcterms:created>1920/1970</dcterms:created>
     <dcterms:description>American medical 50 year lapel pin, belonging to Dr. K.W. Howard.</dcterms:description>
     <dcterms:medium>metal</dcterms:medium>
-    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
-    <edm:hasType>lapel pins</edm:hasType>
+    <dcterms:medium>lapel pins</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2440300/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2440300</edm:isShownAt>

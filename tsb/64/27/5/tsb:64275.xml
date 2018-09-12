@@ -16,10 +16,10 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>4 p. β., 371 p. diagrs. 20 cm.</dcterms:extent>
     <dcterms:publisher>D. C. Heath &amp; Company</dcterms:publisher>
-    <dcterms:subject>High schools</dcterms:subject>
-    <dcterms:type>Text</dcterms:type>
+    <dcterms:subject>High schools--United States</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
-    <edm:hasType>bibliography</edm:hasType>
+    <dcterms:medium>bibliography</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:64275/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:64275</edm:isShownAt>

@@ -12,12 +12,13 @@
     <dcterms:title>Das Dekameron</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Boccaccio, Giovanni, 1313-1375</dcterms:creator>
+    <dcterms:creator>Kraus, Kristian, 1880-</dcterms:creator>
     <dcterms:created>1912</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>612 p., [6] leaves of plates : ill. ; 20 cm.</dcterms:extent>
     <dcterms:publisher>W. Borngräber</dcterms:publisher>
-    <dcterms:type>Text</dcterms:type>
     <dcterms:language>ger</dcterms:language>
+    <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:61616/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:61616</edm:isShownAt>
