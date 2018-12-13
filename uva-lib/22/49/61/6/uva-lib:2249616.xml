@@ -20,8 +20,8 @@
     <dcterms:type>Moving Image</dcterms:type>
     <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
     <dcterms:extent>2:00</dcterms:extent>
-    <dcterms:medium>black-and-white film</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <dcterms:medium>black-and-white films (visual works)</dcterms:medium>
+    <dcterms:medium>sound films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2249616</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/6115_1/6115_1-thumbnail.jpg</edm:preview>
 </mdRecord>

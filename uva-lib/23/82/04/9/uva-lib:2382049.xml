@@ -21,8 +21,8 @@
     <dcterms:type>Moving Image</dcterms:type>
     <edm:hasType valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</edm:hasType>
     <dcterms:extent>0:55</dcterms:extent>
-    <dcterms:medium>color film (film)</dcterms:medium>
-    <dcterms:medium>sound</dcterms:medium>
+    <dcterms:medium>color films (visual works)</dcterms:medium>
+    <dcterms:medium>sound films</dcterms:medium>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:2382049</edm:isShownAt>
     <edm:preview>http://fedora01.lib.virginia.edu/wsls/3502_2/3502_2-thumbnail.jpg</edm:preview>
 </mdRecord>
