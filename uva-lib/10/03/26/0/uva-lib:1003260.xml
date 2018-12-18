@@ -40,7 +40,7 @@
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:medium>map</dcterms:medium>
-    <dcterms:medium>Maps.</dcterms:medium>
+    <dcterms:medium>Maps</dcterms:medium>
     <dcterms:type>Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1003260/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

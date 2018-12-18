@@ -29,9 +29,9 @@
     <dcterms:spatial>Netherlands</dcterms:spatial>
     <dcterms:spatial>Amsterdam</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:medium>Early works.</dcterms:medium>
-    <dcterms:medium>History.</dcterms:medium>
-    <dcterms:medium>Sources.</dcterms:medium>
+    <dcterms:medium>Early works</dcterms:medium>
+    <dcterms:medium>History</dcterms:medium>
+    <dcterms:medium>Sources</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2210902/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>

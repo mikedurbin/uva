@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:88138</dcterms:identifier>
+    <dcterms:title>A plan of the west line or parallel of latitude, w...</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Mason, Charles, 1728-1786</dcterms:creator>
+    <dcterms:creator>Dixon, Jeremiah.</dcterms:creator>
+    <dcterms:creator>Smither, James.</dcterms:creator>
+    <dcterms:creator>Kennedy, Robert, active 18th century</dcterms:creator>
+    <dcterms:created>1768</dcterms:created>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:extent>1 map (2 sheets) ; each sheet 55 x 76 cm.</dcterms:extent>
+    <dcterms:publisher>Robert Kennedy</dcterms:publisher>
+    <dcterms:subject>Maryland--Boundaries--Pennsylvania--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Maryland--Boundaries--Delaware--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Pennsylvania--Boundaries--Maryland--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Delaware--Boundaries--Maryland--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:subject>Mason-Dixon Line--Maps--Early works to 1800</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:medium>map</dcterms:medium>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:88138/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:88138</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2679297/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

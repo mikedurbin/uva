@@ -23,9 +23,9 @@
     <dcterms:spatial>England</dcterms:spatial>
     <dcterms:spatial>London</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:medium>Publishers' cloth bindings (Binding)-1878.</dcterms:medium>
-    <dcterms:medium>Pictorial cloth bindings (Binding)-1878.</dcterms:medium>
-    <dcterms:medium>Binders' tickets (Binding)-1878.</dcterms:medium>
+    <dcterms:medium>Publishers' cloth bindings (Binding)--1878</dcterms:medium>
+    <dcterms:medium>Pictorial cloth bindings (Binding)--1878</dcterms:medium>
+    <dcterms:medium>Binders' tickets (Binding)--1878</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:830147/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

@@ -71,12 +71,12 @@
     <dcterms:spatial>New York</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:medium>art reproduction</dcterms:medium>
-    <dcterms:medium>Lithographs-Hand-colored-1850-1910.</dcterms:medium>
-    <dcterms:medium>Drawings-American-1850-1910.</dcterms:medium>
-    <dcterms:medium>Lithographs-Hand-colored-1860-1870.</dcterms:medium>
-    <dcterms:medium>History.</dcterms:medium>
-    <dcterms:medium>Pictorial works.</dcterms:medium>
-    <dcterms:medium>Specimens.</dcterms:medium>
+    <dcterms:medium>Lithographs--Hand-colored--1850-1910</dcterms:medium>
+    <dcterms:medium>Drawings--American--1850-1910</dcterms:medium>
+    <dcterms:medium>Lithographs--Hand-colored--1860-1870</dcterms:medium>
+    <dcterms:medium>History</dcterms:medium>
+    <dcterms:medium>Pictorial works</dcterms:medium>
+    <dcterms:medium>Specimens</dcterms:medium>
     <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1067774/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>

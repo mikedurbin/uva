@@ -26,10 +26,10 @@
     <dcterms:spatial>Bridgwater</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:medium>biography</dcterms:medium>
-    <dcterms:medium>Autobiographies-Great Britain-18th century.</dcterms:medium>
-    <dcterms:medium>Autobiographies-Virginia-18th century.</dcterms:medium>
-    <dcterms:medium>Poems-Great Britain-18th century.</dcterms:medium>
-    <dcterms:medium>Poems-Virginia-18th century.</dcterms:medium>
+    <dcterms:medium>Autobiographies--Great Britain--18th century</dcterms:medium>
+    <dcterms:medium>Autobiographies--Virginia--18th century</dcterms:medium>
+    <dcterms:medium>Poems--Great Britain--18th century</dcterms:medium>
+    <dcterms:medium>Poems--Virginia--18th century</dcterms:medium>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:2245071/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
