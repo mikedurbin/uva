@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:103660</dcterms:identifier>
+    <dcterms:title>Uristix reagent strips</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1920/1970</dcterms:created>
+    <dcterms:description>Reagent strips to test for protein and glucose in urine.</dcterms:description>
+    <dcterms:medium>paper (fiber product)</dcterms:medium>
+    <dcterms:medium>glass (material)</dcterms:medium>
+    <dcterms:medium>cardboard</dcterms:medium>
+    <dcterms:extent>8 x 5 x 4.8 cm</dcterms:extent>
+    <dcterms:subject>Medical supplies</dcterms:subject>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103660/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103660</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2733851/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

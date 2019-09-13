@@ -12,7 +12,6 @@
     <dcterms:title>Map showing the Shenandoah Valley Railroad and its connections</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Smith, John L., 1846-1921</dcterms:creator>
-    <dcterms:created>1871</dcterms:created>
     <dcterms:extent>1 map : col. ; 73 x 114 cm on sheet 81 x 115 cm.</dcterms:extent>
     <dcterms:publisher>Published by G.W. &amp; C.B. Colton &amp; Co. 172 William St.</dcterms:publisher>
     <dcterms:subject>Maps</dcterms:subject>
@@ -21,9 +20,7 @@
     <dcterms:subject>Shenandoah River Valley (Va. and W. Va.)--Maps</dcterms:subject>
     <dcterms:subject>Virginia--Maps</dcterms:subject>
     <dcterms:subject>West Virginia--Maps</dcterms:subject>
-    <dcterms:spatial>United States</dcterms:spatial>
-    <dcterms:spatial>New York (State)</dcterms:spatial>
-    <dcterms:spatial>New York (City)</dcterms:spatial>
+    <dcterms:spatial>New York (City), New York (State), United States</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:type>Image</dcterms:type>

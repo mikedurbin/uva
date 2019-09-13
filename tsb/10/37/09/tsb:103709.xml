@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:103709</dcterms:identifier>
+    <dcterms:title>Micro-colorimeter</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1916</dcterms:created>
+    <dcterms:description>Stored in a leather case which contains: Instruction pamphlet, pocket-sized colorimeter, 5 pipettes, 1 graduated test tube, 3 hemoglobin test color solution tubes, 6 extra pipettes.</dcterms:description>
+    <dcterms:medium>rubber (material)</dcterms:medium>
+    <dcterms:medium>paper (fiber product)</dcterms:medium>
+    <dcterms:medium>glass (material)</dcterms:medium>
+    <dcterms:medium>leather</dcterms:medium>
+    <dcterms:extent>5.1 x 14 x 13.7 cm</dcterms:extent>
+    <dcterms:subject>Colorimetry</dcterms:subject>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103709/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103709</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2733900/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

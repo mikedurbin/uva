@@ -12,7 +12,6 @@
     <dcterms:title>Map of the Richmond coal field</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>DeBow, S. Herries.</dcterms:creator>
-    <dcterms:created>1858</dcterms:created>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:extent>1 map ; 36 x 42 cm. on sheet 57 x 51 cm.</dcterms:extent>
@@ -20,9 +19,7 @@
     <dcterms:subject>Coalfields--Virginia--Richmond--Maps</dcterms:subject>
     <dcterms:subject>Geological cross sections--Virginia--Richmond</dcterms:subject>
     <dcterms:subject>Richmond (Va.)--Statistics</dcterms:subject>
-    <dcterms:spatial>United States</dcterms:spatial>
-    <dcterms:spatial>Virginia</dcterms:spatial>
-    <dcterms:spatial>Richmond</dcterms:spatial>
+    <dcterms:spatial>Richmond, Virginia, United States</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:type>Image</dcterms:type>

@@ -14,15 +14,12 @@
     <dcterms:creator>Poe, Edgar Allan, 1809-1849</dcterms:creator>
     <dcterms:creator>Smith, Thomas B., active 19th century</dcterms:creator>
     <dcterms:creator>Poe, Edgar Allan, 1809-1849</dcterms:creator>
-    <dcterms:created>1845</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[6], 228, [8], 91, [9] p. ; 20 cm</dcterms:extent>
     <dcterms:publisher>Wiley and Putnam, 161 Broadway</dcterms:publisher>
     <dcterms:subject>Detective and mystery stories</dcterms:subject>
     <dcterms:subject>Horror tales, American</dcterms:subject>
-    <dcterms:spatial>United States</dcterms:spatial>
-    <dcterms:spatial>New York (State)</dcterms:spatial>
-    <dcterms:spatial>New York (City)</dcterms:spatial>
+    <dcterms:spatial>New York (City), New York (State), United States</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1825245/iiif/manifest.json</dcterms:isReferencedBy>

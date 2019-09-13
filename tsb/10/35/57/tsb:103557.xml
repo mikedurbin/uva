@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:103557</dcterms:identifier>
+    <dcterms:title>Cataract instument</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1900/1950</dcterms:created>
+    <dcterms:description>Von Graefe cataract knife in a blue cardboard box with wood supports; Owned by Dr. Porter B. Echols, SOM 1925 graduate and donated by his son.</dcterms:description>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:medium>cardboard</dcterms:medium>
+    <dcterms:medium>wood (plant material)</dcterms:medium>
+    <dcterms:extent>1.8 x 15.6 x 2 cm</dcterms:extent>
+    <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103557/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103557</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2727059/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

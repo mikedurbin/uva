@@ -19,9 +19,7 @@
     <dcterms:subject>Texas--Maps</dcterms:subject>
     <dcterms:subject>Louisiana--Maps</dcterms:subject>
     <dcterms:subject>Arkansas--Maps</dcterms:subject>
-    <dcterms:spatial>United States</dcterms:spatial>
-    <dcterms:spatial>Pennyslvania</dcterms:spatial>
-    <dcterms:spatial>Philadelphia</dcterms:spatial>
+    <dcterms:spatial>Philadelphia, Pennyslvania, United States</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:type>Image</dcterms:type>

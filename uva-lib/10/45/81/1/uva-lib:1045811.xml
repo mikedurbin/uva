@@ -18,14 +18,12 @@
     <dcterms:subject>Track and field</dcterms:subject>
     <dcterms:subject>Hurdling (Track and field)</dcterms:subject>
     <dcterms:subject>Relay racing</dcterms:subject>
-    <dcterms:spatial>United States</dcterms:spatial>
-    <dcterms:spatial>Virginia</dcterms:spatial>
-    <dcterms:spatial>Charlottesville</dcterms:spatial>
+    <dcterms:spatial>Charlottesville, Virginia, United States</dcterms:spatial>
     <dcterms:isPartOf>Holsinger Studio Collection</dcterms:isPartOf>
     <dcterms:medium>Glass negatives</dcterms:medium>
     <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1045811/iiif/manifest.json</dcterms:isReferencedBy>
-    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1045811</edm:isShownAt>
     <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1045811/full/!300,300/0/default.jpg</edm:preview>
 </mdRecord>

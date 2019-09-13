@@ -19,7 +19,6 @@
     <dcterms:creator>Goodwin, Timothy, -1720</dcterms:creator>
     <dcterms:creator>Manship, S. (Samuel)</dcterms:creator>
     <dcterms:creator>Mellon, Paul</dcterms:creator>
-    <dcterms:created>1698</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[24], 355, [33], 48, 45-178 p., [8] folded leaves of plates : ill., maps ; 20 cm. (8vo)</dcterms:extent>
     <dcterms:publisher>Printed for M. Bentley, J. Tonson, H. Bonwick, T. Goodwin, and S. Manship</dcterms:publisher>
@@ -30,9 +29,7 @@
     <dcterms:subject>Great Lakes (North America)--Discovery and exploration--Early works to 1800</dcterms:subject>
     <dcterms:subject>Québec (Québec)--History</dcterms:subject>
     <dcterms:subject>Niagara Falls (N.Y. and Ont.)--Description and travel--Early works to 1800</dcterms:subject>
-    <dcterms:spatial>Great Britain</dcterms:spatial>
-    <dcterms:spatial>England</dcterms:spatial>
-    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:spatial>London, England, Great Britain</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:60081/iiif/manifest.json</dcterms:isReferencedBy>

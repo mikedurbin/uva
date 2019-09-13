@@ -20,9 +20,7 @@
     <dcterms:subject>Roads--Texas--Maps</dcterms:subject>
     <dcterms:subject>Trails--Texas--Maps</dcterms:subject>
     <dcterms:subject>Texas--Maps</dcterms:subject>
-    <dcterms:spatial>United States</dcterms:spatial>
-    <dcterms:spatial>New York (State)</dcterms:spatial>
-    <dcterms:spatial>New York (City)</dcterms:spatial>
+    <dcterms:spatial>New York (City), New York (State), United States</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:type>Image</dcterms:type>

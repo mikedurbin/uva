@@ -12,10 +12,11 @@
     <dcterms:title>The dictionary of statistics</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Mulhall, Michael George, 1836-1900</dcterms:creator>
-    <dcterms:created>1892</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>vi, [2], 632 p. 10 col. diagr. 26 cm.</dcterms:extent>
     <dcterms:publisher>and New York, G. Routledge and sons, limited</dcterms:publisher>
+    <dcterms:subject>Holmes, George Frederick, 1820-1897</dcterms:subject>
+    <dcterms:subject>Library--Personal copy</dcterms:subject>
     <dcterms:language>eng</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65543/iiif/manifest.json</dcterms:isReferencedBy>

@@ -15,9 +15,7 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>[2] leaves ; 61 x 47 cm.</dcterms:extent>
     <dcterms:publisher>Fairmont True Virginian</dcterms:publisher>
-    <dcterms:spatial>United States</dcterms:spatial>
-    <dcterms:spatial>Virginia</dcterms:spatial>
-    <dcterms:spatial>Fairmont</dcterms:spatial>
+    <dcterms:spatial>Fairmont, Virginia, United States</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:627118/iiif/manifest.json</dcterms:isReferencedBy>

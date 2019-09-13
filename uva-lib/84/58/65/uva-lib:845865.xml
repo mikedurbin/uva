@@ -12,13 +12,10 @@
     <dcterms:title>Virginia</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Colton, J. H. (Joseph Hutchins), 1800-1893</dcterms:creator>
-    <dcterms:created>1857</dcterms:created>
     <dcterms:extent>1 map : hand col. ; 29 x 38 cm.</dcterms:extent>
     <dcterms:publisher>Published by J.H. Colton &amp; Co. No. 172 William Street</dcterms:publisher>
     <dcterms:subject>Virginia--Maps--19th century</dcterms:subject>
-    <dcterms:spatial>United States</dcterms:spatial>
-    <dcterms:spatial>New York (State)</dcterms:spatial>
-    <dcterms:spatial>New York (City)</dcterms:spatial>
+    <dcterms:spatial>New York (City), New York (State), United States</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:type>Image</dcterms:type>

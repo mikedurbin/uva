@@ -11,15 +11,12 @@
     <dcterms:identifier>uva-lib:1003352</dcterms:identifier>
     <dcterms:title>Mississippi ; Kentucky and Tennessee</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:created>1895</dcterms:created>
     <dcterms:extent>2 maps on 1 sheet : col. ; on sheet  36 x 29 cm.</dcterms:extent>
     <dcterms:publisher>Rand McNally &amp; Co.</dcterms:publisher>
     <dcterms:subject>Kentucky--Maps</dcterms:subject>
     <dcterms:subject>Tennessee--Maps</dcterms:subject>
     <dcterms:subject>Mississippi--Maps</dcterms:subject>
-    <dcterms:spatial>United States</dcterms:spatial>
-    <dcterms:spatial>Illinois</dcterms:spatial>
-    <dcterms:spatial>Chicago</dcterms:spatial>
+    <dcterms:spatial>Chicago, Illinois, United States</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:medium>map</dcterms:medium>
     <dcterms:type>Image</dcterms:type>

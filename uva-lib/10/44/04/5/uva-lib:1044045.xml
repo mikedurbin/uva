@@ -21,7 +21,7 @@
     <edm:hasType valueURI=" http://vocab.getty.edu/aat/300046300">Photographs</edm:hasType>
     <dcterms:type>Still Image</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:1044045/iiif/manifest.json</dcterms:isReferencedBy>
-    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/uva-lib:1044045</edm:isShownAt>
     <edm:preview>https://iiif.lib.virginia.edu/iiif/uva-lib:1044045/full/!300,300/0/default.jpg</edm:preview>
 </mdRecord>

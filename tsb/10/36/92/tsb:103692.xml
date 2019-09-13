@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:103692</dcterms:identifier>
+    <dcterms:title>Instrument case</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1920/1980</dcterms:created>
+    <dcterms:description>Names stamped on cover: "Ivan Fawcet, M.D., Arthur K. Hoge, M.D., M.F.C. Zubak, M.D. 75-12th St, Wheeling, W. Va."</dcterms:description>
+    <dcterms:medium>leather</dcterms:medium>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:extent>0.4 x 18.1 x 8.2 cm</dcterms:extent>
+    <dcterms:subject>Medical instruments and apparatus--Pouches (Containers)</dcterms:subject>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103692/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103692</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2733883/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

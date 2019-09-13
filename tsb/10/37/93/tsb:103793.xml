@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:103793</dcterms:identifier>
+    <dcterms:title>Hypodermic syringe</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1941</dcterms:created>
+    <dcterms:description>Black and white box is labeled: "B-D Yale Syringe, No. 20Y 20CC. Becton, Dickinson ' CO. Rutherford, N.J. MADE IN U.S.A." Inside the box are two slips of paper, one advertises new products, the other is a Certificate of Examination dated Mar 31, 1941.</dcterms:description>
+    <dcterms:medium>glass (material)</dcterms:medium>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:medium>paper (fiber product)</dcterms:medium>
+    <dcterms:extent>3.9 x 17.3 x 5.8 cm</dcterms:extent>
+    <dcterms:subject>Hypodermic syringes</dcterms:subject>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103793/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103793</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2736340/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

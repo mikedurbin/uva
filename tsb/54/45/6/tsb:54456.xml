@@ -61,9 +61,7 @@
     <dcterms:subject>Prince Edward Island--Maps--1775</dcterms:subject>
     <dcterms:subject>Southern States--Maps--1775</dcterms:subject>
     <dcterms:subject>Virginia--Maps--1775</dcterms:subject>
-    <dcterms:spatial>Great Britain</dcterms:spatial>
-    <dcterms:spatial>England</dcterms:spatial>
-    <dcterms:spatial>London</dcterms:spatial>
+    <dcterms:spatial>London, England, Great Britain</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:medium>atlas</dcterms:medium>
     <dcterms:type>Image</dcterms:type>

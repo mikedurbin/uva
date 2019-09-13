@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:103676</dcterms:identifier>
+    <dcterms:title>Urethral sounds</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1920/1930</dcterms:created>
+    <dcterms:description>9 urethral sounds of varying sizes with different markings: "A- E7 F16; A- E10 F19; A12 E9 F18; A10 E6 F15; A13; E11 F20; A- E12 F22; AM.11 ENG.9 FR.17, Lorenz; AM.14 ENG.12 FR.21, Lorenz; 9 Semric Phila."</dcterms:description>
+    <dcterms:medium>metal</dcterms:medium>
+    <dcterms:extent>3.7 x 29.5 x 2.3 cm</dcterms:extent>
+    <dcterms:subject>Surgical instruments and apparatus--Catheters</dcterms:subject>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103676/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103676</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2733867/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

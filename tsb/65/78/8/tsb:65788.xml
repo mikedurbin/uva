@@ -12,13 +12,10 @@
     <dcterms:title>Leaves of grass</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Whitman, Walt, 1819-1892</dcterms:creator>
-    <dcterms:created>1855</dcterms:created>
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>95 p. port. 29 cm.</dcterms:extent>
     <dcterms:publisher>[Printed by Rome Brothers]</dcterms:publisher>
-    <dcterms:spatial>United States</dcterms:spatial>
-    <dcterms:spatial>New York (State)</dcterms:spatial>
-    <dcterms:spatial>Brooklyn</dcterms:spatial>
+    <dcterms:spatial>Brooklyn, New York (State), United States</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:65788/iiif/manifest.json</dcterms:isReferencedBy>

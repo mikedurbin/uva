@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:103788</dcterms:identifier>
+    <dcterms:title>Chatelaine case and instruments</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1900/1965</dcterms:created>
+    <dcterms:description>Nurse's chatelaine case. Belonged to Anna Thompson Stoudt and was designed for 11 instruments; includes: bandage scissors, hemostatic forceps, probe pointed director, clinical thermometer, female catheter, baby scale, and needle. The case belonged to Anna Thompson Stoudt, RN, who worked as a pediatric nurse at the Toronto Sick Children's Hospital and a hospital in Reading, PA.</dcterms:description>
+    <dcterms:medium>stainless steel</dcterms:medium>
+    <dcterms:medium>leather</dcterms:medium>
+    <dcterms:extent>4 x 19.5 x 9.5 cm</dcterms:extent>
+    <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103788/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103788</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2736335/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

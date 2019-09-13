@@ -15,9 +15,7 @@
     <dcterms:medium>print</dcterms:medium>
     <dcterms:extent>1 folded sheet ([2] p.) ; 23 x 29 cm. fold. to 23 x 15 cm.</dcterms:extent>
     <dcterms:publisher>Richmond Theater</dcterms:publisher>
-    <dcterms:spatial>United States</dcterms:spatial>
-    <dcterms:spatial>Virginia</dcterms:spatial>
-    <dcterms:spatial>Richmond</dcterms:spatial>
+    <dcterms:spatial>Richmond, Virginia, United States</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:18748/iiif/manifest.json</dcterms:isReferencedBy>

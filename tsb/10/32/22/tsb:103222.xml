@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:103222</dcterms:identifier>
+    <dcterms:title>Christmas carol : the visit of Saint Nicholas</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:creator>Moore, Clement Clarke, 1779-1863</dcterms:creator>
+    <dcterms:creator>Wolff, John M.</dcterms:creator>
+    <dcterms:created>1842</dcterms:created>
+    <dcterms:medium>print</dcterms:medium>
+    <dcterms:extent>1 sheet ([1] leaf) ; text block 38.3 x 22.5 cm on sheet 43.2 x 25.2 cm.</dcterms:extent>
+    <dcterms:publisher>Issued by John M. Wolff, Stationer</dcterms:publisher>
+    <dcterms:subject>Santa Claus</dcterms:subject>
+    <dcterms:subject>Juvenile poetry</dcterms:subject>
+    <dcterms:subject>Christmas poetry</dcterms:subject>
+    <dcterms:subject>Children's poetry, American</dcterms:subject>
+    <dcterms:subject>Christmas cards--Specimens</dcterms:subject>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:medium>Broadside poems--Pennsylvania--19th century</dcterms:medium>
+    <dcterms:medium>Broadsides--Pennsylvania--19th century</dcterms:medium>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103222/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103222</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2726436/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>

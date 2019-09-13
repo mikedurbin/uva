@@ -24,9 +24,7 @@
     <dcterms:subject>United States--History--Civil War, 1861-1865--Pictorial works</dcterms:subject>
     <dcterms:subject>West Virginia--History--Civil War, 1861-1865--Pictorial works</dcterms:subject>
     <dcterms:subject>West Virginia--Description and travel--Pictorial works</dcterms:subject>
-    <dcterms:spatial>United States</dcterms:spatial>
-    <dcterms:spatial>Ohio</dcterms:spatial>
-    <dcterms:spatial>Cincinnati</dcterms:spatial>
+    <dcterms:spatial>Cincinnati, Ohio, United States</dcterms:spatial>
     <dcterms:language>eng</dcterms:language>
     <dcterms:type>Text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/uva-lib:829435/iiif/manifest.json</dcterms:isReferencedBy>

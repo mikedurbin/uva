@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://dplava.lib.virginia.edu/dplava.xsd"
+    type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+    <dcterms:identifier>tsb:103636</dcterms:identifier>
+    <dcterms:title>Bottles and vials</dcterms:title>
+    <dcterms:provenance>University of Virginia Library</dcterms:provenance>
+    <dcterms:created>1970/1984</dcterms:created>
+    <dcterms:description>Empty bottles of various prescriptions. One was filled at Clark &amp; Palin Drugs in Bristol, TN. The prescribing doctor was Fred Vance, MD, a 1945 graduate of the UVA School of Medicine who practiced in Bristol.</dcterms:description>
+    <dcterms:medium>glass (material)</dcterms:medium>
+    <dcterms:medium>paper (fiber product)</dcterms:medium>
+    <dcterms:extent>2.3 x 5.4 x 2.3 cm</dcterms:extent>
+    <dcterms:subject>Medical supplies</dcterms:subject>
+    <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <dcterms:medium>bottles</dcterms:medium>
+    <dcterms:medium>vials</dcterms:medium>
+    <dcterms:type>Physical Object</dcterms:type>
+    <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:103636/iiif/manifest.json</dcterms:isReferencedBy>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-NC/1.0/</dcterms:rights>
+    <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:103636</edm:isShownAt>
+    <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:2733524/full/!300,300/0/default.jpg</edm:preview>
+</mdRecord>
