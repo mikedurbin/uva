@@ -9,6 +9,7 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
     <dcterms:identifier>tsb:103222</dcterms:identifier>
+    <!-- comment to trigger revalidation -->
     <dcterms:title>Christmas carol : the visit of Saint Nicholas</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
     <dcterms:creator>Moore, Clement Clarke, 1779-1863</dcterms:creator>
